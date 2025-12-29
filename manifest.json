@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "commitHash": "e2ae29dd5f2afa773dc2fefb2c7f6d5efd09068c",
-  "generatedAt": "2025-12-29T13:36:53.337123Z",
-  "totalPaints": 3695,
+  "commitHash": "860e79b8edb012deb449d2bde658ccf15da30fa5",
+  "generatedAt": "2025-12-29T14:29:04.332053Z",
+  "totalPaints": 4105,
   "files": [
     {
       "brand": "AK Interactive",
@@ -101,6 +101,27 @@
       "path": "monument-hobbies/pro-acryl.json",
       "hash": "sha256:8e137527a095f1dc8e846bbb45d260e3d43d1d094b0f1dc0dd0061ebeb7a641c",
       "paintCount": 179
+    },
+    {
+      "brand": "Reaper",
+      "range": "Master Series Bones",
+      "path": "reaper/reaper_master_series_bones.json",
+      "hash": "sha256:c13cd7bdd667d5bdd85806198031b55d639984b982a0014ad71a0a5c4f9633bb",
+      "paintCount": 108
+    },
+    {
+      "brand": "Reaper",
+      "range": "Master Series Core",
+      "path": "reaper/reaper_master_series_core.json",
+      "hash": "sha256:b9b626c0860a67345e757f23218d8c9afc4ab93d97b9f85c7029012497ecba3f",
+      "paintCount": 246
+    },
+    {
+      "brand": "Reaper",
+      "range": "Master Series Pathfinder",
+      "path": "reaper/reaper_master_series_pathfinder.json",
+      "hash": "sha256:7d4d147f835b4772f2f2990654f422394a11cc99f039f7af21b614dbc6ad29eb",
+      "paintCount": 56
     },
     {
       "brand": "Scale75",

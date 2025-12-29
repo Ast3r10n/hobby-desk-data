@@ -1,0 +1,2783 @@
+[
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#58262E",
+    "id": "reaper-09401",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dragon Red",
+    "range": "Master Series Bones",
+    "sku": "09401",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09401"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09402",
+        "colors": [
+          "reaper-09402",
+          "reaper-09403",
+          "reaper-09404"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#872F31",
+    "id": "reaper-09402",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Heraldic Red",
+    "range": "Master Series Bones",
+    "sku": "09402",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09402"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09402",
+        "colors": [
+          "reaper-09402",
+          "reaper-09403",
+          "reaper-09404"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CF888B",
+    "id": "reaper-09403",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Monster Maw",
+    "range": "Master Series Bones",
+    "sku": "09403",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09403"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09402",
+        "colors": [
+          "reaper-09402",
+          "reaper-09403",
+          "reaper-09404"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8E3A29",
+    "id": "reaper-09404",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cinnamon Red",
+    "range": "Master Series Bones",
+    "sku": "09404",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09404"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09405",
+        "colors": [
+          "reaper-09405",
+          "reaper-09406",
+          "reaper-09407"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A3432B",
+    "id": "reaper-09405",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Volcanic Orange",
+    "range": "Master Series Bones",
+    "sku": "09405",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09405"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09405",
+        "colors": [
+          "reaper-09405",
+          "reaper-09406",
+          "reaper-09407"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C96F39",
+    "id": "reaper-09406",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sunrise Orange",
+    "range": "Master Series Bones",
+    "sku": "09406",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09406"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09405",
+        "colors": [
+          "reaper-09405",
+          "reaper-09406",
+          "reaper-09407"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D79F3F",
+    "id": "reaper-09407",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lantern Yellow",
+    "range": "Master Series Bones",
+    "sku": "09407",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09407"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09408",
+        "colors": [
+          "reaper-09408",
+          "reaper-09409",
+          "reaper-09410"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B29836",
+    "id": "reaper-09408",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Candlelight Yellow",
+    "range": "Master Series Bones",
+    "sku": "09408",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09408"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09408",
+        "colors": [
+          "reaper-09408",
+          "reaper-09409",
+          "reaper-09410"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D9C92F",
+    "id": "reaper-09409",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Canary Yellow",
+    "range": "Master Series Bones",
+    "sku": "09409",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09409"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09408",
+        "colors": [
+          "reaper-09408",
+          "reaper-09409",
+          "reaper-09410"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#143F27",
+    "id": "reaper-09410",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dragon Green",
+    "range": "Master Series Bones",
+    "sku": "09410",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09410"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09411",
+        "colors": [
+          "reaper-09411",
+          "reaper-09412",
+          "reaper-09413"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#243C18",
+    "id": "reaper-09411",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wilderness Green",
+    "range": "Master Series Bones",
+    "sku": "09411",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09411"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09411",
+        "colors": [
+          "reaper-09411",
+          "reaper-09412",
+          "reaper-09413"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#182F1B",
+    "id": "reaper-09412",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ancient Oak",
+    "range": "Master Series Bones",
+    "sku": "09412",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09412"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09411",
+        "colors": [
+          "reaper-09411",
+          "reaper-09412",
+          "reaper-09413"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#497E3F",
+    "id": "reaper-09413",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Naga Green",
+    "range": "Master Series Bones",
+    "sku": "09413",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09413"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09414",
+        "colors": [
+          "reaper-09414",
+          "reaper-09415",
+          "reaper-09416"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#5A8747",
+    "id": "reaper-09414",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cats-Eye Green",
+    "range": "Master Series Bones",
+    "sku": "09414",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09414"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09414",
+        "colors": [
+          "reaper-09414",
+          "reaper-09415",
+          "reaper-09416"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B3CA7E",
+    "id": "reaper-09415",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dungeon Slime",
+    "range": "Master Series Bones",
+    "sku": "09415",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09415"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09414",
+        "colors": [
+          "reaper-09414",
+          "reaper-09415",
+          "reaper-09416"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#66B1A9",
+    "id": "reaper-09416",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spectral Glow",
+    "range": "Master Series Bones",
+    "sku": "09416",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09416"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09417",
+        "colors": [
+          "reaper-09417",
+          "reaper-09418",
+          "reaper-09419"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#1A2D55",
+    "id": "reaper-09417",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Void Blue",
+    "range": "Master Series Bones",
+    "sku": "09417",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09417"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09417",
+        "colors": [
+          "reaper-09417",
+          "reaper-09418",
+          "reaper-09419"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#145583",
+    "id": "reaper-09418",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oceanic Blue",
+    "range": "Master Series Bones",
+    "sku": "09418",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09418"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09417",
+        "colors": [
+          "reaper-09417",
+          "reaper-09418",
+          "reaper-09419"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#196E90",
+    "id": "reaper-09419",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tropical Blue",
+    "range": "Master Series Bones",
+    "sku": "09419",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09419"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09420",
+        "colors": [
+          "reaper-09420",
+          "reaper-09421",
+          "reaper-09422"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6393A7",
+    "id": "reaper-09420",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Glacier Blue",
+    "range": "Master Series Bones",
+    "sku": "09420",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09420"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09420",
+        "colors": [
+          "reaper-09420",
+          "reaper-09421",
+          "reaper-09422"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8DB1C1",
+    "id": "reaper-09421",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Frost Blue",
+    "range": "Master Series Bones",
+    "sku": "09421",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09421"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09420",
+        "colors": [
+          "reaper-09420",
+          "reaper-09421",
+          "reaper-09422"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#4B4861",
+    "id": "reaper-09422",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nightsky Indigo",
+    "range": "Master Series Bones",
+    "sku": "09422",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09422"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09423",
+        "colors": [
+          "reaper-09423",
+          "reaper-09424",
+          "reaper-09425"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#382644",
+    "id": "reaper-09423",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Styx Purple",
+    "range": "Master Series Bones",
+    "sku": "09423",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09423"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09423",
+        "colors": [
+          "reaper-09423",
+          "reaper-09424",
+          "reaper-09425"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6B4164",
+    "id": "reaper-09424",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Runic Purple",
+    "range": "Master Series Bones",
+    "sku": "09424",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09424"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09423",
+        "colors": [
+          "reaper-09423",
+          "reaper-09424",
+          "reaper-09425"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#847F9F",
+    "id": "reaper-09425",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Icy Violet",
+    "range": "Master Series Bones",
+    "sku": "09425",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09425"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09426",
+        "colors": [
+          "reaper-09426",
+          "reaper-09427",
+          "reaper-09428"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#372B22",
+    "id": "reaper-09426",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Charred Brown",
+    "range": "Master Series Bones",
+    "sku": "09426",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09426"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09426",
+        "colors": [
+          "reaper-09426",
+          "reaper-09427",
+          "reaper-09428"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#56453B",
+    "id": "reaper-09427",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nut Brown",
+    "range": "Master Series Bones",
+    "sku": "09427",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09427"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09426",
+        "colors": [
+          "reaper-09426",
+          "reaper-09427",
+          "reaper-09428"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#5F4B3D",
+    "id": "reaper-09428",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Saddle Brown",
+    "range": "Master Series Bones",
+    "sku": "09428",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09428"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09429",
+        "colors": [
+          "reaper-09429",
+          "reaper-09430",
+          "reaper-09431"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#695841",
+    "id": "reaper-09429",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rich Leather",
+    "range": "Master Series Bones",
+    "sku": "09429",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09429"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09429",
+        "colors": [
+          "reaper-09429",
+          "reaper-09430",
+          "reaper-09431"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#82623F",
+    "id": "reaper-09430",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Polished Leather",
+    "range": "Master Series Bones",
+    "sku": "09430",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09430"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09429",
+        "colors": [
+          "reaper-09429",
+          "reaper-09430",
+          "reaper-09431"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#9E8969",
+    "id": "reaper-09431",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Stone",
+    "range": "Master Series Bones",
+    "sku": "09431",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09431"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09432",
+        "colors": [
+          "reaper-09432",
+          "reaper-09433",
+          "reaper-09434"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BDB09D",
+    "id": "reaper-09432",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Sand",
+    "range": "Master Series Bones",
+    "sku": "09432",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09432"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09432",
+        "colors": [
+          "reaper-09432",
+          "reaper-09433",
+          "reaper-09434"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#4D4740",
+    "id": "reaper-09433",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mountain Stone",
+    "range": "Master Series Bones",
+    "sku": "09433",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09433"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09432",
+        "colors": [
+          "reaper-09432",
+          "reaper-09433",
+          "reaper-09434"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#757069",
+    "id": "reaper-09434",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wolf Grey",
+    "range": "Master Series Bones",
+    "sku": "09434",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09434"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09435",
+        "colors": [
+          "reaper-09435",
+          "reaper-09436",
+          "reaper-09437"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#9F9B92",
+    "id": "reaper-09435",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skeleton Bone",
+    "range": "Master Series Bones",
+    "sku": "09435",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09435"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09435",
+        "colors": [
+          "reaper-09435",
+          "reaper-09436",
+          "reaper-09437"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#F0E8D8",
+    "id": "reaper-09436",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bleached Linen",
+    "range": "Master Series Bones",
+    "sku": "09436",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09436"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09435",
+        "colors": [
+          "reaper-09435",
+          "reaper-09436",
+          "reaper-09437"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#1C1818",
+    "id": "reaper-09437",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dragon Black",
+    "range": "Master Series Bones",
+    "sku": "09437",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09437"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09438",
+        "colors": [
+          "reaper-09438",
+          "reaper-09439",
+          "reaper-09440"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#4A4B4F",
+    "id": "reaper-09438",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tempest Grey",
+    "range": "Master Series Bones",
+    "sku": "09438",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09438"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09438",
+        "colors": [
+          "reaper-09438",
+          "reaper-09439",
+          "reaper-09440"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B4B4B4",
+    "id": "reaper-09439",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dragon White",
+    "range": "Master Series Bones",
+    "sku": "09439",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09439"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09438",
+        "colors": [
+          "reaper-09438",
+          "reaper-09439",
+          "reaper-09440"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#211D17",
+    "id": "reaper-09440",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ebony Flesh",
+    "range": "Master Series Bones",
+    "sku": "09440",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09440"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09441",
+        "colors": [
+          "reaper-09441",
+          "reaper-09442",
+          "reaper-09443"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#7A4E29",
+    "id": "reaper-09441",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ruddy Flesh",
+    "range": "Master Series Bones",
+    "sku": "09441",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09441"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09441",
+        "colors": [
+          "reaper-09441",
+          "reaper-09442",
+          "reaper-09443"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A86940",
+    "id": "reaper-09442",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Swarthy Flesh",
+    "range": "Master Series Bones",
+    "sku": "09442",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09442"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09441",
+        "colors": [
+          "reaper-09441",
+          "reaper-09442",
+          "reaper-09443"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AA744F",
+    "id": "reaper-09443",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronzed Flesh",
+    "range": "Master Series Bones",
+    "sku": "09443",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09443"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09444",
+        "colors": [
+          "reaper-09444",
+          "reaper-09445",
+          "reaper-09446"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#E4B794",
+    "id": "reaper-09444",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tawny Flesh",
+    "range": "Master Series Bones",
+    "sku": "09444",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09444"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09444",
+        "colors": [
+          "reaper-09444",
+          "reaper-09445",
+          "reaper-09446"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FBBC87",
+    "id": "reaper-09445",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Peachy Flesh",
+    "range": "Master Series Bones",
+    "sku": "09445",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09445"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09444",
+        "colors": [
+          "reaper-09444",
+          "reaper-09445",
+          "reaper-09446"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FDD1B8",
+    "id": "reaper-09446",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Flesh",
+    "range": "Master Series Bones",
+    "sku": "09446",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09446"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09447",
+        "colors": [
+          "reaper-09447",
+          "reaper-09448",
+          "reaper-09449"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#DEDCD0",
+    "id": "reaper-09447",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Undead Flesh",
+    "range": "Master Series Bones",
+    "sku": "09447",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09447"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09447",
+        "colors": [
+          "reaper-09447",
+          "reaper-09448",
+          "reaper-09449"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AF8372",
+    "id": "reaper-09448",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dragon Copper",
+    "range": "Master Series Bones",
+    "sku": "09448",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09448"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09447",
+        "colors": [
+          "reaper-09447",
+          "reaper-09448",
+          "reaper-09449"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#9B8E6A",
+    "id": "reaper-09449",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dragon Bronze",
+    "range": "Master Series Bones",
+    "sku": "09449",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09449"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09450",
+        "colors": [
+          "reaper-09450",
+          "reaper-09451",
+          "reaper-09452"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B79560",
+    "id": "reaper-09450",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dragon Gold",
+    "range": "Master Series Bones",
+    "sku": "09450",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09450"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09450",
+        "colors": [
+          "reaper-09450",
+          "reaper-09451",
+          "reaper-09452"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AF7B42",
+    "id": "reaper-09451",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dwarven Gold",
+    "range": "Master Series Bones",
+    "sku": "09451",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09451"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09450",
+        "colors": [
+          "reaper-09450",
+          "reaper-09451",
+          "reaper-09452"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6C6967",
+    "id": "reaper-09452",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blade Steel",
+    "range": "Master Series Bones",
+    "sku": "09452",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09452"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09453",
+        "colors": [
+          "reaper-09453",
+          "reaper-09454",
+          "reaper-09455"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#848180",
+    "id": "reaper-09453",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Filigree Silver",
+    "range": "Master Series Bones",
+    "sku": "09453",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09453"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09453",
+        "colors": [
+          "reaper-09453",
+          "reaper-09454",
+          "reaper-09455"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B5B3B2",
+    "id": "reaper-09454",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shining Mithril",
+    "range": "Master Series Bones",
+    "sku": "09454",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09454"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09453",
+        "colors": [
+          "reaper-09453",
+          "reaper-09454",
+          "reaper-09455"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#65631F",
+    "id": "reaper-09455",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Troll Hide",
+    "range": "Master Series Bones",
+    "sku": "09455",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09455"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09456",
+        "colors": [
+          "reaper-09456",
+          "reaper-09457",
+          "reaper-09458"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#9A9986",
+    "id": "reaper-09456",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orc Skin",
+    "range": "Master Series Bones",
+    "sku": "09456",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09456"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09456",
+        "colors": [
+          "reaper-09456",
+          "reaper-09457",
+          "reaper-09458"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BA714A",
+    "id": "reaper-09457",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Goblin Skin",
+    "range": "Master Series Bones",
+    "sku": "09457",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09457"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09456",
+        "colors": [
+          "reaper-09456",
+          "reaper-09457",
+          "reaper-09458"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C4536",
+    "id": "reaper-09458",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kobold Scale",
+    "range": "Master Series Bones",
+    "sku": "09458",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09458"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09459",
+        "colors": [
+          "reaper-09459",
+          "reaper-09460",
+          "reaper-09461"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#EFB846",
+    "id": "reaper-09459",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ogre Skin",
+    "range": "Master Series Bones",
+    "sku": "09459",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09459"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09459",
+        "colors": [
+          "reaper-09459",
+          "reaper-09460",
+          "reaper-09461"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A29951",
+    "id": "reaper-09460",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gnoll Pelt",
+    "range": "Master Series Bones",
+    "sku": "09460",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09460"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09459",
+        "colors": [
+          "reaper-09459",
+          "reaper-09460",
+          "reaper-09461"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#878788",
+    "id": "reaper-09461",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vampiric Mist",
+    "range": "Master Series Bones",
+    "sku": "09461",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09461"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09462",
+        "colors": [
+          "reaper-09462",
+          "reaper-09463",
+          "reaper-09464"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#861B3B",
+    "id": "reaper-09462",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Succubus Kiss",
+    "range": "Master Series Bones",
+    "sku": "09462",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09462"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09462",
+        "colors": [
+          "reaper-09462",
+          "reaper-09463",
+          "reaper-09464"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A34BA1",
+    "id": "reaper-09463",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Eldritch Purple",
+    "range": "Master Series Bones",
+    "sku": "09463",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09463"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09462",
+        "colors": [
+          "reaper-09462",
+          "reaper-09463",
+          "reaper-09464"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8E6239",
+    "id": "reaper-09464",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cursed Gold",
+    "range": "Master Series Bones",
+    "sku": "09464",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09464"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09465",
+        "colors": [
+          "reaper-09465",
+          "reaper-09466",
+          "reaper-09467"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#626764",
+    "id": "reaper-09465",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skeleton Key",
+    "range": "Master Series Bones",
+    "sku": "09465",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09465"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09465",
+        "colors": [
+          "reaper-09465",
+          "reaper-09466",
+          "reaper-09467"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6D625D",
+    "id": "reaper-09466",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dungeon Grey",
+    "range": "Master Series Bones",
+    "sku": "09466",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09466"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09465",
+        "colors": [
+          "reaper-09465",
+          "reaper-09466",
+          "reaper-09467"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E3131",
+    "id": "reaper-09467",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crimson Red",
+    "range": "Master Series Bones",
+    "sku": "09467",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09467"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09468",
+        "colors": [
+          "reaper-09468",
+          "reaper-09469",
+          "reaper-09470"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#E35960",
+    "id": "reaper-09468",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brilliant Red",
+    "range": "Master Series Bones",
+    "sku": "09468",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09468"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09468",
+        "colors": [
+          "reaper-09468",
+          "reaper-09469",
+          "reaper-09470"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#EB8242",
+    "id": "reaper-09469",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fireball Orange",
+    "range": "Master Series Bones",
+    "sku": "09469",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09469"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09468",
+        "colors": [
+          "reaper-09468",
+          "reaper-09469",
+          "reaper-09470"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CC981E",
+    "id": "reaper-09470",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golden Yellow",
+    "range": "Master Series Bones",
+    "sku": "09470",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09470"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09471",
+        "colors": [
+          "reaper-09471",
+          "reaper-09472",
+          "reaper-09473"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#287172",
+    "id": "reaper-09471",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Turquoise",
+    "range": "Master Series Bones",
+    "sku": "09471",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09471"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09471",
+        "colors": [
+          "reaper-09471",
+          "reaper-09472",
+          "reaper-09473"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#2A7FBD",
+    "id": "reaper-09472",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dragon Blue",
+    "range": "Master Series Bones",
+    "sku": "09472",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09472"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09471",
+        "colors": [
+          "reaper-09471",
+          "reaper-09472",
+          "reaper-09473"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#654C83",
+    "id": "reaper-09473",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gem Purple",
+    "range": "Master Series Bones",
+    "sku": "09473",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09473"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09474",
+        "colors": [
+          "reaper-09474",
+          "reaper-09475",
+          "reaper-09476"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#987552",
+    "id": "reaper-09474",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Caucasian Flesh",
+    "range": "Master Series Bones",
+    "sku": "09474",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09474"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09474",
+        "colors": [
+          "reaper-09474",
+          "reaper-09475",
+          "reaper-09476"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#877C70",
+    "id": "reaper-09475",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Maiden Flesh",
+    "range": "Master Series Bones",
+    "sku": "09475",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09475"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09474",
+        "colors": [
+          "reaper-09474",
+          "reaper-09475",
+          "reaper-09476"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AA814F",
+    "id": "reaper-09476",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Woodland Brown",
+    "range": "Master Series Bones",
+    "sku": "09476",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09476"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09477",
+        "colors": [
+          "reaper-09477",
+          "reaper-09478",
+          "reaper-09479"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#9C6B90",
+    "id": "reaper-09477",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Witchcraft Purple",
+    "range": "Master Series Bones",
+    "sku": "09477",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09477"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09477",
+        "colors": [
+          "reaper-09477",
+          "reaper-09478",
+          "reaper-09479"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B1B1B1",
+    "id": "reaper-09478",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Solid White",
+    "range": "Master Series Bones",
+    "sku": "09478",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09478"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09477",
+        "colors": [
+          "reaper-09477",
+          "reaper-09478",
+          "reaper-09479"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#4A4A4A",
+    "id": "reaper-09479",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Solid Black",
+    "range": "Master Series Bones",
+    "sku": "09479",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09479"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09480",
+        "colors": [
+          "reaper-09480",
+          "reaper-09481",
+          "reaper-09482"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#93A5AF",
+    "id": "reaper-09480",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Flame",
+    "range": "Master Series Bones",
+    "sku": "09480",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09480"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09480",
+        "colors": [
+          "reaper-09480",
+          "reaper-09481",
+          "reaper-09482"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#4A915C",
+    "id": "reaper-09481",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turf Green",
+    "range": "Master Series Bones",
+    "sku": "09481",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09481"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09480",
+        "colors": [
+          "reaper-09480",
+          "reaper-09481",
+          "reaper-09482"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B5793F",
+    "id": "reaper-09482",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Suntan Flesh",
+    "range": "Master Series Bones",
+    "sku": "09482",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09482"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09483",
+        "colors": [
+          "reaper-09483",
+          "reaper-09484",
+          "reaper-09485"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#424F77",
+    "id": "reaper-09483",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Twilight Purple",
+    "range": "Master Series Bones",
+    "sku": "09483",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09483"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09483",
+        "colors": [
+          "reaper-09483",
+          "reaper-09484",
+          "reaper-09485"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BEA52B",
+    "id": "reaper-09484",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Saffron",
+    "range": "Master Series Bones",
+    "sku": "09484",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09484"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09483",
+        "colors": [
+          "reaper-09483",
+          "reaper-09484",
+          "reaper-09485"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#789B4D",
+    "id": "reaper-09485",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Meadow Green",
+    "range": "Master Series Bones",
+    "sku": "09485",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09485"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09486",
+        "colors": [
+          "reaper-09486",
+          "reaper-09487",
+          "reaper-09488"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#F1A1C5",
+    "id": "reaper-09486",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tendril Pink",
+    "range": "Master Series Bones",
+    "sku": "09486",
+    "type": "ink",
+    "url": "https://www.reapermini.com/search/09486"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09486",
+        "colors": [
+          "reaper-09486",
+          "reaper-09487",
+          "reaper-09488"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#9C9A7D",
+    "id": "reaper-09487",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Mold",
+    "range": "Master Series Bones",
+    "sku": "09487",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09487"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09486",
+        "colors": [
+          "reaper-09486",
+          "reaper-09487",
+          "reaper-09488"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#41574C",
+    "id": "reaper-09488",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elven Green",
+    "range": "Master Series Bones",
+    "sku": "09488",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09488"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09489",
+        "colors": [
+          "reaper-09489",
+          "reaper-09490",
+          "reaper-09491"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#54B9B1",
+    "id": "reaper-09489",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Siren's Song",
+    "range": "Master Series Bones",
+    "sku": "09489",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09489"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09489",
+        "colors": [
+          "reaper-09489",
+          "reaper-09490",
+          "reaper-09491"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D9AC6B",
+    "id": "reaper-09490",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bugbear Fur",
+    "range": "Master Series Bones",
+    "sku": "09490",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09490"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09489",
+        "colors": [
+          "reaper-09489",
+          "reaper-09490",
+          "reaper-09491"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#81554E",
+    "id": "reaper-09491",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Minotaur Hide",
+    "range": "Master Series Bones",
+    "sku": "09491",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09491"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09492",
+        "colors": [
+          "reaper-09492",
+          "reaper-09493",
+          "reaper-09494"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#76453F",
+    "id": "reaper-09492",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wyvern Leather",
+    "range": "Master Series Bones",
+    "sku": "09492",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09492"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09492",
+        "colors": [
+          "reaper-09492",
+          "reaper-09493",
+          "reaper-09494"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A6B7BF",
+    "id": "reaper-09493",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gargoyle Grey",
+    "range": "Master Series Bones",
+    "sku": "09493",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09493"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09492",
+        "colors": [
+          "reaper-09492",
+          "reaper-09493",
+          "reaper-09494"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D79E8E",
+    "id": "reaper-09494",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gnome Flesh",
+    "range": "Master Series Bones",
+    "sku": "09494",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09494"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09495",
+        "colors": [
+          "reaper-09495",
+          "reaper-09496",
+          "reaper-09497"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B2A1BB",
+    "id": "reaper-09495",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Drow Silver",
+    "range": "Master Series Bones",
+    "sku": "09495",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09495"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09495",
+        "colors": [
+          "reaper-09495",
+          "reaper-09496",
+          "reaper-09497"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A89F4D",
+    "id": "reaper-09496",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Reliquary Gold",
+    "range": "Master Series Bones",
+    "sku": "09496",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09496"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09495",
+        "colors": [
+          "reaper-09495",
+          "reaper-09496",
+          "reaper-09497"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#648181",
+    "id": "reaper-09497",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mermaid Scale",
+    "range": "Master Series Bones",
+    "sku": "09497",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09497"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09498",
+        "colors": [
+          "reaper-09498",
+          "reaper-09499",
+          "reaper-09500"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AE8186",
+    "id": "reaper-09498",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Doxy Blush",
+    "range": "Master Series Bones",
+    "sku": "09498",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09498"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09498",
+        "colors": [
+          "reaper-09498",
+          "reaper-09499",
+          "reaper-09500"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#ADA18E",
+    "id": "reaper-09499",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Treasure Map",
+    "range": "Master Series Bones",
+    "sku": "09499",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09499"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09498",
+        "colors": [
+          "reaper-09498",
+          "reaper-09499",
+          "reaper-09500"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#878580",
+    "id": "reaper-09500",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brinewind Brown",
+    "range": "Master Series Bones",
+    "sku": "09500",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09500"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09501",
+        "colors": [
+          "reaper-09501",
+          "reaper-09502",
+          "reaper-09503"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#7A7672",
+    "id": "reaper-09501",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pieces Of Eight",
+    "range": "Master Series Bones",
+    "sku": "09501",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09501"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09501",
+        "colors": [
+          "reaper-09501",
+          "reaper-09502",
+          "reaper-09503"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6D6D79",
+    "id": "reaper-09502",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stormchaser Blue",
+    "range": "Master Series Bones",
+    "sku": "09502",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09502"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09501",
+        "colors": [
+          "reaper-09501",
+          "reaper-09502",
+          "reaper-09503"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B5BC87",
+    "id": "reaper-09503",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ghostfire",
+    "range": "Master Series Bones",
+    "sku": "09503",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09503"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09504",
+        "colors": [
+          "reaper-09504",
+          "reaper-09505",
+          "reaper-09506"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#9A9996",
+    "id": "reaper-09504",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skull And Crossbones",
+    "range": "Master Series Bones",
+    "sku": "09504",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09504"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09504",
+        "colors": [
+          "reaper-09504",
+          "reaper-09505",
+          "reaper-09506"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#7C5A5A",
+    "id": "reaper-09505",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chum Red",
+    "range": "Master Series Bones",
+    "sku": "09505",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09505"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09504",
+        "colors": [
+          "reaper-09504",
+          "reaper-09505",
+          "reaper-09506"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#74868A",
+    "id": "reaper-09506",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sharkbite",
+    "range": "Master Series Bones",
+    "sku": "09506",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09506"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#676168",
+    "id": "reaper-09507",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kraken Ink",
+    "range": "Master Series Bones",
+    "sku": "09507",
+    "type": "ink",
+    "url": "https://www.reapermini.com/search/09507"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#495046",
+    "id": "reaper-09508",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Squog Green",
+    "range": "Master Series Bones",
+    "sku": "09508",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09508"
+  }
+]

@@ -1,0 +1,1440 @@
+[
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9F726F",
+    "id": "reaper-89501",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shelyn Blush",
+    "range": "Master Series Pathfinder",
+    "sku": "89501",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89501"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89502",
+        "colors": [
+          "reaper-89502",
+          "reaper-89503",
+          "reaper-89504"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8E6A79",
+    "id": "reaper-89502",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Milani Rose",
+    "range": "Master Series Pathfinder",
+    "sku": "89502",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89502"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89502",
+        "colors": [
+          "reaper-89502",
+          "reaper-89503",
+          "reaper-89504"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8E7376",
+    "id": "reaper-89503",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sinspawn Pink",
+    "range": "Master Series Pathfinder",
+    "sku": "89503",
+    "type": "ink",
+    "url": "https://www.reapermini.com/search/89503"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89502",
+        "colors": [
+          "reaper-89502",
+          "reaper-89503",
+          "reaper-89504"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#EB545E",
+    "id": "reaper-89504",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Seoni Scarlet",
+    "range": "Master Series Pathfinder",
+    "sku": "89504",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89504"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89505",
+        "colors": [
+          "reaper-89505",
+          "reaper-89506",
+          "reaper-89507"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C94D5B",
+    "id": "reaper-89505",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Merisiel Red",
+    "range": "Master Series Pathfinder",
+    "sku": "89505",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89505"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89505",
+        "colors": [
+          "reaper-89505",
+          "reaper-89506",
+          "reaper-89507"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B96A88",
+    "id": "reaper-89506",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cailean Wine",
+    "range": "Master Series Pathfinder",
+    "sku": "89506",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89506"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89505",
+        "colors": [
+          "reaper-89505",
+          "reaper-89506",
+          "reaper-89507"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A93E4F",
+    "id": "reaper-89507",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Asmodeus Red",
+    "range": "Master Series Pathfinder",
+    "sku": "89507",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89507"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89508",
+        "colors": [
+          "reaper-89508",
+          "reaper-89509",
+          "reaper-89510"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#895160",
+    "id": "reaper-89508",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Urgathoa Red",
+    "range": "Master Series Pathfinder",
+    "sku": "89508",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89508"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89508",
+        "colors": [
+          "reaper-89508",
+          "reaper-89509",
+          "reaper-89510"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#EF814E",
+    "id": "reaper-89509",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cavalier Orange",
+    "range": "Master Series Pathfinder",
+    "sku": "89509",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89509"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89508",
+        "colors": [
+          "reaper-89508",
+          "reaper-89509",
+          "reaper-89510"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C96F4C",
+    "id": "reaper-89510",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Numeria Rust",
+    "range": "Master Series Pathfinder",
+    "sku": "89510",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89510"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89511",
+        "colors": [
+          "reaper-89511",
+          "reaper-89512",
+          "reaper-89513"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#857C63",
+    "id": "reaper-89511",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Osirian Sand",
+    "range": "Master Series Pathfinder",
+    "sku": "89511",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89511"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89511",
+        "colors": [
+          "reaper-89511",
+          "reaper-89512",
+          "reaper-89513"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#958B69",
+    "id": "reaper-89512",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cairn Stone",
+    "range": "Master Series Pathfinder",
+    "sku": "89512",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89512"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89511",
+        "colors": [
+          "reaper-89511",
+          "reaper-89512",
+          "reaper-89513"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B2983C",
+    "id": "reaper-89513",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Calistria Yellow",
+    "range": "Master Series Pathfinder",
+    "sku": "89513",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89513"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89514",
+        "colors": [
+          "reaper-89514",
+          "reaper-89515",
+          "reaper-89516"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BC8B33",
+    "id": "reaper-89514",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sarenrae Yellow",
+    "range": "Master Series Pathfinder",
+    "sku": "89514",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89514"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89514",
+        "colors": [
+          "reaper-89514",
+          "reaper-89515",
+          "reaper-89516"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#7B8A81",
+    "id": "reaper-89515",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Boggard Green",
+    "range": "Master Series Pathfinder",
+    "sku": "89515",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89515"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89514",
+        "colors": [
+          "reaper-89514",
+          "reaper-89515",
+          "reaper-89516"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#79A755",
+    "id": "reaper-89516",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Alchemical Green",
+    "range": "Master Series Pathfinder",
+    "sku": "89516",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89516"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89517",
+        "colors": [
+          "reaper-89517",
+          "reaper-89518",
+          "reaper-89519"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#358B3C",
+    "id": "reaper-89517",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lini Green",
+    "range": "Master Series Pathfinder",
+    "sku": "89517",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89517"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89517",
+        "colors": [
+          "reaper-89517",
+          "reaper-89518",
+          "reaper-89519"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#038252",
+    "id": "reaper-89518",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tian Xia Jade",
+    "range": "Master Series Pathfinder",
+    "sku": "89518",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89518"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89517",
+        "colors": [
+          "reaper-89517",
+          "reaper-89518",
+          "reaper-89519"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#617D3D",
+    "id": "reaper-89519",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Goblin Green",
+    "range": "Master Series Pathfinder",
+    "sku": "89519",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89519"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89520",
+        "colors": [
+          "reaper-89520",
+          "reaper-89521",
+          "reaper-89522"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8B8C5C",
+    "id": "reaper-89520",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hodag Green",
+    "range": "Master Series Pathfinder",
+    "sku": "89520",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89520"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89520",
+        "colors": [
+          "reaper-89520",
+          "reaper-89521",
+          "reaper-89522"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B0A974",
+    "id": "reaper-89521",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medusa Green",
+    "range": "Master Series Pathfinder",
+    "sku": "89521",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89521"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89520",
+        "colors": [
+          "reaper-89520",
+          "reaper-89521",
+          "reaper-89522"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#39BFB7",
+    "id": "reaper-89522",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grindylow Blue",
+    "range": "Master Series Pathfinder",
+    "sku": "89522",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89522"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89523",
+        "colors": [
+          "reaper-89523",
+          "reaper-89524",
+          "reaper-89525"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B5CFDA",
+    "id": "reaper-89523",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Akata Blue",
+    "range": "Master Series Pathfinder",
+    "sku": "89523",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89523"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89523",
+        "colors": [
+          "reaper-89523",
+          "reaper-89524",
+          "reaper-89525"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A4DADE",
+    "id": "reaper-89524",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ice Devil Blue",
+    "range": "Master Series Pathfinder",
+    "sku": "89524",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89524"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89523",
+        "colors": [
+          "reaper-89523",
+          "reaper-89524",
+          "reaper-89525"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#707E85",
+    "id": "reaper-89525",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Irrisen Blue",
+    "range": "Master Series Pathfinder",
+    "sku": "89525",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89525"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89526",
+        "colors": [
+          "reaper-89526",
+          "reaper-89527",
+          "reaper-89528"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#34B8E1",
+    "id": "reaper-89526",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Marid Blue",
+    "range": "Master Series Pathfinder",
+    "sku": "89526",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89526"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89526",
+        "colors": [
+          "reaper-89526",
+          "reaper-89527",
+          "reaper-89528"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#388CC0",
+    "id": "reaper-89527",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Andoran Blue",
+    "range": "Master Series Pathfinder",
+    "sku": "89527",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89527"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89526",
+        "colors": [
+          "reaper-89526",
+          "reaper-89527",
+          "reaper-89528"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#308BC4",
+    "id": "reaper-89528",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ezren Blue",
+    "range": "Master Series Pathfinder",
+    "sku": "89528",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89528"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89529",
+        "colors": [
+          "reaper-89529",
+          "reaper-89530",
+          "reaper-89531"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#87B3C3",
+    "id": "reaper-89529",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hobgoblin Blue",
+    "range": "Master Series Pathfinder",
+    "sku": "89529",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89529"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89529",
+        "colors": [
+          "reaper-89529",
+          "reaper-89530",
+          "reaper-89531"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6777B4",
+    "id": "reaper-89530",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desna Blue",
+    "range": "Master Series Pathfinder",
+    "sku": "89530",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89530"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89529",
+        "colors": [
+          "reaper-89529",
+          "reaper-89530",
+          "reaper-89531"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C5C1DE",
+    "id": "reaper-89531",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kraken Purple",
+    "range": "Master Series Pathfinder",
+    "sku": "89531",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89531"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89532",
+        "colors": [
+          "reaper-89532",
+          "reaper-89533",
+          "reaper-89534"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E79B2",
+    "id": "reaper-89532",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ghoul Violet",
+    "range": "Master Series Pathfinder",
+    "sku": "89532",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89532"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89532",
+        "colors": [
+          "reaper-89532",
+          "reaper-89533",
+          "reaper-89534"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#715DA4",
+    "id": "reaper-89533",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Azlanti Violet",
+    "range": "Master Series Pathfinder",
+    "sku": "89533",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89533"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89532",
+        "colors": [
+          "reaper-89532",
+          "reaper-89533",
+          "reaper-89534"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BA6AAB",
+    "id": "reaper-89534",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arclord Purple",
+    "range": "Master Series Pathfinder",
+    "sku": "89534",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89534"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89535",
+        "colors": [
+          "reaper-89535",
+          "reaper-89536",
+          "reaper-89537"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A263AA",
+    "id": "reaper-89535",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pharasma Purple",
+    "range": "Master Series Pathfinder",
+    "sku": "89535",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89535"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89535",
+        "colors": [
+          "reaper-89535",
+          "reaper-89536",
+          "reaper-89537"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#9A558D",
+    "id": "reaper-89536",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Seugathi Purple",
+    "range": "Master Series Pathfinder",
+    "sku": "89536",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89536"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89535",
+        "colors": [
+          "reaper-89535",
+          "reaper-89536",
+          "reaper-89537"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#E24BA4",
+    "id": "reaper-89537",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Thuvian Sun Orchid",
+    "range": "Master Series Pathfinder",
+    "sku": "89537",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89537"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89538",
+        "colors": [
+          "reaper-89538",
+          "reaper-89539",
+          "reaper-89540"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D5A4D",
+    "id": "reaper-89538",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mwangi Brown",
+    "range": "Master Series Pathfinder",
+    "sku": "89538",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89538"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89538",
+        "colors": [
+          "reaper-89538",
+          "reaper-89539",
+          "reaper-89540"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D7B9A0",
+    "id": "reaper-89539",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kellid Tan",
+    "range": "Master Series Pathfinder",
+    "sku": "89539",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89539"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89538",
+        "colors": [
+          "reaper-89538",
+          "reaper-89539",
+          "reaper-89540"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#E5C6B9",
+    "id": "reaper-89540",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Taldan Pink",
+    "range": "Master Series Pathfinder",
+    "sku": "89540",
+    "type": "ink",
+    "url": "https://www.reapermini.com/search/89540"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89541",
+        "colors": [
+          "reaper-89541",
+          "reaper-89542",
+          "reaper-89543"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A69479",
+    "id": "reaper-89541",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kyonin Beige",
+    "range": "Master Series Pathfinder",
+    "sku": "89541",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89541"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89541",
+        "colors": [
+          "reaper-89541",
+          "reaper-89542",
+          "reaper-89543"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#9E5A49",
+    "id": "reaper-89542",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shoanti Sienna",
+    "range": "Master Series Pathfinder",
+    "sku": "89542",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89542"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89541",
+        "colors": [
+          "reaper-89541",
+          "reaper-89542",
+          "reaper-89543"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#796C6A",
+    "id": "reaper-89543",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gug Umber",
+    "range": "Master Series Pathfinder",
+    "sku": "89543",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89543"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89544",
+        "colors": [
+          "reaper-89544",
+          "reaper-89545",
+          "reaper-89546"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CEC2C4",
+    "id": "reaper-89544",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mana Waste Gray",
+    "range": "Master Series Pathfinder",
+    "sku": "89544",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89544"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89544",
+        "colors": [
+          "reaper-89544",
+          "reaper-89545",
+          "reaper-89546"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C8C8E",
+    "id": "reaper-89545",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gozreh Gray",
+    "range": "Master Series Pathfinder",
+    "sku": "89545",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89545"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89544",
+        "colors": [
+          "reaper-89544",
+          "reaper-89545",
+          "reaper-89546"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#414244",
+    "id": "reaper-89546",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Besmara Black",
+    "range": "Master Series Pathfinder",
+    "sku": "89546",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89546"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89547",
+        "colors": [
+          "reaper-89547",
+          "reaper-89548",
+          "reaper-89549"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AEAEAD",
+    "id": "reaper-89547",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Unicorn White",
+    "range": "Master Series Pathfinder",
+    "sku": "89547",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89547"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89547",
+        "colors": [
+          "reaper-89547",
+          "reaper-89548",
+          "reaper-89549"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#84847E",
+    "id": "reaper-89548",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skeleton White",
+    "range": "Master Series Pathfinder",
+    "sku": "89548",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89548"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89547",
+        "colors": [
+          "reaper-89547",
+          "reaper-89548",
+          "reaper-89549"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#928A89",
+    "id": "reaper-89549",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cold Iron",
+    "range": "Master Series Pathfinder",
+    "sku": "89549",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/89549"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89550",
+        "colors": [
+          "reaper-89550",
+          "reaper-89551",
+          "reaper-89552"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BBBBBB",
+    "id": "reaper-89550",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crusader Silver",
+    "range": "Master Series Pathfinder",
+    "sku": "89550",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/89550"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89550",
+        "colors": [
+          "reaper-89550",
+          "reaper-89551",
+          "reaper-89552"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BCA362",
+    "id": "reaper-89551",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Keleshite Gold",
+    "range": "Master Series Pathfinder",
+    "sku": "89551",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/89551"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89550",
+        "colors": [
+          "reaper-89550",
+          "reaper-89551",
+          "reaper-89552"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B2986E",
+    "id": "reaper-89552",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Valeros Gold",
+    "range": "Master Series Pathfinder",
+    "sku": "89552",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/89552"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89553",
+        "colors": [
+          "reaper-89553",
+          "reaper-89554",
+          "reaper-89555"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AB8868",
+    "id": "reaper-89553",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brevoy Copper",
+    "range": "Master Series Pathfinder",
+    "sku": "89553",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/89553"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89553",
+        "colors": [
+          "reaper-89553",
+          "reaper-89554",
+          "reaper-89555"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AB9D7A",
+    "id": "reaper-89554",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Clockwork Brass",
+    "range": "Master Series Pathfinder",
+    "sku": "89554",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/89554"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-89553",
+        "colors": [
+          "reaper-89553",
+          "reaper-89554",
+          "reaper-89555"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CA9376",
+    "id": "reaper-89555",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brigh Bronze",
+    "range": "Master Series Pathfinder",
+    "sku": "89555",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/89555"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#877C77",
+    "id": "reaper-89556",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Adamantine",
+    "range": "Master Series Pathfinder",
+    "sku": "89556",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/89556"
+  }
+]

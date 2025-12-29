@@ -1,0 +1,5750 @@
+[
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8F8F8F",
+    "id": "reaper-09000",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Msp Paint Color Sample - Holiday Color",
+    "range": "Master Series Core",
+    "sku": "09000",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09000"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4D1E2A",
+    "id": "reaper-09001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Brick",
+    "range": "Master Series Core",
+    "sku": "09001",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09001"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8E4C51",
+    "id": "reaper-09002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Red",
+    "range": "Master Series Core",
+    "sku": "09002",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09002"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09003",
+        "colors": [
+          "reaper-09003",
+          "reaper-09004",
+          "reaper-09005"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#9A3849",
+    "id": "reaper-09003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blood Red",
+    "range": "Master Series Core",
+    "sku": "09003",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09003"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09003",
+        "colors": [
+          "reaper-09003",
+          "reaper-09004",
+          "reaper-09005"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A02E4E",
+    "id": "reaper-09004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fire Red",
+    "range": "Master Series Core",
+    "sku": "09004",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09004"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09003",
+        "colors": [
+          "reaper-09003",
+          "reaper-09004",
+          "reaper-09005"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B34F4A",
+    "id": "reaper-09005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Phoenix Red",
+    "range": "Master Series Core",
+    "sku": "09005",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09005"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09006",
+        "colors": [
+          "reaper-09006",
+          "reaper-09007",
+          "reaper-09008"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C67D53",
+    "id": "reaper-09006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fire Orange",
+    "range": "Master Series Core",
+    "sku": "09006",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09006"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09006",
+        "colors": [
+          "reaper-09006",
+          "reaper-09007",
+          "reaper-09008"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C38C4F",
+    "id": "reaper-09007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Marigold Yellow",
+    "range": "Master Series Core",
+    "sku": "09007",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09007"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09006",
+        "colors": [
+          "reaper-09006",
+          "reaper-09007",
+          "reaper-09008"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D1AE4E",
+    "id": "reaper-09008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sun Yellow",
+    "range": "Master Series Core",
+    "sku": "09008",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09008"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09009",
+        "colors": [
+          "reaper-09009",
+          "reaper-09010",
+          "reaper-09011"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D2CB45",
+    "id": "reaper-09009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lemon Yellow",
+    "range": "Master Series Core",
+    "sku": "09009",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09009"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09009",
+        "colors": [
+          "reaper-09009",
+          "reaper-09010",
+          "reaper-09011"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#145631",
+    "id": "reaper-09010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pine Green",
+    "range": "Master Series Core",
+    "sku": "09010",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09010"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09009",
+        "colors": [
+          "reaper-09009",
+          "reaper-09010",
+          "reaper-09011"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#257E49",
+    "id": "reaper-09011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leaf Green",
+    "range": "Master Series Core",
+    "sku": "09011",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09011"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09012",
+        "colors": [
+          "reaper-09012",
+          "reaper-09013",
+          "reaper-09014"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#449A52",
+    "id": "reaper-09012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Green",
+    "range": "Master Series Core",
+    "sku": "09012",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09012"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09012",
+        "colors": [
+          "reaper-09012",
+          "reaper-09013",
+          "reaper-09014"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#144831",
+    "id": "reaper-09013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Forest Green",
+    "range": "Master Series Core",
+    "sku": "09013",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09013"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09012",
+        "colors": [
+          "reaper-09012",
+          "reaper-09013",
+          "reaper-09014"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#197155",
+    "id": "reaper-09014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grass Green",
+    "range": "Master Series Core",
+    "sku": "09014",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09014"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09015",
+        "colors": [
+          "reaper-09015",
+          "reaper-09016",
+          "reaper-09017"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#239964",
+    "id": "reaper-09015",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jade Green",
+    "range": "Master Series Core",
+    "sku": "09015",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09015"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09015",
+        "colors": [
+          "reaper-09015",
+          "reaper-09016",
+          "reaper-09017"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#394C7D",
+    "id": "reaper-09016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sapphire Blue",
+    "range": "Master Series Core",
+    "sku": "09016",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09016"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09015",
+        "colors": [
+          "reaper-09015",
+          "reaper-09016",
+          "reaper-09017"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#1573A3",
+    "id": "reaper-09017",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "True Blue",
+    "range": "Master Series Core",
+    "sku": "09017",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09017"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09018",
+        "colors": [
+          "reaper-09018",
+          "reaper-09019",
+          "reaper-09020"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#66A7CB",
+    "id": "reaper-09018",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sky Blue",
+    "range": "Master Series Core",
+    "sku": "09018",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09018"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09018",
+        "colors": [
+          "reaper-09018",
+          "reaper-09019",
+          "reaper-09020"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#21272E",
+    "id": "reaper-09019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Midnight Blue",
+    "range": "Master Series Core",
+    "sku": "09019",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09019"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09018",
+        "colors": [
+          "reaper-09018",
+          "reaper-09019",
+          "reaper-09020"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#515A66",
+    "id": "reaper-09020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Twilight Blue",
+    "range": "Master Series Core",
+    "sku": "09020",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09020"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09021",
+        "colors": [
+          "reaper-09021",
+          "reaper-09022",
+          "reaper-09023"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8491A1",
+    "id": "reaper-09021",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Snow Shadow",
+    "range": "Master Series Core",
+    "sku": "09021",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09021"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09021",
+        "colors": [
+          "reaper-09021",
+          "reaper-09022",
+          "reaper-09023"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#39323D",
+    "id": "reaper-09022",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nightshade Purple",
+    "range": "Master Series Core",
+    "sku": "09022",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09022"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09021",
+        "colors": [
+          "reaper-09021",
+          "reaper-09022",
+          "reaper-09023"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#665570",
+    "id": "reaper-09023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Imperial Purple",
+    "range": "Master Series Core",
+    "sku": "09023",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09023"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09024",
+        "colors": [
+          "reaper-09024",
+          "reaper-09025",
+          "reaper-09026"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#98829F",
+    "id": "reaper-09024",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amethyst Purple",
+    "range": "Master Series Core",
+    "sku": "09024",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09024"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09024",
+        "colors": [
+          "reaper-09024",
+          "reaper-09025",
+          "reaper-09026"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#513946",
+    "id": "reaper-09025",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burgundy Wine",
+    "range": "Master Series Core",
+    "sku": "09025",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09025"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09024",
+        "colors": [
+          "reaper-09024",
+          "reaper-09025",
+          "reaper-09026"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#664057",
+    "id": "reaper-09026",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet Red",
+    "range": "Master Series Core",
+    "sku": "09026",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09026"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09027",
+        "colors": [
+          "reaper-09027",
+          "reaper-09028",
+          "reaper-09029"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#844E64",
+    "id": "reaper-09027",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Violet Red",
+    "range": "Master Series Core",
+    "sku": "09027",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09027"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09027",
+        "colors": [
+          "reaper-09027",
+          "reaper-09028",
+          "reaper-09029"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#524438",
+    "id": "reaper-09028",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Muddy Brown",
+    "range": "Master Series Core",
+    "sku": "09028",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09028"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09027",
+        "colors": [
+          "reaper-09027",
+          "reaper-09028",
+          "reaper-09029"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#735C4A",
+    "id": "reaper-09029",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Earth Brown",
+    "range": "Master Series Core",
+    "sku": "09029",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09029"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09030",
+        "colors": [
+          "reaper-09030",
+          "reaper-09031",
+          "reaper-09032"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A2846A",
+    "id": "reaper-09030",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leather Brown",
+    "range": "Master Series Core",
+    "sku": "09030",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09030"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09030",
+        "colors": [
+          "reaper-09030",
+          "reaper-09031",
+          "reaper-09032"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AE8A61",
+    "id": "reaper-09031",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tanned Leather",
+    "range": "Master Series Core",
+    "sku": "09031",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09031"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09030",
+        "colors": [
+          "reaper-09030",
+          "reaper-09031",
+          "reaper-09032"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BCA073",
+    "id": "reaper-09032",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amber Gold",
+    "range": "Master Series Core",
+    "sku": "09032",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09032"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09033",
+        "colors": [
+          "reaper-09033",
+          "reaper-09034",
+          "reaper-09035"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C3BA8F",
+    "id": "reaper-09033",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golden Blonde",
+    "range": "Master Series Core",
+    "sku": "09033",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09033"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09033",
+        "colors": [
+          "reaper-09033",
+          "reaper-09034",
+          "reaper-09035"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#4C6B46",
+    "id": "reaper-09034",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Muddy Olive",
+    "range": "Master Series Core",
+    "sku": "09034",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09034"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09033",
+        "colors": [
+          "reaper-09033",
+          "reaper-09034",
+          "reaper-09035"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6B815A",
+    "id": "reaper-09035",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Green",
+    "range": "Master Series Core",
+    "sku": "09035",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09035"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09036",
+        "colors": [
+          "reaper-09036",
+          "reaper-09037",
+          "reaper-09038"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#9AA58B",
+    "id": "reaper-09036",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Olive",
+    "range": "Master Series Core",
+    "sku": "09036",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09036"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09036",
+        "colors": [
+          "reaper-09036",
+          "reaper-09037",
+          "reaper-09038"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#3D3D3D",
+    "id": "reaper-09037",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pure Black",
+    "range": "Master Series Core",
+    "sku": "09037",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09037"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09036",
+        "colors": [
+          "reaper-09036",
+          "reaper-09037",
+          "reaper-09038"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C8C8C",
+    "id": "reaper-09038",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rainy Grey",
+    "range": "Master Series Core",
+    "sku": "09038",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09038"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09039",
+        "colors": [
+          "reaper-09039",
+          "reaper-09040",
+          "reaper-09041"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C1C1C1",
+    "id": "reaper-09039",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pure White",
+    "range": "Master Series Core",
+    "sku": "09039",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09039"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09039",
+        "colors": [
+          "reaper-09039",
+          "reaper-09040",
+          "reaper-09041"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#352726",
+    "id": "reaper-09040",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Shadow",
+    "range": "Master Series Core",
+    "sku": "09040",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09040"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09039",
+        "colors": [
+          "reaper-09039",
+          "reaper-09040",
+          "reaper-09041"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#4A3732",
+    "id": "reaper-09041",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Skin",
+    "range": "Master Series Core",
+    "sku": "09041",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09041"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09042",
+        "colors": [
+          "reaper-09042",
+          "reaper-09043",
+          "reaper-09044"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#493B2F",
+    "id": "reaper-09042",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Highlights",
+    "range": "Master Series Core",
+    "sku": "09042",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09042"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09042",
+        "colors": [
+          "reaper-09042",
+          "reaper-09043",
+          "reaper-09044"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8B6959",
+    "id": "reaper-09043",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tanned Shadow",
+    "range": "Master Series Core",
+    "sku": "09043",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09043"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09042",
+        "colors": [
+          "reaper-09042",
+          "reaper-09043",
+          "reaper-09044"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B99781",
+    "id": "reaper-09044",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tanned Skin",
+    "range": "Master Series Core",
+    "sku": "09044",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09044"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09045",
+        "colors": [
+          "reaper-09045",
+          "reaper-09046",
+          "reaper-09047"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BEA088",
+    "id": "reaper-09045",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tanned Highlight",
+    "range": "Master Series Core",
+    "sku": "09045",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09045"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09045",
+        "colors": [
+          "reaper-09045",
+          "reaper-09046",
+          "reaper-09047"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BEA78F",
+    "id": "reaper-09046",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fair Shadow",
+    "range": "Master Series Core",
+    "sku": "09046",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09046"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09045",
+        "colors": [
+          "reaper-09045",
+          "reaper-09046",
+          "reaper-09047"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C4B3A1",
+    "id": "reaper-09047",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fair Skin",
+    "range": "Master Series Core",
+    "sku": "09047",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09047"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09048",
+        "colors": [
+          "reaper-09048",
+          "reaper-09049",
+          "reaper-09050"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C5BEAF",
+    "id": "reaper-09048",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fair Highlights",
+    "range": "Master Series Core",
+    "sku": "09048",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09048"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09048",
+        "colors": [
+          "reaper-09048",
+          "reaper-09049",
+          "reaper-09050"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C4AD9D",
+    "id": "reaper-09049",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ancient Bronze",
+    "range": "Master Series Core",
+    "sku": "09049",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09049"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09048",
+        "colors": [
+          "reaper-09048",
+          "reaper-09049",
+          "reaper-09050"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C0B49E",
+    "id": "reaper-09050",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Antique Gold",
+    "range": "Master Series Core",
+    "sku": "09050",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09050"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09051",
+        "colors": [
+          "reaper-09051",
+          "reaper-09052",
+          "reaper-09053"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AFA68D",
+    "id": "reaper-09051",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "New Gold",
+    "range": "Master Series Core",
+    "sku": "09051",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09051"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09051",
+        "colors": [
+          "reaper-09051",
+          "reaper-09052",
+          "reaper-09053"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AAAAAA",
+    "id": "reaper-09052",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shadowed Steel",
+    "range": "Master Series Core",
+    "sku": "09052",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09052"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09051",
+        "colors": [
+          "reaper-09051",
+          "reaper-09052",
+          "reaper-09053"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#ADADAD",
+    "id": "reaper-09053",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Honed Steel",
+    "range": "Master Series Core",
+    "sku": "09053",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09053"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09054",
+        "colors": [
+          "reaper-09054",
+          "reaper-09055",
+          "reaper-09056"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BABABA",
+    "id": "reaper-09054",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Polished Silver",
+    "range": "Master Series Core",
+    "sku": "09054",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09054"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09054",
+        "colors": [
+          "reaper-09054",
+          "reaper-09055",
+          "reaper-09056"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#1D3745",
+    "id": "reaper-09055",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Breonne Blue",
+    "range": "Master Series Core",
+    "sku": "09055",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09055"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09054",
+        "colors": [
+          "reaper-09054",
+          "reaper-09055",
+          "reaper-09056"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#3D4B57",
+    "id": "reaper-09056",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Templar Blue",
+    "range": "Master Series Core",
+    "sku": "09056",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09056"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09057",
+        "colors": [
+          "reaper-09057",
+          "reaper-09058",
+          "reaper-09059"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6D8793",
+    "id": "reaper-09057",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ashen Blue",
+    "range": "Master Series Core",
+    "sku": "09057",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09057"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09057",
+        "colors": [
+          "reaper-09057",
+          "reaper-09058",
+          "reaper-09059"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BEB4A5",
+    "id": "reaper-09058",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bone Shadow",
+    "range": "Master Series Core",
+    "sku": "09058",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09058"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09057",
+        "colors": [
+          "reaper-09057",
+          "reaper-09058",
+          "reaper-09059"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CCC5B2",
+    "id": "reaper-09059",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aged Bone",
+    "range": "Master Series Core",
+    "sku": "09059",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09059"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09060",
+        "colors": [
+          "reaper-09060",
+          "reaper-09061",
+          "reaper-09062"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C1BBB0",
+    "id": "reaper-09060",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Polished Bone",
+    "range": "Master Series Core",
+    "sku": "09060",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09060"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09060",
+        "colors": [
+          "reaper-09060",
+          "reaper-09061",
+          "reaper-09062"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B7B6AF",
+    "id": "reaper-09061",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Linen White",
+    "range": "Master Series Core",
+    "sku": "09061",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09061"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09060",
+        "colors": [
+          "reaper-09060",
+          "reaper-09061",
+          "reaper-09062"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C4BFB6",
+    "id": "reaper-09062",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leather White",
+    "range": "Master Series Core",
+    "sku": "09062",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09062"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09063",
+        "colors": [
+          "reaper-09063",
+          "reaper-09064",
+          "reaper-09065"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C9D0D4",
+    "id": "reaper-09063",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ghost White",
+    "range": "Master Series Core",
+    "sku": "09063",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09063"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09063",
+        "colors": [
+          "reaper-09063",
+          "reaper-09064",
+          "reaper-09065"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#3E3632",
+    "id": "reaper-09064",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Liner",
+    "range": "Master Series Core",
+    "sku": "09064",
+    "type": "wash",
+    "url": "https://www.reapermini.com/search/09064"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09063",
+        "colors": [
+          "reaper-09063",
+          "reaper-09064",
+          "reaper-09065"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#585858",
+    "id": "reaper-09065",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Liner",
+    "range": "Master Series Core",
+    "sku": "09065",
+    "type": "wash",
+    "url": "https://www.reapermini.com/search/09065"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09066",
+        "colors": [
+          "reaper-09066",
+          "reaper-09067",
+          "reaper-09068"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#28343C",
+    "id": "reaper-09066",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Liner",
+    "range": "Master Series Core",
+    "sku": "09066",
+    "type": "wash",
+    "url": "https://www.reapermini.com/search/09066"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09066",
+        "colors": [
+          "reaper-09066",
+          "reaper-09067",
+          "reaper-09068"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B59186",
+    "id": "reaper-09067",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rosy Shadow",
+    "range": "Master Series Core",
+    "sku": "09067",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09067"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09066",
+        "colors": [
+          "reaper-09066",
+          "reaper-09067",
+          "reaper-09068"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BC9990",
+    "id": "reaper-09068",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rosy Skin",
+    "range": "Master Series Core",
+    "sku": "09068",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09068"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09069",
+        "colors": [
+          "reaper-09069",
+          "reaper-09070",
+          "reaper-09071"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C6AA9B",
+    "id": "reaper-09069",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rosy Highlight",
+    "range": "Master Series Core",
+    "sku": "09069",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09069"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09069",
+        "colors": [
+          "reaper-09069",
+          "reaper-09070",
+          "reaper-09071"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#2D201E",
+    "id": "reaper-09070",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mahogany Brown",
+    "range": "Master Series Core",
+    "sku": "09070",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09070"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09069",
+        "colors": [
+          "reaper-09069",
+          "reaper-09070",
+          "reaper-09071"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#754943",
+    "id": "reaper-09071",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chestnut Brown",
+    "range": "Master Series Core",
+    "sku": "09071",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09071"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09072",
+        "colors": [
+          "reaper-09072",
+          "reaper-09073",
+          "reaper-09074"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AE615B",
+    "id": "reaper-09072",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rust Brown",
+    "range": "Master Series Core",
+    "sku": "09072",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09072"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09072",
+        "colors": [
+          "reaper-09072",
+          "reaper-09073",
+          "reaper-09074"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#987754",
+    "id": "reaper-09073",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chestnut Gold",
+    "range": "Master Series Core",
+    "sku": "09073",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09073"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09072",
+        "colors": [
+          "reaper-09072",
+          "reaper-09073",
+          "reaper-09074"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B69B4E",
+    "id": "reaper-09074",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Palomino Gold",
+    "range": "Master Series Core",
+    "sku": "09074",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09074"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09075",
+        "colors": [
+          "reaper-09075",
+          "reaper-09076",
+          "reaper-09077"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CBB271",
+    "id": "reaper-09075",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Buckskin Pale",
+    "range": "Master Series Core",
+    "sku": "09075",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09075"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09075",
+        "colors": [
+          "reaper-09075",
+          "reaper-09076",
+          "reaper-09077"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#283E49",
+    "id": "reaper-09076",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Ocean",
+    "range": "Master Series Core",
+    "sku": "09076",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09076"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09075",
+        "colors": [
+          "reaper-09075",
+          "reaper-09076",
+          "reaper-09077"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#1D5B65",
+    "id": "reaper-09077",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Marine Teal",
+    "range": "Master Series Core",
+    "sku": "09077",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09077"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#78B1B6",
+    "id": "reaper-09078",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Surf Aqua",
+    "range": "Master Series Core",
+    "sku": "09078",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09078"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3F4943",
+    "id": "reaper-09082",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jungle Moss",
+    "range": "Master Series Core",
+    "sku": "09082",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09082"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#56615D",
+    "id": "reaper-09083",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Highland Moss",
+    "range": "Master Series Core",
+    "sku": "09083",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09083"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09084",
+        "colors": [
+          "reaper-09084",
+          "reaper-09085",
+          "reaper-09086"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#808E88",
+    "id": "reaper-09084",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Lichen",
+    "range": "Master Series Core",
+    "sku": "09084",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09084"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09084",
+        "colors": [
+          "reaper-09084",
+          "reaper-09085",
+          "reaper-09086"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#696864",
+    "id": "reaper-09085",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shadowed Stone",
+    "range": "Master Series Core",
+    "sku": "09085",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09085"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09084",
+        "colors": [
+          "reaper-09084",
+          "reaper-09085",
+          "reaper-09086"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#75726E",
+    "id": "reaper-09086",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stone Grey",
+    "range": "Master Series Core",
+    "sku": "09086",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09086"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09087",
+        "colors": [
+          "reaper-09087",
+          "reaper-09088",
+          "reaper-09089"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C8987",
+    "id": "reaper-09087",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Weathered Stone",
+    "range": "Master Series Core",
+    "sku": "09087",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09087"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09087",
+        "colors": [
+          "reaper-09087",
+          "reaper-09088",
+          "reaper-09089"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#606060",
+    "id": "reaper-09088",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stormy Grey",
+    "range": "Master Series Core",
+    "sku": "09088",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09088"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09087",
+        "colors": [
+          "reaper-09087",
+          "reaper-09088",
+          "reaper-09089"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#757575",
+    "id": "reaper-09089",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cloudy Grey",
+    "range": "Master Series Core",
+    "sku": "09089",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09089"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09090",
+        "colors": [
+          "reaper-09090",
+          "reaper-09091",
+          "reaper-09092"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A7A7A7",
+    "id": "reaper-09090",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Misty Grey",
+    "range": "Master Series Core",
+    "sku": "09090",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09090"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09090",
+        "colors": [
+          "reaper-09090",
+          "reaper-09091",
+          "reaper-09092"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#998366",
+    "id": "reaper-09091",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golden Shadow",
+    "range": "Master Series Core",
+    "sku": "09091",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09091"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09090",
+        "colors": [
+          "reaper-09090",
+          "reaper-09091",
+          "reaper-09092"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B6A085",
+    "id": "reaper-09092",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golden Skin",
+    "range": "Master Series Core",
+    "sku": "09092",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09092"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CD2B44",
+    "id": "reaper-09094",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Clear Red",
+    "range": "Master Series Core",
+    "sku": "09094",
+    "type": "transparent",
+    "url": "https://www.reapermini.com/search/09094"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E3E031",
+    "id": "reaper-09095",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Clear Yellow",
+    "range": "Master Series Core",
+    "sku": "09095",
+    "type": "transparent",
+    "url": "https://www.reapermini.com/search/09095"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09096",
+        "colors": [
+          "reaper-09096",
+          "reaper-09097",
+          "reaper-09098"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#1C8840",
+    "id": "reaper-09096",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Clear Green",
+    "range": "Master Series Core",
+    "sku": "09096",
+    "type": "transparent",
+    "url": "https://www.reapermini.com/search/09096"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09096",
+        "colors": [
+          "reaper-09096",
+          "reaper-09097",
+          "reaper-09098"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#3B4884",
+    "id": "reaper-09097",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Clear Blue",
+    "range": "Master Series Core",
+    "sku": "09097",
+    "type": "transparent",
+    "url": "https://www.reapermini.com/search/09097"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09096",
+        "colors": [
+          "reaper-09096",
+          "reaper-09097",
+          "reaper-09098"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CE2D85",
+    "id": "reaper-09098",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Clear Magenta",
+    "range": "Master Series Core",
+    "sku": "09098",
+    "type": "transparent",
+    "url": "https://www.reapermini.com/search/09098"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09099",
+        "colors": [
+          "reaper-09099",
+          "reaper-09100",
+          "reaper-09101"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#5B2070",
+    "id": "reaper-09099",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Clear Purple",
+    "range": "Master Series Core",
+    "sku": "09099",
+    "type": "transparent",
+    "url": "https://www.reapermini.com/search/09099"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09099",
+        "colors": [
+          "reaper-09099",
+          "reaper-09100",
+          "reaper-09101"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CDCDCD",
+    "id": "reaper-09100",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pearl White",
+    "range": "Master Series Core",
+    "sku": "09100",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09100"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09099",
+        "colors": [
+          "reaper-09099",
+          "reaper-09100",
+          "reaper-09101"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D5BCA9",
+    "id": "reaper-09101",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ruby Red",
+    "range": "Master Series Core",
+    "sku": "09101",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09101"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09102",
+        "colors": [
+          "reaper-09102",
+          "reaper-09103",
+          "reaper-09104"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D4B9AA",
+    "id": "reaper-09102",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Coppery Orange",
+    "range": "Master Series Core",
+    "sku": "09102",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09102"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09102",
+        "colors": [
+          "reaper-09102",
+          "reaper-09103",
+          "reaper-09104"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#94A0A3",
+    "id": "reaper-09103",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Emerald Green",
+    "range": "Master Series Core",
+    "sku": "09103",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09103"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09102",
+        "colors": [
+          "reaper-09102",
+          "reaper-09103",
+          "reaper-09104"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A4A9AD",
+    "id": "reaper-09104",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sparkling Blue",
+    "range": "Master Series Core",
+    "sku": "09104",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09104"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09105",
+        "colors": [
+          "reaper-09105",
+          "reaper-09106",
+          "reaper-09107"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A6A5AA",
+    "id": "reaper-09105",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sparkling Amethyst",
+    "range": "Master Series Core",
+    "sku": "09105",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09105"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09105",
+        "colors": [
+          "reaper-09105",
+          "reaper-09106",
+          "reaper-09107"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CDCDCD",
+    "id": "reaper-09106",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flow Improver",
+    "range": "Master Series Core",
+    "sku": "09106",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09106"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09105",
+        "colors": [
+          "reaper-09105",
+          "reaper-09106",
+          "reaper-09107"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CDCDCD",
+    "id": "reaper-09107",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brush-On Sealer",
+    "range": "Master Series Core",
+    "sku": "09107",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09107"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09108",
+        "colors": [
+          "reaper-09108",
+          "reaper-09109",
+          "reaper-09110"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CDCDCD",
+    "id": "reaper-09108",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brush-On White Primer",
+    "range": "Master Series Core",
+    "sku": "09108",
+    "type": "primer",
+    "url": "https://www.reapermini.com/search/09108"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09108",
+        "colors": [
+          "reaper-09108",
+          "reaper-09109",
+          "reaper-09110"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6E453E",
+    "id": "reaper-09109",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ruddy Leather",
+    "range": "Master Series Core",
+    "sku": "09109",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09109"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09108",
+        "colors": [
+          "reaper-09108",
+          "reaper-09109",
+          "reaper-09110"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#895944",
+    "id": "reaper-09110",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oiled Leather",
+    "range": "Master Series Core",
+    "sku": "09110",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09110"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CF8856",
+    "id": "reaper-09111",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Orange",
+    "range": "Master Series Core",
+    "sku": "09111",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09111"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1A4565",
+    "id": "reaper-09115",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ritterlich Blue",
+    "range": "Master Series Core",
+    "sku": "09115",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09115"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#245B7F",
+    "id": "reaper-09116",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brilliant Blue",
+    "range": "Master Series Core",
+    "sku": "09116",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09116"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#167FB9",
+    "id": "reaper-09117",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cyan Blue",
+    "range": "Master Series Core",
+    "sku": "09117",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09117"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B9AF97",
+    "id": "reaper-09122",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Terran Khaki",
+    "range": "Master Series Core",
+    "sku": "09122",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09122"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09123",
+        "colors": [
+          "reaper-09123",
+          "reaper-09124",
+          "reaper-09125"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B6B2A3",
+    "id": "reaper-09123",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Khaki Highlight",
+    "range": "Master Series Core",
+    "sku": "09123",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09123"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09123",
+        "colors": [
+          "reaper-09123",
+          "reaper-09124",
+          "reaper-09125"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#3C3C3E",
+    "id": "reaper-09124",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Adamantium Black",
+    "range": "Master Series Core",
+    "sku": "09124",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09124"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09123",
+        "colors": [
+          "reaper-09123",
+          "reaper-09124",
+          "reaper-09125"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#997463",
+    "id": "reaper-09125",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scorched Metal",
+    "range": "Master Series Core",
+    "sku": "09125",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09125"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09126",
+        "colors": [
+          "reaper-09126",
+          "reaper-09127",
+          "reaper-09128"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#3F5867",
+    "id": "reaper-09126",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gunmetal Blue",
+    "range": "Master Series Core",
+    "sku": "09126",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09126"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09126",
+        "colors": [
+          "reaper-09126",
+          "reaper-09127",
+          "reaper-09128"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6E5D2B",
+    "id": "reaper-09127",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Uniform Brown",
+    "range": "Master Series Core",
+    "sku": "09127",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09127"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09126",
+        "colors": [
+          "reaper-09126",
+          "reaper-09127",
+          "reaper-09128"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#957833",
+    "id": "reaper-09128",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Ochre",
+    "range": "Master Series Core",
+    "sku": "09128",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09128"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A98B3A",
+    "id": "reaper-09129",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Faded Khaki",
+    "range": "Master Series Core",
+    "sku": "09129",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09129"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#651718",
+    "id": "reaper-09133",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bloodstain Red",
+    "range": "Master Series Core",
+    "sku": "09133",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09133"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7F1919",
+    "id": "reaper-09134",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Clotted Red",
+    "range": "Master Series Core",
+    "sku": "09134",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09134"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09135",
+        "colors": [
+          "reaper-09135",
+          "reaper-09136",
+          "reaper-09137"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#9D212D",
+    "id": "reaper-09135",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carnage Red",
+    "range": "Master Series Core",
+    "sku": "09135",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09135"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09135",
+        "colors": [
+          "reaper-09135",
+          "reaper-09136",
+          "reaper-09137"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#4F2020",
+    "id": "reaper-09136",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Walnut Brown",
+    "range": "Master Series Core",
+    "sku": "09136",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09136"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09135",
+        "colors": [
+          "reaper-09135",
+          "reaper-09136",
+          "reaper-09137"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#5D1E1C",
+    "id": "reaper-09137",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blackened Brown",
+    "range": "Master Series Core",
+    "sku": "09137",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09137"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#823C1A",
+    "id": "reaper-09138",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Intense Brown",
+    "range": "Master Series Core",
+    "sku": "09138",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09138"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B1A37E",
+    "id": "reaper-09143",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellowed Ivory",
+    "range": "Master Series Core",
+    "sku": "09143",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09143"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D7C9A0",
+    "id": "reaper-09144",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Creamy Ivory",
+    "range": "Master Series Core",
+    "sku": "09144",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09144"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C8E76",
+    "id": "reaper-09148",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ghoul Skin",
+    "range": "Master Series Core",
+    "sku": "09148",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09148"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A8A980",
+    "id": "reaper-09149",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moldy Skin",
+    "range": "Master Series Core",
+    "sku": "09149",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09149"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C4C197",
+    "id": "reaper-09150",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bloodless Skin",
+    "range": "Master Series Core",
+    "sku": "09150",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09150"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5D5A27",
+    "id": "reaper-09158",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Drab",
+    "range": "Master Series Core",
+    "sku": "09158",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09158"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#614F3D",
+    "id": "reaper-09160",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Woodstain Brown",
+    "range": "Master Series Core",
+    "sku": "09160",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09160"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7B6045",
+    "id": "reaper-09161",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shield Brown",
+    "range": "Master Series Core",
+    "sku": "09161",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09161"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09162",
+        "colors": [
+          "reaper-09162",
+          "reaper-09163",
+          "reaper-09164"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#977E5E",
+    "id": "reaper-09162",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Driftwood Brown",
+    "range": "Master Series Core",
+    "sku": "09162",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09162"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09162",
+        "colors": [
+          "reaper-09162",
+          "reaper-09163",
+          "reaper-09164"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#5A4E56",
+    "id": "reaper-09163",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Elf Shadow",
+    "range": "Master Series Core",
+    "sku": "09163",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09163"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09162",
+        "colors": [
+          "reaper-09162",
+          "reaper-09163",
+          "reaper-09164"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6E656B",
+    "id": "reaper-09164",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Elf Skin",
+    "range": "Master Series Core",
+    "sku": "09164",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09164"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7A767B",
+    "id": "reaper-09165",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Elf Highlight",
+    "range": "Master Series Core",
+    "sku": "09165",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09165"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#768465",
+    "id": "reaper-09168",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mist Green",
+    "range": "Master Series Core",
+    "sku": "09168",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09168"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#444D2A",
+    "id": "reaper-09176",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Military Green",
+    "range": "Master Series Core",
+    "sku": "09176",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09176"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1A3348",
+    "id": "reaper-09187",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Shadow",
+    "range": "Master Series Core",
+    "sku": "09187",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09187"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1C557A",
+    "id": "reaper-09188",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Blue",
+    "range": "Master Series Core",
+    "sku": "09188",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09188"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1D74AB",
+    "id": "reaper-09189",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Highlight",
+    "range": "Master Series Core",
+    "sku": "09189",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09189"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#736F58",
+    "id": "reaper-09196",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aged Pewter",
+    "range": "Master Series Core",
+    "sku": "09196",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09196"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#53492F",
+    "id": "reaper-09197",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Old Bronze",
+    "range": "Master Series Core",
+    "sku": "09197",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09197"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#745C1F",
+    "id": "reaper-09198",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tarnished Brass",
+    "range": "Master Series Core",
+    "sku": "09198",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09198"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#824F29",
+    "id": "reaper-09200",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Harvest Brown",
+    "range": "Master Series Core",
+    "sku": "09200",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09200"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AD6538",
+    "id": "reaper-09201",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Brown",
+    "range": "Master Series Core",
+    "sku": "09201",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09201"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#656463",
+    "id": "reaper-09205",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blackened Steel",
+    "range": "Master Series Core",
+    "sku": "09205",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09205"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#90908E",
+    "id": "reaper-09206",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tarnished Steel",
+    "range": "Master Series Core",
+    "sku": "09206",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09206"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09207",
+        "colors": [
+          "reaper-09207",
+          "reaper-09208",
+          "reaper-09209"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A6A5A4",
+    "id": "reaper-09207",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "True Silver",
+    "range": "Master Series Core",
+    "sku": "09207",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09207"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09207",
+        "colors": [
+          "reaper-09207",
+          "reaper-09208",
+          "reaper-09209"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#1F2933",
+    "id": "reaper-09208",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Ink",
+    "range": "Master Series Core",
+    "sku": "09208",
+    "type": "ink",
+    "url": "https://www.reapermini.com/search/09208"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09207",
+        "colors": [
+          "reaper-09207",
+          "reaper-09208",
+          "reaper-09209"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#674428",
+    "id": "reaper-09209",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Ink",
+    "range": "Master Series Core",
+    "sku": "09209",
+    "type": "ink",
+    "url": "https://www.reapermini.com/search/09209"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#404040",
+    "id": "reaper-09214",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brush-On Black Primer",
+    "range": "Master Series Core",
+    "sku": "09214",
+    "type": "primer",
+    "url": "https://www.reapermini.com/search/09214"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BEBEBE",
+    "id": "reaper-09215",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Anti-Shine Additive",
+    "range": "Master Series Core",
+    "sku": "09215",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09215"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09216",
+        "colors": [
+          "reaper-09216",
+          "reaper-09217",
+          "reaper-09218"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BEBEBE",
+    "id": "reaper-09216",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Drying Retarder",
+    "range": "Master Series Core",
+    "sku": "09216",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09216"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09216",
+        "colors": [
+          "reaper-09216",
+          "reaper-09217",
+          "reaper-09218"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CC5143",
+    "id": "reaper-09217",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magma Red",
+    "range": "Master Series Core",
+    "sku": "09217",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09217"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09216",
+        "colors": [
+          "reaper-09216",
+          "reaper-09217",
+          "reaper-09218"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CE663C",
+    "id": "reaper-09218",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lava Orange",
+    "range": "Master Series Core",
+    "sku": "09218",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09218"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CF8338",
+    "id": "reaper-09219",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Explosion Orange",
+    "range": "Master Series Core",
+    "sku": "09219",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09219"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#917942",
+    "id": "reaper-09221",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Skin",
+    "range": "Master Series Core",
+    "sku": "09221",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09221"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#34694B",
+    "id": "reaper-09227",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brilliant Green",
+    "range": "Master Series Core",
+    "sku": "09227",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09227"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#308D53",
+    "id": "reaper-09228",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Viper Green",
+    "range": "Master Series Core",
+    "sku": "09228",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09228"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5B7587",
+    "id": "reaper-09231",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Heather Blue",
+    "range": "Master Series Core",
+    "sku": "09231",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09231"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#511B40",
+    "id": "reaper-09239",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Monarch Purple",
+    "range": "Master Series Core",
+    "sku": "09239",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09239"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09240",
+        "colors": [
+          "reaper-09240",
+          "reaper-09241",
+          "reaper-09242"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#732A58",
+    "id": "reaper-09240",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Royal Purple",
+    "range": "Master Series Core",
+    "sku": "09240",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09240"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09240",
+        "colors": [
+          "reaper-09240",
+          "reaper-09241",
+          "reaper-09242"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#71372B",
+    "id": "reaper-09241",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Auburn Shadow",
+    "range": "Master Series Core",
+    "sku": "09241",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09241"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09240",
+        "colors": [
+          "reaper-09240",
+          "reaper-09241",
+          "reaper-09242"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AF603F",
+    "id": "reaper-09242",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carrottop Red",
+    "range": "Master Series Core",
+    "sku": "09242",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09242"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BB7E43",
+    "id": "reaper-09243",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Highlight Orange",
+    "range": "Master Series Core",
+    "sku": "09243",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09243"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#564938",
+    "id": "reaper-09245",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Basic Dirt",
+    "range": "Master Series Core",
+    "sku": "09245",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09245"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#776040",
+    "id": "reaper-09246",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Sand",
+    "range": "Master Series Core",
+    "sku": "09246",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09246"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#83BC56",
+    "id": "reaper-09248",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moth Green",
+    "range": "Master Series Core",
+    "sku": "09248",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09248"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#884D49",
+    "id": "reaper-09253",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flesh Wash",
+    "range": "Master Series Core",
+    "sku": "09253",
+    "type": "wash",
+    "url": "https://www.reapermini.com/search/09253"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5C423A",
+    "id": "reaper-09254",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Wash",
+    "range": "Master Series Core",
+    "sku": "09254",
+    "type": "wash",
+    "url": "https://www.reapermini.com/search/09254"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09255",
+        "colors": [
+          "reaper-09255",
+          "reaper-09256",
+          "reaper-09257"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#353839",
+    "id": "reaper-09255",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Wash",
+    "range": "Master Series Core",
+    "sku": "09255",
+    "type": "wash",
+    "url": "https://www.reapermini.com/search/09255"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09255",
+        "colors": [
+          "reaper-09255",
+          "reaper-09256",
+          "reaper-09257"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8E491D",
+    "id": "reaper-09256",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blonde Shadow",
+    "range": "Master Series Core",
+    "sku": "09256",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09256"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09255",
+        "colors": [
+          "reaper-09255",
+          "reaper-09256",
+          "reaper-09257"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C4904E",
+    "id": "reaper-09257",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blonde Hair",
+    "range": "Master Series Core",
+    "sku": "09257",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09257"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09258",
+        "colors": [
+          "reaper-09258",
+          "reaper-09259",
+          "reaper-09260"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D1B270",
+    "id": "reaper-09258",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blonde Highlight",
+    "range": "Master Series Core",
+    "sku": "09258",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09258"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09258",
+        "colors": [
+          "reaper-09258",
+          "reaper-09259",
+          "reaper-09260"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8F3F1F",
+    "id": "reaper-09259",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronzed Skin Shadow",
+    "range": "Master Series Core",
+    "sku": "09259",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09259"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09258",
+        "colors": [
+          "reaper-09258",
+          "reaper-09259",
+          "reaper-09260"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AB6539",
+    "id": "reaper-09260",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronzed Skin",
+    "range": "Master Series Core",
+    "sku": "09260",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09260"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09261",
+        "colors": [
+          "reaper-09261",
+          "reaper-09262",
+          "reaper-09263"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A7844C",
+    "id": "reaper-09261",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronzed Skin Highlight",
+    "range": "Master Series Core",
+    "sku": "09261",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09261"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09261",
+        "colors": [
+          "reaper-09261",
+          "reaper-09262",
+          "reaper-09263"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CB5E9D",
+    "id": "reaper-09262",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blush Pink",
+    "range": "Master Series Core",
+    "sku": "09262",
+    "type": "ink",
+    "url": "https://www.reapermini.com/search/09262"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09261",
+        "colors": [
+          "reaper-09261",
+          "reaper-09262",
+          "reaper-09263"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#7DBE7C",
+    "id": "reaper-09263",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mint Green",
+    "range": "Master Series Core",
+    "sku": "09263",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09263"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#79B4BA",
+    "id": "reaper-09264",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Blue",
+    "range": "Master Series Core",
+    "sku": "09264",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09264"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A1A190",
+    "id": "reaper-09274",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vampiric Shadow",
+    "range": "Master Series Core",
+    "sku": "09274",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09274"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C7BEAC",
+    "id": "reaper-09275",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vampiric Skin",
+    "range": "Master Series Core",
+    "sku": "09275",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09275"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CDC8B7",
+    "id": "reaper-09276",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vampiric Highlight",
+    "range": "Master Series Core",
+    "sku": "09276",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09276"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09279",
+        "colors": [
+          "reaper-09279",
+          "reaper-09280",
+          "reaper-09281"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A21616",
+    "id": "reaper-09279",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fresh Blood",
+    "range": "Master Series Core",
+    "sku": "09279",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09279"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09279",
+        "colors": [
+          "reaper-09279",
+          "reaper-09280",
+          "reaper-09281"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#2E323C",
+    "id": "reaper-09280",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nightmare Black",
+    "range": "Master Series Core",
+    "sku": "09280",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09280"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09279",
+        "colors": [
+          "reaper-09279",
+          "reaper-09280",
+          "reaper-09281"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B28399",
+    "id": "reaper-09281",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Braaaaiins Pink",
+    "range": "Master Series Core",
+    "sku": "09281",
+    "type": "ink",
+    "url": "https://www.reapermini.com/search/09281"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B23B7C",
+    "id": "reaper-09286",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Punk Rock Pink",
+    "range": "Master Series Core",
+    "sku": "09286",
+    "type": "ink",
+    "url": "https://www.reapermini.com/search/09286"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B5D73B",
+    "id": "reaper-09287",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neon Yellow",
+    "range": "Master Series Core",
+    "sku": "09287",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09287"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09288",
+        "colors": [
+          "reaper-09288",
+          "reaper-09289",
+          "reaper-09290"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#78AB8E",
+    "id": "reaper-09288",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Led Blue",
+    "range": "Master Series Core",
+    "sku": "09288",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09288"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09288",
+        "colors": [
+          "reaper-09288",
+          "reaper-09289",
+          "reaper-09290"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#4A4A4A",
+    "id": "reaper-09289",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Noir Black",
+    "range": "Master Series Core",
+    "sku": "09289",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09289"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09288",
+        "colors": [
+          "reaper-09288",
+          "reaper-09289",
+          "reaper-09290"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#989898",
+    "id": "reaper-09290",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aircraft Grey",
+    "range": "Master Series Core",
+    "sku": "09290",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09290"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B0E135",
+    "id": "reaper-09294",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Alien Goo",
+    "range": "Master Series Core",
+    "sku": "09294",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09294"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BEBEBE",
+    "id": "reaper-09298",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gloss Sealer",
+    "range": "Master Series Core",
+    "sku": "09298",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09298"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B7C3C3",
+    "id": "reaper-09299",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brush-On Grey Primer",
+    "range": "Master Series Core",
+    "sku": "09299",
+    "type": "primer",
+    "url": "https://www.reapermini.com/search/09299"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09300",
+        "colors": [
+          "reaper-09300",
+          "reaper-09301",
+          "reaper-09302"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BFBFBF",
+    "id": "reaper-09300",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wash Medium",
+    "range": "Master Series Core",
+    "sku": "09300",
+    "type": "wash",
+    "url": "https://www.reapermini.com/search/09300"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09300",
+        "colors": [
+          "reaper-09300",
+          "reaper-09301",
+          "reaper-09302"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#866F48",
+    "id": "reaper-09301",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nmm Gold Shadow",
+    "range": "Master Series Core",
+    "sku": "09301",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09301"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09300",
+        "colors": [
+          "reaper-09300",
+          "reaper-09301",
+          "reaper-09302"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B38E4A",
+    "id": "reaper-09302",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nmm Gold Base",
+    "range": "Master Series Core",
+    "sku": "09302",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09302"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09303",
+        "colors": [
+          "reaper-09303",
+          "reaper-09304",
+          "reaper-09305"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CBB75A",
+    "id": "reaper-09303",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nmm Gold Highlight",
+    "range": "Master Series Core",
+    "sku": "09303",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09303"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09303",
+        "colors": [
+          "reaper-09303",
+          "reaper-09304",
+          "reaper-09305"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#74AFA1",
+    "id": "reaper-09304",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Copper Verdigris",
+    "range": "Master Series Core",
+    "sku": "09304",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09304"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09303",
+        "colors": [
+          "reaper-09303",
+          "reaper-09304",
+          "reaper-09305"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#875041",
+    "id": "reaper-09305",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tarnished Copper",
+    "range": "Master Series Core",
+    "sku": "09305",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09305"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C88B70",
+    "id": "reaper-09306",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "New Copper",
+    "range": "Master Series Core",
+    "sku": "09306",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09306"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#344235",
+    "id": "reaper-09308",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Liner",
+    "range": "Master Series Core",
+    "sku": "09308",
+    "type": "wash",
+    "url": "https://www.reapermini.com/search/09308"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09309",
+        "colors": [
+          "reaper-09309",
+          "reaper-09310",
+          "reaper-09311"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#5B4833",
+    "id": "reaper-09309",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sepia Liner",
+    "range": "Master Series Core",
+    "sku": "09309",
+    "type": "wash",
+    "url": "https://www.reapermini.com/search/09309"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09309",
+        "colors": [
+          "reaper-09309",
+          "reaper-09310",
+          "reaper-09311"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#60554C",
+    "id": "reaper-09310",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sepia Wash",
+    "range": "Master Series Core",
+    "sku": "09310",
+    "type": "wash",
+    "url": "https://www.reapermini.com/search/09310"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09309",
+        "colors": [
+          "reaper-09309",
+          "reaper-09310",
+          "reaper-09311"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#5F5C59",
+    "id": "reaper-09311",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stone Wash",
+    "range": "Master Series Core",
+    "sku": "09311",
+    "type": "wash",
+    "url": "https://www.reapermini.com/search/09311"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09312",
+        "colors": [
+          "reaper-09312",
+          "reaper-09313",
+          "reaper-09314"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#58585A",
+    "id": "reaper-09312",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Steel Wash",
+    "range": "Master Series Core",
+    "sku": "09312",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09312"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09312",
+        "colors": [
+          "reaper-09312",
+          "reaper-09313",
+          "reaper-09314"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6E6544",
+    "id": "reaper-09313",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rotting Wood",
+    "range": "Master Series Core",
+    "sku": "09313",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09313"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09312",
+        "colors": [
+          "reaper-09312",
+          "reaper-09313",
+          "reaper-09314"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C7954D",
+    "id": "reaper-09314",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Heartwood Brown",
+    "range": "Master Series Core",
+    "sku": "09314",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09314"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09315",
+        "colors": [
+          "reaper-09315",
+          "reaper-09316",
+          "reaper-09317"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C8BFC6",
+    "id": "reaper-09315",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ancient Wood",
+    "range": "Master Series Core",
+    "sku": "09315",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09315"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09315",
+        "colors": [
+          "reaper-09315",
+          "reaper-09316",
+          "reaper-09317"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#767778",
+    "id": "reaper-09316",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Foggy Grey",
+    "range": "Master Series Core",
+    "sku": "09316",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09316"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09315",
+        "colors": [
+          "reaper-09315",
+          "reaper-09316",
+          "reaper-09317"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C3DCE1",
+    "id": "reaper-09317",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moonstone Blue",
+    "range": "Master Series Core",
+    "sku": "09317",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09317"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09318",
+        "colors": [
+          "reaper-09318",
+          "reaper-09319",
+          "reaper-09320"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6F6F6F",
+    "id": "reaper-09318",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carbon Grey",
+    "range": "Master Series Core",
+    "sku": "09318",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09318"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09318",
+        "colors": [
+          "reaper-09318",
+          "reaper-09319",
+          "reaper-09320"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#22B292",
+    "id": "reaper-09319",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Phantom Glow",
+    "range": "Master Series Core",
+    "sku": "09319",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09319"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09318",
+        "colors": [
+          "reaper-09318",
+          "reaper-09319",
+          "reaper-09320"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#E571AD",
+    "id": "reaper-09320",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Runic Glow",
+    "range": "Master Series Core",
+    "sku": "09320",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09320"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09321",
+        "colors": [
+          "reaper-09321",
+          "reaper-09322",
+          "reaper-09323"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#F18973",
+    "id": "reaper-09321",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Neon Glow",
+    "range": "Master Series Core",
+    "sku": "09321",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09321"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09321",
+        "colors": [
+          "reaper-09321",
+          "reaper-09322",
+          "reaper-09323"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A5B99F",
+    "id": "reaper-09322",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jungle Mist",
+    "range": "Master Series Core",
+    "sku": "09322",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09322"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09321",
+        "colors": [
+          "reaper-09321",
+          "reaper-09322",
+          "reaper-09323"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E97A7",
+    "id": "reaper-09323",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Glacial Mist",
+    "range": "Master Series Core",
+    "sku": "09323",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09323"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09324",
+        "colors": [
+          "reaper-09324",
+          "reaper-09325",
+          "reaper-09326"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C19DB0",
+    "id": "reaper-09324",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sorcerous Mist",
+    "range": "Master Series Core",
+    "sku": "09324",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09324"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09324",
+        "colors": [
+          "reaper-09324",
+          "reaper-09325",
+          "reaper-09326"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#826D87",
+    "id": "reaper-09325",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carnival Purple",
+    "range": "Master Series Core",
+    "sku": "09325",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09325"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09324",
+        "colors": [
+          "reaper-09324",
+          "reaper-09325",
+          "reaper-09326"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#796D6E",
+    "id": "reaper-09326",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bruised Purple",
+    "range": "Master Series Core",
+    "sku": "09326",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09326"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09327",
+        "colors": [
+          "reaper-09327",
+          "reaper-09328",
+          "reaper-09329"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#887E7F",
+    "id": "reaper-09327",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ashen Brown",
+    "range": "Master Series Core",
+    "sku": "09327",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09327"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09327",
+        "colors": [
+          "reaper-09327",
+          "reaper-09328",
+          "reaper-09329"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#70737E",
+    "id": "reaper-09328",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Indigo",
+    "range": "Master Series Core",
+    "sku": "09328",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09328"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09327",
+        "colors": [
+          "reaper-09327",
+          "reaper-09328",
+          "reaper-09329"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6F7BA8",
+    "id": "reaper-09329",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rich Indigo",
+    "range": "Master Series Core",
+    "sku": "09329",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09329"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09330",
+        "colors": [
+          "reaper-09330",
+          "reaper-09331",
+          "reaper-09332"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#766E8D",
+    "id": "reaper-09330",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wild Violet",
+    "range": "Master Series Core",
+    "sku": "09330",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09330"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09330",
+        "colors": [
+          "reaper-09330",
+          "reaper-09331",
+          "reaper-09332"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AF8963",
+    "id": "reaper-09331",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Ochre",
+    "range": "Master Series Core",
+    "sku": "09331",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09331"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09330",
+        "colors": [
+          "reaper-09330",
+          "reaper-09331",
+          "reaper-09332"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8F615A",
+    "id": "reaper-09332",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oxidized Red",
+    "range": "Master Series Core",
+    "sku": "09332",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09332"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09333",
+        "colors": [
+          "reaper-09333",
+          "reaper-09334",
+          "reaper-09335"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#76625C",
+    "id": "reaper-09333",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oxidized Brown",
+    "range": "Master Series Core",
+    "sku": "09333",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09333"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09333",
+        "colors": [
+          "reaper-09333",
+          "reaper-09334",
+          "reaper-09335"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#92738D",
+    "id": "reaper-09334",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orchid Purple",
+    "range": "Master Series Core",
+    "sku": "09334",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09334"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09333",
+        "colors": [
+          "reaper-09333",
+          "reaper-09334",
+          "reaper-09335"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B57E6F",
+    "id": "reaper-09335",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lotus Orange",
+    "range": "Master Series Core",
+    "sku": "09335",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09335"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#88A270",
+    "id": "reaper-09336",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leaf Bud Green",
+    "range": "Master Series Core",
+    "sku": "09336",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09336"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AC9F9D",
+    "id": "reaper-09337",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rose Gold",
+    "range": "Master Series Core",
+    "sku": "09337",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09337"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8D7F71",
+    "id": "reaper-09610",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Graham Cracker",
+    "range": "Master Series Core",
+    "sku": "09610",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09610"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A1A1A1",
+    "id": "reaper-09611",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Toasted Marshmallow",
+    "range": "Master Series Core",
+    "sku": "09611",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09611"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09612",
+        "colors": [
+          "reaper-09612",
+          "reaper-09613",
+          "reaper-09614"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#625047",
+    "id": "reaper-09612",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chocolate Bar",
+    "range": "Master Series Core",
+    "sku": "09612",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09612"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09612",
+        "colors": [
+          "reaper-09612",
+          "reaper-09613",
+          "reaper-09614"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#805C5C",
+    "id": "reaper-09613",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cranberry Red",
+    "range": "Master Series Core",
+    "sku": "09613",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09613"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09612",
+        "colors": [
+          "reaper-09612",
+          "reaper-09613",
+          "reaper-09614"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8D8263",
+    "id": "reaper-09614",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Angelic Gold",
+    "range": "Master Series Core",
+    "sku": "09614",
+    "type": "metallic",
+    "url": "https://www.reapermini.com/search/09614"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09615",
+        "colors": [
+          "reaper-09615",
+          "reaper-09616",
+          "reaper-09617"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#626968",
+    "id": "reaper-09615",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spruce Green",
+    "range": "Master Series Core",
+    "sku": "09615",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09615"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09615",
+        "colors": [
+          "reaper-09615",
+          "reaper-09616",
+          "reaper-09617"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#5A7086",
+    "id": "reaper-09616",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dreidel Blue",
+    "range": "Master Series Core",
+    "sku": "09616",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09616"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {
+      "flexibleTriad": {
+        "triadId": "triad-09615",
+        "colors": [
+          "reaper-09615",
+          "reaper-09616",
+          "reaper-09617"
+        ]
+      }
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#7B6051",
+    "id": "reaper-09617",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Roast Turducken",
+    "range": "Master Series Core",
+    "sku": "09617",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09617"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3E814E",
+    "id": "reaper-09658",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Christmas Wreath",
+    "range": "Master Series Core",
+    "sku": "09658",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09658"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C6C6C6",
+    "id": "reaper-09688",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Peppermint White",
+    "range": "Master Series Core",
+    "sku": "09688",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09688"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#969A9E",
+    "id": "reaper-09689",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sparkling Snow",
+    "range": "Master Series Core",
+    "sku": "09689",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09689"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5194B0",
+    "id": "reaper-09692",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Frosty Blue",
+    "range": "Master Series Core",
+    "sku": "09692",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09692"
+  },
+  {
+    "brand": "Reaper",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2E3641",
+    "id": "reaper-09693",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Coal Black",
+    "range": "Master Series Core",
+    "sku": "09693",
+    "type": "opaque",
+    "url": "https://www.reapermini.com/search/09693"
+  }
+]
