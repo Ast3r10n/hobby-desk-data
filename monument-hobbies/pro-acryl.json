@@ -1,0 +1,3131 @@
+[
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#515355",
+    "id": "monument-hobbies-amp-002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cool Grey",
+    "range": "AMP Colors",
+    "sku": "AMP-002",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/amp-colors-002-cool-grey"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#34100F",
+    "id": "monument-hobbies-amp-004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Red",
+    "range": "AMP Colors",
+    "sku": "AMP-004",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/amp-colors-002-cool-grey-copy"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#0E0D12",
+    "id": "monument-hobbies-amp-005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Navy Blue",
+    "range": "AMP Colors",
+    "sku": "AMP-005",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/amp-colors-005-dark-navy-blue"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#6F4A30",
+    "id": "monument-hobbies-amp-006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beige Grey",
+    "range": "AMP Colors",
+    "sku": "AMP-006",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/amp-colors-006-beige-grey"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#C26A0F",
+    "id": "monument-hobbies-amp-007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Yellow",
+    "range": "AMP Colors",
+    "sku": "AMP-007",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/amp-colors-007-orange-yellow"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#C1865F",
+    "id": "monument-hobbies-amp-008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Peach Flesh",
+    "range": "AMP Colors",
+    "sku": "AMP-008",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/amp-colors-008-peach-flesh"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#64756F",
+    "id": "monument-hobbies-amp-009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Green Blue",
+    "range": "AMP Colors",
+    "sku": "AMP-009",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/amp-colors-009-bright-green-blue"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#373737",
+    "id": "monument-hobbies-amp-010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Steel",
+    "range": "AMP Colors",
+    "sku": "AMP-010",
+    "type": "metallic",
+    "url": "https://monumenthobbies.com/products/amp-colors-010-steel"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#530C10",
+    "id": "monument-hobbies-amp-011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magenta Wash",
+    "range": "AMP Colors",
+    "sku": "AMP-011",
+    "type": "wash",
+    "url": "https://monumenthobbies.com/products/amp-colors-011-magenta-wash"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#130F0C",
+    "id": "monument-hobbies-amp-012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Petroleum Brown Wash",
+    "range": "AMP Colors",
+    "sku": "AMP-012",
+    "type": "wash",
+    "url": "https://monumenthobbies.com/products/amp-colors-012-petroleum-brown-wash"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#191820",
+    "id": "monument-hobbies-amp-013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Slate Grey",
+    "range": "AMP Colors",
+    "sku": "AMP-013",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/amp-colors-013-slate-grey"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#BA180E",
+    "id": "monument-hobbies-amp-017",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Orange",
+    "range": "AMP Colors",
+    "sku": "AMP-017",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/amp-colors-017-red-orange"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#501D11",
+    "id": "monument-hobbies-amp-018",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Umber",
+    "range": "AMP Colors",
+    "sku": "AMP-018",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/amp-colors-018-burnt-umber"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#5F3C1F",
+    "id": "monument-hobbies-amp-020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Brown",
+    "range": "AMP Colors",
+    "sku": "AMP-020",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/amp-colors-020-green-brown"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#5C4C3F",
+    "id": "monument-hobbies-amp-021",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Brown Grey",
+    "range": "AMP Colors",
+    "sku": "AMP-021",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/amp-colors-021-bright-brown-grey"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#372F24",
+    "id": "monument-hobbies-amp-022",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Green",
+    "range": "AMP Colors",
+    "sku": "AMP-022",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/amp-colors-022-grey-green"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#141110",
+    "id": "monument-hobbies-amp-023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Grey Wash",
+    "range": "AMP Colors",
+    "sku": "AMP-023",
+    "type": "wash",
+    "url": "https://monumenthobbies.com/products/amp-colors-023-brown-grey-wash"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "AMP Colors",
+    "discontinued": false,
+    "hex": "#0E1011",
+    "id": "monument-hobbies-amp-024",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Payne's Grey Wash",
+    "range": "AMP Colors",
+    "sku": "AMP-024",
+    "type": "wash",
+    "url": "https://monumenthobbies.com/products/amp-colors-024-paynes-grey-wash"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "monument-hobbies-mea-001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Titanium White",
+    "range": "Expert Acrylics",
+    "sku": "MEA-001",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-titanium-white"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#252525",
+    "id": "monument-hobbies-mea-002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carbon Black",
+    "range": "Expert Acrylics",
+    "sku": "MEA-002",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-002-carbon-black"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#EE3932",
+    "id": "monument-hobbies-mea-003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pyrrole Red",
+    "range": "Expert Acrylics",
+    "sku": "MEA-003",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-003-pyrrole-red"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#0E6D39",
+    "id": "monument-hobbies-mea-004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Permanent Green Light",
+    "range": "Expert Acrylics",
+    "sku": "MEA-004",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-004-permanent-green-light"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#161536",
+    "id": "monument-hobbies-mea-005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Prussian Blue",
+    "range": "Expert Acrylics",
+    "sku": "MEA-005",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-005-prussian-blue"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#EF4E22",
+    "id": "monument-hobbies-mea-006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pyrrole Orange",
+    "range": "Expert Acrylics",
+    "sku": "MEA-006",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-006-pyrrole-orange"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#4B3128",
+    "id": "monument-hobbies-mea-007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Umber",
+    "range": "Expert Acrylics",
+    "sku": "MEA-007",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-007-burnt-umber"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#1F1028",
+    "id": "monument-hobbies-mea-008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dioxazine Violet",
+    "range": "Expert Acrylics",
+    "sku": "MEA-008",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-008-dioxazine-violet"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#093520",
+    "id": "monument-hobbies-mea-009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sap Green",
+    "range": "Expert Acrylics",
+    "sku": "MEA-009",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-009-sap-green"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#642A1C",
+    "id": "monument-hobbies-mea-010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Sienna",
+    "range": "Expert Acrylics",
+    "sku": "MEA-010",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-010-burnt-sienna"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#663F1E",
+    "id": "monument-hobbies-mea-011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nickel Azo Yellow",
+    "range": "Expert Acrylics",
+    "sku": "MEA-011",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-011-nickel-azo-yellow"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#20160C",
+    "id": "monument-hobbies-mea-012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sepia",
+    "range": "Expert Acrylics",
+    "sku": "MEA-012",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-012-sepia"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#202C3A",
+    "id": "monument-hobbies-mea-013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Payne's Grey",
+    "range": "Expert Acrylics",
+    "sku": "MEA-013",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-013-paynes-grey"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#293479",
+    "id": "monument-hobbies-mea-014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Primary Cyan",
+    "range": "Expert Acrylics",
+    "sku": "MEA-014",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-014-primary-cyan"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#A31E36",
+    "id": "monument-hobbies-mea-015",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Primary Magenta",
+    "range": "Expert Acrylics",
+    "sku": "MEA-015",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-015-primary-magenta"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Expert Acrylics",
+    "discontinued": false,
+    "hex": "#D9A222",
+    "id": "monument-hobbies-mea-016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Primary Yellow",
+    "range": "Expert Acrylics",
+    "sku": "MEA-016",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/expert-acrylics-016-primary-yellow"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#CBCBCB",
+    "id": "monument-hobbies-mpa-001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bold Titanium White",
+    "range": "Pro Acryl",
+    "sku": "MPA-001",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-bold-titanium-white"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#0F0F0F",
+    "id": "monument-hobbies-mpa-002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Coal Black",
+    "range": "Pro Acryl",
+    "sku": "MPA-002",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-coal-black"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#9C0E11",
+    "id": "monument-hobbies-mpa-003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bold Pyrrole Red",
+    "range": "Pro Acryl",
+    "sku": "MPA-003",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-bold-pyrrole-red"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#08541B",
+    "id": "monument-hobbies-mpa-004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green",
+    "range": "Pro Acryl",
+    "sku": "MPA-004",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-green"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#0B317B",
+    "id": "monument-hobbies-mpa-005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue",
+    "range": "Pro Acryl",
+    "sku": "MPA-005",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-blue"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#C8A509",
+    "id": "monument-hobbies-mpa-006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golden Yellow",
+    "range": "Pro Acryl",
+    "sku": "MPA-006",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-golden-yellow"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#C14B0F",
+    "id": "monument-hobbies-mpa-007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange",
+    "range": "Pro Acryl",
+    "sku": "MPA-007",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-orange"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#511111",
+    "id": "monument-hobbies-mpa-008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Red",
+    "range": "Pro Acryl",
+    "sku": "MPA-008",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-burnt-red"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#1D0E0E",
+    "id": "monument-hobbies-mpa-009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mahogany",
+    "range": "Pro Acryl",
+    "sku": "MPA-009",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-mahogany"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#4F224D",
+    "id": "monument-hobbies-mpa-010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple",
+    "range": "Pro Acryl",
+    "sku": "MPA-010",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-purple"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#8D1D44",
+    "id": "monument-hobbies-mpa-011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magenta",
+    "range": "Pro Acryl",
+    "sku": "MPA-011",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-magenta"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#1070A7",
+    "id": "monument-hobbies-mpa-012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sky Blue",
+    "range": "Pro Acryl",
+    "sku": "MPA-012",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-sky-blue"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#355A94",
+    "id": "monument-hobbies-mpa-013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Faded Ultramarine",
+    "range": "Pro Acryl",
+    "sku": "MPA-013",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-faded-ultramarine"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#0D1231",
+    "id": "monument-hobbies-mpa-014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Grey Blue",
+    "range": "Pro Acryl",
+    "sku": "MPA-014",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-dark-grey-blue"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#99A18E",
+    "id": "monument-hobbies-mpa-015",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Warm Grey",
+    "range": "Pro Acryl",
+    "sku": "MPA-015",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-bright-warm-grey"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#1F2024",
+    "id": "monument-hobbies-mpa-016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Warm Grey",
+    "range": "Pro Acryl",
+    "sku": "MPA-016",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-dark-warm-grey"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#A37D3F",
+    "id": "monument-hobbies-mpa-017",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golden Brown",
+    "range": "Pro Acryl",
+    "sku": "MPA-017",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-golden-brown"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#40281C",
+    "id": "monument-hobbies-mpa-018",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Umber",
+    "range": "Pro Acryl",
+    "sku": "MPA-018",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-light-umber"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#241412",
+    "id": "monument-hobbies-mpa-019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Umber",
+    "range": "Pro Acryl",
+    "sku": "MPA-019",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-dark-umber"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#24311D",
+    "id": "monument-hobbies-mpa-020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camo Green",
+    "range": "Pro Acryl",
+    "sku": "MPA-020",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-camo-green"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#093333",
+    "id": "monument-hobbies-mpa-021",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jade",
+    "range": "Pro Acryl",
+    "sku": "MPA-021",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-jade"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#C7C3AE",
+    "id": "monument-hobbies-mpa-022",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Ivory",
+    "range": "Pro Acryl",
+    "sku": "MPA-022",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-bright-ivory"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#B3A999",
+    "id": "monument-hobbies-mpa-023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ivory",
+    "range": "Pro Acryl",
+    "sku": "MPA-023",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-ivory"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#AD8474",
+    "id": "monument-hobbies-mpa-024",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tan Flesh",
+    "range": "Pro Acryl",
+    "sku": "MPA-024",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-tan-flesh"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Metallics",
+    "discontinued": false,
+    "hex": "#626666",
+    "id": "monument-hobbies-mpa-025",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Silver",
+    "range": "Pro Acryl",
+    "sku": "MPA-025",
+    "type": "metallic",
+    "url": "https://monumenthobbies.com/products/pro-acryl-silver"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Metallics",
+    "discontinued": false,
+    "hex": "#6C5F42",
+    "id": "monument-hobbies-mpa-026",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Bronze",
+    "range": "Pro Acryl",
+    "sku": "MPA-026",
+    "type": "metallic",
+    "url": "https://monumenthobbies.com/products/pro-acryl-light-bronze"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Metallics",
+    "discontinued": false,
+    "hex": "#622E11",
+    "id": "monument-hobbies-mpa-027",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Copper",
+    "range": "Pro Acryl",
+    "sku": "MPA-027",
+    "type": "metallic",
+    "url": "https://monumenthobbies.com/products/pro-acryl-copper"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Metallics",
+    "discontinued": false,
+    "hex": "#7C4711",
+    "id": "monument-hobbies-mpa-028",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rich Gold",
+    "range": "Pro Acryl",
+    "sku": "MPA-028",
+    "type": "metallic",
+    "url": "https://monumenthobbies.com/products/pro-acryl-rich-gold"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Metallics",
+    "discontinued": false,
+    "hex": "#6A6351",
+    "id": "monument-hobbies-mpa-029",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White Gold",
+    "range": "Pro Acryl",
+    "sku": "MPA-029",
+    "type": "metallic",
+    "url": "https://monumenthobbies.com/products/pro-acryl-white-gold"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Metallics",
+    "discontinued": false,
+    "hex": "#1E2021",
+    "id": "monument-hobbies-mpa-030",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Silver",
+    "range": "Pro Acryl",
+    "sku": "MPA-030",
+    "type": "metallic",
+    "url": "https://monumenthobbies.com/products/pro-acryl-dark-silver"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Metallics",
+    "discontinued": false,
+    "hex": "#946837",
+    "id": "monument-hobbies-mpa-031",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Gold",
+    "range": "Pro Acryl",
+    "sku": "MPA-031",
+    "type": "metallic",
+    "url": "https://monumenthobbies.com/products/pro-acryl-bright-gold"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Metallics",
+    "discontinued": false,
+    "hex": "#2F1B11",
+    "id": "monument-hobbies-mpa-032",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronze",
+    "range": "Pro Acryl",
+    "sku": "MPA-032",
+    "type": "metallic",
+    "url": "https://monumenthobbies.com/products/pro-acryl-bronze"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Metallics",
+    "discontinued": false,
+    "hex": "#69756F",
+    "id": "monument-hobbies-mpa-033",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Metallic Medium",
+    "range": "Pro Acryl",
+    "sku": "MPA-033",
+    "type": "metallic",
+    "url": "https://monumenthobbies.com/products/pro-acryl-metallic-medium"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#0C0E19",
+    "id": "monument-hobbies-mpa-034",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Blue",
+    "range": "Pro Acryl",
+    "sku": "MPA-034",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-dark-blue"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#0C0E19",
+    "id": "monument-hobbies-mpa-035",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Purple",
+    "range": "Pro Acryl",
+    "sku": "MPA-035",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-dark-purple"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#22261B",
+    "id": "monument-hobbies-mpa-036",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Camo Green",
+    "range": "Pro Acryl",
+    "sku": "MPA-036",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-dark-camo-green"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#6C1A13",
+    "id": "monument-hobbies-mpa-037",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Orange",
+    "range": "Pro Acryl",
+    "sku": "MPA-037",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-burnt-orange"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#9B6A1B",
+    "id": "monument-hobbies-mpa-038",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Ochre",
+    "range": "Pro Acryl",
+    "sku": "MPA-038",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-yellow-ochre"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#668A12",
+    "id": "monument-hobbies-mpa-039",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Yellow Green",
+    "range": "Pro Acryl",
+    "sku": "MPA-039",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-bright-yellow-green"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#191514",
+    "id": "monument-hobbies-mpa-040",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Brown",
+    "range": "Pro Acryl",
+    "sku": "MPA-040",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-black-brown"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#94836D",
+    "id": "monument-hobbies-mpa-041",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Flesh",
+    "range": "Pro Acryl",
+    "sku": "MPA-041",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-olive-flesh"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#70342B",
+    "id": "monument-hobbies-mpa-042",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shadow Flesh",
+    "range": "Pro Acryl",
+    "sku": "MPA-042",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-shadow-flesh"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#C5A6A3",
+    "id": "monument-hobbies-mpa-043",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Pink",
+    "range": "Pro Acryl",
+    "sku": "MPA-043",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-pale-pink"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#15181B",
+    "id": "monument-hobbies-mpa-044",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Neutral Grey",
+    "range": "Pro Acryl",
+    "sku": "MPA-044",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-dark-neutral-grey"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#A7A7A7",
+    "id": "monument-hobbies-mpa-045",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Neutral Grey",
+    "range": "Pro Acryl",
+    "sku": "MPA-045",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-bright-neutral-grey"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Transparents",
+    "discontinued": false,
+    "hex": "#101145",
+    "id": "monument-hobbies-mpa-046",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Transparent Blue",
+    "range": "Pro Acryl",
+    "sku": "MPA-046",
+    "type": "transparent",
+    "url": "https://monumenthobbies.com/products/pro-acryl-transparent-blue"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Transparents",
+    "discontinued": false,
+    "hex": "#65100F",
+    "id": "monument-hobbies-mpa-047",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Transparent Red",
+    "range": "Pro Acryl",
+    "sku": "MPA-047",
+    "type": "transparent",
+    "url": "https://monumenthobbies.com/products/pro-acryl-transparent-red"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Transparents",
+    "discontinued": false,
+    "hex": "#0C1E11",
+    "id": "monument-hobbies-mpa-048",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Transparent Green",
+    "range": "Pro Acryl",
+    "sku": "MPA-048",
+    "type": "transparent",
+    "url": "https://monumenthobbies.com/products/pro-acryl-transparent-green"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Transparents",
+    "discontinued": false,
+    "hex": "#6E6910",
+    "id": "monument-hobbies-mpa-049",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Transparent Yellow",
+    "range": "Pro Acryl",
+    "sku": "MPA-049",
+    "type": "transparent",
+    "url": "https://monumenthobbies.com/products/pro-acryl-transparent-yellow"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Transparents",
+    "discontinued": false,
+    "hex": "#754410",
+    "id": "monument-hobbies-mpa-050",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Transparent Orange",
+    "range": "Pro Acryl",
+    "sku": "MPA-050",
+    "type": "transparent",
+    "url": "https://monumenthobbies.com/products/pro-acryl-transparent-orange"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Transparents",
+    "discontinued": false,
+    "hex": "#110F22",
+    "id": "monument-hobbies-mpa-051",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Transparent Purple",
+    "range": "Pro Acryl",
+    "sku": "MPA-051",
+    "type": "transparent",
+    "url": "https://monumenthobbies.com/products/pro-acryl-transparent-purple"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Transparents",
+    "discontinued": false,
+    "hex": "#151111",
+    "id": "monument-hobbies-mpa-052",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Transparent Brown",
+    "range": "Pro Acryl",
+    "sku": "MPA-052",
+    "type": "transparent",
+    "url": "https://monumenthobbies.com/products/pro-acryl-transparent-brown"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Transparents",
+    "discontinued": false,
+    "hex": "#0B0B0B",
+    "id": "monument-hobbies-mpa-053",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Transparent Black",
+    "range": "Pro Acryl",
+    "sku": "MPA-053",
+    "type": "transparent",
+    "url": "https://monumenthobbies.com/products/pro-acryl-transparent-black"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#097082",
+    "id": "monument-hobbies-mpa-054",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise",
+    "range": "Pro Acryl",
+    "sku": "MPA-054",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-turquoise"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#50728E",
+    "id": "monument-hobbies-mpa-055",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Blue",
+    "range": "Pro Acryl",
+    "sku": "MPA-055",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-grey-blue"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#141921",
+    "id": "monument-hobbies-mpa-056",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Black",
+    "range": "Pro Acryl",
+    "sku": "MPA-056",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-blue-black"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#111412",
+    "id": "monument-hobbies-mpa-057",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Green",
+    "range": "Pro Acryl",
+    "sku": "MPA-057",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-black-green"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#8AAA9A",
+    "id": "monument-hobbies-mpa-058",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Pale Green",
+    "range": "Pro Acryl",
+    "sku": "MPA-058",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-bright-pale-green"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#45110E",
+    "id": "monument-hobbies-mpa-059",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Sienna",
+    "range": "Pro Acryl",
+    "sku": "MPA-059",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-burnt-sienna"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#CCBC80",
+    "id": "monument-hobbies-mpa-060",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Yellow",
+    "range": "Pro Acryl",
+    "sku": "MPA-060",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-pale-yellow"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#9F946B",
+    "id": "monument-hobbies-mpa-061",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Khaki",
+    "range": "Pro Acryl",
+    "sku": "MPA-061",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/061-pro-acryl-khaki"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#311A0D",
+    "id": "monument-hobbies-mpa-062",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Golden Brown",
+    "range": "Pro Acryl",
+    "sku": "MPA-062",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-dark-golden-brown"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#6F5D83",
+    "id": "monument-hobbies-mpa-063",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Faded Plum",
+    "range": "Pro Acryl",
+    "sku": "MPA-063",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/pro-acryl-faded-plum"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Transparents",
+    "discontinued": false,
+    "hex": "#9D9B9A",
+    "id": "monument-hobbies-mpa-064",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Transparent White",
+    "range": "Pro Acryl",
+    "sku": "MPA-064",
+    "type": "transparent",
+    "url": "https://monumenthobbies.com/products/064-pro-acryl-transparent-white"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#3F4717",
+    "id": "monument-hobbies-mpa-065",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Green",
+    "range": "Pro Acryl",
+    "sku": "MPA-065",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/065-pro-acryl-yellow-green"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#677860",
+    "id": "monument-hobbies-mpa-066",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Faded Green",
+    "range": "Pro Acryl",
+    "sku": "MPA-066",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/066-pro-acryl-faded-green"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#126F5C",
+    "id": "monument-hobbies-mpa-067",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Jade",
+    "range": "Pro Acryl",
+    "sku": "MPA-067",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/067-pro-acryl-bright-jade"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#321212",
+    "id": "monument-hobbies-mpa-068",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Flesh",
+    "range": "Pro Acryl",
+    "sku": "MPA-068",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/068-pro-acryl-dark-flesh"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#471012",
+    "id": "monument-hobbies-mpa-069",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burgundy",
+    "range": "Pro Acryl",
+    "sku": "MPA-069",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/069-pro-acryl-burgundy"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#5B215C",
+    "id": "monument-hobbies-mpa-070",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Plum",
+    "range": "Pro Acryl",
+    "sku": "MPA-070",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/070-pro-acryl-plum"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#BD6F7B",
+    "id": "monument-hobbies-mpa-071",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pink",
+    "range": "Pro Acryl",
+    "sku": "MPA-071",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/071-pro-acryl-pink"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#CA8F0B",
+    "id": "monument-hobbies-mpa-072",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warm Yellow",
+    "range": "Pro Acryl",
+    "sku": "MPA-072",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/072-pro-acryl-warm-yellow"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#CA9856",
+    "id": "monument-hobbies-mpa-073",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warm Flesh",
+    "range": "Pro Acryl",
+    "sku": "MPA-073",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/073-pro-acryl-warm-flesh"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#33393C",
+    "id": "monument-hobbies-mpa-074",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warm Grey",
+    "range": "Pro Acryl",
+    "sku": "MPA-074",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/074-pro-acryl-warm-grey"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Standard Colors",
+    "discontinued": false,
+    "hex": "#2A3138",
+    "id": "monument-hobbies-mpa-075",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neutral Grey",
+    "range": "Pro Acryl",
+    "sku": "MPA-075",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/075-pro-acryl-neutral-grey"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Washes",
+    "discontinued": false,
+    "hex": "#0A0A0A",
+    "id": "monument-hobbies-mpa-200",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Wash",
+    "range": "Pro Acryl",
+    "sku": "MPA-200",
+    "type": "wash",
+    "url": "https://monumenthobbies.com/products/076-pro-acryl-black-wash"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Washes",
+    "discontinued": false,
+    "hex": "#100C0B",
+    "id": "monument-hobbies-mpa-201",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Wash",
+    "range": "Pro Acryl",
+    "sku": "MPA-201",
+    "type": "wash",
+    "url": "https://monumenthobbies.com/products/201-pro-acryl-brown-wash"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Washes",
+    "discontinued": false,
+    "hex": "#451511",
+    "id": "monument-hobbies-mpa-202",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flesh Wash",
+    "range": "Pro Acryl",
+    "sku": "MPA-202",
+    "type": "wash",
+    "url": "https://monumenthobbies.com/products/202-pro-acryl-flesh-wash"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Fluorescents",
+    "discontinued": false,
+    "hex": "#BC1311",
+    "id": "monument-hobbies-mpa-f01",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Red",
+    "range": "Pro Acryl",
+    "sku": "MPA-F01",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/f01-fluorescent-red"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Fluorescents",
+    "discontinued": false,
+    "hex": "#BD200F",
+    "id": "monument-hobbies-mpa-f02",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Orange",
+    "range": "Pro Acryl",
+    "sku": "MPA-F02",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/f02-pro-acryl-fluorescent-orange"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Fluorescents",
+    "discontinued": false,
+    "hex": "#BEAA0E",
+    "id": "monument-hobbies-mpa-f03",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Yellow",
+    "range": "Pro Acryl",
+    "sku": "MPA-F03",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/f03-pro-acryl-fluorescent-yellow"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Fluorescents",
+    "discontinued": false,
+    "hex": "#13841C",
+    "id": "monument-hobbies-mpa-f04",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Green",
+    "range": "Pro Acryl",
+    "sku": "MPA-F04",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/f04-pro-acryl-fluorescent-green"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Fluorescents",
+    "discontinued": false,
+    "hex": "#730E59",
+    "id": "monument-hobbies-mpa-f05",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Purple",
+    "range": "Pro Acryl",
+    "sku": "MPA-F05",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/f05-pro-acryl-fluorescent-purple"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Fluorescents",
+    "discontinued": false,
+    "hex": "#BB114D",
+    "id": "monument-hobbies-mpa-f06",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Pink",
+    "range": "Pro Acryl",
+    "sku": "MPA-F06",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/f06-pro-acryl-fluorescent-pink"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Vince Venturella"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#10181E",
+    "id": "monument-hobbies-mpa-s01",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Jade",
+    "range": "Pro Acryl",
+    "sku": "MPA-S01",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s01-pro-acryl-dark-jade"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Vince Venturella"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#111224",
+    "id": "monument-hobbies-mpa-s02",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Payne's Grey",
+    "range": "Pro Acryl",
+    "sku": "MPA-S02",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/copy-of-s01-vince-venturella-dark-jade"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Vince Venturella"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#241132",
+    "id": "monument-hobbies-mpa-s03",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Royal Purple",
+    "range": "Pro Acryl",
+    "sku": "MPA-S03",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s03-vince-venturella-royal-purple"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Vince Venturella"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#91B4B8",
+    "id": "monument-hobbies-mpa-s04",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White Blue",
+    "range": "Pro Acryl",
+    "sku": "MPA-S04",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s04-vince-venturella-white-blue"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Vince Venturella"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#7E544B",
+    "id": "monument-hobbies-mpa-s05",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beige Red",
+    "range": "Pro Acryl",
+    "sku": "MPA-S05",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s05-vince-venturella-beige-red"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Vince Venturella"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#272B12",
+    "id": "monument-hobbies-mpa-s06",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Yellow Green",
+    "range": "Pro Acryl",
+    "sku": "MPA-S06",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s06-vince-venturella-dark-yellow-green"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Ninjon"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#8A887A",
+    "id": "monument-hobbies-mpa-s07",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Ivory",
+    "range": "Pro Acryl",
+    "sku": "MPA-S07",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s07-ninjon-dark-ivory"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Ninjon"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#AD7F41",
+    "id": "monument-hobbies-mpa-s08",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Warm Flesh",
+    "range": "Pro Acryl",
+    "sku": "MPA-S08",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s08-ninjon-dark-warm-flesh"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Ninjon"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#5A2414",
+    "id": "monument-hobbies-mpa-s09",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warm Brown",
+    "range": "Pro Acryl",
+    "sku": "MPA-S09",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s09-ninjon-warm-brown"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Ninjon"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#530C10",
+    "id": "monument-hobbies-mpa-s10",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Magenta",
+    "range": "Pro Acryl",
+    "sku": "MPA-S10",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s10-ninjon-dark-magenta"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Ninjon"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#160E11",
+    "id": "monument-hobbies-mpa-s11",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Plum",
+    "range": "Pro Acryl",
+    "sku": "MPA-S11",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s11-ninjon-dark-plum"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Ninjon"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#432E32",
+    "id": "monument-hobbies-mpa-s12",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Grey",
+    "range": "Pro Acryl",
+    "sku": "MPA-S12",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s12-ninjon-red-grey"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Ben Komets"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#091012",
+    "id": "monument-hobbies-mpa-s13",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Sea Ben",
+    "range": "Pro Acryl",
+    "sku": "MPA-S13",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s13-ben-komets-dark-sea-ben"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Ben Komets"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#180F0B",
+    "id": "monument-hobbies-mpa-s14",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Petroleum Brown",
+    "range": "Pro Acryl",
+    "sku": "MPA-S14",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s14-ben-komets-petroleum-brown"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Ben Komets"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#110D0C",
+    "id": "monument-hobbies-mpa-s15",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Burgundy",
+    "range": "Pro Acryl",
+    "sku": "MPA-S15",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s15-ben-komets-dark-burgundy"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Ben Komets"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#093F31",
+    "id": "monument-hobbies-mpa-s16",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Oxide",
+    "range": "Pro Acryl",
+    "sku": "MPA-S16",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s16-ben-komets-green-oxide"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Ben Komets"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#6B3825",
+    "id": "monument-hobbies-mpa-s17",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Advanced Flesh Tone",
+    "range": "Pro Acryl",
+    "sku": "MPA-S17",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s17-ben-komets-advanced-flesh-tone"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Ben Komets"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#CBAC7D",
+    "id": "monument-hobbies-mpa-s18",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Heavy Warm White",
+    "range": "Pro Acryl",
+    "sku": "MPA-S18",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s18-ben-komets-heavy-warm-white"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Matt Cexwish"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#180D0C",
+    "id": "monument-hobbies-mpa-s19",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Crimson",
+    "range": "Pro Acryl",
+    "sku": "MPA-S19",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s19-matt-cexwish-dark-crimson"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Matt Cexwish"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#0C1C20",
+    "id": "monument-hobbies-mpa-s20",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Emerald",
+    "range": "Pro Acryl",
+    "sku": "MPA-S20",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s20-matt-cexwish-dark-emerald"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Matt Cexwish"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#CBCBCB",
+    "id": "monument-hobbies-mpa-s21",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Heavy Titanium White",
+    "range": "Pro Acryl",
+    "sku": "MPA-S21",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s21-matt-cexwish-heavy-titanium-white"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Matt Cexwish"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#262420",
+    "id": "monument-hobbies-mpa-s22",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Grey",
+    "range": "Pro Acryl",
+    "sku": "MPA-S22",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s21-matt-cexwish-brown-grey"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Matt Cexwish"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#726860",
+    "id": "monument-hobbies-mpa-s23",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bone",
+    "range": "Pro Acryl",
+    "sku": "MPA-S23",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s23-matt-cexwish-bone"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Matt Cexwish"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#18100F",
+    "id": "monument-hobbies-mpa-s24",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Bronze",
+    "range": "Pro Acryl",
+    "sku": "MPA-S24",
+    "type": "metallic",
+    "url": "https://monumenthobbies.com/products/s24-matt-cexwish-dark-bronze"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Flameon"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#12100E",
+    "id": "monument-hobbies-mpa-s25",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Green Brown",
+    "range": "Pro Acryl",
+    "sku": "MPA-S25",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s25-flameon-dark-green-brown"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Flameon"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#32180F",
+    "id": "monument-hobbies-mpa-s26",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Orange Brown",
+    "range": "Pro Acryl",
+    "sku": "MPA-S26",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s26-flameon-dark-orange-brown"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Flameon"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#5E2F0F",
+    "id": "monument-hobbies-mpa-s27",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Brown",
+    "range": "Pro Acryl",
+    "sku": "MPA-S27",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s27-flameon-orange-brown"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Flameon"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#503112",
+    "id": "monument-hobbies-mpa-s28",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Caramel Brown",
+    "range": "Pro Acryl",
+    "sku": "MPA-S28",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s28-flameon-caramel-brown"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Flameon"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#AA742E",
+    "id": "monument-hobbies-mpa-s29",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Yellow Ochre",
+    "range": "Pro Acryl",
+    "sku": "MPA-S29",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s29-flameon-bright-yellow-ochre"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Flameon"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#CBC49B",
+    "id": "monument-hobbies-mpa-s30",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Pale Yellow",
+    "range": "Pro Acryl",
+    "sku": "MPA-S30",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s30-flameon-bright-pale-yellow"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Rogue Hobbies"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#B31214",
+    "id": "monument-hobbies-mpa-s31",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Red",
+    "range": "Pro Acryl",
+    "sku": "MPA-S31",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s31-rogue-hobbies-orange-red"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Rogue Hobbies"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#91102C",
+    "id": "monument-hobbies-mpa-s32",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Hot Pink",
+    "range": "Pro Acryl",
+    "sku": "MPA-S32",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s32-rogue-hobbies-dark-hot-pink"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Rogue Hobbies"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#0C7332",
+    "id": "monument-hobbies-mpa-s33",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Green",
+    "range": "Pro Acryl",
+    "sku": "MPA-S33",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s33-rogue-hobbies-bright-green"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Rogue Hobbies"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#0C4E64",
+    "id": "monument-hobbies-mpa-s34",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Turquoise",
+    "range": "Pro Acryl",
+    "sku": "MPA-S34",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s34-rogue-hobbies-dark-turquoise"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Rogue Hobbies"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#12307A",
+    "id": "monument-hobbies-mpa-s35",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine",
+    "range": "Pro Acryl",
+    "sku": "MPA-S35",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s35-rogue-hobbies-ultramarine"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "Rogue Hobbies"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#C6A739",
+    "id": "monument-hobbies-mpa-s36",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bismuth Yellow",
+    "range": "Pro Acryl",
+    "sku": "MPA-S36",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s36-rogue-hobbies-bismuth-yellow"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "AdeptiCon Spray-Team"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#57110F",
+    "id": "monument-hobbies-mpa-s37",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Oxide",
+    "range": "Pro Acryl",
+    "sku": "MPA-S37",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s37-adepticon-red-oxide"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "AdeptiCon Spray-Team"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#511F10",
+    "id": "monument-hobbies-mpa-s38",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Oxide",
+    "range": "Pro Acryl",
+    "sku": "MPA-S38",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s38-adepticon-orange-oxide"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "AdeptiCon Spray-Team"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#0C0C0C",
+    "id": "monument-hobbies-mpa-s39",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Satin Black",
+    "range": "Pro Acryl",
+    "sku": "MPA-S39",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s39-adepticon-satin-black"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "AdeptiCon Spray-Team"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#20120F",
+    "id": "monument-hobbies-mpa-s40",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Drab Brown",
+    "range": "Pro Acryl",
+    "sku": "MPA-S40",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s40-adepticon-drab-brown"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "AdeptiCon Spray-Team"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#C46B4E",
+    "id": "monument-hobbies-mpa-s41",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Shadow Flesh",
+    "range": "Pro Acryl",
+    "sku": "MPA-S41",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s41-adepticon-bright-shadow-flesh"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "AdeptiCon Spray-Team"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#191210",
+    "id": "monument-hobbies-mpa-s42",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magnesium",
+    "range": "Pro Acryl",
+    "sku": "MPA-S42",
+    "type": "metallic",
+    "url": "https://monumenthobbies.com/products/s42-adepticon-magnesium"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {
+      "artist": "NOVA"
+    },
+    "category": "Signature Series",
+    "discontinued": false,
+    "hex": "#C0430E",
+    "id": "monument-hobbies-mpa-s49",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange",
+    "range": "Pro Acryl",
+    "sku": "MPA-S49",
+    "type": "opaque",
+    "url": "https://monumenthobbies.com/products/s49-nova-orange"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Mediums",
+    "discontinued": false,
+    "hex": "#DFE1E0",
+    "id": "monument-hobbies-mpam-001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Glaze & Wash Medium",
+    "range": "Pro Acryl",
+    "sku": "MPAM-001",
+    "type": "thinner",
+    "url": "https://monumenthobbies.com/products/pro-acryl-glaze-wash-medium"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Mediums",
+    "discontinued": false,
+    "hex": "#515151",
+    "id": "monument-hobbies-mpam-002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matte Varnish",
+    "range": "Pro Acryl",
+    "sku": "MPAM-002",
+    "type": "technical",
+    "url": "https://monumenthobbies.com/products/pro-acryl-matte-varnish"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Mediums",
+    "discontinued": false,
+    "hex": "#808080",
+    "id": "monument-hobbies-mpam-003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gloss Varnish",
+    "range": "Pro Acryl",
+    "sku": "MPAM-003",
+    "type": "thinner",
+    "url": "https://monumenthobbies.com/products/pro-acryl-gloss-varnish"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Mediums",
+    "discontinued": false,
+    "hex": "#DEE1E0",
+    "id": "monument-hobbies-mpam-004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "NEWSH Acrylic Weathering Medium",
+    "range": "Pro Acryl",
+    "sku": "MPAM-004",
+    "type": "thinner",
+    "url": "https://monumenthobbies.com/products/pro-acryl-newsh-acrylic-weathering-medium"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Primers",
+    "discontinued": false,
+    "hex": "#3F3F3F",
+    "id": "monument-hobbies-mpap-002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Pro Acryl",
+    "sku": "MPAP-002",
+    "type": "primer",
+    "url": "https://monumenthobbies.com/products/pro-acryl-prime-black"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Primers",
+    "discontinued": false,
+    "hex": "#CCCCCC",
+    "id": "monument-hobbies-mpap-003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White",
+    "range": "Pro Acryl",
+    "sku": "MPAP-003",
+    "type": "primer",
+    "url": "https://monumenthobbies.com/products/pro-acryl-prime-white"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Primers",
+    "discontinued": false,
+    "hex": "#3A3A3A",
+    "id": "monument-hobbies-mpap-005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Neutral Grey",
+    "range": "Pro Acryl",
+    "sku": "MPAP-005",
+    "type": "primer",
+    "url": "https://monumenthobbies.com/products/pro-acryl-prime-dark-neutral-grey"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Primers",
+    "discontinued": false,
+    "hex": "#4C6043",
+    "id": "monument-hobbies-mpap-007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Camo Green",
+    "range": "Pro Acryl",
+    "sku": "MPAP-007",
+    "type": "primer",
+    "url": "https://monumenthobbies.com/products/pro-acryl-prime-dark-camo-green"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Primers",
+    "discontinued": false,
+    "hex": "#59534F",
+    "id": "monument-hobbies-mpap-011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Brown",
+    "range": "Pro Acryl",
+    "sku": "MPAP-011",
+    "type": "primer",
+    "url": "https://monumenthobbies.com/products/pro-acryl-prime-black-brown"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Primers",
+    "discontinued": false,
+    "hex": "#C4C2BD",
+    "id": "monument-hobbies-mpap-013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brush-On White",
+    "range": "Pro Acryl",
+    "sku": "MPAP-013",
+    "type": "primer",
+    "url": "https://monumenthobbies.com/products/pro-acryl-prime-013-brush-on-white"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Primers",
+    "discontinued": false,
+    "hex": "#0F0F0F",
+    "id": "monument-hobbies-mpap-017",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brush-On Black",
+    "range": "Pro Acryl",
+    "sku": "MPAP-017",
+    "type": "primer",
+    "url": "https://monumenthobbies.com/products/pro-acryl-prime-017-brush-on-black"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Primers",
+    "discontinued": false,
+    "hex": "#56211C",
+    "id": "monument-hobbies-mpap-019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Oxide",
+    "range": "Pro Acryl",
+    "sku": "MPAP-019",
+    "type": "primer",
+    "url": "https://monumenthobbies.com/products/pro-acryl-prime-red-oxide"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Primers",
+    "discontinued": false,
+    "hex": "#382E4B",
+    "id": "monument-hobbies-mpap-023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Purple",
+    "range": "Pro Acryl",
+    "sku": "MPAP-023",
+    "type": "primer",
+    "url": "https://monumenthobbies.com/products/pro-acryl-prime-dark-purple"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Primers",
+    "discontinued": false,
+    "hex": "#908375",
+    "id": "monument-hobbies-mpap-029",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Taupe",
+    "range": "Pro Acryl",
+    "sku": "MPAP-029",
+    "type": "primer",
+    "url": "https://monumenthobbies.com/products/pro-acryl-prime-taupe"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Spray Primers",
+    "discontinued": false,
+    "hex": "#0A0A0A",
+    "id": "monument-hobbies-mpar-p02",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matte Black Primer",
+    "range": "Pro Acryl",
+    "sku": "MPAR-P02",
+    "type": "spray",
+    "url": "https://monumenthobbies.com/products/pro-acryl-spray-matte-black-primer"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Spray Primers",
+    "discontinued": false,
+    "hex": "#F5F5F5",
+    "id": "monument-hobbies-mpar-p03",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matte White Primer",
+    "range": "Pro Acryl",
+    "sku": "MPAR-P03",
+    "type": "spray",
+    "url": "https://monumenthobbies.com/products/pro-acryl-spray-matte-white-primer"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Spray Primers",
+    "discontinued": false,
+    "hex": "#5A5A5A",
+    "id": "monument-hobbies-mpar-p05",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matte Grey Primer",
+    "range": "Pro Acryl",
+    "sku": "MPAR-P05",
+    "type": "spray",
+    "url": "https://monumenthobbies.com/products/pro-acryl-spray-matte-grey-primer"
+  },
+  {
+    "brand": "Monument Hobbies",
+    "brandData": {},
+    "category": "Spray Varnishes",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "monument-hobbies-mpar-v01",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Clear Matte Varnish",
+    "range": "Pro Acryl",
+    "sku": "MPAR-V01",
+    "type": "varnish",
+    "url": "https://monumenthobbies.com/products/pro-acryl-spray-clear-matte-varnish"
+  }
+]

@@ -1,0 +1,325 @@
+[
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#432D20",
+    "id": "ak-interactive-ak19301",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rotwood Brown",
+    "range": "Acrylic Wash",
+    "sku": "AK19301",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/rotwood-brown-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#383530",
+    "id": "ak-interactive-ak19302",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Obsidian Holt",
+    "range": "Acrylic Wash",
+    "sku": "AK19302",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/obsidian-holt-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#242424",
+    "id": "ak-interactive-ak19303",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Night",
+    "range": "Acrylic Wash",
+    "sku": "AK19303",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/black-night-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5A4031",
+    "id": "ak-interactive-ak19304",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pure Grime",
+    "range": "Acrylic Wash",
+    "sku": "AK19304",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/pure-grime-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5E3521",
+    "id": "ak-interactive-ak19305",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sepia Filth",
+    "range": "Acrylic Wash",
+    "sku": "AK19305",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/sepia-filth-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#87461C",
+    "id": "ak-interactive-ak19306",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hazel Brown",
+    "range": "Acrylic Wash",
+    "sku": "AK19306",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/hazel-brown-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#213E46",
+    "id": "ak-interactive-ak19307",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Moon",
+    "range": "Acrylic Wash",
+    "sku": "AK19307",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/blue-moon-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ED2458",
+    "id": "ak-interactive-ak19308",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carmine Dawn",
+    "range": "Acrylic Wash",
+    "sku": "AK19308",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/carmine-dawn-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#240E3C",
+    "id": "ak-interactive-ak19309",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Invocation Purple",
+    "range": "Acrylic Wash",
+    "sku": "AK19309",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/invocation-purple-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#00462C",
+    "id": "ak-interactive-ak1931",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Putrid Green",
+    "range": "Acrylic Wash",
+    "sku": "AK1931",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/putrid-green-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B1374C",
+    "id": "ak-interactive-ak19310",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crimson Veil",
+    "range": "Acrylic Wash",
+    "sku": "AK19310",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/crimson-veil-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#00462C",
+    "id": "ak-interactive-ak19311",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Putrid Green",
+    "range": "Acrylic Wash",
+    "sku": "AK19311",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/putrid-green-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#384C07",
+    "id": "ak-interactive-ak19312",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green",
+    "range": "Acrylic Wash",
+    "sku": "AK19312",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/green-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5DA796",
+    "id": "ak-interactive-ak19313",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Verdigris",
+    "range": "Acrylic Wash",
+    "sku": "AK19313",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/verdigris-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#272725",
+    "id": "ak-interactive-ak19314",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Grey",
+    "range": "Acrylic Wash",
+    "sku": "AK19314",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/dark-grey-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7F2500",
+    "id": "ak-interactive-ak19315",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Standard Rust",
+    "range": "Acrylic Wash",
+    "sku": "AK19315",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/standard-rust-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A13800",
+    "id": "ak-interactive-ak19316",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Rust",
+    "range": "Acrylic Wash",
+    "sku": "AK19316",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/light-rust-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BEB1A9",
+    "id": "ak-interactive-ak19317",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dirtveil",
+    "range": "Acrylic Wash",
+    "sku": "AK19317",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/dirtveil-acrylic-wash/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#541B14",
+    "id": "ak-interactive-ak19318",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Woodgrain",
+    "range": "Acrylic Wash",
+    "sku": "AK19318",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/woodgrain-acrylic-wash/"
+  }
+]

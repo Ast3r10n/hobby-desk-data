@@ -1,0 +1,2229 @@
+[
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-72-001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dead White",
+    "range": "Game Color",
+    "sku": "72.001",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/dead-white-72001/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CF9A7B",
+    "id": "vallejo-72-003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Flesh",
+    "range": "Game Color",
+    "sku": "72.003",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/pale-flesh-72003/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C57E52",
+    "id": "vallejo-72-004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elf Skin Tone",
+    "range": "Game Color",
+    "sku": "72.004",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/elf-skin-tone-72004/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EEB800",
+    "id": "vallejo-72-005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moon Yellow",
+    "range": "Game Color",
+    "sku": "72.005",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/moon-yellow-72005/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F49304",
+    "id": "vallejo-72-006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sun Yellow",
+    "range": "Game Color",
+    "sku": "72.006",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/sun-yellow-72006/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E77713",
+    "id": "vallejo-72-007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gold Yellow",
+    "range": "Game Color",
+    "sku": "72.007",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/gold-yellow-72007/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E9531E",
+    "id": "vallejo-72-008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Fire",
+    "range": "Game Color",
+    "sku": "72.008",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/orange-fire-72008/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D8311E",
+    "id": "vallejo-72-009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hot Orange",
+    "range": "Game Color",
+    "sku": "72.009",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/hot-orange-72009/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AA1F18",
+    "id": "vallejo-72-010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bloody Red",
+    "range": "Game Color",
+    "sku": "72.010",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/bloody-red-72010/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#611716",
+    "id": "vallejo-72-011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gory Red",
+    "range": "Game Color",
+    "sku": "72.011",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/gory-red-72011/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#571A22",
+    "id": "vallejo-72-012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scarlet Red",
+    "range": "Game Color",
+    "sku": "72.012",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/scarlet-red-72012/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CB6F9E",
+    "id": "vallejo-72-013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Squid Pink",
+    "range": "Game Color",
+    "sku": "72.013",
+    "type": "ink",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/squid-pink-72013/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7F223D",
+    "id": "vallejo-72-014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warlord Purple",
+    "range": "Game Color",
+    "sku": "72.014",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/warlord-purple-72014/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#341938",
+    "id": "vallejo-72-015",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hexed Lichen",
+    "range": "Game Color",
+    "sku": "72.015",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/hexed-lichen-72015/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#25192F",
+    "id": "vallejo-72-016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Royal Purple",
+    "range": "Game Color",
+    "sku": "72.016",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/royal-purple-72016/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0F0F1B",
+    "id": "vallejo-72-019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Night Blue",
+    "range": "Game Color",
+    "sku": "72.019",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/night-blue-72019/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#132033",
+    "id": "vallejo-72-020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Imperial Blue",
+    "range": "Game Color",
+    "sku": "72.020",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/imperial-blue-72020/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#143D7D",
+    "id": "vallejo-72-021",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magic Blue",
+    "range": "Game Color",
+    "sku": "72.021",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/magic-blue-72021/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1B224C",
+    "id": "vallejo-72-022",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Blue",
+    "range": "Game Color",
+    "sku": "72.022",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/ultramarine-blue-72022/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#006C88",
+    "id": "vallejo-72-023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Electric Blue",
+    "range": "Game Color",
+    "sku": "72.023",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/electric-blue-72023/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#004145",
+    "id": "vallejo-72-024",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise",
+    "range": "Game Color",
+    "sku": "72.024",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/turquoise-72024/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#156D54",
+    "id": "vallejo-72-025",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Foul Green",
+    "range": "Game Color",
+    "sku": "72.025",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/foul-green-72025/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#004938",
+    "id": "vallejo-72-026",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jade Green",
+    "range": "Game Color",
+    "sku": "72.026",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/jade-green-72026/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#003427",
+    "id": "vallejo-72-027",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scurvy Green",
+    "range": "Game Color",
+    "sku": "72.027",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/scurvy-green-72027/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#122418",
+    "id": "vallejo-72-028",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Green",
+    "range": "Game Color",
+    "sku": "72.028",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/dark-green-72028/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3B5B32",
+    "id": "vallejo-72-029",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sick Green",
+    "range": "Game Color",
+    "sku": "72.029",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/sick-green-72029/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#44502A",
+    "id": "vallejo-72-030",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Goblin Green",
+    "range": "Game Color",
+    "sku": "72.030",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/goblin-green-72030/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6D6127",
+    "id": "vallejo-72-031",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Green",
+    "range": "Game Color",
+    "sku": "72.031",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/camouflage-green-72031/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#417A33",
+    "id": "vallejo-72-032",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scorpy Green",
+    "range": "Game Color",
+    "sku": "72.032",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/scorpy-green-72032/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D4C9A9",
+    "id": "vallejo-72-034",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bone White",
+    "range": "Game Color",
+    "sku": "72.034",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/bone-white-72034/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#937F3A",
+    "id": "vallejo-72-035",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dead Flesh",
+    "range": "Game Color",
+    "sku": "72.035",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/dead-flesh-72035/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#985B1C",
+    "id": "vallejo-72-036",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronze Brown",
+    "range": "Game Color",
+    "sku": "72.036",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/bronze-brown-72036/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A85E17",
+    "id": "vallejo-72-038",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scrofulous Brown",
+    "range": "Game Color",
+    "sku": "72.038",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/scrofulous-brown-72038/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8F5E24",
+    "id": "vallejo-72-039",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Plague Brown",
+    "range": "Game Color",
+    "sku": "72.039",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/plague-brown-72039/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4E3413",
+    "id": "vallejo-72-040",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leather Brown",
+    "range": "Game Color",
+    "sku": "72.040",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/leather-brown-72040/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6E3C19",
+    "id": "vallejo-72-042",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Parasite Brown",
+    "range": "Game Color",
+    "sku": "72.042",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/parasite-brown-72042/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#55371B",
+    "id": "vallejo-72-043",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beasty Brown",
+    "range": "Game Color",
+    "sku": "72.043",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/beasty-brown-72043/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#411F15",
+    "id": "vallejo-72-044",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Fleshtone",
+    "range": "Game Color",
+    "sku": "72.044",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/dark-fleshtone-72044/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#281B15",
+    "id": "vallejo-72-045",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Charred Brown",
+    "range": "Game Color",
+    "sku": "72.045",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/charred-brown-72045/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#96B4BC",
+    "id": "vallejo-72-047",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wolf Grey",
+    "range": "Game Color",
+    "sku": "72.047",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/wolf-grey-72047/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#373E46",
+    "id": "vallejo-72-048",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sombre Grey",
+    "range": "Game Color",
+    "sku": "72.048",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/sombre-grey-72048/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#625E5B",
+    "id": "vallejo-72-049",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stonewall Grey",
+    "range": "Game Color",
+    "sku": "72.049",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/stonewall-grey-72049/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#484743",
+    "id": "vallejo-72-050",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neutral Grey",
+    "range": "Game Color",
+    "sku": "72.050",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/neutral-grey-72050/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#000000",
+    "id": "vallejo-72-051",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Game Color",
+    "sku": "72.051",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/black-72051/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DBDEE0",
+    "id": "vallejo-72-052",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Silver",
+    "range": "Game Color",
+    "sku": "72.052",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/silver-72052/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CDD1D4",
+    "id": "vallejo-72-053",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chainmail",
+    "range": "Game Color",
+    "sku": "72.053",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/chainmail-72053/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BCBDBF",
+    "id": "vallejo-72-054",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Gunmetal",
+    "range": "Game Color",
+    "sku": "72.054",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/dark-gunmetal-72054/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F4DE99",
+    "id": "vallejo-72-055",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Polished Gold",
+    "range": "Game Color",
+    "sku": "72.055",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/polished-gold-72055/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ECC89C",
+    "id": "vallejo-72-056",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Glorious Gold",
+    "range": "Game Color",
+    "sku": "72.056",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/glorious-gold-72056/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D6B48F",
+    "id": "vallejo-72-057",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Bronze",
+    "range": "Game Color",
+    "sku": "72.057",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/bright-bronze-72057/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D9B8A5",
+    "id": "vallejo-72-058",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brassy Brass",
+    "range": "Game Color",
+    "sku": "72.058",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/brassy-brass-72058-2/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C0AEA1",
+    "id": "vallejo-72-059",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hammered Copper",
+    "range": "Game Color",
+    "sku": "72.059",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/hammered-copper-72059-2/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B1A096",
+    "id": "vallejo-72-060",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tinny Tin",
+    "range": "Game Color",
+    "sku": "72.060",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/tinny-tin-72060/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#776247",
+    "id": "vallejo-72-061",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Khaki",
+    "range": "Game Color",
+    "sku": "72.061",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/khaki-72061/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#563E26",
+    "id": "vallejo-72-062",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Earth",
+    "range": "Game Color",
+    "sku": "72.062",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/earth-72062/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7B5B2C",
+    "id": "vallejo-72-063",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Yellow",
+    "range": "Game Color",
+    "sku": "72.063",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/desert-yellow-72063/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D4C3E",
+    "id": "vallejo-72-066",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tan",
+    "range": "Game Color",
+    "sku": "72.066",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/tan-72066/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#42391A",
+    "id": "vallejo-72-067",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cayman Green",
+    "range": "Game Color",
+    "sku": "72.067",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/cayman-green-72067/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#785A3E",
+    "id": "vallejo-72-071",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Barbarian Skin",
+    "range": "Game Color",
+    "sku": "72.071",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/barbarian-skin-72071/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#54407D",
+    "id": "vallejo-72-076",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Alien Purple",
+    "range": "Game Color",
+    "sku": "72.076",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/alien-purple-72076/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-72-082",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White",
+    "range": "Game Color",
+    "sku": "72.082",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/white-ink-72092/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9B2241",
+    "id": "vallejo-72-083",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magenta",
+    "range": "Game Color",
+    "sku": "72.083",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/magenta-72083-en/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#043F3D",
+    "id": "vallejo-72-084",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Turquoise",
+    "range": "Game Color",
+    "sku": "72.084",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/dark-turquoise-72084/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E99C12",
+    "id": "vallejo-72-085",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow",
+    "range": "Game Color",
+    "sku": "72.085",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/yellow-ink-72085/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A71520",
+    "id": "vallejo-72-086",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red",
+    "range": "Game Color",
+    "sku": "72.086",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/red-ink-72086/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#48315D",
+    "id": "vallejo-72-087",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet",
+    "range": "Game Color",
+    "sku": "72.087",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/violet-ink-72087/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#153767",
+    "id": "vallejo-72-088",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue",
+    "range": "Game Color",
+    "sku": "72.088",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/blue-ink-72088/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#007133",
+    "id": "vallejo-72-089",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green",
+    "range": "Game Color",
+    "sku": "72.089",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/green-ink-72089/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#253C2C",
+    "id": "vallejo-72-090",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Green",
+    "range": "Game Color",
+    "sku": "72.090",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/black-green-ink-72090/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#352613",
+    "id": "vallejo-72-091",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sepia",
+    "range": "Game Color",
+    "sku": "72.091",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/sepia-ink-72091/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#462118",
+    "id": "vallejo-72-093",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skin",
+    "range": "Game Color",
+    "sku": "72.093",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/skin-ink-72093/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#000000",
+    "id": "vallejo-72-094",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Game Color",
+    "sku": "72.094",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/black-ink-72094/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B7D1EC",
+    "id": "vallejo-72-095",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Glacier Blue",
+    "range": "Game Color",
+    "sku": "72.095",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/glacier-blue-72095/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#86C7A9",
+    "id": "vallejo-72-096",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Verdigris",
+    "range": "Game Color",
+    "sku": "72.096",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/verdigris-72096/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F1D5A3",
+    "id": "vallejo-72-098",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elfic Flesh",
+    "range": "Game Color",
+    "sku": "72.098",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/elfic-flesh-72098/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F6B281",
+    "id": "vallejo-72-099",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skin Tone",
+    "range": "Game Color",
+    "sku": "72.099",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/skin-tone-72099/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E27362",
+    "id": "vallejo-72-100",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rosy Flesh",
+    "range": "Game Color",
+    "sku": "72.100",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/rosy-flesh-72100/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFF0B9",
+    "id": "vallejo-72-101",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Off-White",
+    "range": "Game Color",
+    "sku": "72.101",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/off-white-72101/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#495A62",
+    "id": "vallejo-72-102",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Steel Grey",
+    "range": "Game Color",
+    "sku": "72.102",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/steel-grey-72102/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FBEB3D",
+    "id": "vallejo-72-103",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Yellow",
+    "range": "Game Color",
+    "sku": "72.103",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/fluorescent-yellow-72103/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5AB031",
+    "id": "vallejo-72-104",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Green",
+    "range": "Game Color",
+    "sku": "72.104",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/fluorescent-green-72104/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AD1F1D",
+    "id": "vallejo-72-106",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scarlet Blood",
+    "range": "Game Color",
+    "sku": "72.106",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/scarlet-blood-72106/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B26354",
+    "id": "vallejo-72-107",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Athena Skin",
+    "range": "Game Color",
+    "sku": "72.107",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/athena-skin-72107/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#72413C",
+    "id": "vallejo-72-108",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Succubus Skin",
+    "range": "Game Color",
+    "sku": "72.108",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/succubus-skin-72108/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E3C33A",
+    "id": "vallejo-72-109",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Toxic Yellow",
+    "range": "Game Color",
+    "sku": "72.109",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/toxic-yellow-72109/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F08331",
+    "id": "vallejo-72-110",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sunset Orange",
+    "range": "Game Color",
+    "sku": "72.110",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/sunset-orange-72110/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#39191A",
+    "id": "vallejo-72-111",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nocturnal Red",
+    "range": "Game Color",
+    "sku": "72.111",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/nocturnal-red-72111/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#341A23",
+    "id": "vallejo-72-112",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Evil Red",
+    "range": "Game Color",
+    "sku": "72.112",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/evil-red-72112/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4B1C30",
+    "id": "vallejo-72-113",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Magenta",
+    "range": "Game Color",
+    "sku": "72.113",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/deep-magenta-72113/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E6092",
+    "id": "vallejo-72-114",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lustful Purple",
+    "range": "Game Color",
+    "sku": "72.114",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/lustful-purple-72114/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#69361B",
+    "id": "vallejo-72-115",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grunge Brown",
+    "range": "Game Color",
+    "sku": "72.115",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/grunge-brown-72115/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#251530",
+    "id": "vallejo-72-116",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Midnight Purple",
+    "range": "Game Color",
+    "sku": "72.116",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/midnight-purple-72116/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3C5574",
+    "id": "vallejo-72-117",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elfic Blue",
+    "range": "Game Color",
+    "sku": "72.117",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/elfic-blue-72117/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#60B8E0",
+    "id": "vallejo-72-118",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sunrise Blue",
+    "range": "Game Color",
+    "sku": "72.118",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/sunrise-blue-72118/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#007473",
+    "id": "vallejo-72-119",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aquamarine",
+    "range": "Game Color",
+    "sku": "72.119",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/aquamarine-72119/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#132533",
+    "id": "vallejo-72-120",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Abyssal Turquoise",
+    "range": "Game Color",
+    "sku": "72.120",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/abyssal-turquoise-72120/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5BB889",
+    "id": "vallejo-72-121",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ghost Green",
+    "range": "Game Color",
+    "sku": "72.121",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/ghost-green-72121/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D5D900",
+    "id": "vallejo-72-122",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bile Green",
+    "range": "Game Color",
+    "sku": "72.122",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/bile-green-72122/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#253822",
+    "id": "vallejo-72-123",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Angel Green",
+    "range": "Game Color",
+    "sku": "72.123",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/angel-green-72123/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3E2417",
+    "id": "vallejo-72-124",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gorgon Brown",
+    "range": "Game Color",
+    "sku": "72.124",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/gorgon-brown-72124/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#493E20",
+    "id": "vallejo-72-145",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dirty Grey",
+    "range": "Game Color",
+    "sku": "72.145",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/dirty-grey-72145/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#80655E",
+    "id": "vallejo-72-148",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warm Grey",
+    "range": "Game Color",
+    "sku": "72.148",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/warm-grey-72148/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1A1710",
+    "id": "vallejo-72-155",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Charcoal",
+    "range": "Game Color",
+    "sku": "72.155",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/charcoal-72155/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E63B10",
+    "id": "vallejo-72-156",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Orange",
+    "range": "Game Color",
+    "sku": "72.156",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/fluorescent-orange-72156/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E42D3F",
+    "id": "vallejo-72-157",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Red",
+    "range": "Game Color",
+    "sku": "72.157",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/fluorescent-red-72157/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E8348B",
+    "id": "vallejo-72-158",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Magenta",
+    "range": "Game Color",
+    "sku": "72.158",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/fluorescent-magenta-72158/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6F257A",
+    "id": "vallejo-72-159",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Violet",
+    "range": "Game Color",
+    "sku": "72.159",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/fluorescent-violet-72159/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#007AB9",
+    "id": "vallejo-72-160",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Blue",
+    "range": "Game Color",
+    "sku": "72.160",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/fluorescent-blue-72160/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#015F4D",
+    "id": "vallejo-72-161",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Cold Green",
+    "range": "Game Color",
+    "sku": "72.161",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/fluorescent-cold-green-72161/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FCBE6D",
+    "id": "vallejo-72-600",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vomit",
+    "range": "Game Color",
+    "sku": "72.600",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/vomit-72600/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F08375",
+    "id": "vallejo-72-601",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fresh Blood",
+    "range": "Game Color",
+    "sku": "72.601",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/fresh-blood-72601/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A76152",
+    "id": "vallejo-72-602",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Thick Blood",
+    "range": "Game Color",
+    "sku": "72.602",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/thick-blood-72602/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8A6997",
+    "id": "vallejo-72-603",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Demon Blood",
+    "range": "Game Color",
+    "sku": "72.603",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/demon-blood-72603/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#56AFDF",
+    "id": "vallejo-72-604",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Frost",
+    "range": "Game Color",
+    "sku": "72.604",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/frost-72604/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A9CFBE",
+    "id": "vallejo-72-605",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Rust",
+    "range": "Game Color",
+    "sku": "72.605",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/green-rust-72605/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E6E841",
+    "id": "vallejo-72-606",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bile",
+    "range": "Game Color",
+    "sku": "72.606",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/bile-72606/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#85AF77",
+    "id": "vallejo-72-607",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Acid",
+    "range": "Game Color",
+    "sku": "72.607",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/acid-72607/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7A4E44",
+    "id": "vallejo-72-608",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Corrosion",
+    "range": "Game Color",
+    "sku": "72.608",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/corrosion-72608-en/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#846E66",
+    "id": "vallejo-72-609",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rust",
+    "range": "Game Color",
+    "sku": "72.609",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/rust-72609/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D56A21",
+    "id": "vallejo-72-610",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Galvanic Corrosion",
+    "range": "Game Color",
+    "sku": "72.610",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/galvanic-corrosion-72610/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D0C957",
+    "id": "vallejo-72-611",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moss And Lichen",
+    "range": "Game Color",
+    "sku": "72.611",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/moss-and-lichen-72611/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C7555",
+    "id": "vallejo-73-200",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sepia Wash",
+    "range": "Game Color",
+    "sku": "73.200",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/sepia-wash/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#666467",
+    "id": "vallejo-73-201",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Wash",
+    "range": "Game Color",
+    "sku": "73.201",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/black-wash/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C7A6C",
+    "id": "vallejo-73-203",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Umber Wash",
+    "range": "Game Color",
+    "sku": "73.203",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/umber-wash-73203/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B38979",
+    "id": "vallejo-73-204",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flesh Wash",
+    "range": "Game Color",
+    "sku": "73.204",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/flesh-wash-73204/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CE5753",
+    "id": "vallejo-73-206",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Wash",
+    "range": "Game Color",
+    "sku": "73.206",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/red-wash-73206/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4F92C7",
+    "id": "vallejo-73-207",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Wash",
+    "range": "Game Color",
+    "sku": "73.207",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/blue-wash-73207/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F7EC40",
+    "id": "vallejo-73-208",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Wash",
+    "range": "Game Color",
+    "sku": "73.208",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/yellow-wash-73208/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#905D9F",
+    "id": "vallejo-73-209",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet Wash",
+    "range": "Game Color",
+    "sku": "73.209",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/violet-wash-73209/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A8885F",
+    "id": "vallejo-73-300",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sepia",
+    "range": "Game Color",
+    "sku": "73.300",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/sepia-73300/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#666467",
+    "id": "vallejo-73-301",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Negro",
+    "range": "Game Color",
+    "sku": "73.301",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-color-en/negro-73301/"
+  }
+]

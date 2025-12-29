@@ -1,0 +1,308 @@
+[
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-76-501",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White",
+    "range": "Wash FX",
+    "sku": "76.501",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/white-76501/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E0B600",
+    "id": "vallejo-76-503",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Yellow",
+    "range": "Wash FX",
+    "sku": "76.503",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/dark-yellow-76503/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EC7718",
+    "id": "vallejo-76-505",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Rust",
+    "range": "Wash FX",
+    "sku": "76.505",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/light-rust-76505/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F07E4A",
+    "id": "vallejo-76-506",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rust",
+    "range": "Wash FX",
+    "sku": "76.506",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/rust-76506/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DD5C3D",
+    "id": "vallejo-76-507",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Rust",
+    "range": "Wash FX",
+    "sku": "76.507",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/dark-rust-76507/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#857E26",
+    "id": "vallejo-76-512",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Green",
+    "range": "Wash FX",
+    "sku": "76.512",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/dark-green-76512/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#876343",
+    "id": "vallejo-76-513",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown",
+    "range": "Wash FX",
+    "sku": "76.513",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/brown-76513/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D5E4A",
+    "id": "vallejo-76-514",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Brown",
+    "range": "Wash FX",
+    "sku": "76.514",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/dark-brown-76514/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C9C9C7",
+    "id": "vallejo-76-515",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Grey",
+    "range": "Wash FX",
+    "sku": "76.515",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/light-grey-76515/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#686866",
+    "id": "vallejo-76-516",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Off-Grey",
+    "range": "Wash FX",
+    "sku": "76.516",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/off-grey-76516/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#535250",
+    "id": "vallejo-76-517",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Grey",
+    "range": "Wash FX",
+    "sku": "76.517",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/dark-grey-76517/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3A3937",
+    "id": "vallejo-76-518",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Wash FX",
+    "sku": "76.518",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/black-76518/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#425F41",
+    "id": "vallejo-76-519",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Green",
+    "range": "Wash FX",
+    "sku": "76.519",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/olive-green-76519/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A07E4E",
+    "id": "vallejo-76-520",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Khaki Green",
+    "range": "Wash FX",
+    "sku": "76.520",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/dark-khaki-green-76520/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6E5C4E",
+    "id": "vallejo-76-521",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oiled Earth",
+    "range": "Wash FX",
+    "sku": "76.521",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/oiled-earth-76521/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ECD39A",
+    "id": "vallejo-76-522",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Dust",
+    "range": "Wash FX",
+    "sku": "76.522",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/desert-dust-76522/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9D7247",
+    "id": "vallejo-76-523",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "European Dust",
+    "range": "Wash FX",
+    "sku": "76.523",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/european-dust-76523/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#94AFBA",
+    "id": "vallejo-76-524",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Grey",
+    "range": "Wash FX",
+    "sku": "76.524",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/wash-fx-en/blue-grey-76524/"
+  }
+]

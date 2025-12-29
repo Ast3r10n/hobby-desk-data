@@ -1,0 +1,252 @@
+[
+  {
+    "id": "colour-forge-ConvictOrange",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Convict Orange",
+    "hex": "#EC651F",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-DeathRattleGreen",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Death Rattle Green",
+    "hex": "#858B67",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-DesertSand",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Desert Sand",
+    "hex": "#A99858",
+    "type": "spray",
+    "url": null,
+    "discontinued": false,
+    "category": "Base"
+  },
+  {
+    "id": "colour-forge-GauntletGold",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Gauntlet Gold",
+    "hex": "#C8A048",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-GhoulGrey",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Ghoul Grey",
+    "hex": "#A2A5A7",
+    "type": "spray",
+    "url": null,
+    "discontinued": false,
+    "category": "Base"
+  },
+  {
+    "id": "colour-forge-GovernorGreen",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Governor Green",
+    "hex": "#3B4D21",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-HyraxBrown",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Hyrax Brown",
+    "hex": "#4E3533",
+    "type": "spray",
+    "url": null,
+    "discontinued": false,
+    "category": "Base"
+  },
+  {
+    "id": "colour-forge-ImperialPurple",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Imperial Purple",
+    "hex": "#440052",
+    "type": "spray",
+    "url": null,
+    "discontinued": false,
+    "category": "Base"
+  },
+  {
+    "id": "colour-forge-MattBlack",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Matt Black",
+    "hex": "#020300",
+    "type": "spray",
+    "url": null,
+    "discontinued": false,
+    "category": "Base"
+  },
+  {
+    "id": "colour-forge-colour-forge-matt-varnish",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Matt Varnish",
+    "hex": "#FFFFFF",
+    "type": "opaque",
+    "category": "Base",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-MattWhite",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Matt White",
+    "hex": "#FFFFFF",
+    "type": "spray",
+    "url": null,
+    "discontinued": false,
+    "category": "Base"
+  },
+  {
+    "id": "colour-forge-OssifiedEarth",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Ossified Earth",
+    "hex": "#C0A973",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-RavenBlack",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Raven Black",
+    "hex": "#171314",
+    "type": "spray",
+    "url": null,
+    "discontinued": false,
+    "category": "Base"
+  },
+  {
+    "id": "colour-forge-RenegadeGreen",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Renegade Green",
+    "hex": "#003B1E",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-RepublicBlue",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Republic Blue",
+    "hex": "#193B79",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-SalamanderGreen",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Salamander Green",
+    "hex": "#277328",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-SanguineRed",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Sanguine Red",
+    "hex": "#9B130C",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-StandardGrey",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Standard Grey",
+    "hex": "#455051",
+    "type": "spray",
+    "url": null,
+    "discontinued": false,
+    "category": "Base"
+  },
+  {
+    "id": "colour-forge-SteelforgeSilver",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Steelforge Silver",
+    "hex": "#5D6767",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-SunsetYellow",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Sunset Yellow",
+    "hex": "#FBBA00",
+    "type": "spray",
+    "url": null,
+    "discontinued": false,
+    "category": "Base"
+  },
+  {
+    "id": "colour-forge-TempestBlue",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Tempest Blue",
+    "hex": "#0D244F",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-TrenchBrown",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Trench Brown",
+    "hex": "#695734",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-WightBone",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Wight Bone",
+    "hex": "#DBD1B2",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-WolfkinGrey",
+    "brand": "Colour Forge",
+    "range": "Colour Forge",
+    "name": "Wolfkin Grey",
+    "hex": "#467379",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  }
+]

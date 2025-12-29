@@ -1,0 +1,3997 @@
+[
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F9FBF8",
+    "id": "vallejo-71-001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White",
+    "range": "Model Air",
+    "sku": "71.001",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-white-71001/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FAB001",
+    "id": "vallejo-71-002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medium Yellow",
+    "range": "Model Air",
+    "sku": "71.002",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/model-air-en/medium-yellow-71002/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C82418",
+    "id": "vallejo-71-003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Rlm23",
+    "range": "Model Air",
+    "sku": "71.003",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm23-71003/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#344267",
+    "id": "vallejo-71-004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue",
+    "range": "Model Air",
+    "sku": "71.004",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-blue-71004/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#464C58",
+    "id": "vallejo-71-005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Blue",
+    "range": "Model Air",
+    "sku": "71.005",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/model-air-en/model-air-grey-blue-71005/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#616846",
+    "id": "vallejo-71-006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Green Chromate",
+    "range": "Model Air",
+    "sku": "71.006",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-light-green-chromate-71006/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#38453C",
+    "id": "vallejo-71-007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Green",
+    "range": "Model Air",
+    "sku": "71.007",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-olive-green-71007/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#759499",
+    "id": "vallejo-71-008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Blue",
+    "range": "Model Air",
+    "sku": "71.008",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-pale-blue-71008/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C2C89C",
+    "id": "vallejo-71-009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Eau De Nil \u201cDuck Egg Green\u201d",
+    "range": "Model Air",
+    "sku": "71.009",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-eau-de-nil-duck-egg-green-71009/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#665F42",
+    "id": "vallejo-71-010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Interior Green",
+    "range": "Model Air",
+    "sku": "71.010",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-interior-green-71010/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#525248",
+    "id": "vallejo-71-011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Green Rlm83",
+    "range": "Model Air",
+    "sku": "71.011",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/model-air-en/model-air-rlm83-dark-green-71011/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#616157",
+    "id": "vallejo-71-012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Green",
+    "range": "Model Air",
+    "sku": "71.012",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-dark-green-71012/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#474745",
+    "id": "vallejo-71-013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Olive",
+    "range": "Model Air",
+    "sku": "71.013",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-yellow-olive-71013/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#556155",
+    "id": "vallejo-71-014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gunship Green",
+    "range": "Model Air",
+    "sku": "71.014",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-gunship-green-71014/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#594F43",
+    "id": "vallejo-71-015",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Green Rlm71",
+    "range": "Model Air",
+    "sku": "71.015",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm71-dark-green-71015/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#655D4A",
+    "id": "vallejo-71-016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Usaf Olive Drab",
+    "range": "Model Air",
+    "sku": "71.016",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-usaf-olive-drab-71016/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#555646",
+    "id": "vallejo-71-017",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Green 4Bo",
+    "range": "Model Air",
+    "sku": "71.017",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-russian-green-4bo-71017/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#484E4E",
+    "id": "vallejo-71-018",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Green",
+    "range": "Model Air",
+    "sku": "71.018",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-black-green-71018/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#50534C",
+    "id": "vallejo-71-019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Dark Green",
+    "range": "Model Air",
+    "sku": "71.019",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ral6007-camouflage-dark-green-71019/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#534E48",
+    "id": "vallejo-71-020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Brown",
+    "range": "Model Air",
+    "sku": "71.020",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-green-brown-71020/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#474948",
+    "id": "vallejo-71-021",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Green Rlm70",
+    "range": "Model Air",
+    "sku": "71.021",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm70-black-green-71021/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4D5140",
+    "id": "vallejo-71-022",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Green Rlm82",
+    "range": "Model Air",
+    "sku": "71.022",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm82-light-green-71022/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#827968",
+    "id": "vallejo-71-023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hemp",
+    "range": "Model Air",
+    "sku": "71.023",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-hemp-71023/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#937A5C",
+    "id": "vallejo-71-024",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Khaki Brown",
+    "range": "Model Air",
+    "sku": "71.024",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-khaki-brown-71024/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#977B4B",
+    "id": "vallejo-71-025",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Yellow",
+    "range": "Model Air",
+    "sku": "71.025",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ral7028-dark-yellow-71025/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#916D4D",
+    "id": "vallejo-71-026",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Flat Brown",
+    "range": "Model Air",
+    "sku": "71.026",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-us-flat-brown-71026/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AE906C",
+    "id": "vallejo-71-027",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Brown",
+    "range": "Model Air",
+    "sku": "71.027",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-light-brown-71027/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A18D74",
+    "id": "vallejo-71-028",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sand Yellow",
+    "range": "Model Air",
+    "sku": "71.028",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-sand-yellow-71028/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#635747",
+    "id": "vallejo-71-029",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Earth",
+    "range": "Model Air",
+    "sku": "71.029",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-dark-earth-71029/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#91704D",
+    "id": "vallejo-71-030",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Green",
+    "range": "Model Air",
+    "sku": "71.030",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-brown-green-71030/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#997E51",
+    "id": "vallejo-71-031",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Middle Stone",
+    "range": "Model Air",
+    "sku": "71.031",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-middle-stone-71031/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#876341",
+    "id": "vallejo-71-032",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golden Brown",
+    "range": "Model Air",
+    "sku": "71.032",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-golden-brown-71032/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DA9132",
+    "id": "vallejo-71-033",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Ochre",
+    "range": "Model Air",
+    "sku": "71.033",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ral1006-yellow-ochre-71033/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#966C56",
+    "id": "vallejo-71-034",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sand Brown",
+    "range": "Model Air",
+    "sku": "71.034",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-sand-brown-71034/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7B6655",
+    "id": "vallejo-71-035",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Pale Brown",
+    "range": "Model Air",
+    "sku": "71.035",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-camouflage-pale-brown-71035/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#503D39",
+    "id": "vallejo-71-036",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mahogany",
+    "range": "Model Air",
+    "sku": "71.036",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-mahogany-71036/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8E674A",
+    "id": "vallejo-71-037",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mud Brown",
+    "range": "Model Air",
+    "sku": "71.037",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-mud-brown-71037/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#625042",
+    "id": "vallejo-71-038",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Medium Brown",
+    "range": "Model Air",
+    "sku": "71.038",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-camouflage-medium-brown-71038/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4B403A",
+    "id": "vallejo-71-039",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hull Red",
+    "range": "Model Air",
+    "sku": "71.039",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-hull-red-71039/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4A4036",
+    "id": "vallejo-71-040",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Umber",
+    "range": "Model Air",
+    "sku": "71.040",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-burnt-umber-71040/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#524443",
+    "id": "vallejo-71-041",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Armour Brown",
+    "range": "Model Air",
+    "sku": "71.041",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ral8017-armour-brown-71041/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4E4848",
+    "id": "vallejo-71-042",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Brown Rlm61",
+    "range": "Model Air",
+    "sku": "71.042",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm61-dark-brown-71042/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5C5246",
+    "id": "vallejo-71-043",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Olive Drab",
+    "range": "Model Air",
+    "sku": "71.043",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-us-olive-drab-71043/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7B7C6E",
+    "id": "vallejo-71-044",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Rlm02",
+    "range": "Model Air",
+    "sku": "71.044",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm02-grey-71044/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#91948B",
+    "id": "vallejo-71-045",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cement Grey",
+    "range": "Model Air",
+    "sku": "71.045",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/cement-grey-71045/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#969DA7",
+    "id": "vallejo-71-046",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Blue Grey",
+    "range": "Model Air",
+    "sku": "71.046",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-pale-blue-grey-71046/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5A5E69",
+    "id": "vallejo-71-047",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey",
+    "range": "Model Air",
+    "sku": "71.047",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-grey-71047/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#585C67",
+    "id": "vallejo-71-048",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Engine Gray",
+    "range": "Model Air",
+    "sku": "71.048",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-engine-gray-71048/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#696975",
+    "id": "vallejo-71-049",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sea Grey",
+    "range": "Model Air",
+    "sku": "71.049",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-sea-grey-71049/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8E929E",
+    "id": "vallejo-71-050",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Gray",
+    "range": "Model Air",
+    "sku": "71.050",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-light-gray-71050/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#737A84",
+    "id": "vallejo-71-051",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neutral Gray",
+    "range": "Model Air",
+    "sku": "71.051",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-neutral-gray-71051/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#515257",
+    "id": "vallejo-71-052",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Anthracite Grey",
+    "range": "Model Air",
+    "sku": "71.052",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-anthracite-grey-71052/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#525661",
+    "id": "vallejo-71-053",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Sea Gray",
+    "range": "Model Air",
+    "sku": "71.053",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-dark-sea-gray-71053/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4D4D55",
+    "id": "vallejo-71-054",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Grey Blue",
+    "range": "Model Air",
+    "sku": "71.054",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-dark-grey-blue-71054/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#555658",
+    "id": "vallejo-71-055",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Grey Rlm66",
+    "range": "Model Air",
+    "sku": "71.055",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm66-black-grey-71055/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#474749",
+    "id": "vallejo-71-056",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Panzer Dark Gray",
+    "range": "Model Air",
+    "sku": "71.056",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ral7021-panzer-dark-gray-71056/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#313131",
+    "id": "vallejo-71-057",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Model Air",
+    "sku": "71.057",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-black-71057/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ACACB8",
+    "id": "vallejo-71-062",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aluminum (Metallic)",
+    "range": "Model Air",
+    "sku": "71.062",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-aluminum-metallic-71062/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ADACBC",
+    "id": "vallejo-71-063",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Silver Rlm01 (Metallic)",
+    "range": "Model Air",
+    "sku": "71.063",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm01-silver-71063/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A8A8B4",
+    "id": "vallejo-71-064",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chrome (Metallic)",
+    "range": "Model Air",
+    "sku": "71.064",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/chrome-71064/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BBBACA",
+    "id": "vallejo-71-065",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Steel (Metallic)",
+    "range": "Model Air",
+    "sku": "71.065",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-steel-71065/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A0855A",
+    "id": "vallejo-71-066",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gold (Metallic)",
+    "range": "Model Air",
+    "sku": "71.066",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-gold-71066/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9F8F5E",
+    "id": "vallejo-71-067",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Brass (Metallic)",
+    "range": "Model Air",
+    "sku": "71.067",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-bright-brass-71067/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8E5D4E",
+    "id": "vallejo-71-068",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Copper (Metallic)",
+    "range": "Model Air",
+    "sku": "71.068",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-copper-71068/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C685C",
+    "id": "vallejo-71-069",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rust (Metallic)",
+    "range": "Model Air",
+    "sku": "71.069",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rust-metallic-71069/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CB5972",
+    "id": "vallejo-71-070",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Signal Red (Metallic)",
+    "range": "Model Air",
+    "sku": "71.070",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-signal-red-metallic-71070/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3E3C51",
+    "id": "vallejo-71-071",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arctic Blue (Metallic)",
+    "range": "Model Air",
+    "sku": "71.071",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-arctic-blue-metallic-71071/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D7D85",
+    "id": "vallejo-71-072",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gunmetal (Metallic)",
+    "range": "Model Air",
+    "sku": "71.072",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/gunmetal-71072/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#666270",
+    "id": "vallejo-71-073",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black (Metallic)",
+    "range": "Model Air",
+    "sku": "71.073",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-black-metallic-71073/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E1C184",
+    "id": "vallejo-71-074",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beige",
+    "range": "Model Air",
+    "sku": "71.074",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-beige-71074/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C1AF89",
+    "id": "vallejo-71-075",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ivory",
+    "range": "Model Air",
+    "sku": "71.075",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ral1001-ivory-71075/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FBC392",
+    "id": "vallejo-71-076",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skin Tone",
+    "range": "Model Air",
+    "sku": "71.076",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-skin-tone-71076/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AB743C",
+    "id": "vallejo-71-077",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wood",
+    "range": "Model Air",
+    "sku": "71.077",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-wood-71077/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E9A020",
+    "id": "vallejo-71-078",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Rlm04",
+    "range": "Model Air",
+    "sku": "71.078",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm04-yellow-71078/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A7816E",
+    "id": "vallejo-71-079",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tan Earth",
+    "range": "Model Air",
+    "sku": "71.079",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-tan-earth-71079/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#78574E",
+    "id": "vallejo-71-080",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rust",
+    "range": "Model Air",
+    "sku": "71.080",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rust-71080/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7B6A3C",
+    "id": "vallejo-71-081",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ochre",
+    "range": "Model Air",
+    "sku": "71.081",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ochre-71081/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ED604E",
+    "id": "vallejo-71-082",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Red",
+    "range": "Model Air",
+    "sku": "71.082",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-fluorescent-red-71082/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E64A21",
+    "id": "vallejo-71-083",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange",
+    "range": "Model Air",
+    "sku": "71.083",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-orange-71083/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#893D30",
+    "id": "vallejo-71-084",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fire Red",
+    "range": "Model Air",
+    "sku": "71.084",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-fire-red-71084/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AF362B",
+    "id": "vallejo-71-085",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ferrari Red",
+    "range": "Model Air",
+    "sku": "71.085",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ferrari-red-71085/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E3431F",
+    "id": "vallejo-71-086",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Red",
+    "range": "Model Air",
+    "sku": "71.086",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-light-red-71086/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#285773",
+    "id": "vallejo-71-087",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Steel Blue",
+    "range": "Model Air",
+    "sku": "71.087",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-steel-blue-71087/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2F4E7D",
+    "id": "vallejo-71-088",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "French Blue",
+    "range": "Model Air",
+    "sku": "71.088",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-french-blue-71088/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#00A5D9",
+    "id": "vallejo-71-089",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Sea Blue",
+    "range": "Model Air",
+    "sku": "71.089",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-light-sea-blue-71089/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3C415E",
+    "id": "vallejo-71-090",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Sky",
+    "range": "Model Air",
+    "sku": "71.090",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-deep-sky-71090/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3B3841",
+    "id": "vallejo-71-091",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Signal Blue",
+    "range": "Model Air",
+    "sku": "71.091",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-signal-blue-71091/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#535645",
+    "id": "vallejo-71-092",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ral6003 Medium Olive",
+    "range": "Model Air",
+    "sku": "71.092",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/ral6003-medium-olive-71092/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#575A51",
+    "id": "vallejo-71-093",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nato Green",
+    "range": "Model Air",
+    "sku": "71.093",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/model-air-en/model-air-nato-green-71093/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5A613F",
+    "id": "vallejo-71-094",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Zinc Chromate",
+    "range": "Model Air",
+    "sku": "71.094",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-green-zinc-chromate-71094/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#758560",
+    "id": "vallejo-71-095",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Green",
+    "range": "Model Air",
+    "sku": "71.095",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-pale-green-71095/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6E6761",
+    "id": "vallejo-71-096",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Grey",
+    "range": "Model Air",
+    "sku": "71.096",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-olive-grey-71096/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5E626E",
+    "id": "vallejo-71-097",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medium Gunship Gray",
+    "range": "Model Air",
+    "sku": "71.097",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-medium-gunship-gray-71097/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#819596",
+    "id": "vallejo-71-101",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Blue Rlm78",
+    "range": "Model Air",
+    "sku": "71.101",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm78-light-blue-71101/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B42D31",
+    "id": "vallejo-71-102",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red",
+    "range": "Model Air",
+    "sku": "71.102",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-red-71102/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A1A49B",
+    "id": "vallejo-71-103",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gray Blue Rlm84",
+    "range": "Model Air",
+    "sku": "71.103",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/rlm84-gray-blue-71103/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5D604B",
+    "id": "vallejo-71-104",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Rlm62",
+    "range": "Model Air",
+    "sku": "71.104",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm62-green-71104/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#86433A",
+    "id": "vallejo-71-105",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Rlm26",
+    "range": "Model Air",
+    "sku": "71.105",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm26-brown-71105/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C5B26D",
+    "id": "vallejo-71-106",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ivory Rlm05",
+    "range": "Model Air",
+    "sku": "71.106",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/rlm05-ivory-71106/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CBA552",
+    "id": "vallejo-71-107",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Interior Yellow",
+    "range": "Model Air",
+    "sku": "71.107",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-us-interior-yellow-71107/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#728CAF",
+    "id": "vallejo-71-108",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Uk Azure Blue",
+    "range": "Model Air",
+    "sku": "71.108",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-uk-azure-blue-71108/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4C6675",
+    "id": "vallejo-71-109",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Faded P.R.U. Blue",
+    "range": "Model Air",
+    "sku": "71.109",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-faded-p-r-u-blue-71109/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#585C67",
+    "id": "vallejo-71-110",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Gray",
+    "range": "Model Air",
+    "sku": "71.110",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-dark-grey-71110/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#54697A",
+    "id": "vallejo-71-111",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Usaf Light Blue",
+    "range": "Model Air",
+    "sku": "71.111",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-usaf-light-blue-71111/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9E887B",
+    "id": "vallejo-71-112",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sand",
+    "range": "Model Air",
+    "sku": "71.112",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-sand-71112/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5A768E",
+    "id": "vallejo-71-113",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Idf Blue",
+    "range": "Model Air",
+    "sku": "71.113",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-idf-blue-71113/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#687E8C",
+    "id": "vallejo-71-114",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medium Gray",
+    "range": "Model Air",
+    "sku": "71.114",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-medium-gray-71114/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#484D53",
+    "id": "vallejo-71-115",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Grey",
+    "range": "Model Air",
+    "sku": "71.115",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ral7016-blue-grey-71115/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7C6B51",
+    "id": "vallejo-71-116",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Grey Green",
+    "range": "Model Air",
+    "sku": "71.116",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ral7008-camouflage-grey-green-71116/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B29172",
+    "id": "vallejo-71-117",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Brown",
+    "range": "Model Air",
+    "sku": "71.117",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ral8020-camouflage-brown-71117/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#887D6B",
+    "id": "vallejo-71-118",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Grey",
+    "range": "Model Air",
+    "sku": "71.118",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-camouflage-grey-71118/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D7D7CD",
+    "id": "vallejo-71-119",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White Grey",
+    "range": "Model Air",
+    "sku": "71.119",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-white-grey-71119/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8B97A3",
+    "id": "vallejo-71-120",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Ghost Gray",
+    "range": "Model Air",
+    "sku": "71.120",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-dark-ghost-gray-71120/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AAACA9",
+    "id": "vallejo-71-121",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Gull Gray",
+    "range": "Model Air",
+    "sku": "71.121",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-light-gull-gray-71121/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AE9A81",
+    "id": "vallejo-71-122",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Desert Armour 686",
+    "range": "Model Air",
+    "sku": "71.122",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-us-desert-armour-686-71122/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#565658",
+    "id": "vallejo-71-123",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Grey Rlm42",
+    "range": "Model Air",
+    "sku": "71.123",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm42-dark-grey-71123/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#515B5A",
+    "id": "vallejo-71-124",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Usaf Green",
+    "range": "Model Air",
+    "sku": "71.124",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-usaf-green-71124/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8D7460",
+    "id": "vallejo-71-125",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Usaf Brown",
+    "range": "Model Air",
+    "sku": "71.125",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-usaf-brown-71125/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#79876E",
+    "id": "vallejo-71-126",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Idf/Iaf Green",
+    "range": "Model Air",
+    "sku": "71.126",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-idf-iaf-green-71126/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#686868",
+    "id": "vallejo-71-128",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gray Violet",
+    "range": "Model Air",
+    "sku": "71.128",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-gray-violet-71128/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#936045",
+    "id": "vallejo-71-129",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Rust",
+    "range": "Model Air",
+    "sku": "71.129",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-light-rust-71129/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CA6632",
+    "id": "vallejo-71-130",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Rust",
+    "range": "Model Air",
+    "sku": "71.130",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-orange-rust-71130/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#796F63",
+    "id": "vallejo-71-131",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Concrete",
+    "range": "Model Air",
+    "sku": "71.131",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-concrete-71131/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E3D3B2",
+    "id": "vallejo-71-132",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aged White",
+    "range": "Model Air",
+    "sku": "71.132",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-aged-white-71132/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7B6341",
+    "id": "vallejo-71-133",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dirt",
+    "range": "Model Air",
+    "sku": "71.133",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-dirt-71133/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#424D3F",
+    "id": "vallejo-71-134",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ija Midouri Green",
+    "range": "Model Air",
+    "sku": "71.134",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ija-midouri-green-71134/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F4A701",
+    "id": "vallejo-71-135",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ija Chrome Yellow",
+    "range": "Model Air",
+    "sku": "71.135",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ija-chrome-yellow-71135/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7B674F",
+    "id": "vallejo-71-136",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ija Earth Brown",
+    "range": "Model Air",
+    "sku": "71.136",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ija-earth-brown-71136/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#696741",
+    "id": "vallejo-71-137",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Light Green",
+    "range": "Model Air",
+    "sku": "71.137",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-us-light-green-71137/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#978770",
+    "id": "vallejo-71-138",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Sand",
+    "range": "Model Air",
+    "sku": "71.138",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-us-sand-71138/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6C5C43",
+    "id": "vallejo-71-139",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Field Drab",
+    "range": "Model Air",
+    "sku": "71.139",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-us-field-drab-71139/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A88C7E",
+    "id": "vallejo-71-140",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Desert Sand",
+    "range": "Model Air",
+    "sku": "71.140",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-us-desert-sand-71140/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ACA088",
+    "id": "vallejo-71-141",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Idf Sand Grey 73",
+    "range": "Model Air",
+    "sku": "71.141",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/model-air-en/model-air-idf-sand-grey-73-71141/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7B746E",
+    "id": "vallejo-71-142",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Idf Sinai Grey 82",
+    "range": "Model Air",
+    "sku": "71.142",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-idf-sinai-grey-82-71142/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B4996C",
+    "id": "vallejo-71-143",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Uk Light Stone",
+    "range": "Model Air",
+    "sku": "71.143",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-uk-light-stone-71143/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B6A58B",
+    "id": "vallejo-71-244",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sand Beige",
+    "range": "Model Air",
+    "sku": "71.244",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-sand-beige-71244/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#99886A",
+    "id": "vallejo-71-245",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Loam Beige",
+    "range": "Model Air",
+    "sku": "71.245",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-loam-beige-71245/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#978674",
+    "id": "vallejo-71-246",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Brown",
+    "range": "Model Air",
+    "sku": "71.246",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-yellow-brown-71246/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6A6150",
+    "id": "vallejo-71-247",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Olive",
+    "range": "Model Air",
+    "sku": "71.247",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-light-olive-71247/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#676161",
+    "id": "vallejo-71-248",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Grey",
+    "range": "Model Air",
+    "sku": "71.248",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-brown-grey-71248/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#614E47",
+    "id": "vallejo-71-249",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nato Brown",
+    "range": "Model Air",
+    "sku": "71.249",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-nato-brown-71249/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#57594E",
+    "id": "vallejo-71-250",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronze Green",
+    "range": "Model Air",
+    "sku": "71.250",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-bronze-green-71250/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3B3B3D",
+    "id": "vallejo-71-251",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nato Black",
+    "range": "Model Air",
+    "sku": "71.251",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-nato-black-71251/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#899CA2",
+    "id": "vallejo-71-255",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Blue Rlm65",
+    "range": "Model Air",
+    "sku": "71.255",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-light-blue-rlm65-71255/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#47504F",
+    "id": "vallejo-71-256",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Rlm73",
+    "range": "Model Air",
+    "sku": "71.256",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm73-green-71256/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#96ABA6",
+    "id": "vallejo-71-257",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Blue Rlm76",
+    "range": "Model Air",
+    "sku": "71.257",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm76-light-blue-71257/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#565759",
+    "id": "vallejo-71-258",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Green Rlm74",
+    "range": "Model Air",
+    "sku": "71.258",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/rlm74-gray-green-71258/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#646567",
+    "id": "vallejo-71-259",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Violet Rlm75",
+    "range": "Model Air",
+    "sku": "71.259",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm75-grey-violet-71259/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6E7166",
+    "id": "vallejo-71-260",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Grey Rlm63",
+    "range": "Model Air",
+    "sku": "71.260",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm63-light-grey-71260/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4C4C4C",
+    "id": "vallejo-71-263",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Rlm72",
+    "range": "Model Air",
+    "sku": "71.263",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm72-green-71263/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#665D4C",
+    "id": "vallejo-71-264",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Violet Rlm81",
+    "range": "Model Air",
+    "sku": "71.264",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm81-brown-violet-71264/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#47504F",
+    "id": "vallejo-71-265",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Green Rlm80",
+    "range": "Model Air",
+    "sku": "71.265",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm80-olive-green-71265/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#384965",
+    "id": "vallejo-71-266",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Blue Rlm24",
+    "range": "Model Air",
+    "sku": "71.266",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm24-dark-blue-71266/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4A7A6C",
+    "id": "vallejo-71-267",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Green Rlm25",
+    "range": "Model Air",
+    "sku": "71.267",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm25-light-green-71267/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4A4B45",
+    "id": "vallejo-71-268",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Grey",
+    "range": "Model Air",
+    "sku": "71.268",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ral6006-german-grey-71268/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9F3D34",
+    "id": "vallejo-71-269",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red",
+    "range": "Model Air",
+    "sku": "71.269",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ral6006-red-71269/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E8D8BE",
+    "id": "vallejo-71-270",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Off-White",
+    "range": "Model Air",
+    "sku": "71.270",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ral9001-off-white-71270/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#68433A",
+    "id": "vallejo-71-271",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Red Brown",
+    "range": "Model Air",
+    "sku": "71.271",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ral8012-german-red-brown-71271/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#866F4D",
+    "id": "vallejo-71-272",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Yellow Brown",
+    "range": "Model Air",
+    "sku": "71.272",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ral8000-german-yellow-brown-71272/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6E7683",
+    "id": "vallejo-71-273",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ocean Gray",
+    "range": "Model Air",
+    "sku": "71.273",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ocean-gray-71273/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D7E83",
+    "id": "vallejo-71-274",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aggressor Gray",
+    "range": "Model Air",
+    "sku": "71.274",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-aggressor-gray-71274/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#83838B",
+    "id": "vallejo-71-275",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Usaf Medium Gray",
+    "range": "Model Air",
+    "sku": "71.275",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-usaf-medium-gray-71275/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C3C5C4",
+    "id": "vallejo-71-276",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Usaf Light Gray",
+    "range": "Model Air",
+    "sku": "71.276",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-usaf-light-gray-71276/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#83838B",
+    "id": "vallejo-71-277",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Gull Gray",
+    "range": "Model Air",
+    "sku": "71.277",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-dark-gull-gray-71277/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#967552",
+    "id": "vallejo-71-278",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sand Yellow Rlm79",
+    "range": "Model Air",
+    "sku": "71.278",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-rlm79-sand-yellow-71278/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E2E4D9",
+    "id": "vallejo-71-279",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Insignia White",
+    "range": "Model Air",
+    "sku": "71.279",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-insignia-white-71279/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6C6D6F",
+    "id": "vallejo-71-280",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Gray",
+    "range": "Model Air",
+    "sku": "71.280",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-camouflage-gray-71280/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4C4C4A",
+    "id": "vallejo-71-281",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "3B Russian Green",
+    "range": "Model Air",
+    "sku": "71.281",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-3b-russian-green-71281/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#524C4E",
+    "id": "vallejo-71-282",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "6K Russian Brown",
+    "range": "Model Air",
+    "sku": "71.282",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/6k-russian-brown-71282/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7C715D",
+    "id": "vallejo-71-283",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "7K Russian Tan",
+    "range": "Model Air",
+    "sku": "71.283",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-7k-russian-tan-71283/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#898471",
+    "id": "vallejo-71-284",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Uk Light Mud",
+    "range": "Model Air",
+    "sku": "71.284",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-uk-light-mud-71284/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#555646",
+    "id": "vallejo-71-285",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ija Dark Green",
+    "range": "Model Air",
+    "sku": "71.285",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ija-dark-green-71285/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#594F43",
+    "id": "vallejo-71-286",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ija Olive Green",
+    "range": "Model Air",
+    "sku": "71.286",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ija-olive-green-71286/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6C5C43",
+    "id": "vallejo-71-287",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ija Khaki Brown",
+    "range": "Model Air",
+    "sku": "71.287",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ija-khaki-brown-71287/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CBBE94",
+    "id": "vallejo-71-288",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Uk Bsc 64 Portland Stone",
+    "range": "Model Air",
+    "sku": "71.288",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-uk-bsc-64-portland-stone-71288/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#595B46",
+    "id": "vallejo-71-289",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Dark Green",
+    "range": "Model Air",
+    "sku": "71.289",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-us-dark-green-71289/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#685B52",
+    "id": "vallejo-71-290",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Earth Brown",
+    "range": "Model Air",
+    "sku": "71.290",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-us-earth-brown-71290/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B88E5C",
+    "id": "vallejo-71-291",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Earth Yellow",
+    "range": "Model Air",
+    "sku": "71.291",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-us-earth-yellow-71291/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5A5957",
+    "id": "vallejo-71-292",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Loam",
+    "range": "Model Air",
+    "sku": "71.292",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-us-loam-71292/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7C6052",
+    "id": "vallejo-71-293",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Earth Red",
+    "range": "Model Air",
+    "sku": "71.293",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-us-earth-red-71293/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#58584E",
+    "id": "vallejo-71-294",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Forest Green",
+    "range": "Model Air",
+    "sku": "71.294",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-us-forest-green-71294/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#484850",
+    "id": "vallejo-71-295",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Usn Sea Blue",
+    "range": "Model Air",
+    "sku": "71.295",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-usn-sea-blue-71295/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BCBCB2",
+    "id": "vallejo-71-296",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Usaaf Light Gray",
+    "range": "Model Air",
+    "sku": "71.296",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-usaaf-light-gray-71296/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#726761",
+    "id": "vallejo-71-297",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jgsd Brown 3606",
+    "range": "Model Air",
+    "sku": "71.297",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-jgsd-brown-3606-71297/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9A9B8D",
+    "id": "vallejo-71-298",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "M495 Light Gray",
+    "range": "Model Air",
+    "sku": "71.298",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-m495-light-gray-71298/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#647182",
+    "id": "vallejo-71-299",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Intermediate Blue",
+    "range": "Model Air",
+    "sku": "71.299",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-intermediate-blue-71299/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#262D37",
+    "id": "vallejo-71-300",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Glossy Sea Blue",
+    "range": "Model Air",
+    "sku": "71.300",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-glossy-sea-blue-71300/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#665F42",
+    "id": "vallejo-71-301",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amt-4 Camouflage Green",
+    "range": "Model Air",
+    "sku": "71.301",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-amt-4-camouflage-green-71301/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A2A48F",
+    "id": "vallejo-71-302",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sky Type S",
+    "range": "Model Air",
+    "sku": "71.302",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-sky-type-s-71302/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#595B46",
+    "id": "vallejo-71-303",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "A-24M Camouflage Green",
+    "range": "Model Air",
+    "sku": "71.303",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-a-24m-camouflage-green-71303/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5E626E",
+    "id": "vallejo-71-304",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amt-11 Blue Grey",
+    "range": "Model Air",
+    "sku": "71.304",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-amt-11-blue-grey-71304/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#96A28E",
+    "id": "vallejo-71-305",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Interior Grey Green",
+    "range": "Model Air",
+    "sku": "71.305",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-interior-grey-green-71305/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C2D5DB",
+    "id": "vallejo-71-306",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sky Blue",
+    "range": "Model Air",
+    "sku": "71.306",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-sky-blue-71306/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#818A93",
+    "id": "vallejo-71-307",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bs Medium Sea Grey",
+    "range": "Model Air",
+    "sku": "71.307",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-bs-medium-sea-grey-71307/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#484850",
+    "id": "vallejo-71-308",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amt-12 Dark Grey",
+    "range": "Model Air",
+    "sku": "71.308",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-amt-12-dark-grey-71308/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#616157",
+    "id": "vallejo-71-309",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Slate Grey",
+    "range": "Model Air",
+    "sku": "71.309",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-dark-slate-grey-71309/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3B5353",
+    "id": "vallejo-71-310",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ijn Deep Dark Green",
+    "range": "Model Air",
+    "sku": "71.310",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ijn-deep-dark-green-71310/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8B8370",
+    "id": "vallejo-71-311",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ijn Ash Grey",
+    "range": "Model Air",
+    "sku": "71.311",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ijn-ash-grey-71311/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9C9A8D",
+    "id": "vallejo-71-312",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ijn Medium Grey",
+    "range": "Model Air",
+    "sku": "71.312",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/ijn-medium-grey-71312/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2A3553",
+    "id": "vallejo-71-313",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Mediterranean Blue",
+    "range": "Model Air",
+    "sku": "71.313",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-dark-mediterranean-blue-71313/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#58585A",
+    "id": "vallejo-71-314",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Seaplane Gray",
+    "range": "Model Air",
+    "sku": "71.314",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-seaplane-gray-71314/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#525355",
+    "id": "vallejo-71-315",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tire Black",
+    "range": "Model Air",
+    "sku": "71.315",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-tire-black-71315/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#594F43",
+    "id": "vallejo-71-316",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "N. 41 Dark Olive Drab",
+    "range": "Model Air",
+    "sku": "71.316",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-n41-dark-olive-drab-71316/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7AC7DB",
+    "id": "vallejo-71-317",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aii Sv. Gol Light Blue",
+    "range": "Model Air",
+    "sku": "71.317",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-aii-sv-gol-light-blue-71317/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#618BA3",
+    "id": "vallejo-71-318",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amt-7 Greyish Blue",
+    "range": "Model Air",
+    "sku": "71.318",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-amt-7-greyish-blue-71318/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#72A09D",
+    "id": "vallejo-71-319",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "A-28M Greyish Blue",
+    "range": "Model Air",
+    "sku": "71.319",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-a-28m-greyish-blue-71319/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#958A84",
+    "id": "vallejo-71-320",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amt-1 Light Grey Brown",
+    "range": "Model Air",
+    "sku": "71.320",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-amt-1-light-grey-brown-71320/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A6AB95",
+    "id": "vallejo-71-321",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ija Light Grey Green",
+    "range": "Model Air",
+    "sku": "71.321",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ija-light-grey-green-71321/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#424D3F",
+    "id": "vallejo-71-322",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ijn Black Green",
+    "range": "Model Air",
+    "sku": "71.322",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ijn-black-green-71322/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#715D44",
+    "id": "vallejo-71-323",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bs Dark Earth",
+    "range": "Model Air",
+    "sku": "71.323",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-bs-dark-earth-71323/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#464833",
+    "id": "vallejo-71-324",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bs Dark Green",
+    "range": "Model Air",
+    "sku": "71.324",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-bs-dark-green-71324/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#474745",
+    "id": "vallejo-71-325",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ijn Dark Black Green",
+    "range": "Model Air",
+    "sku": "71.325",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ijn-dark-black-green-71325/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BBB39E",
+    "id": "vallejo-71-326",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ija Grey Green",
+    "range": "Model Air",
+    "sku": "71.326",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-ija-grey-green-71326/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C4B29C",
+    "id": "vallejo-71-327",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Iaf Sand",
+    "range": "Model Air",
+    "sku": "71.327",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-iaf-sand-71327/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C6C9BE",
+    "id": "vallejo-71-328",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Blue",
+    "range": "Model Air",
+    "sku": "71.328",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-light-blue-71328/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#656D62",
+    "id": "vallejo-71-329",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green",
+    "range": "Model Air",
+    "sku": "71.329",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-green-71329/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#594C43",
+    "id": "vallejo-71-330",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Khaki Green Num.3",
+    "range": "Model Air",
+    "sku": "71.330",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-khaki-green-num-3-71330/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#47897F",
+    "id": "vallejo-71-331",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cockpit Emerald Green \u201cFaded\u201d",
+    "range": "Model Air",
+    "sku": "71.331",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-cockpit-emerald-green-faded-71331/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C1D5D4",
+    "id": "vallejo-71-332",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Underside Blue \u201cFaded\u201d",
+    "range": "Model Air",
+    "sku": "71.332",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-underside-blue-faded-71332/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0091BA",
+    "id": "vallejo-71-333",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Af Blue",
+    "range": "Model Air",
+    "sku": "71.333",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-russian-af-blue-71333/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B0C5CA",
+    "id": "vallejo-71-334",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flanker Light Blue",
+    "range": "Model Air",
+    "sku": "71.334",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-flanker-light-tblue-71334/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#99A7A8",
+    "id": "vallejo-71-335",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flanker Light Gray",
+    "range": "Model Air",
+    "sku": "71.335",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-flanker-light-gray-71335/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6A7473",
+    "id": "vallejo-71-336",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "A-14 Steel Grey",
+    "range": "Model Air",
+    "sku": "71.336",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-a-14-steel-grey-71336/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#90AEB8",
+    "id": "vallejo-71-337",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flanker Blue",
+    "range": "Model Air",
+    "sku": "71.337",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-flanker-blue-71337/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9FADAE",
+    "id": "vallejo-71-338",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Af Grey Blue",
+    "range": "Model Air",
+    "sku": "71.338",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-russian-af-grey-blue-71338/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#898E92",
+    "id": "vallejo-71-339",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Af Grey N.3",
+    "range": "Model Air",
+    "sku": "71.339",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-russian-af-grey-n-3-71339/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7B817D",
+    "id": "vallejo-71-340",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Green",
+    "range": "Model Air",
+    "sku": "71.340",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-grey-green-71340/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5B6658",
+    "id": "vallejo-71-341",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Grey",
+    "range": "Model Air",
+    "sku": "71.341",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-green-grey-71341/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AAC8CA",
+    "id": "vallejo-71-342",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Af Light Blue",
+    "range": "Model Air",
+    "sku": "71.342",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-russian-af-light-blue-71342/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#729BB7",
+    "id": "vallejo-71-343",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Af Grey N.7",
+    "range": "Model Air",
+    "sku": "71.343",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/model-air-en/model-air-russian-af-grey-n-7-71343/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B2CCD9",
+    "id": "vallejo-71-344",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Af Grey Protective Coat",
+    "range": "Model Air",
+    "sku": "71.344",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-russian-af-grey-protective-coat-71344/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A1B4C2",
+    "id": "vallejo-71-345",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Af Grey N.8",
+    "range": "Model Air",
+    "sku": "71.345",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-russian-af-grey-n8-71345/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A8A99B",
+    "id": "vallejo-71-346",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Af Grey N.4",
+    "range": "Model Air",
+    "sku": "71.346",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-russian-af-grey-n4-71346/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4C4936",
+    "id": "vallejo-71-347",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Af Dark Green",
+    "range": "Model Air",
+    "sku": "71.347",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-russian-af-dark-green-71347/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BE986B",
+    "id": "vallejo-71-348",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Usaf Tan",
+    "range": "Model Air",
+    "sku": "71.348",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-air-usaf-tan-71348/"
+  }
+]

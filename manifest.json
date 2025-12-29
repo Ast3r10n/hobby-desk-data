@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "commitHash": "unknown",
+  "generatedAt": "2025-12-29T01:46:15.336331Z",
+  "totalPaints": 3140,
+  "files": [
+    {
+      "brand": "AK Interactive",
+      "range": "3rd Generation",
+      "path": "ak-interactive/ak_3gen.json",
+      "hash": "sha256:88deb8978141c34f7a883d78109c4126b11b01f4fe2abb4cc01e457e82ca5ed5",
+      "paintCount": 477
+    },
+    {
+      "brand": "AK Interactive",
+      "range": "Acrylic Wash",
+      "path": "ak-interactive/ak_acrylic_wash.json",
+      "hash": "sha256:550468e41b6add4d3d75eff82a568d2f738e9aa065c954e01e93b03b8fbe393d",
+      "paintCount": 19
+    },
+    {
+      "brand": "AK Interactive",
+      "range": "Deep Shades",
+      "path": "ak-interactive/ak_deep_shades.json",
+      "hash": "sha256:2431f62b089ba5ab8559337436fee51830c592f45dc47080eb4792062aa4927c",
+      "paintCount": 10
+    },
+    {
+      "brand": "AK Interactive",
+      "range": "Playmarkers",
+      "path": "ak-interactive/ak_playmarkers.json",
+      "hash": "sha256:be450bb32b983eb82d78154fa034c0560fa30c9202c5fbe1b62097634a4b159c",
+      "paintCount": 34
+    },
+    {
+      "brand": "AK Interactive",
+      "range": "Quick Gen",
+      "path": "ak-interactive/ak_quick_gen.json",
+      "hash": "sha256:cc895a2f45968830835041d7c347cc7ef8459b24bb1f93b6cdcd0e6142c5709a",
+      "paintCount": 80
+    },
+    {
+      "brand": "AK Interactive",
+      "range": "Real Colors",
+      "path": "ak-interactive/ak_real_colors.json",
+      "hash": "sha256:a5cc92261c3c66306cf7b9185144f5b491280a1c72b648d0b0845e494bb07ff1",
+      "paintCount": 180
+    },
+    {
+      "brand": "AK Interactive",
+      "range": "Real Colors Markers",
+      "path": "ak-interactive/ak_real_colors_markers.json",
+      "hash": "sha256:ea07f9e0daa1e9c450716a829fca64dde8f807b2cd74f21e94ea0f87e28c112b",
+      "paintCount": 34
+    },
+    {
+      "brand": "AK Interactive",
+      "range": "The Inks",
+      "path": "ak-interactive/ak_the_inks.json",
+      "hash": "sha256:bbf13af205a697c9a52ec8a04be6519225ab882bc59403d5614394f4334a3ab9",
+      "paintCount": 28
+    },
+    {
+      "brand": "Colour Forge",
+      "range": "Colour Forge",
+      "path": "colour-forge/colour-forge.json",
+      "hash": "sha256:cb6b1a9ec011afa40f1ae5f397fb8fa51ae5dfe8b61313d507c39472d9298cb9",
+      "paintCount": 24
+    },
+    {
+      "brand": "Colour Forge",
+      "range": "Colour Forge Signature Series",
+      "path": "colour-forge/colour-forge-signature-series.json",
+      "hash": "sha256:18a60dd4eb55e573de60b78260c9cac9971e25f6a9c5220abb45940681441d35",
+      "paintCount": 8
+    },
+    {
+      "brand": "Games Workshop",
+      "range": "Citadel",
+      "path": "games-workshop/citadel.json",
+      "hash": "sha256:a4215cd4a275383af24a550b737b240489d6957cdfe5cc4af7bfccc607802d27",
+      "paintCount": 226
+    },
+    {
+      "brand": "Games Workshop",
+      "range": "Citadel Air",
+      "path": "games-workshop/citadel-air.json",
+      "hash": "sha256:e28a187fb5da89301b213254cef6b705645de74534759217c66692c96d3cbe89",
+      "paintCount": 47
+    },
+    {
+      "brand": "Games Workshop",
+      "range": "Citadel Contrast",
+      "path": "games-workshop/citadel-contrast.json",
+      "hash": "sha256:e129da651f9dc418897867bb67e264447fdfd5819277cbd0e0308dcbc57efa09",
+      "paintCount": 61
+    },
+    {
+      "brand": "Monument Hobbies",
+      "range": "AMP Colors",
+      "path": "monument-hobbies/pro-acryl.json",
+      "hash": "sha256:8e137527a095f1dc8e846bbb45d260e3d43d1d094b0f1dc0dd0061ebeb7a641c",
+      "paintCount": 179
+    },
+    {
+      "brand": "The Army Painter",
+      "range": "Speedpaint 2.0",
+      "path": "army-painter/speedpaint-2-0.json",
+      "hash": "sha256:6a215af977267bd496e1b738a12664e2245bd1db5ae45dbf8ef71aa2a80c66bf",
+      "paintCount": 90
+    },
+    {
+      "brand": "The Army Painter",
+      "range": "Warpaints",
+      "path": "army-painter/warpaints.json",
+      "hash": "sha256:0dc3760428e940ff520dc3aec768d483e712b0be2bb1d5745a8dbfcb8226d56b",
+      "paintCount": 117
+    },
+    {
+      "brand": "The Army Painter",
+      "range": "Warpaints Air",
+      "path": "army-painter/warpaints-air.json",
+      "hash": "sha256:d9f249d99aa40ccad252393d363b9a549b74fc8049752ecfd0036a93d9716a32",
+      "paintCount": 134
+    },
+    {
+      "brand": "The Army Painter",
+      "range": "Warpaints Fanatic",
+      "path": "army-painter/warpaints-fanatic.json",
+      "hash": "sha256:afa23f8847cdccb6ba6099d6571c452a92c35b031f256995b8592336f0aed34b",
+      "paintCount": 216
+    },
+    {
+      "brand": "Two Thin Coats",
+      "range": "Two Thin Coats",
+      "path": "two-thin-coats/two-thin-coats.json",
+      "hash": "sha256:25b3380670fb1daf608e43e878bfeca6b0d48b497f64796bc025576aa730ec3c",
+      "paintCount": 181
+    },
+    {
+      "brand": "Vallejo",
+      "range": "Game Air",
+      "path": "vallejo/vallejo_game_air.json",
+      "hash": "sha256:8ed3a972c90f7bae32128afc956c23ac703a0996b4a335b59368815190078f46",
+      "paintCount": 51
+    },
+    {
+      "brand": "Vallejo",
+      "range": "Game Color",
+      "path": "vallejo/vallejo_game_color.json",
+      "hash": "sha256:4473fc23b0701dab3eb78d05d6422ba948c65d994a96553bcdec59d508dc134e",
+      "paintCount": 131
+    },
+    {
+      "brand": "Vallejo",
+      "range": "Hobby Paint",
+      "path": "vallejo/vallejo_hobby_paint.json",
+      "hash": "sha256:8f58f52d895d05fa9d144ead5f9d2e5fe842434567c993fa4babce5170143469",
+      "paintCount": 34
+    },
+    {
+      "brand": "Vallejo",
+      "range": "Liquid Metal",
+      "path": "vallejo/vallejo_liquid_metal.json",
+      "hash": "sha256:48ac8084e55a06651ac271225f0327c94c099d04c6941e368b3d3c1155acefb5",
+      "paintCount": 8
+    },
+    {
+      "brand": "Vallejo",
+      "range": "Mecha Color",
+      "path": "vallejo/vallejo_mecha_color.json",
+      "hash": "sha256:acfade55ab2e5e37e3dd7bc1af1153aef97b059e9b67577d5397859ee00a1505",
+      "paintCount": 76
+    },
+    {
+      "brand": "Vallejo",
+      "range": "Metal Color",
+      "path": "vallejo/vallejo_metal_color.json",
+      "hash": "sha256:10eb722a380cc944ff107fcc558ed0937dd67edd3275b4d3cca349ed80940c10",
+      "paintCount": 18
+    },
+    {
+      "brand": "Vallejo",
+      "range": "Model Air",
+      "path": "vallejo/vallejo_model_air.json",
+      "hash": "sha256:285e8063fef04b3acbdd5a72d58ef6a641b1e32899aee4e10ff823267425833f",
+      "paintCount": 235
+    },
+    {
+      "brand": "Vallejo",
+      "range": "Model Color",
+      "path": "vallejo/vallejo_model_color.json",
+      "hash": "sha256:1b71d5a59f98bf47d55469fcf3bea3887b4423f43ac8ccf668923d4af5e39c12",
+      "paintCount": 204
+    },
+    {
+      "brand": "Vallejo",
+      "range": "Premium Color",
+      "path": "vallejo/vallejo_premium_color.json",
+      "hash": "sha256:7e337cae0f4e0064c1aee3bcf04bd58fcf3b5b7d3d0b9ce650c60d9a655dabc0",
+      "paintCount": 59
+    },
+    {
+      "brand": "Vallejo",
+      "range": "Primers",
+      "path": "vallejo/vallejo_primers.json",
+      "hash": "sha256:b99ae6c51eb6bf39742f13fe5fe85ea2ee46d8264f1c9e6f7528418fefa0781a",
+      "paintCount": 21
+    },
+    {
+      "brand": "Vallejo",
+      "range": "True Metallic Metal",
+      "path": "vallejo/vallejo_true_metallic_metal.json",
+      "hash": "sha256:2be79a1b60e44f44e83a9560e6858f33247b58c4b47cc4676e063483725f24d2",
+      "paintCount": 80
+    },
+    {
+      "brand": "Vallejo",
+      "range": "Wash FX",
+      "path": "vallejo/vallejo_wash_fx.json",
+      "hash": "sha256:f037396c3e2839f0a2e5a527acecb055194a0e3b28d025569804de2a6a957b0b",
+      "paintCount": 18
+    },
+    {
+      "brand": "Vallejo",
+      "range": "Xpress Color",
+      "path": "vallejo/vallejo_xpress_color.json",
+      "hash": "sha256:01fe6fe6f15ae4fed0d44986c3f101250431fb88bca57f0f99a138fec5d56b65",
+      "paintCount": 60
+    }
+  ]
+}

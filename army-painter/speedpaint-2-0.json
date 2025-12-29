@@ -1,0 +1,1712 @@
+[
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Black"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#000000",
+    "id": "army-painter-WP2001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grim Black",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2001",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Black Purplish Red"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#6e2537",
+    "id": "army-painter-WP2002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Murder Scene",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2002",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Blackish Green Grey"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#495c50",
+    "id": "army-painter-WP2003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Moss",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2003",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Blackish Blue"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#233f4d",
+    "id": "army-painter-WP2004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tyrian Navy",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2004",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Brilliant Pinkish Red"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#e82d5a",
+    "id": "army-painter-WP2005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carmine Dragon",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2005",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Blackish Blue Grey"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#2d2f3b",
+    "id": "army-painter-WP2006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Occultist Cloak",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2006",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Deep Red"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#9e1023",
+    "id": "army-painter-WP2007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Slaughter Red",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2007",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Dark Greyish Green"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#2c513d",
+    "id": "army-painter-WP2008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gunner Camo",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2008",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Dark Purplish Blue"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#003e88",
+    "id": "army-painter-WP2009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beowulf Blue",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2009",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Very Light Yellow"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#ffea7b",
+    "id": "army-painter-WP2010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pastel Yellow",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2010",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Grey"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#424649",
+    "id": "army-painter-WP2011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gravelord Grey",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2011",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Strong Red"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#e82e08",
+    "id": "army-painter-WP2012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blood Red",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2012",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Deep Green"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#0b4620",
+    "id": "army-painter-WP2013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Absolution Green",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2013",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Deep Blue"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#005587",
+    "id": "army-painter-WP2014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Highlord Blue",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2014",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Very Light Orange"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#fac89a",
+    "id": "army-painter-WP2015",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pastel Salmon",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2015",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Greyish White"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#ebecec",
+    "id": "army-painter-WP2016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Holy White",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2016",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Brilliant Red"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#cf4338",
+    "id": "army-painter-WP2017",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Poppy Red",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2017",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Strong Green"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#188120",
+    "id": "army-painter-WP2018",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orc Skin",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2018",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Vivid Bluish Green"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#48b9af",
+    "id": "army-painter-WP2019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Plasmatic Bolt",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2019",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Very Light Pink"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#eaa2b7",
+    "id": "army-painter-WP2020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Princess Pink",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2020",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "White"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#ffffff",
+    "id": "army-painter-WP2021",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blinding Light",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2021",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Reddish Orange"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#ec583a",
+    "id": "army-painter-WP2022",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Red",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2022",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Greenish Grey"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#635e41",
+    "id": "army-painter-WP2023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mummified Grime",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2023",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Bluish Green"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#61bc9d",
+    "id": "army-painter-WP2024",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Thunderbird Blue",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2024",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Very Light Purple"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#d9c3de",
+    "id": "army-painter-WP2025",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pastel Lavender",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2025",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Dark Blue"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#38415a",
+    "id": "army-painter-WP2026",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cloudburst Blue",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2026",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Vivid Yellow"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#ffdc00",
+    "id": "army-painter-WP2027",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Maize Yellow",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2027",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Greyish Green"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#557237",
+    "id": "army-painter-WP2028",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camo Cloak",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2028",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Greenish Blue"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#339da3",
+    "id": "army-painter-WP2029",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lizardfolk Cyan",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2029",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Very Light Blue"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#9fc0e4",
+    "id": "army-painter-WP2030",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pastel Indigo",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2030",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Bluish Grey"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#537a8c",
+    "id": "army-painter-WP2031",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Runic Grey",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2031",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Yellow"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#f4c202",
+    "id": "army-painter-WP2032",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ancient Honey",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2032",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Vivid Green"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#5aae23",
+    "id": "army-painter-WP2033",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shamrock Green",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2033",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Deep Greenish Blue"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#0099aa",
+    "id": "army-painter-WP2034",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Raging Sea",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2034",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Very Light Bluish Green"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#b8dfd1",
+    "id": "army-painter-WP2035",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pastel Seafoam",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2035",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Light Grey"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#b6c1c5",
+    "id": "army-painter-WP2036",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ashen Stone",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2036",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Orange Yellow"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#fec800",
+    "id": "army-painter-WP2037",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Zealot Yellow",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2037",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Brilliant Green"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#3bae65",
+    "id": "army-painter-WP2038",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ghoul Green",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2038",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Brilliant Greenish Blue"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#00acbe",
+    "id": "army-painter-WP2039",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Caribbean Ocean",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2039",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": null
+    },
+    "category": "Speedpaint Metallic",
+    "discontinued": false,
+    "hex": "#e5b100",
+    "id": "army-painter-WP2040",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Glittering Loot",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2040",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Light Bluish Grey"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#baced7",
+    "id": "army-painter-WP2041",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Battleship Grey",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2041",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Deep Orange"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#ce9700",
+    "id": "army-painter-WP2042",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sand Golem",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2042",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Yellowish Green"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#69a343",
+    "id": "army-painter-WP2043",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Forest Sprite",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2043",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Vivid Blue"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#007bb4",
+    "id": "army-painter-WP2044",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magic Blue",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2044",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": null
+    },
+    "category": "Speedpaint Metallic",
+    "discontinued": false,
+    "hex": "#fec902",
+    "id": "army-painter-WP2045",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hoplite Gold",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2045",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Pale Purplish Red"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#6f3b3b",
+    "id": "army-painter-WP2046",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dusk Red",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2046",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Vivid Orange"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#ef6f1a",
+    "id": "army-painter-WP2047",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nuclear Sunrise",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2047",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Strong Yellowish Brown"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#635520",
+    "id": "army-painter-WP2048",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brownish Decay",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2048",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Light Blue"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#007abe",
+    "id": "army-painter-WP2049",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tidal Wave",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2049",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": null
+    },
+    "category": "Speedpaint Metallic",
+    "discontinued": false,
+    "hex": "#c57c00",
+    "id": "army-painter-WP2050",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golden Armour",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2050",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Dark Reddish Brown"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#5c3729",
+    "id": "army-painter-WP2051",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Satchel Brown",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2051",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Light Orange"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#f07a1a",
+    "id": "army-painter-WP2052",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fire Giant Orange",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2052",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Olive"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#777237",
+    "id": "army-painter-WP2053",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desolate Brown",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2053",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Brilliant Blue"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#3868ae",
+    "id": "army-painter-WP2054",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Royal Robes",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2054",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": null
+    },
+    "category": "Speedpaint Metallic",
+    "discontinued": false,
+    "hex": "#eac86e",
+    "id": "army-painter-WP2055",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hoard Bronze",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2055",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Deep Brown"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#452a0b",
+    "id": "army-painter-WP2056",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Wood",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2056",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Pale Yellowish Pink"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#dc6c4e",
+    "id": "army-painter-WP2057",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aged Hide",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2057",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Light Olive Green"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#98ae52",
+    "id": "army-painter-WP2058",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Algae Green",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2058",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Purplish Blue"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#56539e",
+    "id": "army-painter-WP2059",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Periwinkle Purple",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2059",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": null
+    },
+    "category": "Speedpaint Metallic",
+    "discontinued": false,
+    "hex": "#b6695b",
+    "id": "army-painter-WP2060",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brazen Copper",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2060",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Reddish Brown"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#643a2e",
+    "id": "army-painter-WP2061",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnished Red",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2061",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Light Yellowish Pink"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#f6a869",
+    "id": "army-painter-WP2062",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Peachy Flesh",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2062",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Brilliant Yellowish Green"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#8abd0d",
+    "id": "army-painter-WP2063",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ghillie Dew",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2063",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Vivid Purple"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#623089",
+    "id": "army-painter-WP2064",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple Swarm",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2064",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": null
+    },
+    "category": "Speedpaint Metallic",
+    "discontinued": false,
+    "hex": "#dd7a55",
+    "id": "army-painter-WP2065",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Talos Bronze",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2065",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Deep Reddish Brown"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#a1491d",
+    "id": "army-painter-WP2066",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ruddy Fur",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2066",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Pale Reddish Brown"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#f6a97c",
+    "id": "army-painter-WP2067",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crusader Skin",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2067",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Greenish Yellow"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#d6dc33",
+    "id": "army-painter-WP2068",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Charming Chartreuse",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2068",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Very Dark Purple"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#513372",
+    "id": "army-painter-WP2069",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hive Dweller",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2069",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": null
+    },
+    "category": "Speedpaint Metallic",
+    "discontinued": false,
+    "hex": "#889ca5",
+    "id": "army-painter-WP2070",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Enchanted Steel",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2070",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Light Brown"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#945201",
+    "id": "army-painter-WP2071",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hardened Leather",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2071",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Brownish Orange"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#cb6b3e",
+    "id": "army-painter-WP2072",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fire Drake",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2072",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Light Greenish Yellow"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#cad848",
+    "id": "army-painter-WP2073",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Malignant Green",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2073",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Strong Purple"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#a14d80",
+    "id": "army-painter-WP2074",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moody Mauve",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2074",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": null
+    },
+    "category": "Speedpaint Metallic",
+    "discontinued": false,
+    "hex": "#9c9e9e",
+    "id": "army-painter-WP2075",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Broadsword Silver",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2075",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Dark Brown"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#4b4736",
+    "id": "army-painter-WP2076",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Noble Skin",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2076",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Pale Brown"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#b79572",
+    "id": "army-painter-WP2077",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bony Matter",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2077",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Pale Yellowish Green"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#cccf60",
+    "id": "army-painter-WP2078",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Maggot Skin",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2078",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Strong Reddish Purple"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#a83471",
+    "id": "army-painter-WP2079",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moonlake Coral",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2079",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": null
+    },
+    "category": "Speedpaint Metallic",
+    "discontinued": false,
+    "hex": "#efefef",
+    "id": "army-painter-WP2080",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Polished Silver",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2080",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Light Purplish Red"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#9b5651",
+    "id": "army-painter-WP2081",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Goddess Glow",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2081",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Pale Yellowish Brown"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#e7d297",
+    "id": "army-painter-WP2082",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pallid Bone",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2082",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Light Greyish Green"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#adb16f",
+    "id": "army-painter-WP2083",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rigor Mortis",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2083",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Strong Pink"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#ae3a6c",
+    "id": "army-painter-WP2084",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple Alchemy",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2084",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": null
+    },
+    "category": "Speedpaint Metallic",
+    "discontinued": false,
+    "hex": "#d5dd46",
+    "id": "army-painter-WP2085",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aztec Gold",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2085",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Light Reddish Brown"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#a57251",
+    "id": "army-painter-WP2086",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warrior Skin",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2086",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Pale Yellowish Grey"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#d1d5b7",
+    "id": "army-painter-WP2087",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Howling Sand",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2087",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Strong Greenish Yellow"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#b3a40a",
+    "id": "army-painter-WP2088",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ochre Clay",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2088",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": "Vivid Pink"
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#df2988",
+    "id": "army-painter-WP2089",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Familiar Pink",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2089",
+    "type": "contrast",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "isccName": null
+    },
+    "category": "Speedpaint",
+    "discontinued": false,
+    "hex": "#ffffff",
+    "id": "army-painter-WP2090",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Speedpaint Medium",
+    "range": "Speedpaint 2.0",
+    "sku": "WP2090",
+    "type": "thinner",
+    "url": null
+  }
+]

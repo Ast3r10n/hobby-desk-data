@@ -1,0 +1,3470 @@
+[
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#513E20",
+    "id": "vallejo-70-740",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Middle Brown",
+    "range": "Model Color",
+    "sku": "70.740",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/camouflage-middle-brown-70740/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#313129",
+    "id": "vallejo-70-741",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Black Green",
+    "range": "Model Color",
+    "sku": "70.741",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/camouflage-black-green-70741/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#805252",
+    "id": "vallejo-70-745",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Rose",
+    "range": "Model Color",
+    "sku": "70.745",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/dark-rose-70745/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#603F36",
+    "id": "vallejo-70-746",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chestnut Brown",
+    "range": "Model Color",
+    "sku": "70.746",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/chestnut-brown-70746/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BA584F",
+    "id": "vallejo-70-747",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Faded Red",
+    "range": "Model Color",
+    "sku": "70.747",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/faded-red-70747/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E18DA4",
+    "id": "vallejo-70-748",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Pink",
+    "range": "Model Color",
+    "sku": "70.748",
+    "type": "ink",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-pink-70748/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#452733",
+    "id": "vallejo-70-749",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Purple",
+    "range": "Model Color",
+    "sku": "70.749",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/dark-purple-70749/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A893BC",
+    "id": "vallejo-70-750",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Violet",
+    "range": "Model Color",
+    "sku": "70.750",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-violet-70750/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#392A31",
+    "id": "vallejo-70-751",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Violet",
+    "range": "Model Color",
+    "sku": "70.751",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/black-violet-70751/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#25212F",
+    "id": "vallejo-70-752",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Infantry Blue",
+    "range": "Model Color",
+    "sku": "70.752",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/infantry-blue-70752/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0098A5",
+    "id": "vallejo-70-753",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Blue Green",
+    "range": "Model Color",
+    "sku": "70.753",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-blue-green-70753/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#25242A",
+    "id": "vallejo-70-754",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Continental Blue",
+    "range": "Model Color",
+    "sku": "70.754",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/continental-blue-70754/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#027B74",
+    "id": "vallejo-70-755",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Emerald",
+    "range": "Model Color",
+    "sku": "70.755",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-emerald-70755/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#456341",
+    "id": "vallejo-70-756",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Splinter Green",
+    "range": "Model Color",
+    "sku": "70.756",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/splinter-green-70756/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#586F65",
+    "id": "vallejo-70-757",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pacific Green",
+    "range": "Model Color",
+    "sku": "70.757",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/pacific-green-70757/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6F8348",
+    "id": "vallejo-70-758",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Green",
+    "range": "Model Color",
+    "sku": "70.758",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/bright-green-70758/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#544A3E",
+    "id": "vallejo-70-759",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Tank Crew",
+    "range": "Model Color",
+    "sku": "70.759",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/german-tank-crew-70759/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7C755B",
+    "id": "vallejo-70-760",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Mud",
+    "range": "Model Color",
+    "sku": "70.760",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-mud-70760/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#816D54",
+    "id": "vallejo-70-761",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Old Wood",
+    "range": "Model Color",
+    "sku": "70.761",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/old-wood-70761/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5B4921",
+    "id": "vallejo-70-762",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Brown",
+    "range": "Model Color",
+    "sku": "70.762",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/grey-brown-70762/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4D3E1F",
+    "id": "vallejo-70-763",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Canvas",
+    "range": "Model Color",
+    "sku": "70.763",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/canvas-70763/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#937626",
+    "id": "vallejo-70-764",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Military Yellow",
+    "range": "Model Color",
+    "sku": "70.764",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/military-yellow-70764/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B5A188",
+    "id": "vallejo-70-765",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Tan",
+    "range": "Model Color",
+    "sku": "70.765",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/desert-tan-70765/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E3D1C3",
+    "id": "vallejo-70-766",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cream White",
+    "range": "Model Color",
+    "sku": "70.766",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/cream-white-70766/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AB8556",
+    "id": "vallejo-70-767",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Brown",
+    "range": "Model Color",
+    "sku": "70.767",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/desert-brown-70767/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#76563D",
+    "id": "vallejo-70-768",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bc Dark Brown",
+    "range": "Model Color",
+    "sku": "70.768",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/bc-dark-brown-70768/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9D714A",
+    "id": "vallejo-70-769",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mustard Brown",
+    "range": "Model Color",
+    "sku": "70.769",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/mustard-brown-70769/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8A633C",
+    "id": "vallejo-70-770",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "New Wood",
+    "range": "Model Color",
+    "sku": "70.770",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/new-wood-70770/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3B2625",
+    "id": "vallejo-70-771",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Rust",
+    "range": "Model Color",
+    "sku": "70.771",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/dark-rust-70771/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#779D92",
+    "id": "vallejo-70-772",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medium Grey Blue",
+    "range": "Model Color",
+    "sku": "70.772",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/medium-grey-blue-70772/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5A5957",
+    "id": "vallejo-70-773",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet Grey",
+    "range": "Model Color",
+    "sku": "70.773",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/violet-grey-70773/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7F6F6F",
+    "id": "vallejo-70-774",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lavender Grey",
+    "range": "Model Color",
+    "sku": "70.774",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/lavender-grey-70774/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#282834",
+    "id": "vallejo-70-800",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gunmetal Blue",
+    "range": "Model Color",
+    "sku": "70.800",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/gunmetal-blue-70800/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#643B1D",
+    "id": "vallejo-70-801",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brass",
+    "range": "Model Color",
+    "sku": "70.801",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/brass-70801/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C02B49",
+    "id": "vallejo-70-802",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sunset Red",
+    "range": "Model Color",
+    "sku": "70.802",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/sunset-red-70802/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9C6560",
+    "id": "vallejo-70-803",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Rose",
+    "range": "Model Color",
+    "sku": "70.803",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/brown-rose-70803/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B06E4B",
+    "id": "vallejo-70-804",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beige Red",
+    "range": "Model Color",
+    "sku": "70.804",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/beige-red-70804/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BA6254",
+    "id": "vallejo-70-805",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Orange",
+    "range": "Model Color",
+    "sku": "70.805",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/german-orange-70805/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CEB65E",
+    "id": "vallejo-70-806",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Yellow",
+    "range": "Model Color",
+    "sku": "70.806",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/german-yellow-70806/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3E3A53",
+    "id": "vallejo-70-807",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oxford Blue",
+    "range": "Model Color",
+    "sku": "70.807",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/oxford-blue-70807/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#007988",
+    "id": "vallejo-70-808",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Green",
+    "range": "Model Color",
+    "sku": "70.808",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/blue-green-70808/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1A427D",
+    "id": "vallejo-70-809",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Royal Blue",
+    "range": "Model Color",
+    "sku": "70.809",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/royal-blue-70809/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4D2740",
+    "id": "vallejo-70-810",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Royal Purple",
+    "range": "Model Color",
+    "sku": "70.810",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/royal-purple-70810/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#58477E",
+    "id": "vallejo-70-811",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Violet",
+    "range": "Model Color",
+    "sku": "70.811",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/blue-violet-70811/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#63353F",
+    "id": "vallejo-70-812",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet Red",
+    "range": "Model Color",
+    "sku": "70.812",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/violet-red-70812/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#763C3A",
+    "id": "vallejo-70-814",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Red",
+    "range": "Model Color",
+    "sku": "70.814",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/burnt-red-70814/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E9AC8D",
+    "id": "vallejo-70-815",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Basic Skin Tone",
+    "range": "Model Color",
+    "sku": "70.815",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/basic-skin-tone-70815/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#44404E",
+    "id": "vallejo-70-816",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Luftwaffe Uniform Wwii",
+    "range": "Model Color",
+    "sku": "70.816",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/luftwaffe-uniform-wwii-70816/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C13D2E",
+    "id": "vallejo-70-817",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scarlet",
+    "range": "Model Color",
+    "sku": "70.817",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/scarlet-70817/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#95553C",
+    "id": "vallejo-70-818",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Leather",
+    "range": "Model Color",
+    "sku": "70.818",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/red-leather-70818/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B4935E",
+    "id": "vallejo-70-819",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Iraqi Sand",
+    "range": "Model Color",
+    "sku": "70.819",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/iraqi-sand-70819/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F4EDE7",
+    "id": "vallejo-70-820",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Off-White",
+    "range": "Model Color",
+    "sku": "70.820",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/off-white-70820/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#796950",
+    "id": "vallejo-70-821",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Beige Wwii",
+    "range": "Model Color",
+    "sku": "70.821",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/german-beige-wwii-70821/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#403436",
+    "id": "vallejo-70-822",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Black Brown",
+    "range": "Model Color",
+    "sku": "70.822",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/camouflage-black-brown-70822/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#393F25",
+    "id": "vallejo-70-823",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Luftwaffe Green",
+    "range": "Model Color",
+    "sku": "70.823",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/luftwaffe-camouflage-green-70823/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AC8035",
+    "id": "vallejo-70-824",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Ochre",
+    "range": "Model Color",
+    "sku": "70.824",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/orange-ochre-70824/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9F8375",
+    "id": "vallejo-70-825",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Brown",
+    "range": "Model Color",
+    "sku": "70.825",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/pale-brown-70825/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5B483A",
+    "id": "vallejo-70-826",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medium Brown",
+    "range": "Model Color",
+    "sku": "70.826",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/medium-brown-70826/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7F9435",
+    "id": "vallejo-70-827",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lime Green",
+    "range": "Model Color",
+    "sku": "70.827",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/lime-green-70827/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#674641",
+    "id": "vallejo-70-828",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mahogany Ink",
+    "range": "Model Color",
+    "sku": "70.828",
+    "type": "ink",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/mahogany-ink-70828/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D04F30",
+    "id": "vallejo-70-829",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amaranth Red",
+    "range": "Model Color",
+    "sku": "70.829",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/amaranth-red-70829/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#57523C",
+    "id": "vallejo-70-830",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Fieldgrey Wwii",
+    "range": "Model Color",
+    "sku": "70.830",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/german-fieldgrey-wwii-70830/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#465534",
+    "id": "vallejo-70-833",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fern Green",
+    "range": "Model Color",
+    "sku": "70.833",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/fern-green-70833/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E28F7D",
+    "id": "vallejo-70-835",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Salmon Rose",
+    "range": "Model Color",
+    "sku": "70.835",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/salmon-rose-70835/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#696363",
+    "id": "vallejo-70-836",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "London Grey",
+    "range": "Model Color",
+    "sku": "70.836",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/london-grey-70836/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E3C28D",
+    "id": "vallejo-70-837",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Sand",
+    "range": "Model Color",
+    "sku": "70.837",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/pale-sand-70837/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#006249",
+    "id": "vallejo-70-838",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Emerald",
+    "range": "Model Color",
+    "sku": "70.838",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/emerald-70838/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#006989",
+    "id": "vallejo-70-840",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Turquoise",
+    "range": "Model Color",
+    "sku": "70.840",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-turquoise-70840/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0270AF",
+    "id": "vallejo-70-841",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Andrea Blue",
+    "range": "Model Color",
+    "sku": "70.841",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/andrea-blue-70841/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A16F4E",
+    "id": "vallejo-70-843",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cork Brown",
+    "range": "Model Color",
+    "sku": "70.843",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/cork-brown-70843/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4D95C5",
+    "id": "vallejo-70-844",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Sky Blue",
+    "range": "Model Color",
+    "sku": "70.844",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/deep-sky-blue-70844/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ED9646",
+    "id": "vallejo-70-845",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sunny Skin Tone",
+    "range": "Model Color",
+    "sku": "70.845",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/sunny-skin-tone-70845/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#79504A",
+    "id": "vallejo-70-846",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mahogany Brown",
+    "range": "Model Color",
+    "sku": "70.846",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/mahogany-brown-70846/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CBA868",
+    "id": "vallejo-70-847",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Sand",
+    "range": "Model Color",
+    "sku": "70.847",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/dark-sand-70847/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#404F32",
+    "id": "vallejo-70-850",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medium Olive",
+    "range": "Model Color",
+    "sku": "70.850",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/medium-olive-70850/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E05921",
+    "id": "vallejo-70-851",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Orange",
+    "range": "Model Color",
+    "sku": "70.851",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/bright-orange-70851/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AA793E",
+    "id": "vallejo-70-856",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ochre Brown",
+    "range": "Model Color",
+    "sku": "70.856",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/ochre-brown-70856/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EDD072",
+    "id": "vallejo-70-858",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ice Yellow",
+    "range": "Model Color",
+    "sku": "70.858",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/ice-yellow-70858/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#552F2C",
+    "id": "vallejo-70-859",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Red",
+    "range": "Model Color",
+    "sku": "70.859",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/black-red-70859/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B07940",
+    "id": "vallejo-70-860",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medium Fleshtone",
+    "range": "Model Color",
+    "sku": "70.860",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/medium-fleshtone-70860/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#241E1E",
+    "id": "vallejo-70-861",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Glossy Black",
+    "range": "Model Color",
+    "sku": "70.861",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/glossy-black-70861/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2F2822",
+    "id": "vallejo-70-862",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Grey",
+    "range": "Model Color",
+    "sku": "70.862",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/black-grey-70862/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#342B2E",
+    "id": "vallejo-70-863",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gunmetal",
+    "range": "Model Color",
+    "sku": "70.863",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/gunmetal-70863/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#535258",
+    "id": "vallejo-70-864",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Natural Steel",
+    "range": "Model Color",
+    "sku": "70.864",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/natural-steel-70864/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#484246",
+    "id": "vallejo-70-865",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oily Steel",
+    "range": "Model Color",
+    "sku": "70.865",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/oily-steel-70865/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#41403E",
+    "id": "vallejo-70-866",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Green",
+    "range": "Model Color",
+    "sku": "70.866",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/grey-green-70866/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#424345",
+    "id": "vallejo-70-867",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Blue Grey",
+    "range": "Model Color",
+    "sku": "70.867",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/dark-blue-grey-70867/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4B4545",
+    "id": "vallejo-70-868",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Sea Green",
+    "range": "Model Color",
+    "sku": "70.868",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/dark-sea-green-70868/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5C5A5D",
+    "id": "vallejo-70-869",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Basalt Grey",
+    "range": "Model Color",
+    "sku": "70.869",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/basalt-grey-70869/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D7B7C",
+    "id": "vallejo-70-870",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medium Sea Grey",
+    "range": "Model Color",
+    "sku": "70.870",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/medium-sea-grey-70870/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#594335",
+    "id": "vallejo-70-871",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leather Brown",
+    "range": "Model Color",
+    "sku": "70.871",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/leather-brown-70871/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#58443D",
+    "id": "vallejo-70-872",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chocolate Brown",
+    "range": "Model Color",
+    "sku": "70.872",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/chocolate-brown-70872/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#826545",
+    "id": "vallejo-70-873",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Field Drab",
+    "range": "Model Color",
+    "sku": "70.873",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/us-field-drab-70873/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#997457",
+    "id": "vallejo-70-874",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tan Earth",
+    "range": "Model Color",
+    "sku": "70.874",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/tan-earth-70874/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#816041",
+    "id": "vallejo-70-875",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beige Brown",
+    "range": "Model Color",
+    "sku": "70.875",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/beige-brown-70875/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#906143",
+    "id": "vallejo-70-876",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Sand",
+    "range": "Model Color",
+    "sku": "70.876",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/brown-sand-70876/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BF873C",
+    "id": "vallejo-70-877",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gold Brown",
+    "range": "Model Color",
+    "sku": "70.877",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/gold-brown-70877/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#55371D",
+    "id": "vallejo-70-878",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Old Gold",
+    "range": "Model Color",
+    "sku": "70.878",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/old-gold-70878/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#816D32",
+    "id": "vallejo-70-879",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Brown",
+    "range": "Model Color",
+    "sku": "70.879",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/green-brown-70879/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E6338",
+    "id": "vallejo-70-880",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Khaki Grey",
+    "range": "Model Color",
+    "sku": "70.880",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/khaki-grey-70880/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6E653C",
+    "id": "vallejo-70-881",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Yellow",
+    "range": "Model Color",
+    "sku": "70.881",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/green-yellow-70881/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#937F42",
+    "id": "vallejo-70-882",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Middle Stone",
+    "range": "Model Color",
+    "sku": "70.882",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/middle-stone-70882/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D8CDC7",
+    "id": "vallejo-70-883",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Silver Grey",
+    "range": "Model Color",
+    "sku": "70.883",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/silver-grey-70883/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C7C63",
+    "id": "vallejo-70-884",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stone Grey",
+    "range": "Model Color",
+    "sku": "70.884",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/stone-grey-70884/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#939870",
+    "id": "vallejo-70-885",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pastel Green",
+    "range": "Model Color",
+    "sku": "70.885",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/pastel-green-70885/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#65624F",
+    "id": "vallejo-70-886",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Grey",
+    "range": "Model Color",
+    "sku": "70.886",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/green-grey-70886/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#59513C",
+    "id": "vallejo-70-887",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Olive Drab",
+    "range": "Model Color",
+    "sku": "70.887",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/us-olive-drab-70887/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#40422D",
+    "id": "vallejo-70-888",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Grey",
+    "range": "Model Color",
+    "sku": "70.888",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/olive-grey-70888/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3F3126",
+    "id": "vallejo-70-889",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Brown",
+    "range": "Model Color",
+    "sku": "70.889",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/olive-brown-70889/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#474A35",
+    "id": "vallejo-70-890",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Refractive Green",
+    "range": "Model Color",
+    "sku": "70.890",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/refractive-green-70890/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#506642",
+    "id": "vallejo-70-891",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Intermediate Green",
+    "range": "Model Color",
+    "sku": "70.891",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/intermediate-green-70891/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#383B32",
+    "id": "vallejo-70-892",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Olive",
+    "range": "Model Color",
+    "sku": "70.892",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/yellow-olive-70892/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#494B36",
+    "id": "vallejo-70-893",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Dark Green",
+    "range": "Model Color",
+    "sku": "70.893",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/us-dark-green-70893/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3C3D2F",
+    "id": "vallejo-70-894",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Olive Green",
+    "range": "Model Color",
+    "sku": "70.894",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/camouflage-olive-green-70894/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4C5840",
+    "id": "vallejo-70-895",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gunship Green",
+    "range": "Model Color",
+    "sku": "70.895",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/gunship-green-70895/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#282A14",
+    "id": "vallejo-70-896",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Extra Dark Green",
+    "range": "Model Color",
+    "sku": "70.896",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/extra-dark-green-70896/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#313A29",
+    "id": "vallejo-70-897",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronze Green",
+    "range": "Model Color",
+    "sku": "70.897",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/bronze-green-70897/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#262C38",
+    "id": "vallejo-70-898",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Sea Blue",
+    "range": "Model Color",
+    "sku": "70.898",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/dark-sea-blue-70898/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#372741",
+    "id": "vallejo-70-899",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Prussian Blue",
+    "range": "Model Color",
+    "sku": "70.899",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/dark-prussian-blue-70899/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#607A93",
+    "id": "vallejo-70-901",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pastel Blue",
+    "range": "Model Color",
+    "sku": "70.901",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/pastel-blue-70901/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5B6B9E",
+    "id": "vallejo-70-902",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Azure",
+    "range": "Model Color",
+    "sku": "70.902",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/azure-70902/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#808686",
+    "id": "vallejo-70-905",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Grey Pale",
+    "range": "Model Color",
+    "sku": "70.905",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/blue-grey-pale-70905/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#90A3A9",
+    "id": "vallejo-70-906",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Blue",
+    "range": "Model Color",
+    "sku": "70.906",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/pale-blue-70906/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A7B6B3",
+    "id": "vallejo-70-907",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Grey Blue",
+    "range": "Model Color",
+    "sku": "70.907",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/pale-grey-blue-70907/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#97211F",
+    "id": "vallejo-70-908",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carmine Red",
+    "range": "Model Color",
+    "sku": "70.908",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/carmine-red-70908/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C42A28",
+    "id": "vallejo-70-909",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vermilion",
+    "range": "Model Color",
+    "sku": "70.909",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/vermilion-70909/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ED7326",
+    "id": "vallejo-70-911",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Orange",
+    "range": "Model Color",
+    "sku": "70.911",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-orange-70911/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DEAA45",
+    "id": "vallejo-70-913",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Ochre",
+    "range": "Model Color",
+    "sku": "70.913",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/yellow-ochre-70913/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A08035",
+    "id": "vallejo-70-914",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Ochre",
+    "range": "Model Color",
+    "sku": "70.914",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/green-ochre-70914/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F1C701",
+    "id": "vallejo-70-915",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Yellow",
+    "range": "Model Color",
+    "sku": "70.915",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/deep-yellow-70915/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EABF56",
+    "id": "vallejo-70-916",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sand Yellow",
+    "range": "Model Color",
+    "sku": "70.916",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/sand-yellow-70916/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DFBE6F",
+    "id": "vallejo-70-917",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beige",
+    "range": "Model Color",
+    "sku": "70.917",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/beige-70917/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EBE2D1",
+    "id": "vallejo-70-918",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ivory",
+    "range": "Model Color",
+    "sku": "70.918",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/ivory-70918/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F6F6F8",
+    "id": "vallejo-70-919",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cold White",
+    "range": "Model Color",
+    "sku": "70.919",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/cold-white-70919/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#424E42",
+    "id": "vallejo-70-920",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Uniform",
+    "range": "Model Color",
+    "sku": "70.920",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/german-uniform-70920/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6F532B",
+    "id": "vallejo-70-921",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "English Uniform",
+    "range": "Model Color",
+    "sku": "70.921",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/english-uniform-70921/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4B5230",
+    "id": "vallejo-70-922",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Uniform Green",
+    "range": "Model Color",
+    "sku": "70.922",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/uniform-green-70922/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9E802A",
+    "id": "vallejo-70-923",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Japanese Uniform Wwii",
+    "range": "Model Color",
+    "sku": "70.923",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/japanese-uniform-wwii-70923/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#575336",
+    "id": "vallejo-70-924",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Uniform Wwii",
+    "range": "Model Color",
+    "sku": "70.924",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/russian-uniform-wwii-70924/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#372C4C",
+    "id": "vallejo-70-925",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue",
+    "range": "Model Color",
+    "sku": "70.925",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/blue-70925/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#792825",
+    "id": "vallejo-70-926",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red",
+    "range": "Model Color",
+    "sku": "70.926",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/red-70926/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D3933B",
+    "id": "vallejo-70-927",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Flesh",
+    "range": "Model Color",
+    "sku": "70.927",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/dark-flesh-70927/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F3D4B8",
+    "id": "vallejo-70-928",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Flesh",
+    "range": "Model Color",
+    "sku": "70.928",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-flesh-70928/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A25B31",
+    "id": "vallejo-70-929",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Brown",
+    "range": "Model Color",
+    "sku": "70.929",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-brown-70929/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#273461",
+    "id": "vallejo-70-930",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Blue",
+    "range": "Model Color",
+    "sku": "70.930",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/dark-blue-70930/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5C4945",
+    "id": "vallejo-70-939",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Smoke Ink",
+    "range": "Model Color",
+    "sku": "70.939",
+    "type": "ink",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/smoke-ink-70939/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C645C",
+    "id": "vallejo-70-940",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Saddle Brown",
+    "range": "Model Color",
+    "sku": "70.940",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/saddle-brown-70940/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#513B2E",
+    "id": "vallejo-70-941",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Umber",
+    "range": "Model Color",
+    "sku": "70.941",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/burnt-umber-70941/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#596D85",
+    "id": "vallejo-70-943",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Blue",
+    "range": "Model Color",
+    "sku": "70.943",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/grey-blue-70943/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BC6D70",
+    "id": "vallejo-70-944",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Old Rose",
+    "range": "Model Color",
+    "sku": "70.944",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/old-rose-70944/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#903153",
+    "id": "vallejo-70-945",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magenta",
+    "range": "Model Color",
+    "sku": "70.945",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/magenta-70945/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#692F24",
+    "id": "vallejo-70-946",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Red",
+    "range": "Model Color",
+    "sku": "70.946",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/dark-red-70946/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B52A27",
+    "id": "vallejo-70-947",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Vermilion",
+    "range": "Model Color",
+    "sku": "70.947",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/dark-vermilion-70947/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F8A734",
+    "id": "vallejo-70-948",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golden Yellow",
+    "range": "Model Color",
+    "sku": "70.948",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/golden-yellow-70948/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F8D346",
+    "id": "vallejo-70-949",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Yellow",
+    "range": "Model Color",
+    "sku": "70.949",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-yellow-70949/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#231D1D",
+    "id": "vallejo-70-950",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Model Color",
+    "sku": "70.950",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/black-70950/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-70-951",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White",
+    "range": "Model Color",
+    "sku": "70.951",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/white-70951/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E4D202",
+    "id": "vallejo-70-952",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lemon Yellow",
+    "range": "Model Color",
+    "sku": "70.952",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/lemon-yellow-70952/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F6BA35",
+    "id": "vallejo-70-953",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flat Yellow",
+    "range": "Model Color",
+    "sku": "70.953",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/flat-yellow-70953/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DEDE26",
+    "id": "vallejo-70-954",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Green",
+    "range": "Model Color",
+    "sku": "70.954",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/yellow-green-70954/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DF9A59",
+    "id": "vallejo-70-955",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flat Flesh",
+    "range": "Model Color",
+    "sku": "70.955",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/flat-flesh-70955/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CC4527",
+    "id": "vallejo-70-956",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Clear Orange",
+    "range": "Model Color",
+    "sku": "70.956",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/clear-orange-70956/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A12B29",
+    "id": "vallejo-70-957",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flat Red",
+    "range": "Model Color",
+    "sku": "70.957",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/flat-red-70957/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B04F7C",
+    "id": "vallejo-70-958",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pink",
+    "range": "Model Color",
+    "sku": "70.958",
+    "type": "ink",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/pink-70958/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#533152",
+    "id": "vallejo-70-959",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple",
+    "range": "Model Color",
+    "sku": "70.959",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/purple-70959/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3C2C49",
+    "id": "vallejo-70-960",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet",
+    "range": "Model Color",
+    "sku": "70.960",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/violet-70960/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#74B8CF",
+    "id": "vallejo-70-961",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sky Blue",
+    "range": "Model Color",
+    "sku": "70.961",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/sky-blue-70961/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3F4873",
+    "id": "vallejo-70-962",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flat Blue",
+    "range": "Model Color",
+    "sku": "70.962",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/flat-blue-70962/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#16416C",
+    "id": "vallejo-70-963",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medium Blue",
+    "range": "Model Color",
+    "sku": "70.963",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/medium-blue-70963/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4D5256",
+    "id": "vallejo-70-964",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Field Blue",
+    "range": "Model Color",
+    "sku": "70.964",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/field-blue-70964/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3B405D",
+    "id": "vallejo-70-965",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Prussian Blue",
+    "range": "Model Color",
+    "sku": "70.965",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/prussian-blue-70965/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0C425A",
+    "id": "vallejo-70-966",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise",
+    "range": "Model Color",
+    "sku": "70.966",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/turquoise-70966/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#516238",
+    "id": "vallejo-70-967",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Green",
+    "range": "Model Color",
+    "sku": "70.967",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/olive-green-70967/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#374B2F",
+    "id": "vallejo-70-968",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flat Green",
+    "range": "Model Color",
+    "sku": "70.968",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/flat-green-70968/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1F634A",
+    "id": "vallejo-70-969",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Park Green Flat",
+    "range": "Model Color",
+    "sku": "70.969",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/park-green-flat-70969/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1B4B31",
+    "id": "vallejo-70-970",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Green",
+    "range": "Model Color",
+    "sku": "70.970",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/deep-green-70970/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B5B7AC",
+    "id": "vallejo-70-971",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Grey",
+    "range": "Model Color",
+    "sku": "70.971",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-green-grey-70971/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#86958E",
+    "id": "vallejo-70-972",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Green Blue",
+    "range": "Model Color",
+    "sku": "70.972",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-green-blue-70972/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7A9165",
+    "id": "vallejo-70-974",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Sky",
+    "range": "Model Color",
+    "sku": "70.974",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/green-sky-70974/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#434434",
+    "id": "vallejo-70-975",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Military Green",
+    "range": "Model Color",
+    "sku": "70.975",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/military-green-70975/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D7AF4D",
+    "id": "vallejo-70-976",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Buff",
+    "range": "Model Color",
+    "sku": "70.976",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/buff-70976/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B6854A",
+    "id": "vallejo-70-977",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Yellow",
+    "range": "Model Color",
+    "sku": "70.977",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/desert-yellow-70977/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#908738",
+    "id": "vallejo-70-978",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Yellow",
+    "range": "Model Color",
+    "sku": "70.978",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/dark-yellow-70978/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#263123",
+    "id": "vallejo-70-979",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Dark Green",
+    "range": "Model Color",
+    "sku": "70.979",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/camouflage-dark-green-70979/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#29352B",
+    "id": "vallejo-70-980",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Green",
+    "range": "Model Color",
+    "sku": "70.980",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/black-green-70980/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AC633A",
+    "id": "vallejo-70-981",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Brown",
+    "range": "Model Color",
+    "sku": "70.981",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/orange-brown-70981/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#84443A",
+    "id": "vallejo-70-982",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cavalry Brown",
+    "range": "Model Color",
+    "sku": "70.982",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/cavalry-brown-70982/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#69442A",
+    "id": "vallejo-70-983",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flat Earth",
+    "range": "Model Color",
+    "sku": "70.983",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/flat-earth-70983/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#703F38",
+    "id": "vallejo-70-984",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flat Brown",
+    "range": "Model Color",
+    "sku": "70.984",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/flat-brown-70984/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5C383A",
+    "id": "vallejo-70-985",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hull Red",
+    "range": "Model Color",
+    "sku": "70.985",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/hull-red-70985/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ABA390",
+    "id": "vallejo-70-986",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deck Tan",
+    "range": "Model Color",
+    "sku": "70.986",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/deck-tan-70986/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#867259",
+    "id": "vallejo-70-987",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medium Grey",
+    "range": "Model Color",
+    "sku": "70.987",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/medium-grey-70987/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6F5F3B",
+    "id": "vallejo-70-988",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Khaki",
+    "range": "Model Color",
+    "sku": "70.988",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/khaki-70988/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AAABAD",
+    "id": "vallejo-70-989",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sky Grey",
+    "range": "Model Color",
+    "sku": "70.989",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/sky-grey-70989/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#919294",
+    "id": "vallejo-70-990",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Grey",
+    "range": "Model Color",
+    "sku": "70.990",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/light-grey-70990/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6C6B69",
+    "id": "vallejo-70-991",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Sea Grey",
+    "range": "Model Color",
+    "sku": "70.991",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/dark-sea-grey-70991/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#61615F",
+    "id": "vallejo-70-992",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neutral Grey",
+    "range": "Model Color",
+    "sku": "70.992",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/neutral-grey-70992/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E3E2E0",
+    "id": "vallejo-70-993",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White Grey",
+    "range": "Model Color",
+    "sku": "70.993",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/white-grey-70993/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#312F32",
+    "id": "vallejo-70-994",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Grey",
+    "range": "Model Color",
+    "sku": "70.994",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/dark-grey-70994/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2E2E2C",
+    "id": "vallejo-70-995",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Grey",
+    "range": "Model Color",
+    "sku": "70.995",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/german-grey-70995/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#996728",
+    "id": "vallejo-70-996",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gold",
+    "range": "Model Color",
+    "sku": "70.996",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/gold-70996/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#939290",
+    "id": "vallejo-70-997",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Silver",
+    "range": "Model Color",
+    "sku": "70.997",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/silver-70997/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#533C1D",
+    "id": "vallejo-70-998",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronze",
+    "range": "Model Color",
+    "sku": "70.998",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/bronze-70998/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#803427",
+    "id": "vallejo-70-999",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Copper",
+    "range": "Model Color",
+    "sku": "70.999",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/model-color-en/copper-70999/"
+  }
+]

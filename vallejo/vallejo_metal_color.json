@@ -1,0 +1,308 @@
+[
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-77-657",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gloss Metal Varnish",
+    "range": "Metal Color",
+    "sku": "77.657",
+    "type": "varnish",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/gloss-metal-varnish-77657/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CACACD",
+    "id": "vallejo-77-701",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aluminium",
+    "range": "Metal Color",
+    "sku": "77.701",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/aluminium-77701/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C3C2C7",
+    "id": "vallejo-77-702",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Duraluminium",
+    "range": "Metal Color",
+    "sku": "77.702",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/duraluminium-77702/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D4D4D4",
+    "id": "vallejo-77-703",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Aluminium",
+    "range": "Metal Color",
+    "sku": "77.703",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/dark-aluminium-77703/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DFDFDF",
+    "id": "vallejo-77-704",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Burnt Metal",
+    "range": "Metal Color",
+    "sku": "77.704",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/pale-burnt-metal-77704/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D1D2D7",
+    "id": "vallejo-77-706",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White Aluminium",
+    "range": "Metal Color",
+    "sku": "77.706",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/white-aluminium-77706/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DFDFDF",
+    "id": "vallejo-77-707",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chrome",
+    "range": "Metal Color",
+    "sku": "77.707",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/chrome-77707/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C4B3AB",
+    "id": "vallejo-77-710",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Copper",
+    "range": "Metal Color",
+    "sku": "77.710",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/copper-77710/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CDCDCD",
+    "id": "vallejo-77-711",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magnesium",
+    "range": "Metal Color",
+    "sku": "77.711",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/magnesium-77711/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C6C6C6",
+    "id": "vallejo-77-712",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Steel",
+    "range": "Metal Color",
+    "sku": "77.712",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/steel-77712/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#989795",
+    "id": "vallejo-77-713",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jet Exhaust",
+    "range": "Metal Color",
+    "sku": "77.713",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/jet-exhaust-77713/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D6D7DB",
+    "id": "vallejo-77-716",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Semi Matt Aluminium",
+    "range": "Metal Color",
+    "sku": "77.716",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/semi-matt-aluminium-77716/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D4D3D7",
+    "id": "vallejo-77-717",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dull Aluminium",
+    "range": "Metal Color",
+    "sku": "77.717",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/dull-aluminium-77717/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9D9D9C",
+    "id": "vallejo-77-720",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gunmetal Grey",
+    "range": "Metal Color",
+    "sku": "77.720",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/gunmetal-grey-77720/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A2A19F",
+    "id": "vallejo-77-721",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Iron",
+    "range": "Metal Color",
+    "sku": "77.721",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/burnt-iron-77721/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9E9D99",
+    "id": "vallejo-77-723",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Exhaust Manifold",
+    "range": "Metal Color",
+    "sku": "77.723",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/exhaust-manifold-77723/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C2C2C4",
+    "id": "vallejo-77-724",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Silver",
+    "range": "Metal Color",
+    "sku": "77.724",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/silver-77724/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CFC1A9",
+    "id": "vallejo-77-725",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gold",
+    "range": "Metal Color",
+    "sku": "77.725",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/metal-color-en/gold-77725/"
+  }
+]

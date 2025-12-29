@@ -1,0 +1,869 @@
+[
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-76-001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dead White",
+    "range": "Game Air",
+    "sku": "76.001",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/dead-white-76001/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E1A17B",
+    "id": "vallejo-76-003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Flesh",
+    "range": "Game Air",
+    "sku": "76.003",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/pale-flesh-72703/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D68848",
+    "id": "vallejo-76-004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elf Skin Tone",
+    "range": "Game Air",
+    "sku": "76.004",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/elf-skin-tone-72704/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EEA200",
+    "id": "vallejo-76-005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moon Yellow",
+    "range": "Game Air",
+    "sku": "76.005",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/moon-yellow-72705/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F49600",
+    "id": "vallejo-76-006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sun Yellow",
+    "range": "Game Air",
+    "sku": "76.006",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/sun-yellow-76006/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ED7004",
+    "id": "vallejo-76-007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gold Yellow",
+    "range": "Game Air",
+    "sku": "76.007",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/gold-yellow-72707/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E74B10",
+    "id": "vallejo-76-008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Fire",
+    "range": "Game Air",
+    "sku": "76.008",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/orange-fire-72708/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9E1E13",
+    "id": "vallejo-76-010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bloody Red",
+    "range": "Game Air",
+    "sku": "76.010",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/bloody-red-76010/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3F120F",
+    "id": "vallejo-76-012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scarlet Red",
+    "range": "Game Air",
+    "sku": "76.012",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/scarlet-red-76012/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B75F99",
+    "id": "vallejo-76-013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Squid Pink",
+    "range": "Game Air",
+    "sku": "76.013",
+    "type": "ink",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/squid-pink-76013/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5D1739",
+    "id": "vallejo-76-014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warlord Purple",
+    "range": "Game Air",
+    "sku": "76.014",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/warlord-purple-76014/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#291D33",
+    "id": "vallejo-76-016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Royal Purple",
+    "range": "Game Air",
+    "sku": "76.016",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/royal-purple-76016/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1D1A23",
+    "id": "vallejo-76-019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Night Blue",
+    "range": "Game Air",
+    "sku": "76.019",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/night-blue-76019/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#191B30",
+    "id": "vallejo-76-020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Imperial Blue",
+    "range": "Game Air",
+    "sku": "76.020",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/imperial-blue-76020/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1D3F87",
+    "id": "vallejo-76-021",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magic Blue",
+    "range": "Game Air",
+    "sku": "76.021",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/magic-blue-76021/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#232241",
+    "id": "vallejo-76-022",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Blue",
+    "range": "Game Air",
+    "sku": "76.022",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/ultramarine-blue-76022/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#337DA4",
+    "id": "vallejo-76-023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Electric Blue",
+    "range": "Game Air",
+    "sku": "76.023",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/electric-blue-76023/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#004B51",
+    "id": "vallejo-76-024",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise",
+    "range": "Game Air",
+    "sku": "76.024",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/turquoise-76024/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#00664E",
+    "id": "vallejo-76-026",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jade Green",
+    "range": "Game Air",
+    "sku": "76.026",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/jade-green-76026/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#183B34",
+    "id": "vallejo-76-027",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scurvy Green",
+    "range": "Game Air",
+    "sku": "76.027",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/scurvy-green-76027/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#252D22",
+    "id": "vallejo-76-028",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Green",
+    "range": "Game Air",
+    "sku": "76.028",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/dark-green-76028/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#796B2E",
+    "id": "vallejo-76-031",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Green",
+    "range": "Game Air",
+    "sku": "76.031",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/camouflage-green-76031/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#537B35",
+    "id": "vallejo-76-032",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scorpy Green",
+    "range": "Game Air",
+    "sku": "76.032",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/scorpy-green-76032/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D4C9A9",
+    "id": "vallejo-76-034",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bone White",
+    "range": "Game Air",
+    "sku": "76.034",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/bone-white-72734/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A58D45",
+    "id": "vallejo-76-035",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dead Flesh",
+    "range": "Game Air",
+    "sku": "76.035",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/dead-flesh-76035/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B16921",
+    "id": "vallejo-76-036",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronze Brown",
+    "range": "Game Air",
+    "sku": "76.036",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/bronze-brown-76036/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5F3D18",
+    "id": "vallejo-76-040",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leather Brown",
+    "range": "Game Air",
+    "sku": "76.040",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/leather-brown-76040/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#67380E",
+    "id": "vallejo-76-042",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Parasite Brown",
+    "range": "Game Air",
+    "sku": "76.042",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/parasite-brown-76042/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#482E0B",
+    "id": "vallejo-76-043",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beasty Brown",
+    "range": "Game Air",
+    "sku": "76.043",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/beasty-brown-76043/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2E1C10",
+    "id": "vallejo-76-045",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Charred Brown",
+    "range": "Game Air",
+    "sku": "76.045",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/charred-brown-76045/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A7BABE",
+    "id": "vallejo-76-047",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wolf Grey",
+    "range": "Game Air",
+    "sku": "76.047",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/wolf-grey-76047/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#363D43",
+    "id": "vallejo-76-048",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sombre Grey",
+    "range": "Game Air",
+    "sku": "76.048",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/sombre-grey-76048/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#726E65",
+    "id": "vallejo-76-049",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stonewall Grey",
+    "range": "Game Air",
+    "sku": "76.049",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/stonewall-grey-76049/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#474747",
+    "id": "vallejo-76-050",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neutral Grey",
+    "range": "Game Air",
+    "sku": "76.050",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/neutral-grey-76050/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#000000",
+    "id": "vallejo-76-051",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Game Air",
+    "sku": "76.051",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/black-76051/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#423018",
+    "id": "vallejo-76-062",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Earth",
+    "range": "Game Air",
+    "sku": "76.062",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/earth-76062/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D5D2A",
+    "id": "vallejo-76-063",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Yellow",
+    "range": "Game Air",
+    "sku": "76.063",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/desert-yellow-76063/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7C5B38",
+    "id": "vallejo-76-071",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Barbarian Skin",
+    "range": "Game Air",
+    "sku": "76.071",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/barbarian-skin-76071/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#55417C",
+    "id": "vallejo-76-076",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Alien Purple",
+    "range": "Game Air",
+    "sku": "76.076",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/alien-purple-76076/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E26F5A",
+    "id": "vallejo-76-100",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rosy Flesh",
+    "range": "Game Air",
+    "sku": "76.100",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/rosy-flesh-76100/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AF5344",
+    "id": "vallejo-76-107",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Athena Skin",
+    "range": "Game Air",
+    "sku": "76.107",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/athena-skin-76107/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EDC434",
+    "id": "vallejo-76-109",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Toxic Yellow",
+    "range": "Game Air",
+    "sku": "76.109",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/toxic-yellow-76109/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2E1211",
+    "id": "vallejo-76-111",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nocturnal Red",
+    "range": "Game Air",
+    "sku": "76.111",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/nocturnal-red-76111/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8A65A8",
+    "id": "vallejo-76-114",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lustful Purple",
+    "range": "Game Air",
+    "sku": "76.114",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/lustful-purple-76114/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#643626",
+    "id": "vallejo-76-115",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grunge Brown",
+    "range": "Game Air",
+    "sku": "76.115",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/grunge-brown-76115/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#170B17",
+    "id": "vallejo-76-116",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Midnight Purple",
+    "range": "Game Air",
+    "sku": "76.116",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/midnight-purple-76116/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#53B1D5",
+    "id": "vallejo-76-118",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sunrise Blue",
+    "range": "Game Air",
+    "sku": "76.118",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/sunrise-blue-76118/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#162731",
+    "id": "vallejo-76-120",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Abyssal Turquoise",
+    "range": "Game Air",
+    "sku": "76.120",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/abyssal-turquoise-76120/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#54B484",
+    "id": "vallejo-76-121",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ghost Green",
+    "range": "Game Air",
+    "sku": "76.121",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/ghost-green-76121/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D5D900",
+    "id": "vallejo-76-122",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bile Green",
+    "range": "Game Air",
+    "sku": "76.122",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/bile-green-76122/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#212C1B",
+    "id": "vallejo-76-123",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Angel Green",
+    "range": "Game Air",
+    "sku": "76.123",
+    "type": "air",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/game-air-en/angel-green-76123/"
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#60433F",
+    "id": "ak-interactive-ak16001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wood Brown",
+    "range": "The Inks",
+    "sku": "AK16001",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/wood-brown-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#585B76",
+    "id": "ak-interactive-ak16002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Blue",
+    "range": "The Inks",
+    "sku": "AK16002",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/deep-blue-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C68479",
+    "id": "ak-interactive-ak16003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pure Magenta",
+    "range": "The Inks",
+    "sku": "AK16003",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/pure-magenta-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#28214A",
+    "id": "ak-interactive-ak16004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Night Purple",
+    "range": "The Inks",
+    "sku": "AK16004",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/night-purple-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2C2C2A",
+    "id": "ak-interactive-ak16005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "The Inks",
+    "sku": "AK16005",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/black-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFD825",
+    "id": "ak-interactive-ak16006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Primary Yellow",
+    "range": "The Inks",
+    "sku": "AK16006",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/primary-yellow-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5D6B59",
+    "id": "ak-interactive-ak16007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camo Green",
+    "range": "The Inks",
+    "sku": "AK16007",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/camo-green-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0E9750",
+    "id": "ak-interactive-ak16008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nature Green",
+    "range": "The Inks",
+    "sku": "AK16008",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/nature-green-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E52A1E",
+    "id": "ak-interactive-ak16009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blood Scarlet",
+    "range": "The Inks",
+    "sku": "AK16009",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/blood-scarlet-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#521C10",
+    "id": "ak-interactive-ak16010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Intense Sienna",
+    "range": "The Inks",
+    "sku": "AK16010",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/intense-sienna-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2C1913",
+    "id": "ak-interactive-ak16011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Black",
+    "range": "The Inks",
+    "sku": "AK16011",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/brown-black-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E9520F",
+    "id": "ak-interactive-ak16012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fire Orange",
+    "range": "The Inks",
+    "sku": "AK16012",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/fire-orange-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4D4D4D",
+    "id": "ak-interactive-ak16013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inmaculate White",
+    "range": "The Inks",
+    "sku": "AK16013",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/inmaculate-white-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#172B65",
+    "id": "ak-interactive-ak16014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ocean Blue",
+    "range": "The Inks",
+    "sku": "AK16014",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/ocean-blue-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E5046C",
+    "id": "ak-interactive-ak16041",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluor Magenta",
+    "range": "The Inks",
+    "sku": "AK16041",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/fluor-magenta-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F5A69D",
+    "id": "ak-interactive-ak16042",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluor Red",
+    "range": "The Inks",
+    "sku": "AK16042",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/fluor-red-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E84910",
+    "id": "ak-interactive-ak16043",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluor Orange",
+    "range": "The Inks",
+    "sku": "AK16043",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/fluor-orange-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FEEE0A",
+    "id": "ak-interactive-ak16044",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluor Yellow",
+    "range": "The Inks",
+    "sku": "AK16044",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/fluor-yellow-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#76B841",
+    "id": "ak-interactive-ak16045",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluor Green",
+    "range": "The Inks",
+    "sku": "AK16045",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/fluor-green-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#354496",
+    "id": "ak-interactive-ak16046",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluor Blue",
+    "range": "The Inks",
+    "sku": "AK16046",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/fluor-blue-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#381501",
+    "id": "ak-interactive-ak16047",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mahogani",
+    "range": "The Inks",
+    "sku": "AK16047",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/mahogani-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B28A81",
+    "id": "ak-interactive-ak16048",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crimson",
+    "range": "The Inks",
+    "sku": "AK16048",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/crimson-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A9CB5D",
+    "id": "ak-interactive-ak16049",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lime Green",
+    "range": "The Inks",
+    "sku": "AK16049",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/lime-green-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#195226",
+    "id": "ak-interactive-ak16050",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Toad Green",
+    "range": "The Inks",
+    "sku": "AK16050",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/toad-green-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F4A289",
+    "id": "ak-interactive-ak16051",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Forge Red",
+    "range": "The Inks",
+    "sku": "AK16051",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/forge-red-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#816794",
+    "id": "ak-interactive-ak16052",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Eggplant",
+    "range": "The Inks",
+    "sku": "AK16052",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/eggplant-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F9B430",
+    "id": "ak-interactive-ak16053",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Wood",
+    "range": "The Inks",
+    "sku": "AK16053",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/light-wood-ink/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#00A5E6",
+    "id": "ak-interactive-ak16054",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cyan",
+    "range": "The Inks",
+    "sku": "AK16054",
+    "type": "ink",
+    "url": "https://ak-interactive.com/product/cyan-ink/"
+  }
+]

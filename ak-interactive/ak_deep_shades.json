@@ -1,0 +1,172 @@
+[
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5B5857",
+    "id": "ak-interactive-ak13001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Night",
+    "range": "Deep Shades",
+    "sku": "AK13001",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/black-night-30ml-deep-shades/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7A5F45",
+    "id": "ak-interactive-ak13002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pure Grime",
+    "range": "Deep Shades",
+    "sku": "AK13002",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/pure-grime-30ml-deep-shades/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#945539",
+    "id": "ak-interactive-ak13003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Reddish Filth",
+    "range": "Deep Shades",
+    "sku": "AK13003",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/reddish-filth-30ml-deep-shades/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#985C18",
+    "id": "ak-interactive-ak13004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hazel Brown",
+    "range": "Deep Shades",
+    "sku": "AK13004",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/hazel-brown-30ml-deep-shades/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#955689",
+    "id": "ak-interactive-ak13005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Invocation Purple",
+    "range": "Deep Shades",
+    "sku": "AK13005",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/invocation-purple-30ml-deep-shades/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CD5F63",
+    "id": "ak-interactive-ak13006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Human Skin",
+    "range": "Deep Shades",
+    "sku": "AK13006",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/human-skin-30ml-deep-shades/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#188362",
+    "id": "ak-interactive-ak13007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greendark",
+    "range": "Deep Shades",
+    "sku": "AK13007",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/greendark-30ml-deep-shades/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#627679",
+    "id": "ak-interactive-ak13008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Moon",
+    "range": "Deep Shades",
+    "sku": "AK13008",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/blue-moon-30ml-deep-shades/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E03B5B",
+    "id": "ak-interactive-ak13009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carmine Dawn",
+    "range": "Deep Shades",
+    "sku": "AK13009",
+    "type": "wash",
+    "url": "https://ak-interactive.com/product/carmine-dawn-30ml-deep-shades/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CCCCCC",
+    "id": "ak-interactive-ak13010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Shade Medium",
+    "range": "Deep Shades",
+    "sku": "AK13010",
+    "type": "technical",
+    "url": "https://ak-interactive.com/product/deep-shade-medium-30ml-deep-shades/"
+  }
+]

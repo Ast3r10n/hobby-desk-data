@@ -1,0 +1,1294 @@
+[
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F9FBF8",
+    "id": "vallejo-69-001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pure White",
+    "range": "Mecha Color",
+    "sku": "69.001",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/pure-white-69001/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F0ECE3",
+    "id": "vallejo-69-002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White Grey",
+    "range": "Mecha Color",
+    "sku": "69.002",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/white-grey-69002/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EDEBDF",
+    "id": "vallejo-69-003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Off-White",
+    "range": "Mecha Color",
+    "sku": "69.003",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/offwhite-69003-en/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E8A30A",
+    "id": "vallejo-69-004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow",
+    "range": "Mecha Color",
+    "sku": "69.004",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/yellow-69004/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F8D8C9",
+    "id": "vallejo-69-005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Flesh",
+    "range": "Mecha Color",
+    "sku": "69.005",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/light-flesh-69005/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D08379",
+    "id": "vallejo-69-006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pink",
+    "range": "Mecha Color",
+    "sku": "69.006",
+    "type": "ink",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/pink-69006/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EB5E29",
+    "id": "vallejo-69-007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange",
+    "range": "Mecha Color",
+    "sku": "69.007",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/orange-69007/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BD4143",
+    "id": "vallejo-69-008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red",
+    "range": "Mecha Color",
+    "sku": "69.008",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/red-69008/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B53738",
+    "id": "vallejo-69-009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sz Red",
+    "range": "Mecha Color",
+    "sku": "69.009",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/sz-red-69009/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C11C22",
+    "id": "vallejo-69-010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magenta",
+    "range": "Mecha Color",
+    "sku": "69.010",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/magenta-69010/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#902827",
+    "id": "vallejo-69-011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Red",
+    "range": "Mecha Color",
+    "sku": "69.011",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/dark-red-69011/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AB8ABF",
+    "id": "vallejo-69-012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple",
+    "range": "Mecha Color",
+    "sku": "69.012",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/purple-69012/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#534F70",
+    "id": "vallejo-69-013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Titan Blue",
+    "range": "Mecha Color",
+    "sku": "69.013",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/titan-blue-69013/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6D848C",
+    "id": "vallejo-69-014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Green",
+    "range": "Mecha Color",
+    "sku": "69.014",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/grey-green-69014/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#68879C",
+    "id": "vallejo-69-015",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Grey",
+    "range": "Mecha Color",
+    "sku": "69.015",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/blue-grey-69015/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6D8BBF",
+    "id": "vallejo-69-016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Blue",
+    "range": "Mecha Color",
+    "sku": "69.016",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/light-blue-69016/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7BCAF1",
+    "id": "vallejo-69-017",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sky Blue",
+    "range": "Mecha Color",
+    "sku": "69.017",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/sky-blue-69017/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0A96C7",
+    "id": "vallejo-69-018",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Blue",
+    "range": "Mecha Color",
+    "sku": "69.018",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/deep-blue-69018/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#48679D",
+    "id": "vallejo-69-019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue",
+    "range": "Mecha Color",
+    "sku": "69.019",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/blue-69019/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1A6EB4",
+    "id": "vallejo-69-020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Electric Blue",
+    "range": "Mecha Color",
+    "sku": "69.020",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/electric-blue-69020/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#425B7A",
+    "id": "vallejo-69-021",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Blue",
+    "range": "Mecha Color",
+    "sku": "69.021",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/dark-blue-69021/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#44494F",
+    "id": "vallejo-69-022",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Titan Dark Blue",
+    "range": "Mecha Color",
+    "sku": "69.022",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/titan-dark-blue-69022/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#019CA1",
+    "id": "vallejo-69-023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise",
+    "range": "Mecha Color",
+    "sku": "69.023",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/turquoise-69023/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9FB1B5",
+    "id": "vallejo-69-024",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stone Grey",
+    "range": "Mecha Color",
+    "sku": "69.024",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/stone-grey-69024/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C4CABE",
+    "id": "vallejo-69-025",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Green",
+    "range": "Mecha Color",
+    "sku": "69.025",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/light-green-69025/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A4A796",
+    "id": "vallejo-69-026",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green",
+    "range": "Mecha Color",
+    "sku": "69.026",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/green-69026/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#889F82",
+    "id": "vallejo-69-027",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Blue",
+    "range": "Mecha Color",
+    "sku": "69.027",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/green-blue-69027/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#647048",
+    "id": "vallejo-69-028",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Green",
+    "range": "Mecha Color",
+    "sku": "69.028",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/olive-green-69028/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#717538",
+    "id": "vallejo-69-029",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Green",
+    "range": "Mecha Color",
+    "sku": "69.029",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/deep-green-69029/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#565749",
+    "id": "vallejo-69-030",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Green",
+    "range": "Mecha Color",
+    "sku": "69.030",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/dark-green-69030/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B7A074",
+    "id": "vallejo-69-031",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Sand",
+    "range": "Mecha Color",
+    "sku": "69.031",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/grey-sand-69031/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EBA231",
+    "id": "vallejo-69-032",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Ochre",
+    "range": "Mecha Color",
+    "sku": "69.032",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/yellow-ochre-69032/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E4B871",
+    "id": "vallejo-69-033",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sand Yellow",
+    "range": "Mecha Color",
+    "sku": "69.033",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/sand-yellow-69033/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D6750",
+    "id": "vallejo-69-034",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown",
+    "range": "Mecha Color",
+    "sku": "69.034",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/brown-69034/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4C4744",
+    "id": "vallejo-69-035",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chipping Brown",
+    "range": "Mecha Color",
+    "sku": "69.035",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/chipping-brown-69035/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#959CA6",
+    "id": "vallejo-69-036",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Grey",
+    "range": "Mecha Color",
+    "sku": "69.036",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/light-grey-69036/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8B97A3",
+    "id": "vallejo-69-037",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey",
+    "range": "Mecha Color",
+    "sku": "69.037",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/grey-69037/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#83838B",
+    "id": "vallejo-69-038",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medium Grey",
+    "range": "Mecha Color",
+    "sku": "69.038",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/medium-grey-69038/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7C7D82",
+    "id": "vallejo-69-039",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Z",
+    "range": "Mecha Color",
+    "sku": "69.039",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/grey-z-69039/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#565A66",
+    "id": "vallejo-69-040",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Phantom Grey",
+    "range": "Mecha Color",
+    "sku": "69.040",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/phantom-grey-69040/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#535554",
+    "id": "vallejo-69-041",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Grey Green",
+    "range": "Mecha Color",
+    "sku": "69.041",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/dark-grey-green-69041/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#000000",
+    "id": "vallejo-69-042",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pure Black",
+    "range": "Mecha Color",
+    "sku": "69.042",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/pure-black-69042/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EFE63F",
+    "id": "vallejo-69-054",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Fluorescent",
+    "range": "Mecha Color",
+    "sku": "69.054",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/yellow-fluorescent-69054/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E95D10",
+    "id": "vallejo-69-055",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Fluorescent",
+    "range": "Mecha Color",
+    "sku": "69.055",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/orange-fluorescent-69055/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E8418F",
+    "id": "vallejo-69-056",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magenta Fluorescent",
+    "range": "Mecha Color",
+    "sku": "69.056",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/magenta-fluorescent-69056/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A5CA59",
+    "id": "vallejo-69-057",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Fluorescent",
+    "range": "Mecha Color",
+    "sku": "69.057",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/green-fluorescent-69057/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#666865",
+    "id": "vallejo-69-058",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gunmetal",
+    "range": "Mecha Color",
+    "sku": "69.058",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/gunmetal-69058/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AC8327",
+    "id": "vallejo-69-059",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gold",
+    "range": "Mecha Color",
+    "sku": "69.059",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/gold-69059/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9B854B",
+    "id": "vallejo-69-060",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Old Gold",
+    "range": "Mecha Color",
+    "sku": "69.060",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/old-gold-69060/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9E6752",
+    "id": "vallejo-69-061",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Copper",
+    "range": "Mecha Color",
+    "sku": "69.061",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/copper-69061/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D6B43",
+    "id": "vallejo-69-062",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronze",
+    "range": "Mecha Color",
+    "sku": "69.062",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/bronze-69062/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8D8B8C",
+    "id": "vallejo-69-063",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Steel",
+    "range": "Mecha Color",
+    "sku": "69.063",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/steel-69063/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A5A8AD",
+    "id": "vallejo-69-064",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Steel",
+    "range": "Mecha Color",
+    "sku": "69.064",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/light-steel-69064/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#747273",
+    "id": "vallejo-69-065",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Steel",
+    "range": "Mecha Color",
+    "sku": "69.065",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/dark-steel-69065/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B95668",
+    "id": "vallejo-69-066",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Metallic Red",
+    "range": "Mecha Color",
+    "sku": "69.066",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/metallic-red-69066/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#456385",
+    "id": "vallejo-69-067",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Metallic Blue",
+    "range": "Mecha Color",
+    "sku": "69.067",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/metallic-blue-69067/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#199384",
+    "id": "vallejo-69-068",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Metallic Green",
+    "range": "Mecha Color",
+    "sku": "69.068",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/metallic-green-69068/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EC7717",
+    "id": "vallejo-69-505",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Rust Wash",
+    "range": "Mecha Color",
+    "sku": "69.505",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/light-rust-wash-69505/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E1580A",
+    "id": "vallejo-69-507",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Rust Wash",
+    "range": "Mecha Color",
+    "sku": "69.507",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/dark-rust-wash-69507/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C8C8C6",
+    "id": "vallejo-69-515",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Grey Wash",
+    "range": "Mecha Color",
+    "sku": "69.515",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/light-grey-wash-69515/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#000000",
+    "id": "vallejo-69-518",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Wash",
+    "range": "Mecha Color",
+    "sku": "69.518",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/black-wash-69518/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6D5B4F",
+    "id": "vallejo-69-521",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oiled Earth Wash",
+    "range": "Mecha Color",
+    "sku": "69.521",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/oiled-earth-wash-69521/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D7BD80",
+    "id": "vallejo-69-522",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Dust Wash",
+    "range": "Mecha Color",
+    "sku": "69.522",
+    "type": "wash",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/desert-dust-wash-69522/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F9FBF8",
+    "id": "vallejo-69-701",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mecha Gloss Varnish",
+    "range": "Mecha Color",
+    "sku": "69.701",
+    "type": "varnish",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/mecha-gloss-varnish-69701-en/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F9FBF8",
+    "id": "vallejo-69-702",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mecha Matt Varnish",
+    "range": "Mecha Color",
+    "sku": "69.702",
+    "type": "varnish",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/mecha-matt-varnish-69702-en/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F9FBF8",
+    "id": "vallejo-69-703",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mecha Satin Varnish",
+    "range": "Mecha Color",
+    "sku": "69.703",
+    "type": "varnish",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/mecha-satin-varnish-69703-en/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#745419",
+    "id": "vallejo-69-813",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oil Stains (Gloss)",
+    "range": "Mecha Color",
+    "sku": "69.813",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/oil-stains-gloss-69813/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A06313",
+    "id": "vallejo-69-814",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fuel Stains (Gloss)",
+    "range": "Mecha Color",
+    "sku": "69.814",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/fuel-stains-gloss-69814/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#191D20",
+    "id": "vallejo-69-817",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Petrol Spills (Gloss)",
+    "range": "Mecha Color",
+    "sku": "69.817",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/petrol-spills-gloss-69817/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#61371E",
+    "id": "vallejo-69-818",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Engine Soot (Matt)",
+    "range": "Mecha Color",
+    "sku": "69.818",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/brown-engine-soot-matt-69818/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#693327",
+    "id": "vallejo-69-821",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rust Texture (Matt)",
+    "range": "Mecha Color",
+    "sku": "69.821",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/rust-texture-matt-69821/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F9FBF8",
+    "id": "vallejo-70-640",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White",
+    "range": "Mecha Color",
+    "sku": "70.640",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/white-70640/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C6C5CA",
+    "id": "vallejo-70-641",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey",
+    "range": "Mecha Color",
+    "sku": "70.641",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/grey-70641/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#020001",
+    "id": "vallejo-70-642",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Mecha Color",
+    "sku": "70.642",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/black-70642/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F3EFD4",
+    "id": "vallejo-70-643",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ivory",
+    "range": "Mecha Color",
+    "sku": "70.643",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/ivory-70643/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DAC397",
+    "id": "vallejo-70-644",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sand",
+    "range": "Mecha Color",
+    "sku": "70.644",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/mecha-color-en/sand-70644/"
+  }
+]

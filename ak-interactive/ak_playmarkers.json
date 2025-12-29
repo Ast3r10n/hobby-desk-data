@@ -1,0 +1,580 @@
+[
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#535252",
+    "id": "ak-interactive-akm001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gun Metal",
+    "range": "Playmarkers",
+    "sku": "AKM001",
+    "type": "metallic",
+    "url": "https://ak-interactive.com/product/gun-metal-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1D1D1B",
+    "id": "ak-interactive-akm002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Playmarkers",
+    "sku": "AKM002",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/black-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E7E7E7",
+    "id": "ak-interactive-akm003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White",
+    "range": "Playmarkers",
+    "sku": "AKM003",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/white-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E1CBA4",
+    "id": "ak-interactive-akm004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dirty White",
+    "range": "Playmarkers",
+    "sku": "AKM004",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/dirty-white-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A6A297",
+    "id": "ak-interactive-akm005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Grey",
+    "range": "Playmarkers",
+    "sku": "AKM005",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/light-grey-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#616161",
+    "id": "ak-interactive-akm006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Grey",
+    "range": "Playmarkers",
+    "sku": "AKM006",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/dark-grey-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F4CFBD",
+    "id": "ak-interactive-akm007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Skin",
+    "range": "Playmarkers",
+    "sku": "AKM007",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/light-skin-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D6B596",
+    "id": "ak-interactive-akm008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Skin",
+    "range": "Playmarkers",
+    "sku": "AKM008",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/dark-skin-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6E4E39",
+    "id": "ak-interactive-akm009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Skin",
+    "range": "Playmarkers",
+    "sku": "AKM009",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/black-skin-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F0B8A9",
+    "id": "ak-interactive-akm010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pink Skin",
+    "range": "Playmarkers",
+    "sku": "AKM010",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/pink-skin-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BDB17D",
+    "id": "ak-interactive-akm011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Zombie Skin",
+    "range": "Playmarkers",
+    "sku": "AKM011",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/zombie-skin-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#99C552",
+    "id": "ak-interactive-akm012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Green",
+    "range": "Playmarkers",
+    "sku": "AKM012",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/light-green-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#33572B",
+    "id": "ak-interactive-akm013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Green",
+    "range": "Playmarkers",
+    "sku": "AKM013",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/dark-green-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#71AF62",
+    "id": "ak-interactive-akm014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Animal Green",
+    "range": "Playmarkers",
+    "sku": "AKM014",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/animal-green-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#34958C",
+    "id": "ak-interactive-akm015",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Emerald",
+    "range": "Playmarkers",
+    "sku": "AKM015",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/emerald-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFDE00",
+    "id": "ak-interactive-akm016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow",
+    "range": "Playmarkers",
+    "sku": "AKM016",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/yellow-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E1AB0D",
+    "id": "ak-interactive-akm017",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Peach",
+    "range": "Playmarkers",
+    "sku": "AKM017",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/peach-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E51F3A",
+    "id": "ak-interactive-akm018",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red",
+    "range": "Playmarkers",
+    "sku": "AKM018",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/red-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F18851",
+    "id": "ak-interactive-akm019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Orange",
+    "range": "Playmarkers",
+    "sku": "AKM019",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/light-orange-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EC6607",
+    "id": "ak-interactive-akm020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Orange",
+    "range": "Playmarkers",
+    "sku": "AKM020",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/dark-orange-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C6AB76",
+    "id": "ak-interactive-akm021",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Ochre",
+    "range": "Playmarkers",
+    "sku": "AKM021",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/desert-ochre-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8F6B3B",
+    "id": "ak-interactive-akm022",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wood",
+    "range": "Playmarkers",
+    "sku": "AKM022",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/wood-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#723F2A",
+    "id": "ak-interactive-akm023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leather",
+    "range": "Playmarkers",
+    "sku": "AKM023",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/leather-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DD7278",
+    "id": "ak-interactive-akm024",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pink",
+    "range": "Playmarkers",
+    "sku": "AKM024",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/pink-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1B395B",
+    "id": "ak-interactive-akm025",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine",
+    "range": "Playmarkers",
+    "sku": "AKM025",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/ultramarine-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1C4698",
+    "id": "ak-interactive-akm026",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medium Blue",
+    "range": "Playmarkers",
+    "sku": "AKM026",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/medium-blue-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#61B4C6",
+    "id": "ak-interactive-akm027",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sky Blue",
+    "range": "Playmarkers",
+    "sku": "AKM027",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/sky-blue-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#26A9A4",
+    "id": "ak-interactive-akm028",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise",
+    "range": "Playmarkers",
+    "sku": "AKM028",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/turquoise-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E398C",
+    "id": "ak-interactive-akm029",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple",
+    "range": "Playmarkers",
+    "sku": "AKM029",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/purple-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#807E7F",
+    "id": "ak-interactive-akm030",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Silver",
+    "range": "Playmarkers",
+    "sku": "AKM030",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/silver-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AC9537",
+    "id": "ak-interactive-akm031",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gold",
+    "range": "Playmarkers",
+    "sku": "AKM031",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/gold-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C59C64",
+    "id": "ak-interactive-akm032",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronze",
+    "range": "Playmarkers",
+    "sku": "AKM032",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/bronze-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AE5118",
+    "id": "ak-interactive-akm033",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Copper",
+    "range": "Playmarkers",
+    "sku": "AKM033",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/copper-playmarker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#90773D",
+    "id": "ak-interactive-akm034",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brass",
+    "range": "Playmarkers",
+    "sku": "AKM034",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/brass-playmarker/"
+  }
+]

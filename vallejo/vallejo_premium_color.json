@@ -1,0 +1,1005 @@
+[
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-62-001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White",
+    "range": "Premium Color",
+    "sku": "62.001",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/white-62001/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F8AB65",
+    "id": "vallejo-62-002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Pink",
+    "range": "Premium Color",
+    "sku": "62.002",
+    "type": "ink",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/orange-pink-62002/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FAB300",
+    "id": "vallejo-62-003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Basic Yellow",
+    "range": "Premium Color",
+    "sku": "62.003",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/basic-yellow-62003/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E74B10",
+    "id": "vallejo-62-004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange",
+    "range": "Premium Color",
+    "sku": "62.004",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/orange-62004/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#911E1B",
+    "id": "vallejo-62-005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Red",
+    "range": "Premium Color",
+    "sku": "62.005",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/bright-red-62005/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#691312",
+    "id": "vallejo-62-006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carmine",
+    "range": "Premium Color",
+    "sku": "62.006",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/carmine-62006/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7F234A",
+    "id": "vallejo-62-007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magenta",
+    "range": "Premium Color",
+    "sku": "62.007",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/magenta-62007/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2F2142",
+    "id": "vallejo-62-008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet",
+    "range": "Premium Color",
+    "sku": "62.008",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/violet-62008/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1E2C5B",
+    "id": "vallejo-62-009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cobalt Blue",
+    "range": "Premium Color",
+    "sku": "62.009",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/cobalt-blue-62009/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0074A3",
+    "id": "vallejo-62-010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Basic Blue",
+    "range": "Premium Color",
+    "sku": "62.010",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/basic-blue-62010/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#101229",
+    "id": "vallejo-62-011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Blue",
+    "range": "Premium Color",
+    "sku": "62.011",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/dark-blue-62011/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#00554E",
+    "id": "vallejo-62-012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Green",
+    "range": "Premium Color",
+    "sku": "62.012",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/blue-green-62012/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#004A29",
+    "id": "vallejo-62-013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Basic Green",
+    "range": "Premium Color",
+    "sku": "62.013",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/basic-green-62013/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#072317",
+    "id": "vallejo-62-014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Green",
+    "range": "Premium Color",
+    "sku": "62.014",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/dark-green-62014/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B1792C",
+    "id": "vallejo-62-015",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Ochre",
+    "range": "Premium Color",
+    "sku": "62.015",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/yellow-ochre-62015/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6C3E27",
+    "id": "vallejo-62-016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Ochre",
+    "range": "Premium Color",
+    "sku": "62.016",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/dark-ochre-62016/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#522C21",
+    "id": "vallejo-62-017",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Raw Sienna",
+    "range": "Premium Color",
+    "sku": "62.017",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/raw-sienna-62017/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#211000",
+    "id": "vallejo-62-018",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sepia",
+    "range": "Premium Color",
+    "sku": "62.018",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/sepia-62018/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6A6D74",
+    "id": "vallejo-62-019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey",
+    "range": "Premium Color",
+    "sku": "62.019",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/grey-62019/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#000000",
+    "id": "vallejo-62-020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Premium Color",
+    "sku": "62.020",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/black-62020/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E0DE00",
+    "id": "vallejo-62-031",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Yellow",
+    "range": "Premium Color",
+    "sku": "62.031",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/yellow-fluorescent-62031/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F7A600",
+    "id": "vallejo-62-032",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Golden Yellow",
+    "range": "Premium Color",
+    "sku": "62.032",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/golden-yellow-fluorescent-62032/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E64318",
+    "id": "vallejo-62-033",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Orange",
+    "range": "Premium Color",
+    "sku": "62.033",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/orange-fluorescent-62033/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D41326",
+    "id": "vallejo-62-034",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Scarlet",
+    "range": "Premium Color",
+    "sku": "62.034",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/escarlet-fluorescent-62034/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E93E8D",
+    "id": "vallejo-62-035",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Rose",
+    "range": "Premium Color",
+    "sku": "62.035",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/rose-fluorescent-62035/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CF0A66",
+    "id": "vallejo-62-036",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Magenta",
+    "range": "Premium Color",
+    "sku": "62.036",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/magenta-fluorescent-62036/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4D215C",
+    "id": "vallejo-62-037",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Violet",
+    "range": "Premium Color",
+    "sku": "62.037",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/violet-fluorescent-62037/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0192D5",
+    "id": "vallejo-62-038",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Blue",
+    "range": "Premium Color",
+    "sku": "62.038",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/blue-fluorescent-62038/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#52AE32",
+    "id": "vallejo-62-039",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fluorescent Green",
+    "range": "Premium Color",
+    "sku": "62.039",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/green-fluorescent-62039/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E9EAE2",
+    "id": "vallejo-62-040",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Phosphorescent",
+    "range": "Premium Color",
+    "sku": "62.040",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/phosphorescent-62040/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E9E6DF",
+    "id": "vallejo-62-041",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Metallic Medium",
+    "range": "Premium Color",
+    "sku": "62.041",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/metallic-medium-62041/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F3D49E",
+    "id": "vallejo-62-042",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Metallic Yellow",
+    "range": "Premium Color",
+    "sku": "62.042",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/metallic-yellow-62042/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F6BBB2",
+    "id": "vallejo-62-043",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Metallic Orange",
+    "range": "Premium Color",
+    "sku": "62.043",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/metallic-orange-62043/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E1AAB2",
+    "id": "vallejo-62-044",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Metallic Red",
+    "range": "Premium Color",
+    "sku": "62.044",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/metallic-red-62044/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BBACC6",
+    "id": "vallejo-62-045",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Metallic Violet",
+    "range": "Premium Color",
+    "sku": "62.045",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/metallic-violet-62045/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#92B8D3",
+    "id": "vallejo-62-046",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Metallic Blue",
+    "range": "Premium Color",
+    "sku": "62.046",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/metallic-blue-62046/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A2CDB7",
+    "id": "vallejo-62-047",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Metallic Green",
+    "range": "Premium Color",
+    "sku": "62.047",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/metallic-green-62047/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DDDDDB",
+    "id": "vallejo-62-048",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Silver",
+    "range": "Premium Color",
+    "sku": "62.048",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/silver-62048/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F0CFA1",
+    "id": "vallejo-62-049",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gold",
+    "range": "Premium Color",
+    "sku": "62.049",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/gold-62049/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DAB6A0",
+    "id": "vallejo-62-050",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Copper",
+    "range": "Premium Color",
+    "sku": "62.050",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/copper-62050/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C9CACF",
+    "id": "vallejo-62-051",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Steel",
+    "range": "Premium Color",
+    "sku": "62.051",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/steel-62051/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A9AAAC",
+    "id": "vallejo-62-052",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gunmetal",
+    "range": "Premium Color",
+    "sku": "62.052",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/gunmetal-62052/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ABAAA8",
+    "id": "vallejo-62-053",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Metallic Black",
+    "range": "Premium Color",
+    "sku": "62.053",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/metallic-black-62053/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-62-061",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White Primer",
+    "range": "Premium Color",
+    "sku": "62.061",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/white-primer-62061/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-62-062",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matt Varnish",
+    "range": "Premium Color",
+    "sku": "62.062",
+    "type": "varnish",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/matt-varnish-62062/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-62-063",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Satin Varnish",
+    "range": "Premium Color",
+    "sku": "62.063",
+    "type": "varnish",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/satin-varnish-62063/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-62-064",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gloss Varnish",
+    "range": "Premium Color",
+    "sku": "62.064",
+    "type": "varnish",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/gloss-varnish-62064/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-62-065",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Retarder",
+    "range": "Premium Color",
+    "sku": "62.065",
+    "type": "technical",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/retarder-62065/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-62-066",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Reducer",
+    "range": "Premium Color",
+    "sku": "62.066",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/reducer-62066/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-62-068",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Clear Base",
+    "range": "Premium Color",
+    "sku": "62.068",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/clear-base-62068/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F7D840",
+    "id": "vallejo-62-071",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Candy Yellow",
+    "range": "Premium Color",
+    "sku": "62.071",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/candy-yellow-62071/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F8B740",
+    "id": "vallejo-62-072",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Candy Dark Yellow",
+    "range": "Premium Color",
+    "sku": "62.072",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/candy-dark-yellow-62072/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F08E45",
+    "id": "vallejo-62-073",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Candy Orange",
+    "range": "Premium Color",
+    "sku": "62.073",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/candy-orange-62073/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E9445C",
+    "id": "vallejo-62-074",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Candy Red",
+    "range": "Premium Color",
+    "sku": "62.074",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/candy-red-62074/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D95D9E",
+    "id": "vallejo-62-075",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Candy Magenta",
+    "range": "Premium Color",
+    "sku": "62.075",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/candy-magenta-62075/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4086BA",
+    "id": "vallejo-62-076",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Candy Racing Blue",
+    "range": "Premium Color",
+    "sku": "62.076",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/candy-racing-blue-62076/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#409076",
+    "id": "vallejo-62-077",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Candy Racing Green",
+    "range": "Premium Color",
+    "sku": "62.077",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/candy-racing-green-62077/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#766156",
+    "id": "vallejo-62-078",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Candy Brown",
+    "range": "Premium Color",
+    "sku": "62.078",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/candy-brown-62078/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4E4E4E",
+    "id": "vallejo-62-079",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Candy Black",
+    "range": "Premium Color",
+    "sku": "62.079",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/premium-color-en/candy-black-62079/"
+  }
+]

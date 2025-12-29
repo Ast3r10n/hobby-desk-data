@@ -1,0 +1,3646 @@
+[
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10003",
+        "midtoneId": "two-thin-coats-10002",
+        "shadowId": "two-thin-coats-10001"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#4D1B16",
+    "id": "two-thin-coats-10001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Berserker Red",
+    "range": "Two Thin Coats",
+    "sku": "10001",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10003",
+        "midtoneId": "two-thin-coats-10002",
+        "shadowId": "two-thin-coats-10001"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#961914",
+    "id": "two-thin-coats-10002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sanguine Scarlet",
+    "range": "Two Thin Coats",
+    "sku": "10002",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10003",
+        "midtoneId": "two-thin-coats-10002",
+        "shadowId": "two-thin-coats-10001"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#D21215",
+    "id": "two-thin-coats-10003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Demon Red",
+    "range": "Two Thin Coats",
+    "sku": "10003",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10006",
+        "midtoneId": "two-thin-coats-10005",
+        "shadowId": "two-thin-coats-10004"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#C48638",
+    "id": "two-thin-coats-10004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Sun Yellow",
+    "range": "Two Thin Coats",
+    "sku": "10004",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10006",
+        "midtoneId": "two-thin-coats-10005",
+        "shadowId": "two-thin-coats-10004"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#F59E02",
+    "id": "two-thin-coats-10005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skulker Yellow",
+    "range": "Two Thin Coats",
+    "sku": "10005",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10006",
+        "midtoneId": "two-thin-coats-10005",
+        "shadowId": "two-thin-coats-10004"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#F8B02C",
+    "id": "two-thin-coats-10006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Flame",
+    "range": "Two Thin Coats",
+    "sku": "10006",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10009",
+        "midtoneId": "two-thin-coats-10008",
+        "shadowId": "two-thin-coats-10007"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#44496F",
+    "id": "two-thin-coats-10007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Marine Blue",
+    "range": "Two Thin Coats",
+    "sku": "10007",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10009",
+        "midtoneId": "two-thin-coats-10008",
+        "shadowId": "two-thin-coats-10007"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#5179AC",
+    "id": "two-thin-coats-10008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elysium Blue",
+    "range": "Two Thin Coats",
+    "sku": "10008",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10009",
+        "midtoneId": "two-thin-coats-10008",
+        "shadowId": "two-thin-coats-10007"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#6992C0",
+    "id": "two-thin-coats-10009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Celestial Blue",
+    "range": "Two Thin Coats",
+    "sku": "10009",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10012",
+        "midtoneId": "two-thin-coats-10011",
+        "shadowId": "two-thin-coats-10010"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#BA4D37",
+    "id": "two-thin-coats-10010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rust Orange",
+    "range": "Two Thin Coats",
+    "sku": "10010",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10012",
+        "midtoneId": "two-thin-coats-10011",
+        "shadowId": "two-thin-coats-10010"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#D94A2F",
+    "id": "two-thin-coats-10011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fanatic Orange",
+    "range": "Two Thin Coats",
+    "sku": "10011",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10012",
+        "midtoneId": "two-thin-coats-10011",
+        "shadowId": "two-thin-coats-10010"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#F29D7B",
+    "id": "two-thin-coats-10012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Flare",
+    "range": "Two Thin Coats",
+    "sku": "10012",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10015",
+        "midtoneId": "two-thin-coats-10014",
+        "shadowId": "two-thin-coats-10013"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#404A42",
+    "id": "two-thin-coats-10013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wyvern Green",
+    "range": "Two Thin Coats",
+    "sku": "10013",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10015",
+        "midtoneId": "two-thin-coats-10014",
+        "shadowId": "two-thin-coats-10013"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#3C5C43",
+    "id": "two-thin-coats-10014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Emerald Green",
+    "range": "Two Thin Coats",
+    "sku": "10014",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10015",
+        "midtoneId": "two-thin-coats-10014",
+        "shadowId": "two-thin-coats-10013"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#56802E",
+    "id": "two-thin-coats-10015",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ethereal Green",
+    "range": "Two Thin Coats",
+    "sku": "10015",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10018",
+        "midtoneId": "two-thin-coats-10017",
+        "shadowId": "two-thin-coats-10016"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#524169",
+    "id": "two-thin-coats-10016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amethyst Rayne",
+    "range": "Two Thin Coats",
+    "sku": "10016",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10018",
+        "midtoneId": "two-thin-coats-10017",
+        "shadowId": "two-thin-coats-10016"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#765e90",
+    "id": "two-thin-coats-10017",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sorcerer's Cloak",
+    "range": "Two Thin Coats",
+    "sku": "10017",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10018",
+        "midtoneId": "two-thin-coats-10017",
+        "shadowId": "two-thin-coats-10016"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#9C8CB3",
+    "id": "two-thin-coats-10018",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Runic Purple",
+    "range": "Two Thin Coats",
+    "sku": "10018",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10021",
+        "midtoneId": "two-thin-coats-10020",
+        "shadowId": "two-thin-coats-10019"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#3D3937",
+    "id": "two-thin-coats-10019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Doom Death Black",
+    "range": "Two Thin Coats",
+    "sku": "10019",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10021",
+        "midtoneId": "two-thin-coats-10020",
+        "shadowId": "two-thin-coats-10019"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#434142",
+    "id": "two-thin-coats-10020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Death Reaper",
+    "range": "Two Thin Coats",
+    "sku": "10020",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10021",
+        "midtoneId": "two-thin-coats-10020",
+        "shadowId": "two-thin-coats-10019"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#5C5E60",
+    "id": "two-thin-coats-10021",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dungeon Stone Grey",
+    "range": "Two Thin Coats",
+    "sku": "10021",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10024",
+        "midtoneId": "two-thin-coats-10023",
+        "shadowId": "two-thin-coats-10022"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#6D6C6C",
+    "id": "two-thin-coats-10022",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wizard Grey",
+    "range": "Two Thin Coats",
+    "sku": "10022",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10024",
+        "midtoneId": "two-thin-coats-10023",
+        "shadowId": "two-thin-coats-10022"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#959596",
+    "id": "two-thin-coats-10023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carcharodon Grey",
+    "range": "Two Thin Coats",
+    "sku": "10023",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10024",
+        "midtoneId": "two-thin-coats-10023",
+        "shadowId": "two-thin-coats-10022"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#F8F9F8",
+    "id": "two-thin-coats-10024",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White Star",
+    "range": "Two Thin Coats",
+    "sku": "10024",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10027",
+        "midtoneId": "two-thin-coats-10026",
+        "shadowId": "two-thin-coats-10025"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#8F5F55",
+    "id": "two-thin-coats-10025",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Barbarian Brawn",
+    "range": "Two Thin Coats",
+    "sku": "10025",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10027",
+        "midtoneId": "two-thin-coats-10026",
+        "shadowId": "two-thin-coats-10025"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#B07C62",
+    "id": "two-thin-coats-10026",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dwarven Skin",
+    "range": "Two Thin Coats",
+    "sku": "10026",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10027",
+        "midtoneId": "two-thin-coats-10026",
+        "shadowId": "two-thin-coats-10025"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#C49774",
+    "id": "two-thin-coats-10027",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elven Skin",
+    "range": "Two Thin Coats",
+    "sku": "10027",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10030",
+        "midtoneId": "two-thin-coats-10029",
+        "shadowId": "two-thin-coats-10028"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#52433A",
+    "id": "two-thin-coats-10028",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cuirass Leather",
+    "range": "Two Thin Coats",
+    "sku": "10028",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10030",
+        "midtoneId": "two-thin-coats-10029",
+        "shadowId": "two-thin-coats-10028"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#73453A",
+    "id": "two-thin-coats-10029",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Boar Hide",
+    "range": "Two Thin Coats",
+    "sku": "10029",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10030",
+        "midtoneId": "two-thin-coats-10029",
+        "shadowId": "two-thin-coats-10028"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#92534E",
+    "id": "two-thin-coats-10030",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fur Cloak",
+    "range": "Two Thin Coats",
+    "sku": "10030",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10033",
+        "midtoneId": "two-thin-coats-10032",
+        "shadowId": "two-thin-coats-10031"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#9E8460",
+    "id": "two-thin-coats-10031",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dragon Fang",
+    "range": "Two Thin Coats",
+    "sku": "10031",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10033",
+        "midtoneId": "two-thin-coats-10032",
+        "shadowId": "two-thin-coats-10031"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#B0966C",
+    "id": "two-thin-coats-10032",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skeleton Legion",
+    "range": "Two Thin Coats",
+    "sku": "10032",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10033",
+        "midtoneId": "two-thin-coats-10032",
+        "shadowId": "two-thin-coats-10031"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#CCB899",
+    "id": "two-thin-coats-10033",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vampire Fang",
+    "range": "Two Thin Coats",
+    "sku": "10033",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10036",
+        "midtoneId": "two-thin-coats-10035",
+        "shadowId": "two-thin-coats-10034"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#9F8F85",
+    "id": "two-thin-coats-10034",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Griffon Claw",
+    "range": "Two Thin Coats",
+    "sku": "10034",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10036",
+        "midtoneId": "two-thin-coats-10035",
+        "shadowId": "two-thin-coats-10034"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#D2C8C0",
+    "id": "two-thin-coats-10035",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ivory Tusk",
+    "range": "Two Thin Coats",
+    "sku": "10035",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10036",
+        "midtoneId": "two-thin-coats-10035",
+        "shadowId": "two-thin-coats-10034"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#EDEBE0",
+    "id": "two-thin-coats-10036",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Trooper White",
+    "range": "Two Thin Coats",
+    "sku": "10036",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10039",
+        "midtoneId": "two-thin-coats-10038",
+        "shadowId": "two-thin-coats-10037"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#7E634B",
+    "id": "two-thin-coats-10037",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dust Bowl",
+    "range": "Two Thin Coats",
+    "sku": "10037",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10039",
+        "midtoneId": "two-thin-coats-10038",
+        "shadowId": "two-thin-coats-10037"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#927B68",
+    "id": "two-thin-coats-10038",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sandstone",
+    "range": "Two Thin Coats",
+    "sku": "10038",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10039",
+        "midtoneId": "two-thin-coats-10038",
+        "shadowId": "two-thin-coats-10037"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#A39179",
+    "id": "two-thin-coats-10039",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Temple Stone",
+    "range": "Two Thin Coats",
+    "sku": "10039",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#494A4A",
+    "id": "two-thin-coats-10040",
+    "impcat": {},
+    "name": "Sir Coates Silver",
+    "range": "Two Thin Coats",
+    "sku": "10040",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#757677",
+    "id": "two-thin-coats-10041",
+    "impcat": {},
+    "name": "Plate Armour",
+    "range": "Two Thin Coats",
+    "sku": "10041",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#818283",
+    "id": "two-thin-coats-10042",
+    "impcat": {},
+    "name": "Mythril Blade",
+    "range": "Two Thin Coats",
+    "sku": "10042",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#604332",
+    "id": "two-thin-coats-10043",
+    "impcat": {},
+    "name": "Spartan Bronze",
+    "range": "Two Thin Coats",
+    "sku": "10043",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#4F442C",
+    "id": "two-thin-coats-10044",
+    "impcat": {},
+    "name": "Dragon's Gold",
+    "range": "Two Thin Coats",
+    "sku": "10044",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#5C5241",
+    "id": "two-thin-coats-10045",
+    "impcat": {},
+    "name": "Glistening Gold",
+    "range": "Two Thin Coats",
+    "sku": "10045",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10048",
+        "midtoneId": "two-thin-coats-10047",
+        "shadowId": "two-thin-coats-10046"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#5B4349",
+    "id": "two-thin-coats-10046",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Royal Cloak",
+    "range": "Two Thin Coats",
+    "sku": "10046",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10048",
+        "midtoneId": "two-thin-coats-10047",
+        "shadowId": "two-thin-coats-10046"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#773D4B",
+    "id": "two-thin-coats-10047",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sword Hilt Burgundy",
+    "range": "Two Thin Coats",
+    "sku": "10047",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10048",
+        "midtoneId": "two-thin-coats-10047",
+        "shadowId": "two-thin-coats-10046"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#995879",
+    "id": "two-thin-coats-10048",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Glistening Gums",
+    "range": "Two Thin Coats",
+    "sku": "10048",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10051",
+        "midtoneId": "two-thin-coats-10050",
+        "shadowId": "two-thin-coats-10049"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#51555C",
+    "id": "two-thin-coats-10049",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cold Corpse Blue",
+    "range": "Two Thin Coats",
+    "sku": "10049",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10051",
+        "midtoneId": "two-thin-coats-10050",
+        "shadowId": "two-thin-coats-10049"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#627688",
+    "id": "two-thin-coats-10050",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wolf Grey",
+    "range": "Two Thin Coats",
+    "sku": "10050",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10051",
+        "midtoneId": "two-thin-coats-10050",
+        "shadowId": "two-thin-coats-10049"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#7C8897",
+    "id": "two-thin-coats-10051",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gravestone Blue",
+    "range": "Two Thin Coats",
+    "sku": "10051",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10054",
+        "midtoneId": "two-thin-coats-10053",
+        "shadowId": "two-thin-coats-10052"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#5A4D49",
+    "id": "two-thin-coats-10052",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scorched Earth",
+    "range": "Two Thin Coats",
+    "sku": "10052",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10054",
+        "midtoneId": "two-thin-coats-10053",
+        "shadowId": "two-thin-coats-10052"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#725B52",
+    "id": "two-thin-coats-10053",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ancient Forest",
+    "range": "Two Thin Coats",
+    "sku": "10053",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10054",
+        "midtoneId": "two-thin-coats-10053",
+        "shadowId": "two-thin-coats-10052"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#856C5C",
+    "id": "two-thin-coats-10054",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wasteland Brown",
+    "range": "Two Thin Coats",
+    "sku": "10054",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Wash",
+    "discontinued": false,
+    "hex": "#3C3A3A",
+    "id": "two-thin-coats-10055",
+    "impcat": {},
+    "name": "Oblivion Black Wash",
+    "range": "Two Thin Coats",
+    "sku": "10055",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Wash",
+    "discontinued": false,
+    "hex": "#756659",
+    "id": "two-thin-coats-10056",
+    "impcat": {},
+    "name": "Battle Mud Wash",
+    "range": "Two Thin Coats",
+    "sku": "10056",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Wash",
+    "discontinued": false,
+    "hex": "#BB9B66",
+    "id": "two-thin-coats-10057",
+    "impcat": {},
+    "name": "Flesh Wash",
+    "range": "Two Thin Coats",
+    "sku": "10057",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Wash",
+    "discontinued": false,
+    "hex": "#3E7C41",
+    "id": "two-thin-coats-10058",
+    "impcat": {},
+    "name": "Orc Flesh Wash",
+    "range": "Two Thin Coats",
+    "sku": "10058",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Wash",
+    "discontinued": false,
+    "hex": "#718362",
+    "id": "two-thin-coats-10059",
+    "impcat": {},
+    "name": "Necrosis Green Wash",
+    "range": "Two Thin Coats",
+    "sku": "10059",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Wash",
+    "discontinued": false,
+    "hex": "#9A7B66",
+    "id": "two-thin-coats-10060",
+    "impcat": {},
+    "name": "Archaic Sepia Wash",
+    "range": "Two Thin Coats",
+    "sku": "10060",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10063",
+        "midtoneId": "two-thin-coats-10062",
+        "shadowId": "two-thin-coats-10061"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#BA6367",
+    "id": "two-thin-coats-10061",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Perisher Pink",
+    "range": "Two Thin Coats",
+    "sku": "10061",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10063",
+        "midtoneId": "two-thin-coats-10062",
+        "shadowId": "two-thin-coats-10061"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#E284A6",
+    "id": "two-thin-coats-10062",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hot Pink",
+    "range": "Two Thin Coats",
+    "sku": "10062",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10063",
+        "midtoneId": "two-thin-coats-10062",
+        "shadowId": "two-thin-coats-10061"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#F3BCDA",
+    "id": "two-thin-coats-10063",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neo Pink",
+    "range": "Two Thin Coats",
+    "sku": "10063",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10066",
+        "midtoneId": "two-thin-coats-10065",
+        "shadowId": "two-thin-coats-10064"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#6F3F3F",
+    "id": "two-thin-coats-10064",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dread Red",
+    "range": "Two Thin Coats",
+    "sku": "10064",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10066",
+        "midtoneId": "two-thin-coats-10065",
+        "shadowId": "two-thin-coats-10064"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#8E4847",
+    "id": "two-thin-coats-10065",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Asmodeus Red",
+    "range": "Two Thin Coats",
+    "sku": "10065",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10066",
+        "midtoneId": "two-thin-coats-10065",
+        "shadowId": "two-thin-coats-10064"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#C15E50",
+    "id": "two-thin-coats-10066",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Evil Eye Red",
+    "range": "Two Thin Coats",
+    "sku": "10066",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10069",
+        "midtoneId": "two-thin-coats-10068",
+        "shadowId": "two-thin-coats-10067"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#3A84A2",
+    "id": "two-thin-coats-10067",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sentient Turquoise",
+    "range": "Two Thin Coats",
+    "sku": "10067",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10069",
+        "midtoneId": "two-thin-coats-10068",
+        "shadowId": "two-thin-coats-10067"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#4199B4",
+    "id": "two-thin-coats-10068",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cursed Blue",
+    "range": "Two Thin Coats",
+    "sku": "10068",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10069",
+        "midtoneId": "two-thin-coats-10068",
+        "shadowId": "two-thin-coats-10067"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#47B0C3",
+    "id": "two-thin-coats-10069",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ray Gun Glow",
+    "range": "Two Thin Coats",
+    "sku": "10069",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10072",
+        "midtoneId": "two-thin-coats-10071",
+        "shadowId": "two-thin-coats-10070"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#344B67",
+    "id": "two-thin-coats-10070",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Abyss Blue",
+    "range": "Two Thin Coats",
+    "sku": "10070",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10072",
+        "midtoneId": "two-thin-coats-10071",
+        "shadowId": "two-thin-coats-10070"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#326AB4",
+    "id": "two-thin-coats-10071",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Witching Hour Blue",
+    "range": "Two Thin Coats",
+    "sku": "10071",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10072",
+        "midtoneId": "two-thin-coats-10071",
+        "shadowId": "two-thin-coats-10070"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#3A7CBF",
+    "id": "two-thin-coats-10072",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leviathan Blue",
+    "range": "Two Thin Coats",
+    "sku": "10072",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10075",
+        "midtoneId": "two-thin-coats-10074",
+        "shadowId": "two-thin-coats-10073"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#7B9C69",
+    "id": "two-thin-coats-10073",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orc Hide",
+    "range": "Two Thin Coats",
+    "sku": "10073",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10075",
+        "midtoneId": "two-thin-coats-10074",
+        "shadowId": "two-thin-coats-10073"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#8AB86A",
+    "id": "two-thin-coats-10074",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Goblinoid Green",
+    "range": "Two Thin Coats",
+    "sku": "10074",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10075",
+        "midtoneId": "two-thin-coats-10074",
+        "shadowId": "two-thin-coats-10073"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#9DC576",
+    "id": "two-thin-coats-10075",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Troll Snot Green",
+    "range": "Two Thin Coats",
+    "sku": "10075",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10078",
+        "midtoneId": "two-thin-coats-10077",
+        "shadowId": "two-thin-coats-10076"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#6D725E",
+    "id": "two-thin-coats-10076",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Field Grey",
+    "range": "Two Thin Coats",
+    "sku": "10076",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10078",
+        "midtoneId": "two-thin-coats-10077",
+        "shadowId": "two-thin-coats-10076"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#7E8352",
+    "id": "two-thin-coats-10077",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ranger Cloak",
+    "range": "Two Thin Coats",
+    "sku": "10077",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10078",
+        "midtoneId": "two-thin-coats-10077",
+        "shadowId": "two-thin-coats-10076"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#868B75",
+    "id": "two-thin-coats-10078",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kobold Grey",
+    "range": "Two Thin Coats",
+    "sku": "10078",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10081",
+        "midtoneId": "two-thin-coats-10080",
+        "shadowId": "two-thin-coats-10079"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#6C6C4C",
+    "id": "two-thin-coats-10079",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fury Green",
+    "range": "Two Thin Coats",
+    "sku": "10079",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10081",
+        "midtoneId": "two-thin-coats-10080",
+        "shadowId": "two-thin-coats-10079"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#A8A264",
+    "id": "two-thin-coats-10080",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gung-ho Green",
+    "range": "Two Thin Coats",
+    "sku": "10080",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10081",
+        "midtoneId": "two-thin-coats-10080",
+        "shadowId": "two-thin-coats-10079"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#ABAC87",
+    "id": "two-thin-coats-10081",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Beret",
+    "range": "Two Thin Coats",
+    "sku": "10081",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10084",
+        "midtoneId": "two-thin-coats-10083",
+        "shadowId": "two-thin-coats-10082"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#354C4E",
+    "id": "two-thin-coats-10082",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hydra Green",
+    "range": "Two Thin Coats",
+    "sku": "10082",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10084",
+        "midtoneId": "two-thin-coats-10083",
+        "shadowId": "two-thin-coats-10082"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#2F7967",
+    "id": "two-thin-coats-10083",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jade Green",
+    "range": "Two Thin Coats",
+    "sku": "10083",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10084",
+        "midtoneId": "two-thin-coats-10083",
+        "shadowId": "two-thin-coats-10082"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#52BD97",
+    "id": "two-thin-coats-10084",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ghoul Green",
+    "range": "Two Thin Coats",
+    "sku": "10084",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10087",
+        "midtoneId": "two-thin-coats-10086",
+        "shadowId": "two-thin-coats-10085"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#4F5249",
+    "id": "two-thin-coats-10085",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ashen Grey",
+    "range": "Two Thin Coats",
+    "sku": "10085",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10087",
+        "midtoneId": "two-thin-coats-10086",
+        "shadowId": "two-thin-coats-10085"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#535549",
+    "id": "two-thin-coats-10086",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Eidolon Grey",
+    "range": "Two Thin Coats",
+    "sku": "10086",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10087",
+        "midtoneId": "two-thin-coats-10086",
+        "shadowId": "two-thin-coats-10085"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#707264",
+    "id": "two-thin-coats-10087",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rodent Grey",
+    "range": "Two Thin Coats",
+    "sku": "10087",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10090",
+        "midtoneId": "two-thin-coats-10089",
+        "shadowId": "two-thin-coats-10088"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#765439",
+    "id": "two-thin-coats-10088",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Noble Steed Brown",
+    "range": "Two Thin Coats",
+    "sku": "10088",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10090",
+        "midtoneId": "two-thin-coats-10089",
+        "shadowId": "two-thin-coats-10088"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#B97740",
+    "id": "two-thin-coats-10089",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dry Rust Brown",
+    "range": "Two Thin Coats",
+    "sku": "10089",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10090",
+        "midtoneId": "two-thin-coats-10089",
+        "shadowId": "two-thin-coats-10088"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#D59658",
+    "id": "two-thin-coats-10090",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Satyr Brown",
+    "range": "Two Thin Coats",
+    "sku": "10090",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10093",
+        "midtoneId": "two-thin-coats-10092",
+        "shadowId": "two-thin-coats-10091"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#D38A51",
+    "id": "two-thin-coats-10091",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gyzmo Fur",
+    "range": "Two Thin Coats",
+    "sku": "10091",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10093",
+        "midtoneId": "two-thin-coats-10092",
+        "shadowId": "two-thin-coats-10091"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#D79845",
+    "id": "two-thin-coats-10092",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Manticore Ochre",
+    "range": "Two Thin Coats",
+    "sku": "10092",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10093",
+        "midtoneId": "two-thin-coats-10092",
+        "shadowId": "two-thin-coats-10091"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#E0AE59",
+    "id": "two-thin-coats-10093",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cerberus Brown",
+    "range": "Two Thin Coats",
+    "sku": "10093",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10096",
+        "midtoneId": "two-thin-coats-10095",
+        "shadowId": "two-thin-coats-10094"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#A78E6D",
+    "id": "two-thin-coats-10094",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Argonaut Skin",
+    "range": "Two Thin Coats",
+    "sku": "10094",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10096",
+        "midtoneId": "two-thin-coats-10095",
+        "shadowId": "two-thin-coats-10094"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#C09B70",
+    "id": "two-thin-coats-10095",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kronos Flesh",
+    "range": "Two Thin Coats",
+    "sku": "10095",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10096",
+        "midtoneId": "two-thin-coats-10095",
+        "shadowId": "two-thin-coats-10094"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#DEC287",
+    "id": "two-thin-coats-10096",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ares Flesh",
+    "range": "Two Thin Coats",
+    "sku": "10096",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10099",
+        "midtoneId": "two-thin-coats-10098",
+        "shadowId": "two-thin-coats-10097"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#543D32",
+    "id": "two-thin-coats-10097",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Druid Flesh",
+    "range": "Two Thin Coats",
+    "sku": "10097",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10099",
+        "midtoneId": "two-thin-coats-10098",
+        "shadowId": "two-thin-coats-10097"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#77564B",
+    "id": "two-thin-coats-10098",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Paladin Flesh",
+    "range": "Two Thin Coats",
+    "sku": "10098",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10099",
+        "midtoneId": "two-thin-coats-10098",
+        "shadowId": "two-thin-coats-10097"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#946F61",
+    "id": "two-thin-coats-10099",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bard Skin",
+    "range": "Two Thin Coats",
+    "sku": "10099",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Bright",
+    "discontinued": false,
+    "hex": "#BE3A2E",
+    "id": "two-thin-coats-10100",
+    "impcat": {},
+    "name": "Hellspawn Red",
+    "range": "Two Thin Coats",
+    "sku": "10100",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Bright",
+    "discontinued": false,
+    "hex": "#ECEB69",
+    "id": "two-thin-coats-10101",
+    "impcat": {},
+    "name": "Craven Yellow",
+    "range": "Two Thin Coats",
+    "sku": "10101",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Bright",
+    "discontinued": false,
+    "hex": "#56B7E8",
+    "id": "two-thin-coats-10102",
+    "impcat": {},
+    "name": "Gigawatt Blue",
+    "range": "Two Thin Coats",
+    "sku": "10102",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Bright",
+    "discontinued": false,
+    "hex": "#EAA545",
+    "id": "two-thin-coats-10103",
+    "impcat": {},
+    "name": "Flaming Forge Orange",
+    "range": "Two Thin Coats",
+    "sku": "10103",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Bright",
+    "discontinued": false,
+    "hex": "#7AC142",
+    "id": "two-thin-coats-10104",
+    "impcat": {},
+    "name": "Talisman Green",
+    "range": "Two Thin Coats",
+    "sku": "10104",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Glaze",
+    "discontinued": false,
+    "hex": "#BFACD3",
+    "id": "two-thin-coats-10105",
+    "impcat": {},
+    "name": "Amulet Purple",
+    "range": "Two Thin Coats",
+    "sku": "10105",
+    "type": "glaze",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#91928E",
+    "id": "two-thin-coats-10106",
+    "impcat": {},
+    "name": "Dwarven Iron",
+    "range": "Two Thin Coats",
+    "sku": "10106",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#C09A74",
+    "id": "two-thin-coats-10107",
+    "impcat": {},
+    "name": "Battle Axe Brass",
+    "range": "Two Thin Coats",
+    "sku": "10107",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#BE673F",
+    "id": "two-thin-coats-10108",
+    "impcat": {},
+    "name": "Steampunk Copper",
+    "range": "Two Thin Coats",
+    "sku": "10108",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#B39471",
+    "id": "two-thin-coats-10109",
+    "impcat": {},
+    "name": "Overlord Brass",
+    "range": "Two Thin Coats",
+    "sku": "10109",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#EFB96D",
+    "id": "two-thin-coats-10110",
+    "impcat": {},
+    "name": "Top Brass",
+    "range": "Two Thin Coats",
+    "sku": "10110",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#EDE0CA",
+    "id": "two-thin-coats-10111",
+    "impcat": {},
+    "name": "Platinum Crown",
+    "range": "Two Thin Coats",
+    "sku": "10111",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Wash",
+    "discontinued": false,
+    "hex": "#9E7371",
+    "id": "two-thin-coats-10112",
+    "impcat": {},
+    "name": "Hellion Red Wash",
+    "range": "Two Thin Coats",
+    "sku": "10112",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Wash",
+    "discontinued": false,
+    "hex": "#2C465A",
+    "id": "two-thin-coats-10113",
+    "impcat": {},
+    "name": "Tempest Blue Wash",
+    "range": "Two Thin Coats",
+    "sku": "10113",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Wash",
+    "discontinued": false,
+    "hex": "#6A516A",
+    "id": "two-thin-coats-10114",
+    "impcat": {},
+    "name": "Magi Purple Wash",
+    "range": "Two Thin Coats",
+    "sku": "10114",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Glaze",
+    "discontinued": false,
+    "hex": "#FBCCBA",
+    "id": "two-thin-coats-10115",
+    "impcat": {},
+    "name": "Red Glaze",
+    "range": "Two Thin Coats",
+    "sku": "10115",
+    "type": "glaze",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Glaze",
+    "discontinued": false,
+    "hex": "#F8F7C3",
+    "id": "two-thin-coats-10116",
+    "impcat": {},
+    "name": "Yellow Glaze",
+    "range": "Two Thin Coats",
+    "sku": "10116",
+    "type": "glaze",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Glaze",
+    "discontinued": false,
+    "hex": "#B0BBE0",
+    "id": "two-thin-coats-10117",
+    "impcat": {},
+    "name": "Blue Glaze",
+    "range": "Two Thin Coats",
+    "sku": "10117",
+    "type": "glaze",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Glaze",
+    "discontinued": false,
+    "hex": "#FCBC89",
+    "id": "two-thin-coats-10118",
+    "impcat": {},
+    "name": "Orange Glaze",
+    "range": "Two Thin Coats",
+    "sku": "10118",
+    "type": "glaze",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Glaze",
+    "discontinued": false,
+    "hex": "#C3E3AC",
+    "id": "two-thin-coats-10119",
+    "impcat": {},
+    "name": "Green Glaze",
+    "range": "Two Thin Coats",
+    "sku": "10119",
+    "type": "glaze",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Glaze",
+    "discontinued": false,
+    "hex": "#CEA7C7",
+    "id": "two-thin-coats-10120",
+    "impcat": {},
+    "name": "Purple Glaze",
+    "range": "Two Thin Coats",
+    "sku": "10120",
+    "type": "glaze",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10123",
+        "midtoneId": "two-thin-coats-10122",
+        "shadowId": "two-thin-coats-10121"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#481f24",
+    "id": "two-thin-coats-10121",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amphora Red",
+    "range": "Two Thin Coats",
+    "sku": "10121",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10123",
+        "midtoneId": "two-thin-coats-10122",
+        "shadowId": "two-thin-coats-10121"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#9f3041",
+    "id": "two-thin-coats-10122",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Emperor Red",
+    "range": "Two Thin Coats",
+    "sku": "10122",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10123",
+        "midtoneId": "two-thin-coats-10122",
+        "shadowId": "two-thin-coats-10121"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#e83032",
+    "id": "two-thin-coats-10123",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Centurion Red",
+    "range": "Two Thin Coats",
+    "sku": "10123",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10126",
+        "midtoneId": "two-thin-coats-10125",
+        "shadowId": "two-thin-coats-10124"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#6b342b",
+    "id": "two-thin-coats-10124",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Rage",
+    "range": "Two Thin Coats",
+    "sku": "10124",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10126",
+        "midtoneId": "two-thin-coats-10125",
+        "shadowId": "two-thin-coats-10124"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#e54d40",
+    "id": "two-thin-coats-10125",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Apocalypse Sky",
+    "range": "Two Thin Coats",
+    "sku": "10125",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10126",
+        "midtoneId": "two-thin-coats-10125",
+        "shadowId": "two-thin-coats-10124"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#a68e42",
+    "id": "two-thin-coats-10126",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inferno Orange",
+    "range": "Two Thin Coats",
+    "sku": "10126",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10129",
+        "midtoneId": "two-thin-coats-10128",
+        "shadowId": "two-thin-coats-10127"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#a68e42",
+    "id": "two-thin-coats-10127",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Panzer Yellow",
+    "range": "Two Thin Coats",
+    "sku": "10127",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10129",
+        "midtoneId": "two-thin-coats-10128",
+        "shadowId": "two-thin-coats-10127"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#c7ab5c",
+    "id": "two-thin-coats-10128",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flak Gun Yellow",
+    "range": "Two Thin Coats",
+    "sku": "10128",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10129",
+        "midtoneId": "two-thin-coats-10128",
+        "shadowId": "two-thin-coats-10127"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#e4cc74",
+    "id": "two-thin-coats-10129",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ambush Yellow",
+    "range": "Two Thin Coats",
+    "sku": "10129",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10132",
+        "midtoneId": "two-thin-coats-10131",
+        "shadowId": "two-thin-coats-10130"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#f5d30e",
+    "id": "two-thin-coats-10130",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Serpent Eye Yellow",
+    "range": "Two Thin Coats",
+    "sku": "10130",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10132",
+        "midtoneId": "two-thin-coats-10131",
+        "shadowId": "two-thin-coats-10130"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#f4e752",
+    "id": "two-thin-coats-10131",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sun Bleach Yellow",
+    "range": "Two Thin Coats",
+    "sku": "10131",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10132",
+        "midtoneId": "two-thin-coats-10131",
+        "shadowId": "two-thin-coats-10130"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#e5e9af",
+    "id": "two-thin-coats-10132",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Twin Suns Yellow",
+    "range": "Two Thin Coats",
+    "sku": "10132",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10135",
+        "midtoneId": "two-thin-coats-10134",
+        "shadowId": "two-thin-coats-10133"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#394142",
+    "id": "two-thin-coats-10133",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "War Master Green",
+    "range": "Two Thin Coats",
+    "sku": "10133",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10135",
+        "midtoneId": "two-thin-coats-10134",
+        "shadowId": "two-thin-coats-10133"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#2d534f",
+    "id": "two-thin-coats-10134",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Traitor Green",
+    "range": "Two Thin Coats",
+    "sku": "10134",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10135",
+        "midtoneId": "two-thin-coats-10134",
+        "shadowId": "two-thin-coats-10133"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#276c67",
+    "id": "two-thin-coats-10135",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Legion Green",
+    "range": "Two Thin Coats",
+    "sku": "10135",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10138",
+        "midtoneId": "two-thin-coats-10137",
+        "shadowId": "two-thin-coats-10136"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#8e9f7f",
+    "id": "two-thin-coats-10136",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Contagion Green",
+    "range": "Two Thin Coats",
+    "sku": "10136",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10138",
+        "midtoneId": "two-thin-coats-10137",
+        "shadowId": "two-thin-coats-10136"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#b3b87a",
+    "id": "two-thin-coats-10137",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Zombie Rot",
+    "range": "Two Thin Coats",
+    "sku": "10137",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10138",
+        "midtoneId": "two-thin-coats-10137",
+        "shadowId": "two-thin-coats-10136"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#d4e197",
+    "id": "two-thin-coats-10138",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pestilence Green",
+    "range": "Two Thin Coats",
+    "sku": "10138",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10141",
+        "midtoneId": "two-thin-coats-10140",
+        "shadowId": "two-thin-coats-10139"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#33444d",
+    "id": "two-thin-coats-10139",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oxidation Green",
+    "range": "Two Thin Coats",
+    "sku": "10139",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10141",
+        "midtoneId": "two-thin-coats-10140",
+        "shadowId": "two-thin-coats-10139"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#317f7d",
+    "id": "two-thin-coats-10140",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Antiquity Green",
+    "range": "Two Thin Coats",
+    "sku": "10140",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10141",
+        "midtoneId": "two-thin-coats-10140",
+        "shadowId": "two-thin-coats-10139"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#589e9d",
+    "id": "two-thin-coats-10141",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mythic Turquoise",
+    "range": "Two Thin Coats",
+    "sku": "10141",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10144",
+        "midtoneId": "two-thin-coats-10143",
+        "shadowId": "two-thin-coats-10142"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#1d5aa3",
+    "id": "two-thin-coats-10142",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Eldar Robe",
+    "range": "Two Thin Coats",
+    "sku": "10142",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10144",
+        "midtoneId": "two-thin-coats-10143",
+        "shadowId": "two-thin-coats-10142"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#237fbe",
+    "id": "two-thin-coats-10143",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Relic Blue",
+    "range": "Two Thin Coats",
+    "sku": "10143",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10144",
+        "midtoneId": "two-thin-coats-10143",
+        "shadowId": "two-thin-coats-10142"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#469cc8",
+    "id": "two-thin-coats-10144",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Seafarer Blue",
+    "range": "Two Thin Coats",
+    "sku": "10144",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10147",
+        "midtoneId": "two-thin-coats-10146",
+        "shadowId": "two-thin-coats-10145"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#47525c",
+    "id": "two-thin-coats-10145",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Faust Blue",
+    "range": "Two Thin Coats",
+    "sku": "10145",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10147",
+        "midtoneId": "two-thin-coats-10146",
+        "shadowId": "two-thin-coats-10145"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#4f646c",
+    "id": "two-thin-coats-10146",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shadow Blue",
+    "range": "Two Thin Coats",
+    "sku": "10146",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10147",
+        "midtoneId": "two-thin-coats-10146",
+        "shadowId": "two-thin-coats-10145"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#79979f",
+    "id": "two-thin-coats-10147",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Frost Blue",
+    "range": "Two Thin Coats",
+    "sku": "10147",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10150",
+        "midtoneId": "two-thin-coats-10149",
+        "shadowId": "two-thin-coats-10148"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#5a3764",
+    "id": "two-thin-coats-10148",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Von Evile Purple",
+    "range": "Two Thin Coats",
+    "sku": "10148",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10150",
+        "midtoneId": "two-thin-coats-10149",
+        "shadowId": "two-thin-coats-10148"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#5a3764",
+    "id": "two-thin-coats-10149",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Enchantress Purple",
+    "range": "Two Thin Coats",
+    "sku": "10149",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10150",
+        "midtoneId": "two-thin-coats-10149",
+        "shadowId": "two-thin-coats-10148"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#9a5a9b",
+    "id": "two-thin-coats-10150",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spectral Purple",
+    "range": "Two Thin Coats",
+    "sku": "10150",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10153",
+        "midtoneId": "two-thin-coats-10152",
+        "shadowId": "two-thin-coats-10151"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#6b6a6d",
+    "id": "two-thin-coats-10151",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Incubus Purple",
+    "range": "Two Thin Coats",
+    "sku": "10151",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10153",
+        "midtoneId": "two-thin-coats-10152",
+        "shadowId": "two-thin-coats-10151"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#817b8c",
+    "id": "two-thin-coats-10152",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Enticing Purple",
+    "range": "Two Thin Coats",
+    "sku": "10152",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10153",
+        "midtoneId": "two-thin-coats-10152",
+        "shadowId": "two-thin-coats-10151"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#c2bfd5",
+    "id": "two-thin-coats-10153",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Decadent Purple",
+    "range": "Two Thin Coats",
+    "sku": "10153",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10156",
+        "midtoneId": "two-thin-coats-10155",
+        "shadowId": "two-thin-coats-10154"
+      }
+    },
+    "category": "Shadow",
+    "discontinued": false,
+    "hex": "#7c5e48",
+    "id": "two-thin-coats-10154",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scabbard Brown",
+    "range": "Two Thin Coats",
+    "sku": "10154",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10156",
+        "midtoneId": "two-thin-coats-10155",
+        "shadowId": "two-thin-coats-10154"
+      }
+    },
+    "category": "Midtone",
+    "discontinued": false,
+    "hex": "#835f44",
+    "id": "two-thin-coats-10155",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Boot Strap Brown",
+    "range": "Two Thin Coats",
+    "sku": "10155",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {
+      "triad": {
+        "highlightId": "two-thin-coats-10156",
+        "midtoneId": "two-thin-coats-10155",
+        "shadowId": "two-thin-coats-10154"
+      }
+    },
+    "category": "Highlight",
+    "discontinued": false,
+    "hex": "#9c755d",
+    "id": "two-thin-coats-10156",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vambrace Brown",
+    "range": "Two Thin Coats",
+    "sku": "10156",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Bright",
+    "discontinued": false,
+    "hex": "#c64c8b",
+    "id": "two-thin-coats-10157",
+    "impcat": {},
+    "name": "Cyber Pink",
+    "range": "Two Thin Coats",
+    "sku": "10157",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Bright",
+    "discontinued": false,
+    "hex": "#7cc78f",
+    "id": "two-thin-coats-10158",
+    "impcat": {},
+    "name": "Elixir Green",
+    "range": "Two Thin Coats",
+    "sku": "10158",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Bright",
+    "discontinued": false,
+    "hex": "#f18021",
+    "id": "two-thin-coats-10159",
+    "impcat": {},
+    "name": "Solar Flare",
+    "range": "Two Thin Coats",
+    "sku": "10159",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Bright",
+    "discontinued": false,
+    "hex": "#b7d8da",
+    "id": "two-thin-coats-10160",
+    "impcat": {},
+    "name": "Ion Blue",
+    "range": "Two Thin Coats",
+    "sku": "10160",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Bright",
+    "discontinued": false,
+    "hex": "#cbab7b",
+    "id": "two-thin-coats-10161",
+    "impcat": {},
+    "name": "Septic Green",
+    "range": "Two Thin Coats",
+    "sku": "10161",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Bright",
+    "discontinued": false,
+    "hex": "#cbab7b",
+    "id": "two-thin-coats-10162",
+    "impcat": {},
+    "name": "Pale Skin",
+    "range": "Two Thin Coats",
+    "sku": "10162",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#bb4448",
+    "id": "two-thin-coats-10163",
+    "impcat": {},
+    "name": "Scarab Red",
+    "range": "Two Thin Coats",
+    "sku": "10163",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#58bfbe",
+    "id": "two-thin-coats-10164",
+    "impcat": {},
+    "name": "Omega Blue",
+    "range": "Two Thin Coats",
+    "sku": "10164",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#337fae",
+    "id": "two-thin-coats-10165",
+    "impcat": {},
+    "name": "Enchantment Blue",
+    "range": "Two Thin Coats",
+    "sku": "10165",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#836493",
+    "id": "two-thin-coats-10166",
+    "impcat": {},
+    "name": "Emperor's Purple",
+    "range": "Two Thin Coats",
+    "sku": "10166",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#4f9a5a",
+    "id": "two-thin-coats-10167",
+    "impcat": {},
+    "name": "Carapace Green",
+    "range": "Two Thin Coats",
+    "sku": "10167",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#a56447",
+    "id": "two-thin-coats-10168",
+    "impcat": {},
+    "name": "Fire Opal",
+    "range": "Two Thin Coats",
+    "sku": "10168",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#6d5e3f",
+    "id": "two-thin-coats-10169",
+    "impcat": {},
+    "name": "Ancient Gold",
+    "range": "Two Thin Coats",
+    "sku": "10169",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#686559",
+    "id": "two-thin-coats-10170",
+    "impcat": {},
+    "name": "Doom Metal",
+    "range": "Two Thin Coats",
+    "sku": "10170",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#b59774",
+    "id": "two-thin-coats-10171",
+    "impcat": {},
+    "name": "Chaos Bronze",
+    "range": "Two Thin Coats",
+    "sku": "10171",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#7e8c8b",
+    "id": "two-thin-coats-10172",
+    "impcat": {},
+    "name": "Blue Steel",
+    "range": "Two Thin Coats",
+    "sku": "10172",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#c8a058",
+    "id": "two-thin-coats-10173",
+    "impcat": {},
+    "name": "Heirloom Gold",
+    "range": "Two Thin Coats",
+    "sku": "10173",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Metallic",
+    "discontinued": false,
+    "hex": "#6d6157",
+    "id": "two-thin-coats-10174",
+    "impcat": {},
+    "name": "Bitz O' Tin",
+    "range": "Two Thin Coats",
+    "sku": "10174",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Wash",
+    "discontinued": false,
+    "hex": "#c3bfb7",
+    "id": "two-thin-coats-10175",
+    "impcat": {},
+    "name": "Smoke Grey Wash",
+    "range": "Two Thin Coats",
+    "sku": "10175",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Wash",
+    "discontinued": false,
+    "hex": "#c27555",
+    "id": "two-thin-coats-10176",
+    "impcat": {},
+    "name": "Hazard Yellow Wash",
+    "range": "Two Thin Coats",
+    "sku": "10176",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Wash",
+    "discontinued": false,
+    "hex": "#596969",
+    "id": "two-thin-coats-10177",
+    "impcat": {},
+    "name": "Aztec Turquoise Wash",
+    "range": "Two Thin Coats",
+    "sku": "10177",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Wash",
+    "discontinued": false,
+    "hex": "#80645c",
+    "id": "two-thin-coats-10178",
+    "impcat": {},
+    "name": "Bone Wash",
+    "range": "Two Thin Coats",
+    "sku": "10178",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Effect",
+    "discontinued": false,
+    "hex": "#777475",
+    "id": "two-thin-coats-10510",
+    "impcat": {},
+    "name": "Satin Varnish",
+    "range": "Two Thin Coats",
+    "sku": "10510",
+    "type": "varnish",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Effect",
+    "discontinued": false,
+    "hex": "#888888",
+    "id": "two-thin-coats-10511",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matte Varnish",
+    "range": "Two Thin Coats",
+    "sku": "10511",
+    "type": "varnish",
+    "url": null
+  },
+  {
+    "brand": "Two Thin Coats",
+    "brandData": {},
+    "category": "Effect",
+    "discontinued": false,
+    "hex": "#666161",
+    "id": "two-thin-coats-10512",
+    "impcat": {},
+    "name": "Gloss Varnish",
+    "range": "Two Thin Coats",
+    "sku": "10512",
+    "type": "varnish",
+    "url": null
+  }
+]

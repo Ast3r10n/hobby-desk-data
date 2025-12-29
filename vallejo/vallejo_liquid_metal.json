@@ -1,0 +1,138 @@
+[
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E2E6EA",
+    "id": "vallejo-70-790",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Silver",
+    "range": "Liquid Metal",
+    "sku": "70.790",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/liquid-metal-en/silver-70790-2/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DBBE8F",
+    "id": "vallejo-70-791",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gold",
+    "range": "Liquid Metal",
+    "sku": "70.791",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/liquid-metal-en/gold-70791/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DBB58E",
+    "id": "vallejo-70-792",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Old Gold",
+    "range": "Liquid Metal",
+    "sku": "70.792",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/liquid-metal-en/old-gold-70792/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CAB083",
+    "id": "vallejo-70-793",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rich Gold",
+    "range": "Liquid Metal",
+    "sku": "70.793",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/liquid-metal-en/rich-gold-70793/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BB9784",
+    "id": "vallejo-70-794",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Gold",
+    "range": "Liquid Metal",
+    "sku": "70.794",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/liquid-metal-en/red-gold-70794/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C1A46B",
+    "id": "vallejo-70-795",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Gold",
+    "range": "Liquid Metal",
+    "sku": "70.795",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/liquid-metal-en/green-gold-70795/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D9DAD4",
+    "id": "vallejo-70-796",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White Gold",
+    "range": "Liquid Metal",
+    "sku": "70.796",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/liquid-metal-en/white-gold-70796/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C08F87",
+    "id": "vallejo-70-797",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Copper",
+    "range": "Liquid Metal",
+    "sku": "70.797",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/liquid-metal-en/copper-70797/"
+  }
+]

@@ -1,0 +1,580 @@
+[
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#352F2D",
+    "id": "ak-interactive-rcm001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rubber Black",
+    "range": "Real Colors Markers",
+    "sku": "RCM001",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/rubber-black-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DFD6C7",
+    "id": "ak-interactive-rcm002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Off White",
+    "range": "Real Colors Markers",
+    "sku": "RCM002",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/off-white-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C83219",
+    "id": "ak-interactive-rcm003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Signal Red Ral 3020",
+    "range": "Real Colors Markers",
+    "sku": "RCM003",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/signal-red-ral-3020-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FECE00",
+    "id": "ak-interactive-rcm004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Ral 1003",
+    "range": "Real Colors Markers",
+    "sku": "RCM004",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/yellow-ral-1003-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EB600B",
+    "id": "ak-interactive-rcm005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Ral 2004",
+    "range": "Real Colors Markers",
+    "sku": "RCM005",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/orange-ral-2004-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2B4A66",
+    "id": "ak-interactive-rcm006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Ral 5001",
+    "range": "Real Colors Markers",
+    "sku": "RCM006",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/blue-ral-5001-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E4F25",
+    "id": "ak-interactive-rcm007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown",
+    "range": "Real Colors Markers",
+    "sku": "RCM007",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/brown-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BD8B56",
+    "id": "ak-interactive-rcm008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Buff",
+    "range": "Real Colors Markers",
+    "sku": "RCM008",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/buff-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C1BAB0",
+    "id": "ak-interactive-rcm009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deck Tan",
+    "range": "Real Colors Markers",
+    "sku": "RCM009",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/deck-tan-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A0A09E",
+    "id": "ak-interactive-rcm010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aluminium",
+    "range": "Real Colors Markers",
+    "sku": "RCM010",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/aluminium-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#51504E",
+    "id": "ak-interactive-rcm011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Aluminium",
+    "range": "Real Colors Markers",
+    "sku": "RCM011",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/dark-aluminium-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E9BB82",
+    "id": "ak-interactive-rcm012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wood Base",
+    "range": "Real Colors Markers",
+    "sku": "RCM012",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/wood-base-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#361F17",
+    "id": "ak-interactive-rcm013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chipping Color",
+    "range": "Real Colors Markers",
+    "sku": "RCM013",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/chipping-color-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EAC78F",
+    "id": "ak-interactive-rcm014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ral 1001 Elfenbein-Ivory",
+    "range": "Real Colors Markers",
+    "sku": "RCM014",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/ral-1001-elfenbeinivory-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#415530",
+    "id": "ak-interactive-rcm015",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ral 6003 Olivgr\u00fcn",
+    "range": "Real Colors Markers",
+    "sku": "RCM015",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/ral-6003-olivgrun-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#666C62",
+    "id": "ak-interactive-rcm016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ral 7009 Hellgrau-Light Grey",
+    "range": "Real Colors Markers",
+    "sku": "RCM016",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/ral-7009-hellgraulight-grey-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1F2120",
+    "id": "ak-interactive-rcm017",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ral 7021 Dunkelgrau",
+    "range": "Real Colors Markers",
+    "sku": "RCM017",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/ral-7021-dunkelgrau-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B29577",
+    "id": "ak-interactive-rcm018",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ral 7028 Dunkelgelb",
+    "range": "Real Colors Markers",
+    "sku": "RCM018",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/ral-7028-dunkelgelb-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D3C36",
+    "id": "ak-interactive-rcm019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ral 8012 Rotbraun-Red Brown",
+    "range": "Real Colors Markers",
+    "sku": "RCM019",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/ral-8012-rotbraun-red-brown-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#654B43",
+    "id": "ak-interactive-rcm020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ral 8017 Rotbraun-Red Brown",
+    "range": "Real Colors Markers",
+    "sku": "RCM020",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/ral-8017-rotbraun-red-brown-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#46401C",
+    "id": "ak-interactive-rcm021",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Drab",
+    "range": "Real Colors Markers",
+    "sku": "RCM021",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/olive-drab-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5F5A20",
+    "id": "ak-interactive-rcm022",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Interior Green Fs 34151",
+    "range": "Real Colors Markers",
+    "sku": "RCM022",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/interior-green-fs-34151-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#86833D",
+    "id": "ak-interactive-rcm023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Interior Yellow Green",
+    "range": "Real Colors Markers",
+    "sku": "RCM023",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/us-interior-yellow-green-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#969279",
+    "id": "ak-interactive-rcm024",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rlm 02 Grau (1938)",
+    "range": "Real Colors Markers",
+    "sku": "RCM024",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/rlm-02-grau-1938-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4A5C5F",
+    "id": "ak-interactive-rcm025",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rlm 66",
+    "range": "Real Colors Markers",
+    "sku": "RCM025",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/rlm-66-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ADBDBD",
+    "id": "ak-interactive-rcm026",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rlm 76",
+    "range": "Real Colors Markers",
+    "sku": "RCM026",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/rlm-76-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EAA24E",
+    "id": "ak-interactive-rcm027",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rlm 79",
+    "range": "Real Colors Markers",
+    "sku": "RCM027",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/rlm-79-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#728376",
+    "id": "ak-interactive-rcm028",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Raf Cockpit Grey-Green",
+    "range": "Real Colors Markers",
+    "sku": "RCM028",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/raf-cockpit-grey-green-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#787F3B",
+    "id": "ak-interactive-rcm029",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ijn M3 (M) Mitsubishi Interior Green",
+    "range": "Real Colors Markers",
+    "sku": "RCM029",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/ijn-m3-m-mitsubishi-interior-green-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#05372C",
+    "id": "ak-interactive-rcm030",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ija Ao Midori Iro (Blue Green)",
+    "range": "Real Colors Markers",
+    "sku": "RCM030",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/ija-ao-midori-iro-blue-green-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#61B2A7",
+    "id": "ak-interactive-rcm031",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Cockpit Turquoise",
+    "range": "Real Colors Markers",
+    "sku": "RCM031",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/russian-cockpit-turquoise-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#575755",
+    "id": "ak-interactive-rcm032",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gun Metal",
+    "range": "Real Colors Markers",
+    "sku": "RCM032",
+    "type": "metallic",
+    "url": "https://ak-interactive.com/product/gun-metal-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1A1B1B",
+    "id": "ak-interactive-rcm033",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flat Black",
+    "range": "Real Colors Markers",
+    "sku": "RCM033",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/flat-black-rc-marker/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DCDCDC",
+    "id": "ak-interactive-rcm034",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flat White",
+    "range": "Real Colors Markers",
+    "sku": "RCM034",
+    "type": "opaque",
+    "url": "https://ak-interactive.com/product/flat-white-rc-marker/"
+  }
+]

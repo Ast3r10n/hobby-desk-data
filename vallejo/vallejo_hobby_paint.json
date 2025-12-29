@@ -1,0 +1,580 @@
+[
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#94854E",
+    "id": "vallejo-28-001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Panzer Yellow",
+    "range": "Hobby Paint",
+    "sku": "28.001",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/panzer-yellow-28001/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4B4C50",
+    "id": "vallejo-28-002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Panzer Grey",
+    "range": "Hobby Paint",
+    "sku": "28.002",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/panzer-grey-28002/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#575546",
+    "id": "vallejo-28-003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Green 4Bo",
+    "range": "Hobby Paint",
+    "sku": "28.003",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/russian-green-4bo-28003/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#535554",
+    "id": "vallejo-28-004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Uk Bronze Green",
+    "range": "Hobby Paint",
+    "sku": "28.004",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/uk-bronze-green-28004/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#635C4C",
+    "id": "vallejo-28-005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Olive Drab",
+    "range": "Hobby Paint",
+    "sku": "28.005",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/us-olive-drab-28005/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#62625A",
+    "id": "vallejo-28-006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Field Grey",
+    "range": "Hobby Paint",
+    "sku": "28.006",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/german-field-grey-28006/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6A6552",
+    "id": "vallejo-28-007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Uniform",
+    "range": "Hobby Paint",
+    "sku": "28.007",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/russian-uniform-28007/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#735E41",
+    "id": "vallejo-28-008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "English Uniform",
+    "range": "Hobby Paint",
+    "sku": "28.008",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/english-uniform-28008/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#86785E",
+    "id": "vallejo-28-009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Khaki",
+    "range": "Hobby Paint",
+    "sku": "28.009",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/us-khaki-28009/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-28-010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White",
+    "range": "Hobby Paint",
+    "sku": "28.010",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/white-28010/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E7E7E7",
+    "id": "vallejo-28-011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey",
+    "range": "Hobby Paint",
+    "sku": "28.011",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/grey-28011/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#000000",
+    "id": "vallejo-28-012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Hobby Paint",
+    "sku": "28.012",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/black-28012/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D2BF97",
+    "id": "vallejo-28-013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bone White",
+    "range": "Hobby Paint",
+    "sku": "28.013",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/bone-white-28013/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#87643C",
+    "id": "vallejo-28-014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leather Brown",
+    "range": "Hobby Paint",
+    "sku": "28.014",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/leather-brown-28014/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9D7D4A",
+    "id": "vallejo-28-015",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Yellow",
+    "range": "Hobby Paint",
+    "sku": "28.015",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/desert-yellow-28015/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AA3935",
+    "id": "vallejo-28-016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scarlet Red",
+    "range": "Hobby Paint",
+    "sku": "28.016",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/scarlet-red-28016/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4C5990",
+    "id": "vallejo-28-017",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Blue",
+    "range": "Hobby Paint",
+    "sku": "28.017",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/ultramarine-blue-28017/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F59C00",
+    "id": "vallejo-28-018",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sun Yellow",
+    "range": "Hobby Paint",
+    "sku": "28.018",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/sun-yellow-28018/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#785841",
+    "id": "vallejo-28-019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beasty Brown",
+    "range": "Hobby Paint",
+    "sku": "28.019",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/beasty-brown-28019/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B0C0D0",
+    "id": "vallejo-28-020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wolf Grey",
+    "range": "Hobby Paint",
+    "sku": "28.020",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/wolf-grey-28020/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A6AAB3",
+    "id": "vallejo-28-021",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Silver",
+    "range": "Hobby Paint",
+    "sku": "28.021",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/silver-28021/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B4A36F",
+    "id": "vallejo-28-022",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dead Flesh",
+    "range": "Hobby Paint",
+    "sku": "28.022",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/dead-flesh-28022/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BF1B33",
+    "id": "vallejo-28-023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bloody Red",
+    "range": "Hobby Paint",
+    "sku": "28.023",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/bloody-red-28023/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ECBDA9",
+    "id": "vallejo-28-024",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Flesh",
+    "range": "Hobby Paint",
+    "sku": "28.024",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/pale-flesh-28024/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7161A8",
+    "id": "vallejo-28-025",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Alien Purple",
+    "range": "Hobby Paint",
+    "sku": "28.025",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/alien-purple-28025/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3B463E",
+    "id": "vallejo-28-026",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Green",
+    "range": "Hobby Paint",
+    "sku": "28.026",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/dark-green-28026/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6C7445",
+    "id": "vallejo-28-027",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Goblin Green",
+    "range": "Hobby Paint",
+    "sku": "28.027",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/goblin-green-28027/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4E7055",
+    "id": "vallejo-28-028",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sick Green",
+    "range": "Hobby Paint",
+    "sku": "28.028",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/sick-green-28028/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#783C3C",
+    "id": "vallejo-28-029",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gory Red",
+    "range": "Hobby Paint",
+    "sku": "28.029",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/gory-red-28029/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#126DB4",
+    "id": "vallejo-28-030",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magic Blue",
+    "range": "Hobby Paint",
+    "sku": "28.030",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/magic-blue-28030/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#65646A",
+    "id": "vallejo-28-031",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gunmetal",
+    "range": "Hobby Paint",
+    "sku": "28.031",
+    "type": "opaque",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/hobby-paint/gunmetal-28031/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-28-530",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Acrylic Gloss Spray Varnish",
+    "range": "Hobby Paint",
+    "sku": "28.530",
+    "type": "varnish",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/acrylic-gloss-spray-varnish-28530/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-28-531",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Acrylic Matt Spray Varnish",
+    "range": "Hobby Paint",
+    "sku": "28.531",
+    "type": "varnish",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/acrylic-matt-spray-varnish-28531/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-28-532",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Acrylic Satin Spray Varnish",
+    "range": "Hobby Paint",
+    "sku": "28.532",
+    "type": "varnish",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/auxiliary-products-hobby/acrylic-satin-spray-varnish-28532/"
+  }
+]

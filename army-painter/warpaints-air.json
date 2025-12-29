@@ -1,0 +1,2280 @@
+[
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#040000",
+    "id": "army-painter-AW1101",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matt Black",
+    "range": "Warpaints Air",
+    "sku": "AW1101",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#2d383b",
+    "id": "army-painter-AW1102",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Raven Black",
+    "range": "Warpaints Air",
+    "sku": "AW1102",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#4a5654",
+    "id": "army-painter-AW1103",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crow Hue",
+    "range": "Warpaints Air",
+    "sku": "AW1103",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#4b5559",
+    "id": "army-painter-AW1104",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Regiment Grey",
+    "range": "Warpaints Air",
+    "sku": "AW1104",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#727880",
+    "id": "army-painter-AW1105",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Uniform Grey",
+    "range": "Warpaints Air",
+    "sku": "AW1105",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#9eaaad",
+    "id": "army-painter-AW1106",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cadre Grey",
+    "range": "Warpaints Air",
+    "sku": "AW1106",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#9faba7",
+    "id": "army-painter-AW1107",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shark White",
+    "range": "Warpaints Air",
+    "sku": "AW1107",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#c0c4c8",
+    "id": "army-painter-AW1108",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yeti White",
+    "range": "Warpaints Air",
+    "sku": "AW1108",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#ffffff",
+    "id": "army-painter-AW1109",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matt White",
+    "range": "Warpaints Air",
+    "sku": "AW1109",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Metallic",
+    "discontinued": false,
+    "hex": "#365668",
+    "id": "army-painter-AW1110",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Iron Wolf",
+    "range": "Warpaints Air",
+    "sku": "AW1110",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#577ca5",
+    "id": "army-painter-AW1111",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wolf Grey",
+    "range": "Warpaints Air",
+    "sku": "AW1111",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#a4bce1",
+    "id": "army-painter-AW1112",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Storm Wolf",
+    "range": "Warpaints Air",
+    "sku": "AW1112",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#001c2d",
+    "id": "army-painter-AW1113",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Thunder Storm",
+    "range": "Warpaints Air",
+    "sku": "AW1113",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#293754",
+    "id": "army-painter-AW1114",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Sky",
+    "range": "Warpaints Air",
+    "sku": "AW1114",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#005071",
+    "id": "army-painter-AW1115",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Twilight Sky",
+    "range": "Warpaints Air",
+    "sku": "AW1115",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#272d2a",
+    "id": "army-painter-AW1116",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Unforgiven Green",
+    "range": "Warpaints Air",
+    "sku": "AW1116",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#1e3e2b",
+    "id": "army-painter-AW1117",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Angel Green",
+    "range": "Warpaints Air",
+    "sku": "AW1117",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#4e776b",
+    "id": "army-painter-AW1118",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Exile Green",
+    "range": "Warpaints Air",
+    "sku": "AW1118",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#007763",
+    "id": "army-painter-AW1119",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Majestic Fortress",
+    "range": "Warpaints Air",
+    "sku": "AW1119",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#008d77",
+    "id": "army-painter-AW1120",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elemental Bolt",
+    "range": "Warpaints Air",
+    "sku": "AW1120",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#47b1a0",
+    "id": "army-painter-AW1121",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Psychic Shock",
+    "range": "Warpaints Air",
+    "sku": "AW1121",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#005d51",
+    "id": "army-painter-AW1122",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ruinous Spell",
+    "range": "Warpaints Air",
+    "sku": "AW1122",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#007a6a",
+    "id": "army-painter-AW1123",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wizards Orb",
+    "range": "Warpaints Air",
+    "sku": "AW1123",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#619b82",
+    "id": "army-painter-AW1124",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Potion Green",
+    "range": "Warpaints Air",
+    "sku": "AW1124",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#2fc5ad",
+    "id": "army-painter-AW1125",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hazardous Smog",
+    "range": "Warpaints Air",
+    "sku": "AW1125",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#3cbac0",
+    "id": "army-painter-AW1126",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Toxic Mist",
+    "range": "Warpaints Air",
+    "sku": "AW1126",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#bcdac7",
+    "id": "army-painter-AW1127",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leviathan Light",
+    "range": "Warpaints Air",
+    "sku": "AW1127",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#00556a",
+    "id": "army-painter-AW1128",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ocean Depths",
+    "range": "Warpaints Air",
+    "sku": "AW1128",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#008f95",
+    "id": "army-painter-AW1129",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hydra Turquoise",
+    "range": "Warpaints Air",
+    "sku": "AW1129",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#00bdc5",
+    "id": "army-painter-AW1130",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Phantasmal Blue",
+    "range": "Warpaints Air",
+    "sku": "AW1130",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#2d392a",
+    "id": "army-painter-AW1131",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Militia Green",
+    "range": "Warpaints Air",
+    "sku": "AW1131",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#4e5f38",
+    "id": "army-painter-AW1132",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Army Green",
+    "range": "Warpaints Air",
+    "sku": "AW1132",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#626d24",
+    "id": "army-painter-AW1133",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Drab Green",
+    "range": "Warpaints Air",
+    "sku": "AW1133",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#005d2a",
+    "id": "army-painter-AW1134",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Savage Green",
+    "range": "Warpaints Air",
+    "sku": "AW1134",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#076c2d",
+    "id": "army-painter-AW1135",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greenskin",
+    "range": "Warpaints Air",
+    "sku": "AW1135",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#619665",
+    "id": "army-painter-AW1136",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Feral Green",
+    "range": "Warpaints Air",
+    "sku": "AW1136",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#52672b",
+    "id": "army-painter-AW1137",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gremlin Green",
+    "range": "Warpaints Air",
+    "sku": "AW1137",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#3b922e",
+    "id": "army-painter-AW1138",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Goblin Green",
+    "range": "Warpaints Air",
+    "sku": "AW1138",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#95b067",
+    "id": "army-painter-AW1139",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bogey Green",
+    "range": "Warpaints Air",
+    "sku": "AW1139",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#508d28",
+    "id": "army-painter-AW1140",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Undergrowth Green",
+    "range": "Warpaints Air",
+    "sku": "AW1140",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#8cab00",
+    "id": "army-painter-AW1141",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jungle Green",
+    "range": "Warpaints Air",
+    "sku": "AW1141",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#b1c74b",
+    "id": "army-painter-AW1142",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Canopy Green",
+    "range": "Warpaints Air",
+    "sku": "AW1142",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#83833f",
+    "id": "army-painter-AW1143",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pestilent Flesh",
+    "range": "Warpaints Air",
+    "sku": "AW1143",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#a1ad83",
+    "id": "army-painter-AW1144",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Necrotic Flesh",
+    "range": "Warpaints Air",
+    "sku": "AW1144",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#c1c2a5",
+    "id": "army-painter-AW1145",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Zombie Flesh",
+    "range": "Warpaints Air",
+    "sku": "AW1145",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#3f2824",
+    "id": "army-painter-AW1146",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Traitor Red",
+    "range": "Warpaints Air",
+    "sku": "AW1146",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#6f1e03",
+    "id": "army-painter-AW1147",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chaotic Red",
+    "range": "Warpaints Air",
+    "sku": "AW1147",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#95143a",
+    "id": "army-painter-AW1148",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rebel Red",
+    "range": "Warpaints Air",
+    "sku": "AW1148",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#6c2233",
+    "id": "army-painter-AW1149",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chimera Red",
+    "range": "Warpaints Air",
+    "sku": "AW1149",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#bf1828",
+    "id": "army-painter-AW1150",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dragon Red",
+    "range": "Warpaints Air",
+    "sku": "AW1150",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#d73f50",
+    "id": "army-painter-AW1151",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wyrmling Red",
+    "range": "Warpaints Air",
+    "sku": "AW1151",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#920622",
+    "id": "army-painter-AW1152",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Encarmine Red",
+    "range": "Warpaints Air",
+    "sku": "AW1152",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#d91312",
+    "id": "army-painter-AW1153",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pure Red",
+    "range": "Warpaints Air",
+    "sku": "AW1153",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#e82915",
+    "id": "army-painter-AW1154",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Archangel Red",
+    "range": "Warpaints Air",
+    "sku": "AW1154",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#9c391f",
+    "id": "army-painter-AW1155",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Molten Orange",
+    "range": "Warpaints Air",
+    "sku": "AW1155",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#f07500",
+    "id": "army-painter-AW1156",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lava Orange",
+    "range": "Warpaints Air",
+    "sku": "AW1156",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#ffa450",
+    "id": "army-painter-AW1157",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Magma",
+    "range": "Warpaints Air",
+    "sku": "AW1157",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#fe8401",
+    "id": "army-painter-AW1158",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Incursion Orange",
+    "range": "Warpaints Air",
+    "sku": "AW1158",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#ffcb00",
+    "id": "army-painter-AW1159",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Daemonic Yellow",
+    "range": "Warpaints Air",
+    "sku": "AW1159",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#f5c96e",
+    "id": "army-painter-AW1160",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Imp Yellow",
+    "range": "Warpaints Air",
+    "sku": "AW1160",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#7e194e",
+    "id": "army-painter-AW1161",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Witchbane Plum",
+    "range": "Warpaints Air",
+    "sku": "AW1161",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#af3c6d",
+    "id": "army-painter-AW1162",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warlock Purple",
+    "range": "Warpaints Air",
+    "sku": "AW1162",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#e694ac",
+    "id": "army-painter-AW1163",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Talisman Purple",
+    "range": "Warpaints Air",
+    "sku": "AW1163",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#a04370",
+    "id": "army-painter-AW1164",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fairy Pink",
+    "range": "Warpaints Air",
+    "sku": "AW1164",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#de5e9d",
+    "id": "army-painter-AW1165",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pixie Pink",
+    "range": "Warpaints Air",
+    "sku": "AW1165",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#dc94b9",
+    "id": "army-painter-AW1166",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fey Pink",
+    "range": "Warpaints Air",
+    "sku": "AW1166",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#2d2446",
+    "id": "army-painter-AW1167",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Broodmother Purple",
+    "range": "Warpaints Air",
+    "sku": "AW1167",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#5e4797",
+    "id": "army-painter-AW1168",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Alien Purple",
+    "range": "Warpaints Air",
+    "sku": "AW1168",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#956a9b",
+    "id": "army-painter-AW1169",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Coven Purple",
+    "range": "Warpaints Air",
+    "sku": "AW1169",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#33322c",
+    "id": "army-painter-AW1170",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magnolia Brown",
+    "range": "Warpaints Air",
+    "sku": "AW1170",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#3b2c29",
+    "id": "army-painter-AW1171",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oak Brown",
+    "range": "Warpaints Air",
+    "sku": "AW1171",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#664e42",
+    "id": "army-painter-AW1172",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cypress Brown",
+    "range": "Warpaints Air",
+    "sku": "AW1172",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#634129",
+    "id": "army-painter-AW1173",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rawhide Brown",
+    "range": "Warpaints Air",
+    "sku": "AW1173",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#694333",
+    "id": "army-painter-AW1174",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leather Brown",
+    "range": "Warpaints Air",
+    "sku": "AW1174",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#a6724c",
+    "id": "army-painter-AW1175",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bullwhack Brown",
+    "range": "Warpaints Air",
+    "sku": "AW1175",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#a58762",
+    "id": "army-painter-AW1176",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Charred Bone",
+    "range": "Warpaints Air",
+    "sku": "AW1176",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#c7ba99",
+    "id": "army-painter-AW1177",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skeleton Bone",
+    "range": "Warpaints Air",
+    "sku": "AW1177",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#eae2c5",
+    "id": "army-painter-AW1178",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bleached Bone",
+    "range": "Warpaints Air",
+    "sku": "AW1178",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#d17255",
+    "id": "army-painter-AW1179",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nomad Flesh",
+    "range": "Warpaints Air",
+    "sku": "AW1179",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#f49a7e",
+    "id": "army-painter-AW1180",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Barbarian Flesh",
+    "range": "Warpaints Air",
+    "sku": "AW1180",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#ffa688",
+    "id": "army-painter-AW1181",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wildling Flesh",
+    "range": "Warpaints Air",
+    "sku": "AW1181",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#da9c5c",
+    "id": "army-painter-AW1182",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brethil Blush",
+    "range": "Warpaints Air",
+    "sku": "AW1182",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#fabd93",
+    "id": "army-painter-AW1183",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elven Flesh",
+    "range": "Warpaints Air",
+    "sku": "AW1183",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#fdd8a9",
+    "id": "army-painter-AW1184",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Feywild Glow",
+    "range": "Warpaints Air",
+    "sku": "AW1184",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#a88f7f",
+    "id": "army-painter-AW1185",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gnome Cheeks",
+    "range": "Warpaints Air",
+    "sku": "AW1185",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#cfab88",
+    "id": "army-painter-AW1186",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kobold Skin",
+    "range": "Warpaints Air",
+    "sku": "AW1186",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#fae3cd",
+    "id": "army-painter-AW1187",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hobgoblin Hue",
+    "range": "Warpaints Air",
+    "sku": "AW1187",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#6d3523",
+    "id": "army-painter-AW1188",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Husk Brown",
+    "range": "Warpaints Air",
+    "sku": "AW1188",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#7e4943",
+    "id": "army-painter-AW1189",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fur Brown",
+    "range": "Warpaints Air",
+    "sku": "AW1189",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#ba6e56",
+    "id": "army-painter-AW1190",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Viper Brown",
+    "range": "Warpaints Air",
+    "sku": "AW1190",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#ecbb00",
+    "id": "army-painter-AW1191",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Meteor Rock",
+    "range": "Warpaints Air",
+    "sku": "AW1191",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#f5d959",
+    "id": "army-painter-AW1192",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moon Dust",
+    "range": "Warpaints Air",
+    "sku": "AW1192",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#f8e87f",
+    "id": "army-painter-AW1193",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cosmic Dust",
+    "range": "Warpaints Air",
+    "sku": "AW1193",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#9f6a1f",
+    "id": "army-painter-AW1194",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Barren Yellow",
+    "range": "Warpaints Air",
+    "sku": "AW1194",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#887540",
+    "id": "army-painter-AW1195",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Yellow",
+    "range": "Warpaints Air",
+    "sku": "AW1195",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#d3a447",
+    "id": "army-painter-AW1196",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Dune",
+    "range": "Warpaints Air",
+    "sku": "AW1196",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#0b4276",
+    "id": "army-painter-AW1197",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Omega Blue",
+    "range": "Warpaints Air",
+    "sku": "AW1197",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#274587",
+    "id": "army-painter-AW1198",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Blue",
+    "range": "Warpaints Air",
+    "sku": "AW1198",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#5779ac",
+    "id": "army-painter-AW1199",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Consul Blue",
+    "range": "Warpaints Air",
+    "sku": "AW1199",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#004e9a",
+    "id": "army-painter-AW1200",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sapphire Gem",
+    "range": "Warpaints Air",
+    "sku": "AW1200",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#006cb4",
+    "id": "army-painter-AW1201",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crystal Blue",
+    "range": "Warpaints Air",
+    "sku": "AW1201",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#00a1d8",
+    "id": "army-painter-AW1202",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ionic Blue",
+    "range": "Warpaints Air",
+    "sku": "AW1202",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Metallic",
+    "discontinued": false,
+    "hex": "#585858",
+    "id": "army-painter-AW1203",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Plate Mail Metal",
+    "range": "Warpaints Air",
+    "sku": "AW1203",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Metallic",
+    "discontinued": false,
+    "hex": "#747474",
+    "id": "army-painter-AW1204",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shining Silver",
+    "range": "Warpaints Air",
+    "sku": "AW1204",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#878787",
+    "id": "army-painter-AW1205",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fairy Dust",
+    "range": "Warpaints Air",
+    "sku": "AW1205",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Metallic",
+    "discontinued": false,
+    "hex": "#1b2024",
+    "id": "army-painter-AW1206",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Night Scales",
+    "range": "Warpaints Air",
+    "sku": "AW1206",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Metallic",
+    "discontinued": false,
+    "hex": "#242017",
+    "id": "army-painter-AW1207",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rough Iron",
+    "range": "Warpaints Air",
+    "sku": "AW1207",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Metallic",
+    "discontinued": false,
+    "hex": "#203256",
+    "id": "army-painter-AW1208",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elven Armour",
+    "range": "Warpaints Air",
+    "sku": "AW1208",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#2c5a57",
+    "id": "army-painter-AW1209",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Azure Magic",
+    "range": "Warpaints Air",
+    "sku": "AW1209",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#375730",
+    "id": "army-painter-AW1210",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Glittering Green",
+    "range": "Warpaints Air",
+    "sku": "AW1210",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#6b3945",
+    "id": "army-painter-AW1211",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Zephyr Pink",
+    "range": "Warpaints Air",
+    "sku": "AW1211",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#591419",
+    "id": "army-painter-AW1212",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gemstone Red",
+    "range": "Warpaints Air",
+    "sku": "AW1212",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#3c0836",
+    "id": "army-painter-AW1213",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Royal Purple",
+    "range": "Warpaints Air",
+    "sku": "AW1213",
+    "type": "air",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Metallic",
+    "discontinued": false,
+    "hex": "#5a402f",
+    "id": "army-painter-AW1214",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Evil Chrome",
+    "range": "Warpaints Air",
+    "sku": "AW1214",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Metallic",
+    "discontinued": false,
+    "hex": "#60442e",
+    "id": "army-painter-AW1215",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "True Copper",
+    "range": "Warpaints Air",
+    "sku": "AW1215",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Metallic",
+    "discontinued": false,
+    "hex": "#6f4900",
+    "id": "army-painter-AW1216",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Weapon Bronze",
+    "range": "Warpaints Air",
+    "sku": "AW1216",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Metallic",
+    "discontinued": false,
+    "hex": "#4c4a31",
+    "id": "army-painter-AW1217",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tainted Gold",
+    "range": "Warpaints Air",
+    "sku": "AW1217",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Metallic",
+    "discontinued": false,
+    "hex": "#785b17",
+    "id": "army-painter-AW1218",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greedy Gold",
+    "range": "Warpaints Air",
+    "sku": "AW1218",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Metallic",
+    "discontinued": false,
+    "hex": "#806a1f",
+    "id": "army-painter-AW1219",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Gold",
+    "range": "Warpaints Air",
+    "sku": "AW1219",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Metallic",
+    "discontinued": false,
+    "hex": "#444444",
+    "id": "army-painter-AW1220",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gun Metal",
+    "range": "Warpaints Air",
+    "sku": "AW1220",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Fluo",
+    "discontinued": false,
+    "hex": "#cbb2d2",
+    "id": "army-painter-AW1221",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet Volt",
+    "range": "Warpaints Air",
+    "sku": "AW1221",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Fluo",
+    "discontinued": false,
+    "hex": "#e8c0d8",
+    "id": "army-painter-AW1222",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hot Pink",
+    "range": "Warpaints Air",
+    "sku": "AW1222",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Fluo",
+    "discontinued": false,
+    "hex": "#f3dbb9",
+    "id": "army-painter-AW1223",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Safety Orange",
+    "range": "Warpaints Air",
+    "sku": "AW1223",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Fluo",
+    "discontinued": false,
+    "hex": "#dcd49d",
+    "id": "army-painter-AW1224",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neon Yellow",
+    "range": "Warpaints Air",
+    "sku": "AW1224",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Fluo",
+    "discontinued": false,
+    "hex": "#bce4f8",
+    "id": "army-painter-AW1225",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Flux",
+    "range": "Warpaints Air",
+    "sku": "AW1225",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air Fluo",
+    "discontinued": false,
+    "hex": "#d2e3b6",
+    "id": "army-painter-AW1226",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gauss Green",
+    "range": "Warpaints Air",
+    "sku": "AW1226",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#000000",
+    "id": "army-painter-AW1227",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matt Black Primer",
+    "range": "Warpaints Air",
+    "sku": "AW1227",
+    "type": "primer",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#9ba4a4",
+    "id": "army-painter-AW1228",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matt Grey Primer",
+    "range": "Warpaints Air",
+    "sku": "AW1228",
+    "type": "primer",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#fefefe",
+    "id": "army-painter-AW1229",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matt White Primer",
+    "range": "Warpaints Air",
+    "sku": "AW1229",
+    "type": "primer",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#fafafa",
+    "id": "army-painter-AW1230",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Airbrush Medium",
+    "range": "Warpaints Air",
+    "sku": "AW1230",
+    "type": "thinner",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#fefefe",
+    "id": "army-painter-AW1231",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Airbrush Cleaner",
+    "range": "Warpaints Air",
+    "sku": "AW1231",
+    "type": "thinner",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#fefefe",
+    "id": "army-painter-AW1232",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matt Varnish",
+    "range": "Warpaints Air",
+    "sku": "AW1232",
+    "type": "varnish",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#fefefe",
+    "id": "army-painter-AW1233",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Satin Varnish",
+    "range": "Warpaints Air",
+    "sku": "AW1233",
+    "type": "varnish",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Air",
+    "discontinued": false,
+    "hex": "#fefefe",
+    "id": "army-painter-AW1234",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gloss Varnish",
+    "range": "Warpaints Air",
+    "sku": "AW1234",
+    "type": "varnish",
+    "url": null
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "vallejo-70-600",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White",
+    "range": "Primers",
+    "sku": "70.600",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/white-70600/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C6C6C8",
+    "id": "vallejo-70-601",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey",
+    "range": "Primers",
+    "sku": "70.601",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/grey-70601/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#000000",
+    "id": "vallejo-70-602",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Primers",
+    "sku": "70.602",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/black-70602/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#454547",
+    "id": "vallejo-70-603",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Panzer Grey",
+    "range": "Primers",
+    "sku": "70.603",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/german-panzer-grey-70603/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#957B64",
+    "id": "vallejo-70-604",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Dark Yellow",
+    "range": "Primers",
+    "sku": "70.604",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/german-dark-yellow-70604/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#67423A",
+    "id": "vallejo-70-605",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Red Brown",
+    "range": "Primers",
+    "sku": "70.605",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/german-red-brown-70605/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#886C47",
+    "id": "vallejo-70-606",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Green Brown",
+    "range": "Primers",
+    "sku": "70.606",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/german-green-brown-70606/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3E403F",
+    "id": "vallejo-70-607",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Uk Bronze Green",
+    "range": "Primers",
+    "sku": "70.607",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/uk-bronze-green-70607/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#66614E",
+    "id": "vallejo-70-608",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Usa Olive Drab",
+    "range": "Primers",
+    "sku": "70.608",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/us-olive-drab-70608/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4D4F44",
+    "id": "vallejo-70-609",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Green 4Bo",
+    "range": "Primers",
+    "sku": "70.609",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/russian-green-4bo-70609/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6A5B32",
+    "id": "vallejo-70-611",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Earth Green (Early)",
+    "range": "Primers",
+    "sku": "70.611",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/earth-green-early-70611/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4B5645",
+    "id": "vallejo-70-612",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nato Green",
+    "range": "Primers",
+    "sku": "70.612",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/nato-green-70612/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DAC397",
+    "id": "vallejo-70-613",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Tan",
+    "range": "Primers",
+    "sku": "70.613",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/desert-tan-70613/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#887C70",
+    "id": "vallejo-70-614",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Idf Israeli Sand Grey (61-73)",
+    "range": "Primers",
+    "sku": "70.614",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/idf-israeli-sand-grey-61-73-70614/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9BA2AC",
+    "id": "vallejo-70-615",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Usn Light Ghost Grey",
+    "range": "Primers",
+    "sku": "70.615",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/usn-light-ghost-grey-70615/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#373A67",
+    "id": "vallejo-70-625",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine",
+    "range": "Primers",
+    "sku": "70.625",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/ultramarine-blue-70625/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F6A300",
+    "id": "vallejo-70-629",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sun Yellow",
+    "range": "Primers",
+    "sku": "70.629",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/sun-yellow-70629/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7993A2",
+    "id": "vallejo-70-630",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Steel Grey",
+    "range": "Primers",
+    "sku": "70.630",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/steel-grey-70630/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#959CA4",
+    "id": "vallejo-70-631",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chainmail Silver",
+    "range": "Primers",
+    "sku": "70.631",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/chainmail-silver-70631/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D41C1A",
+    "id": "vallejo-70-632",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bloody Red",
+    "range": "Primers",
+    "sku": "70.632",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/bloody-red-70632/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1B170B",
+    "id": "vallejo-77-660",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gloss Black",
+    "range": "Primers",
+    "sku": "77.660",
+    "type": "primer",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/primers-en/gloss-black-77660/"
+  }
+]

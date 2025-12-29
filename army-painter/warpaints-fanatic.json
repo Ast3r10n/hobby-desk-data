@@ -1,0 +1,5618 @@
+[
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3001",
+          "army-painter-WP3002",
+          "army-painter-WP3003",
+          "army-painter-WP3004",
+          "army-painter-WP3005",
+          "army-painter-WP3006"
+        ],
+        "triadId": "black-greys"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#000000",
+    "id": "army-painter-WP3001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matt Black",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3001",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3001",
+          "army-painter-WP3002",
+          "army-painter-WP3003",
+          "army-painter-WP3004",
+          "army-painter-WP3005",
+          "army-painter-WP3006"
+        ],
+        "triadId": "black-greys"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#4d5265",
+    "id": "army-painter-WP3002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Grey",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3002",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3001",
+          "army-painter-WP3002",
+          "army-painter-WP3003",
+          "army-painter-WP3004",
+          "army-painter-WP3005",
+          "army-painter-WP3006"
+        ],
+        "triadId": "black-greys"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#696f7b",
+    "id": "army-painter-WP3003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Uniform Grey",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3003",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3001",
+          "army-painter-WP3002",
+          "army-painter-WP3003",
+          "army-painter-WP3004",
+          "army-painter-WP3005",
+          "army-painter-WP3006"
+        ],
+        "triadId": "black-greys"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#84878c",
+    "id": "army-painter-WP3004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ash Grey",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3004",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3001",
+          "army-painter-WP3002",
+          "army-painter-WP3003",
+          "army-painter-WP3004",
+          "army-painter-WP3005",
+          "army-painter-WP3006"
+        ],
+        "triadId": "black-greys"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#bbbcc1",
+    "id": "army-painter-WP3005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Company Grey",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3005",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3001",
+          "army-painter-WP3002",
+          "army-painter-WP3003",
+          "army-painter-WP3004",
+          "army-painter-WP3005",
+          "army-painter-WP3006"
+        ],
+        "triadId": "black-greys"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#d0d1d3",
+    "id": "army-painter-WP3006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brigade Grey",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3006",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3007",
+          "army-painter-WP3008",
+          "army-painter-WP3009",
+          "army-painter-WP3010",
+          "army-painter-WP3011",
+          "army-painter-WP3012"
+        ],
+        "triadId": "warm-greys-white"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#919087",
+    "id": "army-painter-WP3007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Castle",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3007",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3007",
+          "army-painter-WP3008",
+          "army-painter-WP3009",
+          "army-painter-WP3010",
+          "army-painter-WP3011",
+          "army-painter-WP3012"
+        ],
+        "triadId": "warm-greys-white"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#a8a294",
+    "id": "army-painter-WP3008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gargoyle Grey",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3008",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3007",
+          "army-painter-WP3008",
+          "army-painter-WP3009",
+          "army-painter-WP3010",
+          "army-painter-WP3011",
+          "army-painter-WP3012"
+        ],
+        "triadId": "warm-greys-white"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#bcb4a7",
+    "id": "army-painter-WP3009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Great Hall Grey",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3009",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3007",
+          "army-painter-WP3008",
+          "army-painter-WP3009",
+          "army-painter-WP3010",
+          "army-painter-WP3011",
+          "army-painter-WP3012"
+        ],
+        "triadId": "warm-greys-white"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#c3bfb0",
+    "id": "army-painter-WP3010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Worn Stone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3010",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3007",
+          "army-painter-WP3008",
+          "army-painter-WP3009",
+          "army-painter-WP3010",
+          "army-painter-WP3011",
+          "army-painter-WP3012"
+        ],
+        "triadId": "warm-greys-white"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#dedcd1",
+    "id": "army-painter-WP3011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brainmatter Beige",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3011",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3007",
+          "army-painter-WP3008",
+          "army-painter-WP3009",
+          "army-painter-WP3010",
+          "army-painter-WP3011",
+          "army-painter-WP3012"
+        ],
+        "triadId": "warm-greys-white"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#ffffff",
+    "id": "army-painter-WP3012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matt White",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3012",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3013",
+          "army-painter-WP3014",
+          "army-painter-WP3015",
+          "army-painter-WP3016",
+          "army-painter-WP3017",
+          "army-painter-WP3018"
+        ],
+        "triadId": "desaturated-blue-greys"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#221f1f",
+    "id": "army-painter-WP3013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Night Sky",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3013",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3013",
+          "army-painter-WP3014",
+          "army-painter-WP3015",
+          "army-painter-WP3016",
+          "army-painter-WP3017",
+          "army-painter-WP3018"
+        ],
+        "triadId": "desaturated-blue-greys"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#31445a",
+    "id": "army-painter-WP3014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Thunderous Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3014",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3013",
+          "army-painter-WP3014",
+          "army-painter-WP3015",
+          "army-painter-WP3016",
+          "army-painter-WP3017",
+          "army-painter-WP3018"
+        ],
+        "triadId": "desaturated-blue-greys"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#365679",
+    "id": "army-painter-WP3015",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stratos Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3015",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3013",
+          "army-painter-WP3014",
+          "army-painter-WP3015",
+          "army-painter-WP3016",
+          "army-painter-WP3017",
+          "army-painter-WP3018"
+        ],
+        "triadId": "desaturated-blue-greys"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#35658f",
+    "id": "army-painter-WP3016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wolf Grey",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3016",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3013",
+          "army-painter-WP3014",
+          "army-painter-WP3015",
+          "army-painter-WP3016",
+          "army-painter-WP3017",
+          "army-painter-WP3018"
+        ],
+        "triadId": "desaturated-blue-greys"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#5079a3",
+    "id": "army-painter-WP3017",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Runic Cobalt",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3017",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3013",
+          "army-painter-WP3014",
+          "army-painter-WP3015",
+          "army-painter-WP3016",
+          "army-painter-WP3017",
+          "army-painter-WP3018"
+        ],
+        "triadId": "desaturated-blue-greys"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#9abedd",
+    "id": "army-painter-WP3018",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Frost Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3018",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3019",
+          "army-painter-WP3020",
+          "army-painter-WP3021",
+          "army-painter-WP3022",
+          "army-painter-WP3023",
+          "army-painter-WP3024"
+        ],
+        "triadId": "strong-pale-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#182c55",
+    "id": "army-painter-WP3019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Triumphant Navy",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3019",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3019",
+          "army-painter-WP3020",
+          "army-painter-WP3021",
+          "army-painter-WP3022",
+          "army-painter-WP3023",
+          "army-painter-WP3024"
+        ],
+        "triadId": "strong-pale-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#2d3f77",
+    "id": "army-painter-WP3020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gothic Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3020",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3019",
+          "army-painter-WP3020",
+          "army-painter-WP3021",
+          "army-painter-WP3022",
+          "army-painter-WP3023",
+          "army-painter-WP3024"
+        ],
+        "triadId": "strong-pale-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#274d8e",
+    "id": "army-painter-WP3021",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3021",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3019",
+          "army-painter-WP3020",
+          "army-painter-WP3021",
+          "army-painter-WP3022",
+          "army-painter-WP3023",
+          "army-painter-WP3024"
+        ],
+        "triadId": "strong-pale-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#667ebe",
+    "id": "army-painter-WP3022",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Alpha Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3022",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3019",
+          "army-painter-WP3020",
+          "army-painter-WP3021",
+          "army-painter-WP3022",
+          "army-painter-WP3023",
+          "army-painter-WP3024"
+        ],
+        "triadId": "strong-pale-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#7d96cd",
+    "id": "army-painter-WP3023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Baron Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3023",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3019",
+          "army-painter-WP3020",
+          "army-painter-WP3021",
+          "army-painter-WP3022",
+          "army-painter-WP3023",
+          "army-painter-WP3024"
+        ],
+        "triadId": "strong-pale-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#abbfe2",
+    "id": "army-painter-WP3024",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Augur Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3024",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3025",
+          "army-painter-WP3026",
+          "army-painter-WP3027",
+          "army-painter-WP3028",
+          "army-painter-WP3029",
+          "army-painter-WP3030"
+        ],
+        "triadId": "vivid-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#003663",
+    "id": "army-painter-WP3025",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Imperial Navy",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3025",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3025",
+          "army-painter-WP3026",
+          "army-painter-WP3027",
+          "army-painter-WP3028",
+          "army-painter-WP3029",
+          "army-painter-WP3030"
+        ],
+        "triadId": "vivid-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#005088",
+    "id": "army-painter-WP3026",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Regal Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3026",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3025",
+          "army-painter-WP3026",
+          "army-painter-WP3027",
+          "army-painter-WP3028",
+          "army-painter-WP3029",
+          "army-painter-WP3030"
+        ],
+        "triadId": "vivid-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#0062b0",
+    "id": "army-painter-WP3027",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Royal Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3027",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3025",
+          "army-painter-WP3026",
+          "army-painter-WP3027",
+          "army-painter-WP3028",
+          "army-painter-WP3029",
+          "army-painter-WP3030"
+        ],
+        "triadId": "vivid-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#0074bb",
+    "id": "army-painter-WP3028",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crystal Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3028",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3025",
+          "army-painter-WP3026",
+          "army-painter-WP3027",
+          "army-painter-WP3028",
+          "army-painter-WP3029",
+          "army-painter-WP3030"
+        ],
+        "triadId": "vivid-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#1195d3",
+    "id": "army-painter-WP3029",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arctic Gem",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3029",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3025",
+          "army-painter-WP3026",
+          "army-painter-WP3027",
+          "army-painter-WP3028",
+          "army-painter-WP3029",
+          "army-painter-WP3030"
+        ],
+        "triadId": "vivid-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#86cdf1",
+    "id": "army-painter-WP3030",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Sapphire",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3030",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3031",
+          "army-painter-WP3032",
+          "army-painter-WP3033",
+          "army-painter-WP3034",
+          "army-painter-WP3035",
+          "army-painter-WP3036"
+        ],
+        "triadId": "deep-green-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#1c3244",
+    "id": "army-painter-WP3031",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Ocean Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3031",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3031",
+          "army-painter-WP3032",
+          "army-painter-WP3033",
+          "army-painter-WP3034",
+          "army-painter-WP3035",
+          "army-painter-WP3036"
+        ],
+        "triadId": "deep-green-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#004f6b",
+    "id": "army-painter-WP3032",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Abyssal Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3032",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3031",
+          "army-painter-WP3032",
+          "army-painter-WP3033",
+          "army-painter-WP3034",
+          "army-painter-WP3035",
+          "army-painter-WP3036"
+        ],
+        "triadId": "deep-green-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#006c94",
+    "id": "army-painter-WP3033",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tidal Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3033",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3031",
+          "army-painter-WP3032",
+          "army-painter-WP3033",
+          "army-painter-WP3034",
+          "army-painter-WP3035",
+          "army-painter-WP3036"
+        ],
+        "triadId": "deep-green-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#0489ae",
+    "id": "army-painter-WP3034",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Phalanx Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3034",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3031",
+          "army-painter-WP3032",
+          "army-painter-WP3033",
+          "army-painter-WP3034",
+          "army-painter-WP3035",
+          "army-painter-WP3036"
+        ],
+        "triadId": "deep-green-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#07a1c8",
+    "id": "army-painter-WP3035",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shieldwall Blue",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3035",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3031",
+          "army-painter-WP3032",
+          "army-painter-WP3033",
+          "army-painter-WP3034",
+          "army-painter-WP3035",
+          "army-painter-WP3036"
+        ],
+        "triadId": "deep-green-blues"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#3ab3d4",
+    "id": "army-painter-WP3036",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aegis Aqua",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3036",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3037",
+          "army-painter-WP3038",
+          "army-painter-WP3039",
+          "army-painter-WP3040",
+          "army-painter-WP3041",
+          "army-painter-WP3042"
+        ],
+        "triadId": "turquoises"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#004954",
+    "id": "army-painter-WP3037",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Azure",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3037",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3037",
+          "army-painter-WP3038",
+          "army-painter-WP3039",
+          "army-painter-WP3040",
+          "army-painter-WP3041",
+          "army-painter-WP3042"
+        ],
+        "triadId": "turquoises"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#00827e",
+    "id": "army-painter-WP3038",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hydra Turquoise",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3038",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3037",
+          "army-painter-WP3038",
+          "army-painter-WP3039",
+          "army-painter-WP3040",
+          "army-painter-WP3041",
+          "army-painter-WP3042"
+        ],
+        "triadId": "turquoises"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#00a19a",
+    "id": "army-painter-WP3039",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise Siren",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3039",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3037",
+          "army-painter-WP3038",
+          "army-painter-WP3039",
+          "army-painter-WP3040",
+          "army-painter-WP3041",
+          "army-painter-WP3042"
+        ],
+        "triadId": "turquoises"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#6dc7c1",
+    "id": "army-painter-WP3040",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aquamarine",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3040",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3037",
+          "army-painter-WP3038",
+          "army-painter-WP3039",
+          "army-painter-WP3040",
+          "army-painter-WP3041",
+          "army-painter-WP3042"
+        ],
+        "triadId": "turquoises"
+      }
+    },
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#a3dad5",
+    "id": "army-painter-WP3041",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neptune Glow",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3041",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3037",
+          "army-painter-WP3038",
+          "army-painter-WP3039",
+          "army-painter-WP3040",
+          "army-painter-WP3041",
+          "army-painter-WP3042"
+        ],
+        "triadId": "turquoises"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#c0e8e4",
+    "id": "army-painter-WP3042",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Marine Mist",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3042",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3043",
+          "army-painter-WP3044",
+          "army-painter-WP3045",
+          "army-painter-WP3046",
+          "army-painter-WP3047",
+          "army-painter-WP3048"
+        ],
+        "triadId": "teals"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#004b43",
+    "id": "army-painter-WP3043",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scarab Green",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3043",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3043",
+          "army-painter-WP3044",
+          "army-painter-WP3045",
+          "army-painter-WP3046",
+          "army-painter-WP3047",
+          "army-painter-WP3048"
+        ],
+        "triadId": "teals"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#006b60",
+    "id": "army-painter-WP3044",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Temple Gate Teal",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3044",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3043",
+          "army-painter-WP3044",
+          "army-painter-WP3045",
+          "army-painter-WP3046",
+          "army-painter-WP3047",
+          "army-painter-WP3048"
+        ],
+        "triadId": "teals"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#008577",
+    "id": "army-painter-WP3045",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pharaoh Guard",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3045",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3043",
+          "army-painter-WP3044",
+          "army-painter-WP3045",
+          "army-painter-WP3046",
+          "army-painter-WP3047",
+          "army-painter-WP3048"
+        ],
+        "triadId": "teals"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#009f8c",
+    "id": "army-painter-WP3046",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Talisman Teal",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3046",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3043",
+          "army-painter-WP3044",
+          "army-painter-WP3045",
+          "army-painter-WP3046",
+          "army-painter-WP3047",
+          "army-painter-WP3048"
+        ],
+        "triadId": "teals"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#38b8a8",
+    "id": "army-painter-WP3047",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aqua Alchemy",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3047",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3043",
+          "army-painter-WP3044",
+          "army-painter-WP3045",
+          "army-painter-WP3046",
+          "army-painter-WP3047",
+          "army-painter-WP3048"
+        ],
+        "triadId": "teals"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#7dd0c4",
+    "id": "army-painter-WP3048",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amulet Aqua",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3048",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3049",
+          "army-painter-WP3050",
+          "army-painter-WP3051",
+          "army-painter-WP3052",
+          "army-painter-WP3053",
+          "army-painter-WP3054"
+        ],
+        "triadId": "vibrant-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#00412d",
+    "id": "army-painter-WP3049",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Angel Green",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3049",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3049",
+          "army-painter-WP3050",
+          "army-painter-WP3051",
+          "army-painter-WP3052",
+          "army-painter-WP3053",
+          "army-painter-WP3054"
+        ],
+        "triadId": "vibrant-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#006147",
+    "id": "army-painter-WP3050",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Guardian Green",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3050",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3049",
+          "army-painter-WP3050",
+          "army-painter-WP3051",
+          "army-painter-WP3052",
+          "army-painter-WP3053",
+          "army-painter-WP3054"
+        ],
+        "triadId": "vibrant-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#007d4d",
+    "id": "army-painter-WP3051",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greenskin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3051",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3049",
+          "army-painter-WP3050",
+          "army-painter-WP3051",
+          "army-painter-WP3052",
+          "army-painter-WP3053",
+          "army-painter-WP3054"
+        ],
+        "triadId": "vibrant-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#009e59",
+    "id": "army-painter-WP3052",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Eternal Hunt",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3052",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3049",
+          "army-painter-WP3050",
+          "army-painter-WP3051",
+          "army-painter-WP3052",
+          "army-painter-WP3053",
+          "army-painter-WP3054"
+        ],
+        "triadId": "vibrant-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#40b471",
+    "id": "army-painter-WP3053",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wild Green",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3053",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3049",
+          "army-painter-WP3050",
+          "army-painter-WP3051",
+          "army-painter-WP3052",
+          "army-painter-WP3053",
+          "army-painter-WP3054"
+        ],
+        "triadId": "vibrant-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#7ecf99",
+    "id": "army-painter-WP3054",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ferocious Green",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3054",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3055",
+          "army-painter-WP3056",
+          "army-painter-WP3057",
+          "army-painter-WP3058",
+          "army-painter-WP3059",
+          "army-painter-WP3060"
+        ],
+        "triadId": "desaturated-cool-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#004225",
+    "id": "army-painter-WP3055",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Emerald Forest",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3055",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3055",
+          "army-painter-WP3056",
+          "army-painter-WP3057",
+          "army-painter-WP3058",
+          "army-painter-WP3059",
+          "army-painter-WP3060"
+        ],
+        "triadId": "desaturated-cool-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#006936",
+    "id": "army-painter-WP3056",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leafy Green",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3056",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3055",
+          "army-painter-WP3056",
+          "army-painter-WP3057",
+          "army-painter-WP3058",
+          "army-painter-WP3059",
+          "army-painter-WP3060"
+        ],
+        "triadId": "desaturated-cool-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#008641",
+    "id": "army-painter-WP3057",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rainforest",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3057",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3055",
+          "army-painter-WP3056",
+          "army-painter-WP3057",
+          "army-painter-WP3058",
+          "army-painter-WP3059",
+          "army-painter-WP3060"
+        ],
+        "triadId": "desaturated-cool-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#7fbf3a",
+    "id": "army-painter-WP3058",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Electric Lime",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3058",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3055",
+          "army-painter-WP3056",
+          "army-painter-WP3057",
+          "army-painter-WP3058",
+          "army-painter-WP3059",
+          "army-painter-WP3060"
+        ],
+        "triadId": "desaturated-cool-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#a3d24a",
+    "id": "army-painter-WP3059",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vivid Volt",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3059",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3055",
+          "army-painter-WP3056",
+          "army-painter-WP3057",
+          "army-painter-WP3058",
+          "army-painter-WP3059",
+          "army-painter-WP3060"
+        ],
+        "triadId": "desaturated-cool-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#c6e580",
+    "id": "army-painter-WP3060",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Afterglow",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3060",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3061",
+          "army-painter-WP3062",
+          "army-painter-WP3063",
+          "army-painter-WP3064",
+          "army-painter-WP3065",
+          "army-painter-WP3066"
+        ],
+        "triadId": "olive-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#4b574b",
+    "id": "army-painter-WP3061",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Evergreen Fog",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3061",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3061",
+          "army-painter-WP3062",
+          "army-painter-WP3063",
+          "army-painter-WP3064",
+          "army-painter-WP3065",
+          "army-painter-WP3066"
+        ],
+        "triadId": "olive-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#5b6b5a",
+    "id": "army-painter-WP3062",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medieval Forest",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3062",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3061",
+          "army-painter-WP3062",
+          "army-painter-WP3063",
+          "army-painter-WP3064",
+          "army-painter-WP3065",
+          "army-painter-WP3066"
+        ],
+        "triadId": "olive-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#6a7d68",
+    "id": "army-painter-WP3063",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Patagon Pine",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3063",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3061",
+          "army-painter-WP3062",
+          "army-painter-WP3063",
+          "army-painter-WP3064",
+          "army-painter-WP3065",
+          "army-painter-WP3066"
+        ],
+        "triadId": "olive-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#788b75",
+    "id": "army-painter-WP3064",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Autumn Sage",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3064",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3061",
+          "army-painter-WP3062",
+          "army-painter-WP3063",
+          "army-painter-WP3064",
+          "army-painter-WP3065",
+          "army-painter-WP3066"
+        ],
+        "triadId": "olive-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#8ea488",
+    "id": "army-painter-WP3065",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Forest Faun",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3065",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3061",
+          "army-painter-WP3062",
+          "army-painter-WP3063",
+          "army-painter-WP3064",
+          "army-painter-WP3065",
+          "army-painter-WP3066"
+        ],
+        "triadId": "olive-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#a0b49a",
+    "id": "army-painter-WP3066",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mossy Green",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3066",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3067",
+          "army-painter-WP3068",
+          "army-painter-WP3069",
+          "army-painter-WP3070",
+          "army-painter-WP3071",
+          "army-painter-WP3072"
+        ],
+        "triadId": "deep-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#4a5839",
+    "id": "army-painter-WP3067",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Woodland Camo",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3067",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3067",
+          "army-painter-WP3068",
+          "army-painter-WP3069",
+          "army-painter-WP3070",
+          "army-painter-WP3071",
+          "army-painter-WP3072"
+        ],
+        "triadId": "deep-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#5a6a48",
+    "id": "army-painter-WP3068",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Army Green",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3068",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3067",
+          "army-painter-WP3068",
+          "army-painter-WP3069",
+          "army-painter-WP3070",
+          "army-painter-WP3071",
+          "army-painter-WP3072"
+        ],
+        "triadId": "deep-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#6a7a55",
+    "id": "army-painter-WP3069",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Green",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3069",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3067",
+          "army-painter-WP3068",
+          "army-painter-WP3069",
+          "army-painter-WP3070",
+          "army-painter-WP3071",
+          "army-painter-WP3072"
+        ],
+        "triadId": "deep-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#7a8a60",
+    "id": "army-painter-WP3070",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Drab",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3070",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3067",
+          "army-painter-WP3068",
+          "army-painter-WP3069",
+          "army-painter-WP3070",
+          "army-painter-WP3071",
+          "army-painter-WP3072"
+        ],
+        "triadId": "deep-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#b0bb92",
+    "id": "army-painter-WP3071",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Necrotic Flesh",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3071",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3067",
+          "army-painter-WP3068",
+          "army-painter-WP3069",
+          "army-painter-WP3070",
+          "army-painter-WP3071",
+          "army-painter-WP3072"
+        ],
+        "triadId": "deep-greens"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#98a87a",
+    "id": "army-painter-WP3072",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grotesque Green",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3072",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3073",
+          "army-painter-WP3074",
+          "army-painter-WP3075",
+          "army-painter-WP3076",
+          "army-painter-WP3077",
+          "army-painter-WP3078"
+        ],
+        "triadId": "ochres-tans"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#3e2e20",
+    "id": "army-painter-WP3073",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brigandine Brown",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3073",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3073",
+          "army-painter-WP3074",
+          "army-painter-WP3075",
+          "army-painter-WP3076",
+          "army-painter-WP3077",
+          "army-painter-WP3078"
+        ],
+        "triadId": "ochres-tans"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#5a4534",
+    "id": "army-painter-WP3074",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bootstrap Brown",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3074",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3073",
+          "army-painter-WP3074",
+          "army-painter-WP3075",
+          "army-painter-WP3076",
+          "army-painter-WP3077",
+          "army-painter-WP3078"
+        ],
+        "triadId": "ochres-tans"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#6a5038",
+    "id": "army-painter-WP3075",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leather Brown",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3075",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3073",
+          "army-painter-WP3074",
+          "army-painter-WP3075",
+          "army-painter-WP3076",
+          "army-painter-WP3077",
+          "army-painter-WP3078"
+        ],
+        "triadId": "ochres-tans"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#7a6248",
+    "id": "army-painter-WP3076",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Paratrooper Tan",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3076",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3073",
+          "army-painter-WP3074",
+          "army-painter-WP3075",
+          "army-painter-WP3076",
+          "army-painter-WP3077",
+          "army-painter-WP3078"
+        ],
+        "triadId": "ochres-tans"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#8a785a",
+    "id": "army-painter-WP3077",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Command Khaki",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3077",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3073",
+          "army-painter-WP3074",
+          "army-painter-WP3075",
+          "army-painter-WP3076",
+          "army-painter-WP3077",
+          "army-painter-WP3078"
+        ],
+        "triadId": "ochres-tans"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#9e8c75",
+    "id": "army-painter-WP3078",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Urban Buff",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3078",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3079",
+          "army-painter-WP3080",
+          "army-painter-WP3081",
+          "army-painter-WP3082",
+          "army-painter-WP3083",
+          "army-painter-WP3084"
+        ],
+        "triadId": "light-neutrals"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#6f6755",
+    "id": "army-painter-WP3079",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tundra Taupe",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3079",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3079",
+          "army-painter-WP3080",
+          "army-painter-WP3081",
+          "army-painter-WP3082",
+          "army-painter-WP3083",
+          "army-painter-WP3084"
+        ],
+        "triadId": "light-neutrals"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#8d815d",
+    "id": "army-painter-WP3080",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Prairie Ochre",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3080",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3079",
+          "army-painter-WP3080",
+          "army-painter-WP3081",
+          "army-painter-WP3082",
+          "army-painter-WP3083",
+          "army-painter-WP3084"
+        ],
+        "triadId": "light-neutrals"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#aa9450",
+    "id": "army-painter-WP3081",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Yellow",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3081",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3079",
+          "army-painter-WP3080",
+          "army-painter-WP3081",
+          "army-painter-WP3082",
+          "army-painter-WP3083",
+          "army-painter-WP3084"
+        ],
+        "triadId": "light-neutrals"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#a89058",
+    "id": "army-painter-WP3082",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wasteland Clay",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3082",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3079",
+          "army-painter-WP3080",
+          "army-painter-WP3081",
+          "army-painter-WP3082",
+          "army-painter-WP3083",
+          "army-painter-WP3084"
+        ],
+        "triadId": "light-neutrals"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#8a7a4a",
+    "id": "army-painter-WP3083",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Turf",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3083",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3079",
+          "army-painter-WP3080",
+          "army-painter-WP3081",
+          "army-painter-WP3082",
+          "army-painter-WP3083",
+          "army-painter-WP3084"
+        ],
+        "triadId": "light-neutrals"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#c8b070",
+    "id": "army-painter-WP3084",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Barren Dune",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3084",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3085",
+          "army-painter-WP3086",
+          "army-painter-WP3087",
+          "army-painter-WP3088",
+          "army-painter-WP3089",
+          "army-painter-WP3090"
+        ],
+        "triadId": "bone-yellows"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#bcb088",
+    "id": "army-painter-WP3085",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dusty Skull",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3085",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3085",
+          "army-painter-WP3086",
+          "army-painter-WP3087",
+          "army-painter-WP3088",
+          "army-painter-WP3089",
+          "army-painter-WP3090"
+        ],
+        "triadId": "bone-yellows"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#ccba92",
+    "id": "army-painter-WP3086",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tomb King Tan",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3086",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3085",
+          "army-painter-WP3086",
+          "army-painter-WP3087",
+          "army-painter-WP3088",
+          "army-painter-WP3089",
+          "army-painter-WP3090"
+        ],
+        "triadId": "bone-yellows"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#dcca9e",
+    "id": "army-painter-WP3087",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skeleton Bone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3087",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3085",
+          "army-painter-WP3086",
+          "army-painter-WP3087",
+          "army-painter-WP3088",
+          "army-painter-WP3089",
+          "army-painter-WP3090"
+        ],
+        "triadId": "bone-yellows"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#dcd5bc",
+    "id": "army-painter-WP3088",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ancient Stone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3088",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3085",
+          "army-painter-WP3086",
+          "army-painter-WP3087",
+          "army-painter-WP3088",
+          "army-painter-WP3089",
+          "army-painter-WP3090"
+        ],
+        "triadId": "bone-yellows"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#e8e0c6",
+    "id": "army-painter-WP3089",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bony Spikes",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3089",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3085",
+          "army-painter-WP3086",
+          "army-painter-WP3087",
+          "army-painter-WP3088",
+          "army-painter-WP3089",
+          "army-painter-WP3090"
+        ],
+        "triadId": "bone-yellows"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#f4f0e0",
+    "id": "army-painter-WP3090",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Sand",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3090",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3091",
+          "army-painter-WP3092",
+          "army-painter-WP3093",
+          "army-painter-WP3094",
+          "army-painter-WP3095",
+          "army-painter-WP3096"
+        ],
+        "triadId": "yellows"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#c07818",
+    "id": "army-painter-WP3091",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Demigod Flames",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3091",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3091",
+          "army-painter-WP3092",
+          "army-painter-WP3093",
+          "army-painter-WP3094",
+          "army-painter-WP3095",
+          "army-painter-WP3096"
+        ],
+        "triadId": "yellows"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#d89818",
+    "id": "army-painter-WP3092",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fiendish Yellow",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3092",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3091",
+          "army-painter-WP3092",
+          "army-painter-WP3093",
+          "army-painter-WP3094",
+          "army-painter-WP3095",
+          "army-painter-WP3096"
+        ],
+        "triadId": "yellows"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#f6d010",
+    "id": "army-painter-WP3093",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Daemonic Yellow",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3093",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3091",
+          "army-painter-WP3092",
+          "army-painter-WP3093",
+          "army-painter-WP3094",
+          "army-painter-WP3095",
+          "army-painter-WP3096"
+        ],
+        "triadId": "yellows"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#f8e040",
+    "id": "army-painter-WP3094",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warped Yellow",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3094",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3091",
+          "army-painter-WP3092",
+          "army-painter-WP3093",
+          "army-painter-WP3094",
+          "army-painter-WP3095",
+          "army-painter-WP3096"
+        ],
+        "triadId": "yellows"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#faea90",
+    "id": "army-painter-WP3095",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Space Dust",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3095",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3091",
+          "army-painter-WP3092",
+          "army-painter-WP3093",
+          "army-painter-WP3094",
+          "army-painter-WP3095",
+          "army-painter-WP3096"
+        ],
+        "triadId": "yellows"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#fcf5d0",
+    "id": "army-painter-WP3096",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ice Yellow",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3096",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3097",
+          "army-painter-WP3098",
+          "army-painter-WP3099",
+          "army-painter-WP3100",
+          "army-painter-WP3101",
+          "army-painter-WP3102"
+        ],
+        "triadId": "oranges"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#ba3210",
+    "id": "army-painter-WP3097",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Molten Lava",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3097",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3097",
+          "army-painter-WP3098",
+          "army-painter-WP3099",
+          "army-painter-WP3100",
+          "army-painter-WP3101",
+          "army-painter-WP3102"
+        ],
+        "triadId": "oranges"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#d04818",
+    "id": "army-painter-WP3098",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burning Ore",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3098",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3097",
+          "army-painter-WP3098",
+          "army-painter-WP3099",
+          "army-painter-WP3100",
+          "army-painter-WP3101",
+          "army-painter-WP3102"
+        ],
+        "triadId": "oranges"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#e45a20",
+    "id": "army-painter-WP3099",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lava Orange",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3099",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3097",
+          "army-painter-WP3098",
+          "army-painter-WP3099",
+          "army-painter-WP3100",
+          "army-painter-WP3101",
+          "army-painter-WP3102"
+        ],
+        "triadId": "oranges"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#f07830",
+    "id": "army-painter-WP3100",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flickering Flame",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3100",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3097",
+          "army-painter-WP3098",
+          "army-painter-WP3099",
+          "army-painter-WP3100",
+          "army-painter-WP3101",
+          "army-painter-WP3102"
+        ],
+        "triadId": "oranges"
+      }
+    },
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#f8a058",
+    "id": "army-painter-WP3101",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Glowing Inferno",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3101",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3097",
+          "army-painter-WP3098",
+          "army-painter-WP3099",
+          "army-painter-WP3100",
+          "army-painter-WP3101",
+          "army-painter-WP3102"
+        ],
+        "triadId": "oranges"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#fac080",
+    "id": "army-painter-WP3102",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inner Light",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3102",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3103",
+          "army-painter-WP3104",
+          "army-painter-WP3105",
+          "army-painter-WP3106",
+          "army-painter-WP3107",
+          "army-painter-WP3108"
+        ],
+        "triadId": "warm-reds"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#8c1218",
+    "id": "army-painter-WP3103",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Resplendent Red",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3103",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3103",
+          "army-painter-WP3104",
+          "army-painter-WP3105",
+          "army-painter-WP3106",
+          "army-painter-WP3107",
+          "army-painter-WP3108"
+        ],
+        "triadId": "warm-reds"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#a41a1a",
+    "id": "army-painter-WP3104",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Angelic Red",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3104",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3103",
+          "army-painter-WP3104",
+          "army-painter-WP3105",
+          "army-painter-WP3106",
+          "army-painter-WP3107",
+          "army-painter-WP3108"
+        ],
+        "triadId": "warm-reds"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#c42024",
+    "id": "army-painter-WP3105",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Legendary Red",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3105",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3103",
+          "army-painter-WP3104",
+          "army-painter-WP3105",
+          "army-painter-WP3106",
+          "army-painter-WP3107",
+          "army-painter-WP3108"
+        ],
+        "triadId": "warm-reds"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#d44034",
+    "id": "army-painter-WP3106",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sacred Scarlet",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3106",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3103",
+          "army-painter-WP3104",
+          "army-painter-WP3105",
+          "army-painter-WP3106",
+          "army-painter-WP3107",
+          "army-painter-WP3108"
+        ],
+        "triadId": "warm-reds"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#e86050",
+    "id": "army-painter-WP3107",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violent Vermillion",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3107",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3103",
+          "army-painter-WP3104",
+          "army-painter-WP3105",
+          "army-painter-WP3106",
+          "army-painter-WP3107",
+          "army-painter-WP3108"
+        ],
+        "triadId": "warm-reds"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#f08878",
+    "id": "army-painter-WP3108",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Raging Rouge",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3108",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3109",
+          "army-painter-WP3110",
+          "army-painter-WP3111",
+          "army-painter-WP3112",
+          "army-painter-WP3113",
+          "army-painter-WP3114"
+        ],
+        "triadId": "browns"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#4c2a18",
+    "id": "army-painter-WP3109",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oak Brown",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3109",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3109",
+          "army-painter-WP3110",
+          "army-painter-WP3111",
+          "army-painter-WP3112",
+          "army-painter-WP3113",
+          "army-painter-WP3114"
+        ],
+        "triadId": "browns"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#5a3a22",
+    "id": "army-painter-WP3110",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tree Ancient",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3110",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3109",
+          "army-painter-WP3110",
+          "army-painter-WP3111",
+          "army-painter-WP3112",
+          "army-painter-WP3113",
+          "army-painter-WP3114"
+        ],
+        "triadId": "browns"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#6a4a2c",
+    "id": "army-painter-WP3111",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dryad Brown",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3111",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3109",
+          "army-painter-WP3110",
+          "army-painter-WP3111",
+          "army-painter-WP3112",
+          "army-painter-WP3113",
+          "army-painter-WP3114"
+        ],
+        "triadId": "browns"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#905830",
+    "id": "army-painter-WP3112",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fur Brown",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3112",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3109",
+          "army-painter-WP3110",
+          "army-painter-WP3111",
+          "army-painter-WP3112",
+          "army-painter-WP3113",
+          "army-painter-WP3114"
+        ],
+        "triadId": "browns"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#aa7048",
+    "id": "army-painter-WP3113",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ruddy Umber",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3113",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3109",
+          "army-painter-WP3110",
+          "army-painter-WP3111",
+          "army-painter-WP3112",
+          "army-painter-WP3113",
+          "army-painter-WP3114"
+        ],
+        "triadId": "browns"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#c08a60",
+    "id": "army-painter-WP3114",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Buffed Hide",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3114",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3115",
+          "army-painter-WP3116",
+          "army-painter-WP3117",
+          "army-painter-WP3118",
+          "army-painter-WP3119",
+          "army-painter-WP3120"
+        ],
+        "triadId": "cool-reds"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#701c18",
+    "id": "army-painter-WP3115",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Basilisk Red",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3115",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3115",
+          "army-painter-WP3116",
+          "army-painter-WP3117",
+          "army-painter-WP3118",
+          "army-painter-WP3119",
+          "army-painter-WP3120"
+        ],
+        "triadId": "cool-reds"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#8a1e1e",
+    "id": "army-painter-WP3116",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wyvern Fury",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3116",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3115",
+          "army-painter-WP3116",
+          "army-painter-WP3117",
+          "army-painter-WP3118",
+          "army-painter-WP3119",
+          "army-painter-WP3120"
+        ],
+        "triadId": "cool-reds"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#a42022",
+    "id": "army-painter-WP3117",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dragon Red",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3117",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3115",
+          "army-painter-WP3116",
+          "army-painter-WP3117",
+          "army-painter-WP3118",
+          "army-painter-WP3119",
+          "army-painter-WP3120"
+        ],
+        "triadId": "cool-reds"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#d43030",
+    "id": "army-painter-WP3118",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pure Red",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3118",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3115",
+          "army-painter-WP3116",
+          "army-painter-WP3117",
+          "army-painter-WP3118",
+          "army-painter-WP3119",
+          "army-painter-WP3120"
+        ],
+        "triadId": "cool-reds"
+      }
+    },
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#bc4848",
+    "id": "army-painter-WP3119",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blood Chalice",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3119",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3115",
+          "army-painter-WP3116",
+          "army-painter-WP3117",
+          "army-painter-WP3118",
+          "army-painter-WP3119",
+          "army-painter-WP3120"
+        ],
+        "triadId": "cool-reds"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#dc6a6a",
+    "id": "army-painter-WP3120",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Raging Rose",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3120",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3121",
+          "army-painter-WP3122",
+          "army-painter-WP3123",
+          "army-painter-WP3124",
+          "army-painter-WP3125",
+          "army-painter-WP3126"
+        ],
+        "triadId": "ruddy-browns"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#cc5878",
+    "id": "army-painter-WP3121",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wicked Pink",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3121",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3121",
+          "army-painter-WP3122",
+          "army-painter-WP3123",
+          "army-painter-WP3124",
+          "army-painter-WP3125",
+          "army-painter-WP3126"
+        ],
+        "triadId": "ruddy-browns"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#d87890",
+    "id": "army-painter-WP3122",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Impish Rouge",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3122",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3121",
+          "army-painter-WP3122",
+          "army-painter-WP3123",
+          "army-painter-WP3124",
+          "army-painter-WP3125",
+          "army-painter-WP3126"
+        ],
+        "triadId": "ruddy-browns"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#e290a0",
+    "id": "army-painter-WP3123",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pixie Pink",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3123",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3121",
+          "army-painter-WP3122",
+          "army-painter-WP3123",
+          "army-painter-WP3124",
+          "army-painter-WP3125",
+          "army-painter-WP3126"
+        ],
+        "triadId": "ruddy-browns"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#e098b0",
+    "id": "army-painter-WP3124",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Weird Elixir",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3124",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3121",
+          "army-painter-WP3122",
+          "army-painter-WP3123",
+          "army-painter-WP3124",
+          "army-painter-WP3125",
+          "army-painter-WP3126"
+        ],
+        "triadId": "ruddy-browns"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#f0b8cc",
+    "id": "army-painter-WP3125",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pink Potion",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3125",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3121",
+          "army-painter-WP3122",
+          "army-painter-WP3123",
+          "army-painter-WP3124",
+          "army-painter-WP3125",
+          "army-painter-WP3126"
+        ],
+        "triadId": "ruddy-browns"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#6c4c5a",
+    "id": "army-painter-WP3126",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Doomfire Drab",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3126",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3127",
+          "army-painter-WP3128",
+          "army-painter-WP3129",
+          "army-painter-WP3130",
+          "army-painter-WP3131",
+          "army-painter-WP3132"
+        ],
+        "triadId": "purples"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#3c3048",
+    "id": "army-painter-WP3127",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Terrestrial Titan",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3127",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3127",
+          "army-painter-WP3128",
+          "army-painter-WP3129",
+          "army-painter-WP3130",
+          "army-painter-WP3131",
+          "army-painter-WP3132"
+        ],
+        "triadId": "purples"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#5c3c78",
+    "id": "army-painter-WP3128",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Alien Purple",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3128",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3127",
+          "army-painter-WP3128",
+          "army-painter-WP3129",
+          "army-painter-WP3130",
+          "army-painter-WP3131",
+          "army-painter-WP3132"
+        ],
+        "triadId": "purples"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#583e70",
+    "id": "army-painter-WP3129",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cultist Purple",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3129",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3127",
+          "army-painter-WP3128",
+          "army-painter-WP3129",
+          "army-painter-WP3130",
+          "army-painter-WP3131",
+          "army-painter-WP3132"
+        ],
+        "triadId": "purples"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#6c5082",
+    "id": "army-painter-WP3130",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hexed Violet",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3130",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3127",
+          "army-painter-WP3128",
+          "army-painter-WP3129",
+          "army-painter-WP3130",
+          "army-painter-WP3131",
+          "army-painter-WP3132"
+        ],
+        "triadId": "purples"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#7c6498",
+    "id": "army-painter-WP3131",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet Coven",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3131",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3127",
+          "army-painter-WP3128",
+          "army-painter-WP3129",
+          "army-painter-WP3130",
+          "army-painter-WP3131",
+          "army-painter-WP3132"
+        ],
+        "triadId": "purples"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#a290b8",
+    "id": "army-painter-WP3132",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kraken Lavender",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3132",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3133",
+          "army-painter-WP3134",
+          "army-painter-WP3135",
+          "army-painter-WP3136",
+          "army-painter-WP3137",
+          "army-painter-WP3138"
+        ],
+        "triadId": "magentas"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#54305c",
+    "id": "army-painter-WP3133",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Diabolic Plum",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3133",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3133",
+          "army-painter-WP3134",
+          "army-painter-WP3135",
+          "army-painter-WP3136",
+          "army-painter-WP3137",
+          "army-painter-WP3138"
+        ],
+        "triadId": "magentas"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#7c4070",
+    "id": "army-painter-WP3134",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magecast Magenta",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3134",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3133",
+          "army-painter-WP3134",
+          "army-painter-WP3135",
+          "army-painter-WP3136",
+          "army-painter-WP3137",
+          "army-painter-WP3138"
+        ],
+        "triadId": "magentas"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#b85a88",
+    "id": "army-painter-WP3135",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warlock Magenta",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3135",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3133",
+          "army-painter-WP3134",
+          "army-painter-WP3135",
+          "army-painter-WP3136",
+          "army-painter-WP3137",
+          "army-painter-WP3138"
+        ],
+        "triadId": "magentas"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#a04880",
+    "id": "army-painter-WP3136",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spellbound Fuchsia",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3136",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3133",
+          "army-painter-WP3134",
+          "army-painter-WP3135",
+          "army-painter-WP3136",
+          "army-painter-WP3137",
+          "army-painter-WP3138"
+        ],
+        "triadId": "magentas"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#cc70aa",
+    "id": "army-painter-WP3137",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Enchanted Pink",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3137",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3133",
+          "army-painter-WP3134",
+          "army-painter-WP3135",
+          "army-painter-WP3136",
+          "army-painter-WP3137",
+          "army-painter-WP3138"
+        ],
+        "triadId": "magentas"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#dc98c6",
+    "id": "army-painter-WP3138",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Diviner Light",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3138",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3139",
+          "army-painter-WP3140",
+          "army-painter-WP3141",
+          "army-painter-WP3142",
+          "army-painter-WP3143",
+          "army-painter-WP3144"
+        ],
+        "triadId": "desaturated-violets"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#4e303c",
+    "id": "army-painter-WP3139",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mulled Berry",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3139",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3139",
+          "army-painter-WP3140",
+          "army-painter-WP3141",
+          "army-painter-WP3142",
+          "army-painter-WP3143",
+          "army-painter-WP3144"
+        ],
+        "triadId": "desaturated-violets"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#5c3a48",
+    "id": "army-painter-WP3140",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moldy Wine",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3140",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3139",
+          "army-painter-WP3140",
+          "army-painter-WP3141",
+          "army-painter-WP3142",
+          "army-painter-WP3143",
+          "army-painter-WP3144"
+        ],
+        "triadId": "desaturated-violets"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#644858",
+    "id": "army-painter-WP3141",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elder Flower",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3141",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3139",
+          "army-painter-WP3140",
+          "army-painter-WP3141",
+          "army-painter-WP3142",
+          "army-painter-WP3143",
+          "army-painter-WP3144"
+        ],
+        "triadId": "desaturated-violets"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#745668",
+    "id": "army-painter-WP3142",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Forbidden Fruit",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3142",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3139",
+          "army-painter-WP3140",
+          "army-painter-WP3141",
+          "army-painter-WP3142",
+          "army-painter-WP3143",
+          "army-painter-WP3144"
+        ],
+        "triadId": "desaturated-violets"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#8c7080",
+    "id": "army-painter-WP3143",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Figgy Pink",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3143",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3139",
+          "army-painter-WP3140",
+          "army-painter-WP3141",
+          "army-painter-WP3142",
+          "army-painter-WP3143",
+          "army-painter-WP3144"
+        ],
+        "triadId": "desaturated-violets"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#a08894",
+    "id": "army-painter-WP3144",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wilted Rose",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3144",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3145",
+          "army-painter-WP3146",
+          "army-painter-WP3147",
+          "army-painter-WP3148",
+          "army-painter-WP3149",
+          "army-painter-WP3150"
+        ],
+        "triadId": "rose-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#e4c8b0",
+    "id": "army-painter-WP3145",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moonstone Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3145",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3145",
+          "army-painter-WP3146",
+          "army-painter-WP3147",
+          "army-painter-WP3148",
+          "army-painter-WP3149",
+          "army-painter-WP3150"
+        ],
+        "triadId": "rose-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#ecd4c0",
+    "id": "army-painter-WP3146",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Agate Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3146",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3145",
+          "army-painter-WP3146",
+          "army-painter-WP3147",
+          "army-painter-WP3148",
+          "army-painter-WP3149",
+          "army-painter-WP3150"
+        ],
+        "triadId": "rose-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#e4a87e",
+    "id": "army-painter-WP3147",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Barbarian Flesh",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3147",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3145",
+          "army-painter-WP3146",
+          "army-painter-WP3147",
+          "army-painter-WP3148",
+          "army-painter-WP3149",
+          "army-painter-WP3150"
+        ],
+        "triadId": "rose-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#e4c0b0",
+    "id": "army-painter-WP3148",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ruby Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3148",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3145",
+          "army-painter-WP3146",
+          "army-painter-WP3147",
+          "army-painter-WP3148",
+          "army-painter-WP3149",
+          "army-painter-WP3150"
+        ],
+        "triadId": "rose-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#f4dcd0",
+    "id": "army-painter-WP3149",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Opal Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3149",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3145",
+          "army-painter-WP3146",
+          "army-painter-WP3147",
+          "army-painter-WP3148",
+          "army-painter-WP3149",
+          "army-painter-WP3150"
+        ],
+        "triadId": "rose-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#f8e6dc",
+    "id": "army-painter-WP3150",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pearl Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3150",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3151",
+          "army-painter-WP3152",
+          "army-painter-WP3153",
+          "army-painter-WP3154",
+          "army-painter-WP3155",
+          "army-painter-WP3156"
+        ],
+        "triadId": "warm-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#c49080",
+    "id": "army-painter-WP3151",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carnelian Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3151",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3151",
+          "army-painter-WP3152",
+          "army-painter-WP3153",
+          "army-painter-WP3154",
+          "army-painter-WP3155",
+          "army-painter-WP3156"
+        ],
+        "triadId": "warm-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#ccaaa0",
+    "id": "army-painter-WP3152",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tiger's Eye Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3152",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3151",
+          "army-painter-WP3152",
+          "army-painter-WP3153",
+          "army-painter-WP3154",
+          "army-painter-WP3155",
+          "army-painter-WP3156"
+        ],
+        "triadId": "warm-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#d4b8a0",
+    "id": "army-painter-WP3153",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Topaz Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3153",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3151",
+          "army-painter-WP3152",
+          "army-painter-WP3153",
+          "army-painter-WP3154",
+          "army-painter-WP3155",
+          "army-painter-WP3156"
+        ],
+        "triadId": "warm-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#dcbeac",
+    "id": "army-painter-WP3154",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jasper Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3154",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3151",
+          "army-painter-WP3152",
+          "army-painter-WP3153",
+          "army-painter-WP3154",
+          "army-painter-WP3155",
+          "army-painter-WP3156"
+        ],
+        "triadId": "warm-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#e8d0c0",
+    "id": "army-painter-WP3155",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tourmaline Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3155",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3151",
+          "army-painter-WP3152",
+          "army-painter-WP3153",
+          "army-painter-WP3154",
+          "army-painter-WP3155",
+          "army-painter-WP3156"
+        ],
+        "triadId": "warm-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#d8a88a",
+    "id": "army-painter-WP3156",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leopard Stone Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3156",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3157",
+          "army-painter-WP3158",
+          "army-painter-WP3159",
+          "army-painter-WP3160",
+          "army-painter-WP3161",
+          "army-painter-WP3162"
+        ],
+        "triadId": "deep-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#5c4030",
+    "id": "army-painter-WP3157",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Obsidian Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3157",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3157",
+          "army-painter-WP3158",
+          "army-painter-WP3159",
+          "army-painter-WP3160",
+          "army-painter-WP3161",
+          "army-painter-WP3162"
+        ],
+        "triadId": "deep-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#6c5048",
+    "id": "army-painter-WP3158",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Onyx Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3158",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3157",
+          "army-painter-WP3158",
+          "army-painter-WP3159",
+          "army-painter-WP3160",
+          "army-painter-WP3161",
+          "army-painter-WP3162"
+        ],
+        "triadId": "deep-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#7c6058",
+    "id": "army-painter-WP3159",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mocca Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3159",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3157",
+          "army-painter-WP3158",
+          "army-painter-WP3159",
+          "army-painter-WP3160",
+          "army-painter-WP3161",
+          "army-painter-WP3162"
+        ],
+        "triadId": "deep-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#8c7068",
+    "id": "army-painter-WP3160",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amber Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3160",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3157",
+          "army-painter-WP3158",
+          "army-painter-WP3159",
+          "army-painter-WP3160",
+          "army-painter-WP3161",
+          "army-painter-WP3162"
+        ],
+        "triadId": "deep-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#9c8078",
+    "id": "army-painter-WP3161",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dorado Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3161",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {
+      "flexibleTriad": {
+        "colors": [
+          "army-painter-WP3157",
+          "army-painter-WP3158",
+          "army-painter-WP3159",
+          "army-painter-WP3160",
+          "army-painter-WP3161",
+          "army-painter-WP3162"
+        ],
+        "triadId": "deep-skin-tones"
+      }
+    },
+    "category": "Fanatic",
+    "discontinued": false,
+    "hex": "#ac9090",
+    "id": "army-painter-WP3162",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Quartz Skin",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3162",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#8acc30",
+    "id": "army-painter-WP3163",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Disgusting Slime",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3163",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#601010",
+    "id": "army-painter-WP3164",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dry Blood",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3164",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#901014",
+    "id": "army-painter-WP3165",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "True Blood",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3165",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#704028",
+    "id": "army-painter-WP3166",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Rust",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3166",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#b05020",
+    "id": "army-painter-WP3167",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fresh Rust",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3167",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#40a088",
+    "id": "army-painter-WP3168",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Verdigris",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3168",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#202020",
+    "id": "army-painter-WP3169",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oil Stains",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3169",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#a0a038",
+    "id": "army-painter-WP3170",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oozing Vomit",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3170",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#f0f0f0",
+    "id": "army-painter-WP3171",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warpaints Stabilizer",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3171",
+    "type": "thinner",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#f0f0f0",
+    "id": "army-painter-WP3172",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warpaints Retarder",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3172",
+    "type": "thinner",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#f0f0f0",
+    "id": "army-painter-WP3173",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gloss Varnish",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3173",
+    "type": "varnish",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#f0f0f0",
+    "id": "army-painter-WP3174",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matt Varnish",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3174",
+    "type": "varnish",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#808080",
+    "id": "army-painter-WP3175",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brush-On Primer",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3175",
+    "type": "primer",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#40c0f0",
+    "id": "army-painter-WP3176",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Plasma Coil Glow",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3176",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#40f080",
+    "id": "army-painter-WP3177",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Data System Glow",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3177",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#f05090",
+    "id": "army-painter-WP3178",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lens Flare Glow",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3178",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#80f020",
+    "id": "army-painter-WP3179",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Radiation Glow",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3179",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#8050f0",
+    "id": "army-painter-WP3180",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Power Node Glow",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3180",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#3c3c42",
+    "id": "army-painter-WP3181",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rough Iron",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3181",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#a05848",
+    "id": "army-painter-WP3182",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Copper",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3182",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#7c5a38",
+    "id": "army-painter-WP3183",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Weapon Bronze",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3183",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#b06050",
+    "id": "army-painter-WP3184",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "True Copper",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3184",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#c0c0c0",
+    "id": "army-painter-WP3185",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Evil Chrome",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3185",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#a08050",
+    "id": "army-painter-WP3186",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "True Brass",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3186",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#8a6840",
+    "id": "army-painter-WP3187",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tainted Gold",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3187",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#c0a050",
+    "id": "army-painter-WP3188",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greedy Gold",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3188",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#d0b858",
+    "id": "army-painter-WP3189",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Gold",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3189",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#e0e0e0",
+    "id": "army-painter-WP3190",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mithril",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3190",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#c8c8c8",
+    "id": "army-painter-WP3191",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shining Silver",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3191",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#989898",
+    "id": "army-painter-WP3192",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Plate Mail Metal",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3192",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#505050",
+    "id": "army-painter-WP3193",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gun Metal",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3193",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#4860a0",
+    "id": "army-painter-WP3194",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cobalt Metal",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3194",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#2c2c30",
+    "id": "army-painter-WP3195",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Death Metal",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3195",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#306850",
+    "id": "army-painter-WP3196",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Emerald",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3196",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#40a868",
+    "id": "army-painter-WP3197",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Glittering Green",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3197",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Metallic",
+    "discontinued": false,
+    "hex": "#a83030",
+    "id": "army-painter-WP3198",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gemstone Red",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3198",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#382818",
+    "id": "army-painter-WP3199",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Tone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3199",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#4c3618",
+    "id": "army-painter-WP3200",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Strong Tone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3200",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#5c4220",
+    "id": "army-painter-WP3201",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Soft Tone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3201",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#6c5228",
+    "id": "army-painter-WP3202",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Tone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3202",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#705030",
+    "id": "army-painter-WP3203",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sepia Tone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3203",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Effects",
+    "discontinued": false,
+    "hex": "#7c4828",
+    "id": "army-painter-WP3204",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rust Tone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3204",
+    "type": "technical",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#602020",
+    "id": "army-painter-WP3205",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Red Tone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3205",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#782020",
+    "id": "army-painter-WP3206",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Tone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3206",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#8c4020",
+    "id": "army-painter-WP3207",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Tone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3207",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#204020",
+    "id": "army-painter-WP3208",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Tone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3208",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#405c38",
+    "id": "army-painter-WP3209",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Military Shade",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3209",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#184060",
+    "id": "army-painter-WP3210",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Tone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3210",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#102850",
+    "id": "army-painter-WP3211",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Blue Tone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3211",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#402860",
+    "id": "army-painter-WP3212",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple Tone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3212",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#603850",
+    "id": "army-painter-WP3213",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magenta Tone",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3213",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#604840",
+    "id": "army-painter-WP3214",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Strong Skin Shade",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3214",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#504030",
+    "id": "army-painter-WP3215",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Skin Shade",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3215",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Fanatic Wash",
+    "discontinued": false,
+    "hex": "#f0f0f0",
+    "id": "army-painter-WP3216",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wash Medium",
+    "range": "Warpaints Fanatic",
+    "sku": "WP3216",
+    "type": "thinner",
+    "url": null
+  }
+]

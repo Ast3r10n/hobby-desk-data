@@ -1,0 +1,1362 @@
+[
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9E1662",
+    "id": "ak-interactive-ak17001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Space Magenta",
+    "range": "Quick Gen",
+    "sku": "AK17001",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/space-magenta-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#962963",
+    "id": "ak-interactive-ak17002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pink Flesh",
+    "range": "Quick Gen",
+    "sku": "AK17002",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/pink-flesh-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#811C62",
+    "id": "ak-interactive-ak17003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple Flesh",
+    "range": "Quick Gen",
+    "sku": "AK17003",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/purple-flesh-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#552682",
+    "id": "ak-interactive-ak17004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lavender",
+    "range": "Quick Gen",
+    "sku": "AK17004",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/lavender-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#624595",
+    "id": "ak-interactive-ak17005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Necromancer Purple",
+    "range": "Quick Gen",
+    "sku": "AK17005",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/necromancer-purple-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#51215B",
+    "id": "ak-interactive-ak17006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Demon Purple",
+    "range": "Quick Gen",
+    "sku": "AK17006",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/demon-purple-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F2BB00",
+    "id": "ak-interactive-ak17007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dirty Yellow",
+    "range": "Quick Gen",
+    "sku": "AK17007",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/dirty-yellow-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A6B31B",
+    "id": "ak-interactive-ak17008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bile Yellow",
+    "range": "Quick Gen",
+    "sku": "AK17008",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/bile-yellow-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F6A201",
+    "id": "ak-interactive-ak17009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warm Orange",
+    "range": "Quick Gen",
+    "sku": "AK17009",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/warm-orange-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DE8B00",
+    "id": "ak-interactive-ak17010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warm Yellow",
+    "range": "Quick Gen",
+    "sku": "AK17010",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/warm-yellow-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DB7D01",
+    "id": "ak-interactive-ak17011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Space Yellow",
+    "range": "Quick Gen",
+    "sku": "AK17011",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/space-yellow-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ECA900",
+    "id": "ak-interactive-ak17012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Solar Yellow",
+    "range": "Quick Gen",
+    "sku": "AK17012",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/solar-yellow-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F5C300",
+    "id": "ak-interactive-ak17013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Plague Yellow",
+    "range": "Quick Gen",
+    "sku": "AK17013",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/plague-yellow-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F3E601",
+    "id": "ak-interactive-ak17014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Yellow",
+    "range": "Quick Gen",
+    "sku": "AK17014",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/light-yellow-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#01A87C",
+    "id": "ak-interactive-ak17015",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jade Green",
+    "range": "Quick Gen",
+    "sku": "AK17015",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/jade-green-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#228F3E",
+    "id": "ak-interactive-ak17016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spectral Green",
+    "range": "Quick Gen",
+    "sku": "AK17016",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/spectral-green-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#008043",
+    "id": "ak-interactive-ak17017",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Space Green",
+    "range": "Quick Gen",
+    "sku": "AK17017",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/space-green-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#267631",
+    "id": "ak-interactive-ak17018",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vivid Green",
+    "range": "Quick Gen",
+    "sku": "AK17018",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/vivid-green-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#012B21",
+    "id": "ak-interactive-ak17019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Space Dark Green",
+    "range": "Quick Gen",
+    "sku": "AK17019",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/space-dark-green-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7F7D30",
+    "id": "ak-interactive-ak17020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leaf Green",
+    "range": "Quick Gen",
+    "sku": "AK17020",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/leaf-green-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4A5922",
+    "id": "ak-interactive-ak17021",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Forest Green",
+    "range": "Quick Gen",
+    "sku": "AK17021",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/forest-green-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B2B621",
+    "id": "ak-interactive-ak17022",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rotten Green",
+    "range": "Quick Gen",
+    "sku": "AK17022",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/rotten-green-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#097B35",
+    "id": "ak-interactive-ak17023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orc Flesh",
+    "range": "Quick Gen",
+    "sku": "AK17023",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/orc-flesh-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0E87BE",
+    "id": "ak-interactive-ak17024",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ice Blue",
+    "range": "Quick Gen",
+    "sku": "AK17024",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/ice-blue-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0C4A6F",
+    "id": "ak-interactive-ak17025",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Night Blue",
+    "range": "Quick Gen",
+    "sku": "AK17025",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/night-blue-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#005D9B",
+    "id": "ak-interactive-ak17026",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Power Blue",
+    "range": "Quick Gen",
+    "sku": "AK17026",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/power-blue-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#364E8E",
+    "id": "ak-interactive-ak17027",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Blue",
+    "range": "Quick Gen",
+    "sku": "AK17027",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/ultramarine-blue-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#034A50",
+    "id": "ak-interactive-ak17028",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spectral Blue",
+    "range": "Quick Gen",
+    "sku": "AK17028",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/spectral-blue-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0077A1",
+    "id": "ak-interactive-ak17029",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise Blue",
+    "range": "Quick Gen",
+    "sku": "AK17029",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/turquoise-blue-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#008884",
+    "id": "ak-interactive-ak17030",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise Green",
+    "range": "Quick Gen",
+    "sku": "AK17030",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/turquoise-green-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#781A1B",
+    "id": "ak-interactive-ak17031",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crimson Red",
+    "range": "Quick Gen",
+    "sku": "AK17031",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/crimson-red-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D14716",
+    "id": "ak-interactive-ak17032",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dwarf Flesh",
+    "range": "Quick Gen",
+    "sku": "AK17032",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/dwarf-flesh-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E8641C",
+    "id": "ak-interactive-ak17033",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange",
+    "range": "Quick Gen",
+    "sku": "AK17033",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/orange-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D1503A",
+    "id": "ak-interactive-ak17034",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Space Red",
+    "range": "Quick Gen",
+    "sku": "AK17034",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/space-red-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D35024",
+    "id": "ak-interactive-ak17035",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Reddish Orange",
+    "range": "Quick Gen",
+    "sku": "AK17035",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/reddish-orange-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B9391E",
+    "id": "ak-interactive-ak17036",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vivid Flesh",
+    "range": "Quick Gen",
+    "sku": "AK17036",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/vivid-flesh-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A93826",
+    "id": "ak-interactive-ak17037",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Infernal Red",
+    "range": "Quick Gen",
+    "sku": "AK17037",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/infernal-red-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7F2C26",
+    "id": "ak-interactive-ak17038",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Night Blood",
+    "range": "Quick Gen",
+    "sku": "AK17038",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/night-blood-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#524650",
+    "id": "ak-interactive-ak17039",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Grey Shadow",
+    "range": "Quick Gen",
+    "sku": "AK17039",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/light-grey-shadow-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E6D77",
+    "id": "ak-interactive-ak17040",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Shadow",
+    "range": "Quick Gen",
+    "sku": "AK17040",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/grey-shadow-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#203C47",
+    "id": "ak-interactive-ak17041",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Winter Grey",
+    "range": "Quick Gen",
+    "sku": "AK17041",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/winter-grey-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0D2A30",
+    "id": "ak-interactive-ak17042",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bluish Grey",
+    "range": "Quick Gen",
+    "sku": "AK17042",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/bluish-grey-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CACACA",
+    "id": "ak-interactive-ak17043",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White Shadow",
+    "range": "Quick Gen",
+    "sku": "AK17043",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/white-shadow-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2D2F3C",
+    "id": "ak-interactive-ak17044",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Strong Grey",
+    "range": "Quick Gen",
+    "sku": "AK17044",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/strong-grey-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3C3F4E",
+    "id": "ak-interactive-ak17045",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Space Grey",
+    "range": "Quick Gen",
+    "sku": "AK17045",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/space-grey-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2E2916",
+    "id": "ak-interactive-ak17046",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dirty Grey",
+    "range": "Quick Gen",
+    "sku": "AK17046",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/dirty-grey-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#93776B",
+    "id": "ak-interactive-ak17047",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Black",
+    "range": "Quick Gen",
+    "sku": "AK17047",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/brown-black-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#49201A",
+    "id": "ak-interactive-ak17048",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Leather",
+    "range": "Quick Gen",
+    "sku": "AK17048",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/dark-leather-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5C5C5A",
+    "id": "ak-interactive-ak17049",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Quick Gen",
+    "sku": "AK17049",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/black-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#736F70",
+    "id": "ak-interactive-ak17050",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Soft Black",
+    "range": "Quick Gen",
+    "sku": "AK17050",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/soft-black-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#111820",
+    "id": "ak-interactive-ak17051",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Black",
+    "range": "Quick Gen",
+    "sku": "AK17051",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/blue-black-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#211F2C",
+    "id": "ak-interactive-ak17052",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Night Black",
+    "range": "Quick Gen",
+    "sku": "AK17052",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/night-black-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#693A20",
+    "id": "ak-interactive-ak17053",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leather",
+    "range": "Quick Gen",
+    "sku": "AK17053",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/leather-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B5722E",
+    "id": "ak-interactive-ak17054",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Brown",
+    "range": "Quick Gen",
+    "sku": "AK17054",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/orange-brown-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#897C1C",
+    "id": "ak-interactive-ak17055",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Putrid White",
+    "range": "Quick Gen",
+    "sku": "AK17055",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/putrid-white-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A9504A",
+    "id": "ak-interactive-ak17056",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Reddish Flesh",
+    "range": "Quick Gen",
+    "sku": "AK17056",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/reddish-flesh-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AA6C43",
+    "id": "ak-interactive-ak17057",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Human Flesh",
+    "range": "Quick Gen",
+    "sku": "AK17057",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/human-flesh-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A0783A",
+    "id": "ak-interactive-ak17058",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bone Brown",
+    "range": "Quick Gen",
+    "sku": "AK17058",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/bone-brown-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#925E15",
+    "id": "ak-interactive-ak17059",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camel Brown",
+    "range": "Quick Gen",
+    "sku": "AK17059",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/camel-brown-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B27314",
+    "id": "ak-interactive-ak17060",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Leather",
+    "range": "Quick Gen",
+    "sku": "AK17060",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/light-leather-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#603A27",
+    "id": "ak-interactive-ak17061",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Flesh",
+    "range": "Quick Gen",
+    "sku": "AK17061",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/dark-flesh-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#391A05",
+    "id": "ak-interactive-ak17062",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wood",
+    "range": "Quick Gen",
+    "sku": "AK17062",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/wood-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7F6616",
+    "id": "ak-interactive-ak17063",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Yellow",
+    "range": "Quick Gen",
+    "sku": "AK17063",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/desert-yellow-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4B2B30",
+    "id": "ak-interactive-ak17064",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vampire Flesh",
+    "range": "Quick Gen",
+    "sku": "AK17064",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/vampire-flesh-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BB700B",
+    "id": "ak-interactive-ak17065",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gold",
+    "range": "Quick Gen",
+    "sku": "AK17065",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/gold-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D2882A",
+    "id": "ak-interactive-ak17066",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Copper",
+    "range": "Quick Gen",
+    "sku": "AK17066",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/copper-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5E5E5D",
+    "id": "ak-interactive-ak17067",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Steel",
+    "range": "Quick Gen",
+    "sku": "AK17067",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/dark-steel-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AA7635",
+    "id": "ak-interactive-ak17068",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Old Gold",
+    "range": "Quick Gen",
+    "sku": "AK17068",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/old-gold-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#66340E",
+    "id": "ak-interactive-ak17069",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronze",
+    "range": "Quick Gen",
+    "sku": "AK17069",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/bronze-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#536C82",
+    "id": "ak-interactive-ak17070",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cold Steel",
+    "range": "Quick Gen",
+    "sku": "AK17070",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/cold-steel-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#72727E",
+    "id": "ak-interactive-ak17071",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "German Grey",
+    "range": "Quick Gen",
+    "sku": "AK17071",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/german-grey-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1F1F17",
+    "id": "ak-interactive-ak17072",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Field Grey",
+    "range": "Quick Gen",
+    "sku": "AK17072",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/field-grey-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4C531F",
+    "id": "ak-interactive-ak17073",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dak Green",
+    "range": "Quick Gen",
+    "sku": "AK17073",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/dak-green-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#736A29",
+    "id": "ak-interactive-ak17074",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Olive Uniform",
+    "range": "Quick Gen",
+    "sku": "AK17074",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/us-olive-uniform-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#855E13",
+    "id": "ak-interactive-ak17075",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ochre Green",
+    "range": "Quick Gen",
+    "sku": "AK17075",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/ochre-green-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#91683A",
+    "id": "ak-interactive-ak17076",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "British Uniform",
+    "range": "Quick Gen",
+    "sku": "AK17076",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/british-uniform-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4F5821",
+    "id": "ak-interactive-ak17077",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Uniform",
+    "range": "Quick Gen",
+    "sku": "AK17077",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/russian-uniform-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#285B8A",
+    "id": "ak-interactive-ak17078",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Blue",
+    "range": "Quick Gen",
+    "sku": "AK17078",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/russian-blue-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AD842A",
+    "id": "ak-interactive-ak17079",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Sand",
+    "range": "Quick Gen",
+    "sku": "AK17079",
+    "type": "contrast",
+    "url": "https://ak-interactive.com/product/desert-sand-quick-gen-color/"
+  },
+  {
+    "brand": "AK Interactive",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E5E5E5",
+    "id": "ak-interactive-ak17080",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medium For Quick Gen Paints",
+    "range": "Quick Gen",
+    "sku": "AK17080",
+    "type": "technical",
+    "url": "https://ak-interactive.com/product/medium-for-quick-gen-paints-18ml/"
+  }
+]

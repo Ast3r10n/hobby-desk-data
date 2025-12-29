@@ -1,0 +1,1991 @@
+[
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#231f20",
+    "id": "army-painter-WP1001",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matt Black",
+    "range": "Warpaints",
+    "sku": "WP1001",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#ffffff",
+    "id": "army-painter-WP1002",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Matt White",
+    "range": "Warpaints",
+    "sku": "WP1002",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#cf2127",
+    "id": "army-painter-WP1003",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pure Red",
+    "range": "Warpaints",
+    "sku": "WP1003",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#9a1b1e",
+    "id": "army-painter-WP1004",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dragon Red",
+    "range": "Warpaints",
+    "sku": "WP1004",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#e65525",
+    "id": "army-painter-WP1005",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lava Orange",
+    "range": "Warpaints",
+    "sku": "WP1005",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#fada06",
+    "id": "army-painter-WP1006",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Daemonic Yellow",
+    "range": "Warpaints",
+    "sku": "WP1006",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#bfc292",
+    "id": "army-painter-WP1007",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Necrotic Flesh",
+    "range": "Warpaints",
+    "sku": "WP1007",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#348941",
+    "id": "army-painter-WP1008",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Goblin Green",
+    "range": "Warpaints",
+    "sku": "WP1008",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#6e7645",
+    "id": "army-painter-WP1009",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Army Green",
+    "range": "Warpaints",
+    "sku": "WP1009",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#136232",
+    "id": "army-painter-WP1010",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greenskin",
+    "range": "Warpaints",
+    "sku": "WP1010",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#0c391d",
+    "id": "army-painter-WP1011",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Angel Green",
+    "range": "Warpaints",
+    "sku": "WP1011",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#508cbe",
+    "id": "army-painter-WP1012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Electric Blue",
+    "range": "Warpaints",
+    "sku": "WP1012",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#0083c2",
+    "id": "army-painter-WP1013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crystal Blue",
+    "range": "Warpaints",
+    "sku": "WP1013",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#0f4e85",
+    "id": "army-painter-WP1014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Blue",
+    "range": "Warpaints",
+    "sku": "WP1014",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#083251",
+    "id": "army-painter-WP1015",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Blue",
+    "range": "Warpaints",
+    "sku": "WP1015",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#a2a5a4",
+    "id": "army-painter-WP1016",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ash Grey",
+    "range": "Warpaints",
+    "sku": "WP1016",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#5e6a73",
+    "id": "army-painter-WP1017",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Uniform Grey",
+    "range": "Warpaints",
+    "sku": "WP1017",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#5b8093",
+    "id": "army-painter-WP1018",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wolf Grey",
+    "range": "Warpaints",
+    "sku": "WP1018",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#855c2a",
+    "id": "army-painter-WP1019",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Monster Brown",
+    "range": "Warpaints",
+    "sku": "WP1019",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#c7952c",
+    "id": "army-painter-WP1020",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Yellow",
+    "range": "Warpaints",
+    "sku": "WP1020",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#a14322",
+    "id": "army-painter-WP1021",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fur Brown",
+    "range": "Warpaints",
+    "sku": "WP1021",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#764823",
+    "id": "army-painter-WP1022",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leather Brown",
+    "range": "Warpaints",
+    "sku": "WP1022",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#432010",
+    "id": "army-painter-WP1023",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oak Brown",
+    "range": "Warpaints",
+    "sku": "WP1023",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#d3c89d",
+    "id": "army-painter-WP1024",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skeleton Bone",
+    "range": "Warpaints",
+    "sku": "WP1024",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#e89c6c",
+    "id": "army-painter-WP1025",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Barbarian Flesh",
+    "range": "Warpaints",
+    "sku": "WP1025",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#bc745e",
+    "id": "army-painter-WP1026",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tanned Flesh",
+    "range": "Warpaints",
+    "sku": "WP1026",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#50317b",
+    "id": "army-painter-WP1027",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Alien Purple",
+    "range": "Warpaints",
+    "sku": "WP1027",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#199ba3",
+    "id": "army-painter-WP1028",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hydra Turquoise",
+    "range": "Warpaints",
+    "sku": "WP1028",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#6c1e10",
+    "id": "army-painter-WP1029",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chaotic Red",
+    "range": "Warpaints",
+    "sku": "WP1029",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#6c1e10",
+    "id": "army-painter-WP1030",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Abomination Gore",
+    "range": "Warpaints",
+    "sku": "WP1030",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#faecc3",
+    "id": "army-painter-WP1031",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arid Earth",
+    "range": "Warpaints",
+    "sku": "WP1031",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#f8dd0d",
+    "id": "army-painter-WP1032",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Babe Blonde",
+    "range": "Warpaints",
+    "sku": "WP1032",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#c3b097",
+    "id": "army-painter-WP1033",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Banshee Brown",
+    "range": "Warpaints",
+    "sku": "WP1033",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#cd8315",
+    "id": "army-painter-WP1034",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Basilisk Brown",
+    "range": "Warpaints",
+    "sku": "WP1034",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#f1f0e0",
+    "id": "army-painter-WP1035",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brainmatter Beige",
+    "range": "Warpaints",
+    "sku": "WP1035",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#f1f0e0",
+    "id": "army-painter-WP1036",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Castle Grey",
+    "range": "Warpaints",
+    "sku": "WP1036",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#deaba0",
+    "id": "army-painter-WP1037",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Centaur Skin",
+    "range": "Warpaints",
+    "sku": "WP1037",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#878e5c",
+    "id": "army-painter-WP1038",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Combat Fatigue",
+    "range": "Warpaints",
+    "sku": "WP1038",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#827b39",
+    "id": "army-painter-WP1039",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Commando Green",
+    "range": "Warpaints",
+    "sku": "WP1039",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#edccad",
+    "id": "army-painter-WP1040",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Corpse Pale",
+    "range": "Warpaints",
+    "sku": "WP1040",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#611624",
+    "id": "army-painter-WP1041",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crusted Sore",
+    "range": "Warpaints",
+    "sku": "WP1041",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#606050",
+    "id": "army-painter-WP1042",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crypt Wraith",
+    "range": "Warpaints",
+    "sku": "WP1042",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#756e60",
+    "id": "army-painter-WP1043",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cultist Robe",
+    "range": "Warpaints",
+    "sku": "WP1043",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#2b4b5f",
+    "id": "army-painter-WP1044",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Sky",
+    "range": "Warpaints",
+    "sku": "WP1044",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#5e3827",
+    "id": "army-painter-WP1045",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dirt Spatter",
+    "range": "Warpaints",
+    "sku": "WP1045",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#cfcbb4",
+    "id": "army-painter-WP1046",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Drake Tooth",
+    "range": "Warpaints",
+    "sku": "WP1046",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#686c71",
+    "id": "army-painter-WP1047",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dungeon Grey",
+    "range": "Warpaints",
+    "sku": "WP1047",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#009a82",
+    "id": "army-painter-WP1048",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elemental Bolt",
+    "range": "Warpaints",
+    "sku": "WP1048",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#495122",
+    "id": "army-painter-WP1049",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elf Green",
+    "range": "Warpaints",
+    "sku": "WP1049",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#495122",
+    "id": "army-painter-WP1050",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elven Flesh",
+    "range": "Warpaints",
+    "sku": "WP1050",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#925f6e",
+    "id": "army-painter-WP1051",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orc Blood",
+    "range": "Warpaints",
+    "sku": "WP1051",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#7c7863",
+    "id": "army-painter-WP1052",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Filthy Cape",
+    "range": "Warpaints",
+    "sku": "WP1052",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#605752",
+    "id": "army-painter-WP1053",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Stone",
+    "range": "Warpaints",
+    "sku": "WP1053",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#d67128",
+    "id": "army-painter-WP1054",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fire Lizard",
+    "range": "Warpaints",
+    "sku": "WP1054",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#6c8fac",
+    "id": "army-painter-WP1055",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fog Grey",
+    "range": "Warpaints",
+    "sku": "WP1055",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#c7d2e4",
+    "id": "army-painter-WP1056",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gorgon Hide",
+    "range": "Warpaints",
+    "sku": "WP1056",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#215383",
+    "id": "army-painter-WP1057",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Griffon Blue",
+    "range": "Warpaints",
+    "sku": "WP1057",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#4c473f",
+    "id": "army-painter-WP1058",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hardened Carapace",
+    "range": "Warpaints",
+    "sku": "WP1058",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#94763a",
+    "id": "army-painter-WP1059",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hemp Rope",
+    "range": "Warpaints",
+    "sku": "WP1059",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#639ec9",
+    "id": "army-painter-WP1060",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ice Storm",
+    "range": "Warpaints",
+    "sku": "WP1060",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#88ac2e",
+    "id": "army-painter-WP1061",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jungle Green",
+    "range": "Warpaints",
+    "sku": "WP1061",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#c9a484",
+    "id": "army-painter-WP1062",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kobold Skin",
+    "range": "Warpaints",
+    "sku": "WP1062",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#71c591",
+    "id": "army-painter-WP1063",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kraken Skin",
+    "range": "Warpaints",
+    "sku": "WP1063",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#b73b37",
+    "id": "army-painter-WP1064",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mars Red",
+    "range": "Warpaints",
+    "sku": "WP1064",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#39c0c5",
+    "id": "army-painter-WP1065",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Toxic Mist",
+    "range": "Warpaints",
+    "sku": "WP1065",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#e8d468",
+    "id": "army-painter-WP1066",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moon Dust",
+    "range": "Warpaints",
+    "sku": "WP1066",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#447b3a",
+    "id": "army-painter-WP1067",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mouldy Clothes",
+    "range": "Warpaints",
+    "sku": "WP1067",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#ebded5",
+    "id": "army-painter-WP1068",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mummy Robes",
+    "range": "Warpaints",
+    "sku": "WP1068",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#a58084",
+    "id": "army-painter-WP1069",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mutant Hue",
+    "range": "Warpaints",
+    "sku": "WP1069",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#e73d24",
+    "id": "army-painter-WP1070",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mythical Orange",
+    "range": "Warpaints",
+    "sku": "WP1070",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#3c3d37",
+    "id": "army-painter-WP1071",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Necromance Cloak",
+    "range": "Warpaints",
+    "sku": "WP1071",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#805259",
+    "id": "army-painter-WP1072",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grimoire Purple",
+    "range": "Warpaints",
+    "sku": "WP1072",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#aa94b4",
+    "id": "army-painter-WP1073",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oozing Purple",
+    "range": "Warpaints",
+    "sku": "WP1073",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#faa61a",
+    "id": "army-painter-WP1074",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Phoenix Flames",
+    "range": "Warpaints",
+    "sku": "WP1074",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#d47a83",
+    "id": "army-painter-WP1075",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pixie Pink",
+    "range": "Warpaints",
+    "sku": "WP1075",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#cdde4a",
+    "id": "army-painter-WP1076",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Poisonous Cloud",
+    "range": "Warpaints",
+    "sku": "WP1076",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#15999c",
+    "id": "army-painter-WP1077",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Royal Cloak",
+    "range": "Warpaints",
+    "sku": "WP1077",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#859852",
+    "id": "army-painter-WP1078",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scaly Hide",
+    "range": "Warpaints",
+    "sku": "WP1078",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#bb5b64",
+    "id": "army-painter-WP1079",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warlock Purple",
+    "range": "Warpaints",
+    "sku": "WP1079",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#2ca2d9",
+    "id": "army-painter-WP1080",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Voidshield Blue",
+    "range": "Warpaints",
+    "sku": "WP1080",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#8ab239",
+    "id": "army-painter-WP1081",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Snake Scales",
+    "range": "Warpaints",
+    "sku": "WP1081",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#cdced0",
+    "id": "army-painter-WP1082",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spaceship Exterior",
+    "range": "Warpaints",
+    "sku": "WP1082",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#b9bab7",
+    "id": "army-painter-WP1083",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stone Golem",
+    "range": "Warpaints",
+    "sku": "WP1083",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#c68512",
+    "id": "army-painter-WP1084",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sulphide Ochre",
+    "range": "Warpaints",
+    "sku": "WP1084",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#a67284",
+    "id": "army-painter-WP1085",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Toxic Boils",
+    "range": "Warpaints",
+    "sku": "WP1085",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#0889ba",
+    "id": "army-painter-WP1086",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Troglodyte Blue",
+    "range": "Warpaints",
+    "sku": "WP1086",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#cb8b4e",
+    "id": "army-painter-WP1087",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Troll Claws",
+    "range": "Warpaints",
+    "sku": "WP1087",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#981d34",
+    "id": "army-painter-WP1088",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vampire Red",
+    "range": "Warpaints",
+    "sku": "WP1088",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#6a653e",
+    "id": "army-painter-WP1089",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Venom Wyrm",
+    "range": "Warpaints",
+    "sku": "WP1089",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#00609a",
+    "id": "army-painter-WP1090",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Viking Blue",
+    "range": "Warpaints",
+    "sku": "WP1090",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#774b58",
+    "id": "army-painter-WP1091",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wasteland Soil",
+    "range": "Warpaints",
+    "sku": "WP1091",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#785e4e",
+    "id": "army-painter-WP1092",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Werewolf Fur",
+    "range": "Warpaints",
+    "sku": "WP1092",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#92963e",
+    "id": "army-painter-WP1093",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Witch Brew",
+    "range": "Warpaints",
+    "sku": "WP1093",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#00726a",
+    "id": "army-painter-WP1094",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wizards Orb",
+    "range": "Warpaints",
+    "sku": "WP1094",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#ca8772",
+    "id": "army-painter-WP1095",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scar Tissue",
+    "range": "Warpaints",
+    "sku": "WP1095",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints",
+    "discontinued": true,
+    "hex": "#787c78",
+    "id": "army-painter-WP1096",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Field Grey",
+    "range": "Warpaints",
+    "sku": "WP1096",
+    "type": "opaque",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Metallic",
+    "discontinued": true,
+    "hex": "#505050",
+    "id": "army-painter-WP1401",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gun Metal",
+    "range": "Warpaints",
+    "sku": "WP1401",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Metallic",
+    "discontinued": true,
+    "hex": "#a0a0a0",
+    "id": "army-painter-WP1402",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Plate Mail Metal",
+    "range": "Warpaints",
+    "sku": "WP1402",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Metallic",
+    "discontinued": true,
+    "hex": "#c0c0c0",
+    "id": "army-painter-WP1403",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shining Silver",
+    "range": "Warpaints",
+    "sku": "WP1403",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Metallic",
+    "discontinued": true,
+    "hex": "#806030",
+    "id": "army-painter-WP1404",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Weapon Bronze",
+    "range": "Warpaints",
+    "sku": "WP1404",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Metallic",
+    "discontinued": true,
+    "hex": "#b06040",
+    "id": "army-painter-WP1405",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "True Copper",
+    "range": "Warpaints",
+    "sku": "WP1405",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Metallic",
+    "discontinued": true,
+    "hex": "#c0a040",
+    "id": "army-painter-WP1406",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greedy Gold",
+    "range": "Warpaints",
+    "sku": "WP1406",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Metallic",
+    "discontinued": true,
+    "hex": "#d0b050",
+    "id": "army-painter-WP1407",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bright Gold",
+    "range": "Warpaints",
+    "sku": "WP1407",
+    "type": "metallic",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Wash",
+    "discontinued": true,
+    "hex": "#301810",
+    "id": "army-painter-WP1301",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Tone",
+    "range": "Warpaints",
+    "sku": "WP1301",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Wash",
+    "discontinued": true,
+    "hex": "#402010",
+    "id": "army-painter-WP1302",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Strong Tone",
+    "range": "Warpaints",
+    "sku": "WP1302",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Wash",
+    "discontinued": true,
+    "hex": "#503020",
+    "id": "army-painter-WP1303",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Soft Tone",
+    "range": "Warpaints",
+    "sku": "WP1303",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Wash",
+    "discontinued": true,
+    "hex": "#604030",
+    "id": "army-painter-WP1304",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Tone",
+    "range": "Warpaints",
+    "sku": "WP1304",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Wash",
+    "discontinued": true,
+    "hex": "#102840",
+    "id": "army-painter-WP1305",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Tone",
+    "range": "Warpaints",
+    "sku": "WP1305",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Wash",
+    "discontinued": true,
+    "hex": "#103810",
+    "id": "army-painter-WP1306",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Tone",
+    "range": "Warpaints",
+    "sku": "WP1306",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Wash",
+    "discontinued": true,
+    "hex": "#301840",
+    "id": "army-painter-WP1307",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple Tone",
+    "range": "Warpaints",
+    "sku": "WP1307",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Wash",
+    "discontinued": true,
+    "hex": "#501010",
+    "id": "army-painter-WP1308",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Tone",
+    "range": "Warpaints",
+    "sku": "WP1308",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Wash",
+    "discontinued": true,
+    "hex": "#503028",
+    "id": "army-painter-WP1309",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flesh Wash",
+    "range": "Warpaints",
+    "sku": "WP1309",
+    "type": "wash",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Effects",
+    "discontinued": true,
+    "hex": "#ffffff00",
+    "id": "army-painter-WP1201",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Anti-Shine Matt Varnish",
+    "range": "Warpaints",
+    "sku": "WP1201",
+    "type": "varnish",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Effects",
+    "discontinued": true,
+    "hex": "#ffffff00",
+    "id": "army-painter-WP1202",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gloss Varnish",
+    "range": "Warpaints",
+    "sku": "WP1202",
+    "type": "varnish",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Effects",
+    "discontinued": true,
+    "hex": "#808080",
+    "id": "army-painter-WP1203",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brush-on Primer",
+    "range": "Warpaints",
+    "sku": "WP1203",
+    "type": "primer",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Effects",
+    "discontinued": true,
+    "hex": "#ffffff00",
+    "id": "army-painter-WP1204",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mixing Medium",
+    "range": "Warpaints",
+    "sku": "WP1204",
+    "type": "thinner",
+    "url": null
+  },
+  {
+    "brand": "The Army Painter",
+    "brandData": {},
+    "category": "Warpaints Effects",
+    "discontinued": true,
+    "hex": "#402010",
+    "id": "army-painter-WP1205",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warpaints Quickshade",
+    "range": "Warpaints",
+    "sku": "WP1205",
+    "type": "technical",
+    "url": null
+  }
+]

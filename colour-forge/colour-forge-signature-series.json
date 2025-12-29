@@ -1,0 +1,84 @@
+[
+  {
+    "id": "colour-forge-AshenGrey",
+    "brand": "Colour Forge",
+    "range": "Colour Forge Signature Series",
+    "name": "Ashen Grey",
+    "hex": "#D4E4DE",
+    "type": "spray",
+    "url": null,
+    "discontinued": false,
+    "category": "Signature Series"
+  },
+  {
+    "id": "colour-forge-DeadAnimalBits",
+    "brand": "Colour Forge",
+    "range": "Colour Forge Signature Series",
+    "name": "Dead Animal Bits",
+    "hex": "#ACA495",
+    "type": "spray",
+    "url": null,
+    "discontinued": false,
+    "category": "Signature Series"
+  },
+  {
+    "id": "colour-forge-MidwinterIce",
+    "brand": "Colour Forge",
+    "range": "Colour Forge Signature Series",
+    "name": "Midwinter Ice",
+    "hex": "#78C7D4",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-PeachyPeach",
+    "brand": "Colour Forge",
+    "range": "Colour Forge Signature Series",
+    "name": "Peachy Peach",
+    "hex": "#C47652",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-ReliquaryRed",
+    "brand": "Colour Forge",
+    "range": "Colour Forge Signature Series",
+    "name": "Reliquary Red",
+    "hex": "#6B0F03",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-RoguePink",
+    "brand": "Colour Forge",
+    "range": "Colour Forge Signature Series",
+    "name": "Rogue Pink",
+    "hex": "#C060A0",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-SiegeArmour",
+    "brand": "Colour Forge",
+    "range": "Colour Forge Signature Series",
+    "name": "Siege Armour",
+    "hex": "#BEB3A6",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  },
+  {
+    "id": "colour-forge-ValrakYellow",
+    "brand": "Colour Forge",
+    "range": "Colour Forge Signature Series",
+    "name": "Valrak Yellow",
+    "hex": "#F8B820",
+    "type": "spray",
+    "url": null,
+    "discontinued": false
+  }
+]

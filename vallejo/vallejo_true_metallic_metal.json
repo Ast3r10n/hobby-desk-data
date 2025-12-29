@@ -1,0 +1,1362 @@
+[
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F5F5F4",
+    "id": "vallejo-77-101",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sterling Silver",
+    "range": "True Metallic Metal",
+    "sku": "77.101",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/sterling-silver-77101/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E8D226",
+    "id": "vallejo-77-102",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Radiant Yellow",
+    "range": "True Metallic Metal",
+    "sku": "77.102",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/radiant-yellow-77162-2/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D1A965",
+    "id": "vallejo-77-103",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Imperial Gold",
+    "range": "True Metallic Metal",
+    "sku": "77.103",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/imperial-gold-77103/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E29D76",
+    "id": "vallejo-77-104",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ancient Copper",
+    "range": "True Metallic Metal",
+    "sku": "77.104",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/ancient-copper-77104/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E4752C",
+    "id": "vallejo-77-105",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Forged Red",
+    "range": "True Metallic Metal",
+    "sku": "77.105",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/forged-red-77105/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EE9B87",
+    "id": "vallejo-77-106",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ruby Red",
+    "range": "True Metallic Metal",
+    "sku": "77.106",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/ruby-red-77106/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E28DB5",
+    "id": "vallejo-77-107",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crimson Magenta",
+    "range": "True Metallic Metal",
+    "sku": "77.107",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/crimson-magenta-77107/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C595C4",
+    "id": "vallejo-77-108",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amethyst Purple",
+    "range": "True Metallic Metal",
+    "sku": "77.108",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/amethyst-purple-77108/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B8A4CF",
+    "id": "vallejo-77-109",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Celestial Violet",
+    "range": "True Metallic Metal",
+    "sku": "77.109",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/celestial-violet-77109/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7EB0CB",
+    "id": "vallejo-77-110",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Blue",
+    "range": "True Metallic Metal",
+    "sku": "77.110",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/ultramarine-blue-77110/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#50AEE2",
+    "id": "vallejo-77-111",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sapphire Blue",
+    "range": "True Metallic Metal",
+    "sku": "77.111",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/sapphire-blue-77111/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#80CADB",
+    "id": "vallejo-77-112",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hydra Turquoise",
+    "range": "True Metallic Metal",
+    "sku": "77.112",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/hydra-turquoise-77112/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8FCAAE",
+    "id": "vallejo-77-113",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beetle Green",
+    "range": "True Metallic Metal",
+    "sku": "77.113",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/beetle-green-77113/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#77B17E",
+    "id": "vallejo-77-114",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dusken Green",
+    "range": "True Metallic Metal",
+    "sku": "77.114",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/dusken-green-77114/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A5AF6B",
+    "id": "vallejo-77-115",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amber Green",
+    "range": "True Metallic Metal",
+    "sku": "77.115",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/amber-green-77115/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EED169",
+    "id": "vallejo-77-116",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greenish Gold",
+    "range": "True Metallic Metal",
+    "sku": "77.116",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/greenish-gold-77116/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E1B868",
+    "id": "vallejo-77-117",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arcane Gold",
+    "range": "True Metallic Metal",
+    "sku": "77.117",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/arcane-gold-77117/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C39D86",
+    "id": "vallejo-77-118",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rusty Metal",
+    "range": "True Metallic Metal",
+    "sku": "77.118",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/rusty-metal-77118/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B6A56F",
+    "id": "vallejo-77-119",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aged Metal",
+    "range": "True Metallic Metal",
+    "sku": "77.119",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/aged-metal-77119/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9E9C8E",
+    "id": "vallejo-77-120",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Obsidian Black",
+    "range": "True Metallic Metal",
+    "sku": "77.120",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/obsidian-black-77120/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BAC4C8",
+    "id": "vallejo-77-121",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sterling Silver",
+    "range": "True Metallic Metal",
+    "sku": "77.121",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/sterling-silver-77121/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E9BB12",
+    "id": "vallejo-77-122",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Radiant Yellow",
+    "range": "True Metallic Metal",
+    "sku": "77.122",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/radiant-yellow-77122/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CB8B50",
+    "id": "vallejo-77-123",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Imperial Gold",
+    "range": "True Metallic Metal",
+    "sku": "77.123",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/imperial-gold-77123/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D97534",
+    "id": "vallejo-77-124",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ancient Copper",
+    "range": "True Metallic Metal",
+    "sku": "77.124",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/ancient-copper-77124/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CF5737",
+    "id": "vallejo-77-125",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Forged Red",
+    "range": "True Metallic Metal",
+    "sku": "77.125",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/forged-red-77125/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C03141",
+    "id": "vallejo-77-126",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ruby Red",
+    "range": "True Metallic Metal",
+    "sku": "77.126",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/ruby-red-77126/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B74A83",
+    "id": "vallejo-77-127",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crimson Magenta",
+    "range": "True Metallic Metal",
+    "sku": "77.127",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/crimson-magenta-77127/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9B599D",
+    "id": "vallejo-77-128",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amethyst Purple",
+    "range": "True Metallic Metal",
+    "sku": "77.128",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/amethyst-purple-77128/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D5099",
+    "id": "vallejo-77-129",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Celestial Violet",
+    "range": "True Metallic Metal",
+    "sku": "77.129",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/celestial-violet-77129/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#33537A",
+    "id": "vallejo-77-130",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Blue",
+    "range": "True Metallic Metal",
+    "sku": "77.130",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/ultramarine-blue-77130/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0083AF",
+    "id": "vallejo-77-131",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sapphire Blue",
+    "range": "True Metallic Metal",
+    "sku": "77.131",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/sapphire-blue-77131/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0093AC",
+    "id": "vallejo-77-132",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hydra Turquoise",
+    "range": "True Metallic Metal",
+    "sku": "77.132",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/hydra-turquoise-77132/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#008E74",
+    "id": "vallejo-77-133",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beetle Green",
+    "range": "True Metallic Metal",
+    "sku": "77.133",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/beetle-green-77133/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#37613F",
+    "id": "vallejo-77-134",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dusken Green",
+    "range": "True Metallic Metal",
+    "sku": "77.134",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/dusken-green-77134/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5E7936",
+    "id": "vallejo-77-135",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amber Green",
+    "range": "True Metallic Metal",
+    "sku": "77.135",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/amber-green-77135/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#877934",
+    "id": "vallejo-77-136",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greenish Gold",
+    "range": "True Metallic Metal",
+    "sku": "77.136",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/greenish-gold-77136/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9E6C2A",
+    "id": "vallejo-77-137",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arcane Gold",
+    "range": "True Metallic Metal",
+    "sku": "77.137",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/arcane-gold-77137/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#866146",
+    "id": "vallejo-77-138",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rusty Metal",
+    "range": "True Metallic Metal",
+    "sku": "77.138",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/rusty-metal-77138/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5E552E",
+    "id": "vallejo-77-139",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aged Metal",
+    "range": "True Metallic Metal",
+    "sku": "77.139",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/aged-metal-77139/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4B4E4D",
+    "id": "vallejo-77-140",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Obsidian Black",
+    "range": "True Metallic Metal",
+    "sku": "77.140",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/obsidian-black-77140/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#393836",
+    "id": "vallejo-77-141",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sterling Silver",
+    "range": "True Metallic Metal",
+    "sku": "77.141",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/sterling-silver-77141/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#795B1F",
+    "id": "vallejo-77-142",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Radiant Yellow",
+    "range": "True Metallic Metal",
+    "sku": "77.142",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/radiant-yellow-77142/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#603C1E",
+    "id": "vallejo-77-143",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Imperial Gold",
+    "range": "True Metallic Metal",
+    "sku": "77.143",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/imperial-gold-77143/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#773903",
+    "id": "vallejo-77-144",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ancient Copper",
+    "range": "True Metallic Metal",
+    "sku": "77.144",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/ancient-copper-77144/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6E120B",
+    "id": "vallejo-77-145",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Forged Red",
+    "range": "True Metallic Metal",
+    "sku": "77.145",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/forged-red-77145/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7A1E32",
+    "id": "vallejo-77-146",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ruby Red",
+    "range": "True Metallic Metal",
+    "sku": "77.146",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/ruby-red-77146/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#900059",
+    "id": "vallejo-77-147",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crimson Magenta",
+    "range": "True Metallic Metal",
+    "sku": "77.147",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/crimson-magenta-77147/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#461251",
+    "id": "vallejo-77-148",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amethyst Purple",
+    "range": "True Metallic Metal",
+    "sku": "77.148",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/amethyst-purple-77148/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2F1542",
+    "id": "vallejo-77-149",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Celestial Violet",
+    "range": "True Metallic Metal",
+    "sku": "77.149",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/celestial-violet-77149/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#102054",
+    "id": "vallejo-77-150",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Blue",
+    "range": "True Metallic Metal",
+    "sku": "77.150",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/ultramarine-blue-77150/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#00406F",
+    "id": "vallejo-77-151",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sapphire Blue",
+    "range": "True Metallic Metal",
+    "sku": "77.151",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/sapphire-blue-77151/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#00656D",
+    "id": "vallejo-77-152",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hydra Turquoise",
+    "range": "True Metallic Metal",
+    "sku": "77.152",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/hydra-turquoise-77152/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#005E40",
+    "id": "vallejo-77-153",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beetle Green",
+    "range": "True Metallic Metal",
+    "sku": "77.153",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/beetle-green-77153/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#003518",
+    "id": "vallejo-77-154",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dusken Green",
+    "range": "True Metallic Metal",
+    "sku": "77.154",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/dusken-green-77154/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#163A24",
+    "id": "vallejo-77-155",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amber Green",
+    "range": "True Metallic Metal",
+    "sku": "77.155",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/amber-green-77155/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2B3210",
+    "id": "vallejo-77-156",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greenish Gold",
+    "range": "True Metallic Metal",
+    "sku": "77.156",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/greenish-gold-77156/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4E3419",
+    "id": "vallejo-77-157",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arcane Gold",
+    "range": "True Metallic Metal",
+    "sku": "77.157",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/arcane-gold-77157/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#45362F",
+    "id": "vallejo-77-158",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rusty Metal",
+    "range": "True Metallic Metal",
+    "sku": "77.158",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/rusty-metal-77158/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#343104",
+    "id": "vallejo-77-159",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aged Metal",
+    "range": "True Metallic Metal",
+    "sku": "77.159",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/aged-metal-77159/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1C1C1A",
+    "id": "vallejo-77-160",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Obsidian Black",
+    "range": "True Metallic Metal",
+    "sku": "77.160",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/obsidian-black-77160/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BAC4C8",
+    "id": "vallejo-77-161",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sterling Silver",
+    "range": "True Metallic Metal",
+    "sku": "77.161",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/sterling-silver-77161/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E9BB12",
+    "id": "vallejo-77-162",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Radiant Yellow",
+    "range": "True Metallic Metal",
+    "sku": "77.162",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/radiant-yellow-77162/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CB8B50",
+    "id": "vallejo-77-163",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Imperial Gold",
+    "range": "True Metallic Metal",
+    "sku": "77.163",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/imperial-gold-77163/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D97534",
+    "id": "vallejo-77-164",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ancient Copper",
+    "range": "True Metallic Metal",
+    "sku": "77.164",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/ancient-copper-77164/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CF5737",
+    "id": "vallejo-77-165",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Forged Red",
+    "range": "True Metallic Metal",
+    "sku": "77.165",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/forged-red-77165/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C03141",
+    "id": "vallejo-77-166",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ruby Red",
+    "range": "True Metallic Metal",
+    "sku": "77.166",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/ruby-red-77166/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B74A83",
+    "id": "vallejo-77-167",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crimson Magenta",
+    "range": "True Metallic Metal",
+    "sku": "77.167",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/crimson-magenta-77167/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9B599D",
+    "id": "vallejo-77-168",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amethyst Purple",
+    "range": "True Metallic Metal",
+    "sku": "77.168",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/amethyst-purple-77168/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D5099",
+    "id": "vallejo-77-169",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Celestial Violet",
+    "range": "True Metallic Metal",
+    "sku": "77.169",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/celestial-violet-77169/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#33537A",
+    "id": "vallejo-77-170",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Blue",
+    "range": "True Metallic Metal",
+    "sku": "77.170",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/ultramarine-blue-77170/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0083AF",
+    "id": "vallejo-77-171",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sapphire Blue",
+    "range": "True Metallic Metal",
+    "sku": "77.171",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/sapphire-blue-77171/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0093B4",
+    "id": "vallejo-77-172",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hydra Turquoise",
+    "range": "True Metallic Metal",
+    "sku": "77.172",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/hydra-turquoise-77172/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#008E74",
+    "id": "vallejo-77-173",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beetle Green",
+    "range": "True Metallic Metal",
+    "sku": "77.173",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/beetle-green-77173/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#37613F",
+    "id": "vallejo-77-174",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dusken Green",
+    "range": "True Metallic Metal",
+    "sku": "77.174",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/dusken-green-77174/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5F7A37",
+    "id": "vallejo-77-175",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amber Green",
+    "range": "True Metallic Metal",
+    "sku": "77.175",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/amber-green-77175/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#877934",
+    "id": "vallejo-77-176",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greenish Gold",
+    "range": "True Metallic Metal",
+    "sku": "77.176",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/greenish-gold-77176/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9E6C2A",
+    "id": "vallejo-77-177",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arcane Gold",
+    "range": "True Metallic Metal",
+    "sku": "77.177",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/arcane-gold-177/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#866146",
+    "id": "vallejo-77-178",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rusty Metal",
+    "range": "True Metallic Metal",
+    "sku": "77.178",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/rusty-metal-77178/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5E552E",
+    "id": "vallejo-77-179",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aged Metal",
+    "range": "True Metallic Metal",
+    "sku": "77.179",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/aged-metal-77179/"
+  },
+  {
+    "brand": "Vallejo",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4B4E4D",
+    "id": "vallejo-77-180",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Obsidian Black",
+    "range": "True Metallic Metal",
+    "sku": "77.180",
+    "type": "metallic",
+    "url": "https://acrylicosvallejo.com/en/product/hobby/true-metallic-metal-en/obsidian-black-77180/"
+  }
+]
