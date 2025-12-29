@@ -200,18 +200,14 @@
         }
 
         .paint-meta span {
-            display: block;
-            margin-bottom: 0.25rem;
+            display: inline;
         }
 
-        .paint-category {
-            display: inline-block;
-            padding: 0.2rem 0.5rem;
-            background: var(--bg-secondary);
-            border-radius: 4px;
-            font-size: 0.75rem;
-            margin-top: 0.5rem;
+        .paint-meta span:not(:last-child)::after {
+            content: " · ";
+            color: var(--text-secondary);
         }
+
 
         /* List View */
         .paint-list {
@@ -460,7 +456,7 @@
 
     <div class="controls">
         <div class="search-box">
-            <input type="text" id="search" placeholder="Search paints by name, SKU, or hex code...">
+            <input type="text" id="search" placeholder="Search paints by name or hex code...">
         </div>
         <div class="filter-group">
             <select id="brand-filter">
@@ -631,7 +627,6 @@
             state.filteredPaints = state.paints.filter(paint => {
                 const matchesSearch = !searchTerm ||
                     paint.name.toLowerCase().includes(searchTerm) ||
-                    (paint.sku && paint.sku.toLowerCase().includes(searchTerm)) ||
                     (paint.hex && paint.hex.toLowerCase().includes(searchTerm));
 
                 const matchesBrand = !brandFilter || paint.brand === brandFilter;
@@ -696,9 +691,8 @@
                                 <div class="paint-name">${escapeHtml(paint.name)}</div>
                                 <div class="paint-meta">
                                     <span>${escapeHtml(paint.range)}</span>
-                                    ${paint.sku ? `<span>SKU: ${escapeHtml(paint.sku)}</span>` : ''}
+                                    ${paint.category ? `<span>${escapeHtml(paint.category)}</span>` : ''}
                                 </div>
-                                ${paint.category ? `<span class="paint-category">${escapeHtml(paint.category)}</span>` : ''}
                             </div>
                         </div>
                     `;
@@ -730,9 +724,7 @@
                             <div class="paint-list-details">
                                 <div class="paint-list-name">${escapeHtml(paint.name)}</div>
                                 <div class="paint-list-meta">
-                                    ${escapeHtml(paint.range)}
-                                    ${paint.category ? ` | ${escapeHtml(paint.category)}` : ''}
-                                    ${paint.sku ? ` | SKU: ${escapeHtml(paint.sku)}` : ''}
+                                    ${escapeHtml(paint.range)}${paint.category ? ` · ${escapeHtml(paint.category)}` : ''}
                                 </div>
                             </div>
                             <div class="paint-list-hex">${paint.hex || 'N/A'}</div>
@@ -775,15 +767,6 @@
                     <div class="modal-row">
                         <span class="modal-label">Category</span>
                         <span class="modal-value">${escapeHtml(paint.category)}</span>
-                    </div>
-                `;
-            }
-
-            if (paint.sku) {
-                detailsHtml += `
-                    <div class="modal-row">
-                        <span class="modal-label">SKU</span>
-                        <span class="modal-value">${escapeHtml(paint.sku)}</span>
                     </div>
                 `;
             }
