@@ -1,0 +1,1564 @@
+[
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Neutral"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#000000",
+    "id": "warcolours-layer-black",
+    "impcat": {},
+    "name": "Black",
+    "range": "Layer",
+    "sku": "WC-LAY-BLACK",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Blue",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#90C8F0",
+    "id": "warcolours-layer-blue-1",
+    "impcat": {},
+    "name": "Blue 1",
+    "range": "Layer",
+    "sku": "WC-LAY-BLUE1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Blue",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#58A0E0",
+    "id": "warcolours-layer-blue-2",
+    "impcat": {},
+    "name": "Blue 2",
+    "range": "Layer",
+    "sku": "WC-LAY-BLUE2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Blue",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#2878C0",
+    "id": "warcolours-layer-blue-3",
+    "impcat": {},
+    "name": "Blue 3",
+    "range": "Layer",
+    "sku": "WC-LAY-BLUE3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Blue",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#185090",
+    "id": "warcolours-layer-blue-4",
+    "impcat": {},
+    "name": "Blue 4",
+    "range": "Layer",
+    "sku": "WC-LAY-BLUE4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Blue",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#083058",
+    "id": "warcolours-layer-blue-5",
+    "impcat": {},
+    "name": "Blue 5",
+    "range": "Layer",
+    "sku": "WC-LAY-BLUE5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Blue Grey",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C8D0E0",
+    "id": "warcolours-layer-blue-grey-1",
+    "impcat": {},
+    "name": "Blue Grey 1",
+    "range": "Layer",
+    "sku": "WC-LAY-BLUEGREY1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Blue Grey",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#98A8C0",
+    "id": "warcolours-layer-blue-grey-2",
+    "impcat": {},
+    "name": "Blue Grey 2",
+    "range": "Layer",
+    "sku": "WC-LAY-BLUEGREY2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Blue Grey",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#687898",
+    "id": "warcolours-layer-blue-grey-3",
+    "impcat": {},
+    "name": "Blue Grey 3",
+    "range": "Layer",
+    "sku": "WC-LAY-BLUEGREY3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Blue Grey",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#405068",
+    "id": "warcolours-layer-blue-grey-4",
+    "impcat": {},
+    "name": "Blue Grey 4",
+    "range": "Layer",
+    "sku": "WC-LAY-BLUEGREY4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Blue Grey",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#203040",
+    "id": "warcolours-layer-blue-grey-5",
+    "impcat": {},
+    "name": "Blue Grey 5",
+    "range": "Layer",
+    "sku": "WC-LAY-BLUEGREY5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Brown",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D89878",
+    "id": "warcolours-layer-brown-1",
+    "impcat": {},
+    "name": "Brown 1",
+    "range": "Layer",
+    "sku": "WC-LAY-BROWN1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Brown",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B06848",
+    "id": "warcolours-layer-brown-2",
+    "impcat": {},
+    "name": "Brown 2",
+    "range": "Layer",
+    "sku": "WC-LAY-BROWN2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Brown",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#884830",
+    "id": "warcolours-layer-brown-3",
+    "impcat": {},
+    "name": "Brown 3",
+    "range": "Layer",
+    "sku": "WC-LAY-BROWN3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Brown",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#583020",
+    "id": "warcolours-layer-brown-4",
+    "impcat": {},
+    "name": "Brown 4",
+    "range": "Layer",
+    "sku": "WC-LAY-BROWN4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Brown",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#382018",
+    "id": "warcolours-layer-brown-5",
+    "impcat": {},
+    "name": "Brown 5",
+    "range": "Layer",
+    "sku": "WC-LAY-BROWN5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Cool Grey",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D0D0D8",
+    "id": "warcolours-layer-cool-grey-1",
+    "impcat": {},
+    "name": "Cool Grey 1",
+    "range": "Layer",
+    "sku": "WC-LAY-COOLGREY1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Cool Grey",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A8A8B8",
+    "id": "warcolours-layer-cool-grey-2",
+    "impcat": {},
+    "name": "Cool Grey 2",
+    "range": "Layer",
+    "sku": "WC-LAY-COOLGREY2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Cool Grey",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#787888",
+    "id": "warcolours-layer-cool-grey-3",
+    "impcat": {},
+    "name": "Cool Grey 3",
+    "range": "Layer",
+    "sku": "WC-LAY-COOLGREY3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Cool Grey",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#484858",
+    "id": "warcolours-layer-cool-grey-4",
+    "impcat": {},
+    "name": "Cool Grey 4",
+    "range": "Layer",
+    "sku": "WC-LAY-COOLGREY4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Cool Grey",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#202028",
+    "id": "warcolours-layer-cool-grey-5",
+    "impcat": {},
+    "name": "Cool Grey 5",
+    "range": "Layer",
+    "sku": "WC-LAY-COOLGREY5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Emerald",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#48F0C0",
+    "id": "warcolours-layer-emerald-1",
+    "impcat": {},
+    "name": "Emerald 1",
+    "range": "Layer",
+    "sku": "WC-LAY-EMERALD1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Emerald",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#20D898",
+    "id": "warcolours-layer-emerald-2",
+    "impcat": {},
+    "name": "Emerald 2",
+    "range": "Layer",
+    "sku": "WC-LAY-EMERALD2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Emerald",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#10A870",
+    "id": "warcolours-layer-emerald-3",
+    "impcat": {},
+    "name": "Emerald 3",
+    "range": "Layer",
+    "sku": "WC-LAY-EMERALD3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Emerald",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#087848",
+    "id": "warcolours-layer-emerald-4",
+    "impcat": {},
+    "name": "Emerald 4",
+    "range": "Layer",
+    "sku": "WC-LAY-EMERALD4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Emerald",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#084828",
+    "id": "warcolours-layer-emerald-5",
+    "impcat": {},
+    "name": "Emerald 5",
+    "range": "Layer",
+    "sku": "WC-LAY-EMERALD5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Flesh",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#F8E8D8",
+    "id": "warcolours-layer-flesh-1",
+    "impcat": {},
+    "name": "Flesh 1",
+    "range": "Layer",
+    "sku": "WC-LAY-FLESH1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Flesh",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#F0D0B0",
+    "id": "warcolours-layer-flesh-2",
+    "impcat": {},
+    "name": "Flesh 2",
+    "range": "Layer",
+    "sku": "WC-LAY-FLESH2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Flesh",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#E0B090",
+    "id": "warcolours-layer-flesh-3",
+    "impcat": {},
+    "name": "Flesh 3",
+    "range": "Layer",
+    "sku": "WC-LAY-FLESH3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Flesh",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C08868",
+    "id": "warcolours-layer-flesh-4",
+    "impcat": {},
+    "name": "Flesh 4",
+    "range": "Layer",
+    "sku": "WC-LAY-FLESH4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Flesh",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#906048",
+    "id": "warcolours-layer-flesh-5",
+    "impcat": {},
+    "name": "Flesh 5",
+    "range": "Layer",
+    "sku": "WC-LAY-FLESH5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Green",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#90F048",
+    "id": "warcolours-layer-green-1",
+    "impcat": {},
+    "name": "Green 1",
+    "range": "Layer",
+    "sku": "WC-LAY-GREEN1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Green",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#48D818",
+    "id": "warcolours-layer-green-2",
+    "impcat": {},
+    "name": "Green 2",
+    "range": "Layer",
+    "sku": "WC-LAY-GREEN2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Green",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#20A810",
+    "id": "warcolours-layer-green-3",
+    "impcat": {},
+    "name": "Green 3",
+    "range": "Layer",
+    "sku": "WC-LAY-GREEN3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Green",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#107808",
+    "id": "warcolours-layer-green-4",
+    "impcat": {},
+    "name": "Green 4",
+    "range": "Layer",
+    "sku": "WC-LAY-GREEN4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Green",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#084808",
+    "id": "warcolours-layer-green-5",
+    "impcat": {},
+    "name": "Green 5",
+    "range": "Layer",
+    "sku": "WC-LAY-GREEN5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Marine",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#80B8E0",
+    "id": "warcolours-layer-marine-1",
+    "impcat": {},
+    "name": "Marine 1",
+    "range": "Layer",
+    "sku": "WC-LAY-MARINE1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Marine",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#4888C0",
+    "id": "warcolours-layer-marine-2",
+    "impcat": {},
+    "name": "Marine 2",
+    "range": "Layer",
+    "sku": "WC-LAY-MARINE2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Marine",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#2860A0",
+    "id": "warcolours-layer-marine-3",
+    "impcat": {},
+    "name": "Marine 3",
+    "range": "Layer",
+    "sku": "WC-LAY-MARINE3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Marine",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#184078",
+    "id": "warcolours-layer-marine-4",
+    "impcat": {},
+    "name": "Marine 4",
+    "range": "Layer",
+    "sku": "WC-LAY-MARINE4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Marine",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#082848",
+    "id": "warcolours-layer-marine-5",
+    "impcat": {},
+    "name": "Marine 5",
+    "range": "Layer",
+    "sku": "WC-LAY-MARINE5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Ochre",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#F0E0A0",
+    "id": "warcolours-layer-ochre-1",
+    "impcat": {},
+    "name": "Ochre 1",
+    "range": "Layer",
+    "sku": "WC-LAY-OCHRE1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Ochre",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#E0C060",
+    "id": "warcolours-layer-ochre-2",
+    "impcat": {},
+    "name": "Ochre 2",
+    "range": "Layer",
+    "sku": "WC-LAY-OCHRE2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Ochre",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C89828",
+    "id": "warcolours-layer-ochre-3",
+    "impcat": {},
+    "name": "Ochre 3",
+    "range": "Layer",
+    "sku": "WC-LAY-OCHRE3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Ochre",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A87818",
+    "id": "warcolours-layer-ochre-4",
+    "impcat": {},
+    "name": "Ochre 4",
+    "range": "Layer",
+    "sku": "WC-LAY-OCHRE4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Ochre",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#806010",
+    "id": "warcolours-layer-ochre-5",
+    "impcat": {},
+    "name": "Ochre 5",
+    "range": "Layer",
+    "sku": "WC-LAY-OCHRE5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Olive",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#E0F078",
+    "id": "warcolours-layer-olive-1",
+    "impcat": {},
+    "name": "Olive 1",
+    "range": "Layer",
+    "sku": "WC-LAY-OLIVE1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Olive",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B8D038",
+    "id": "warcolours-layer-olive-2",
+    "impcat": {},
+    "name": "Olive 2",
+    "range": "Layer",
+    "sku": "WC-LAY-OLIVE2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Olive",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#88A020",
+    "id": "warcolours-layer-olive-3",
+    "impcat": {},
+    "name": "Olive 3",
+    "range": "Layer",
+    "sku": "WC-LAY-OLIVE3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Olive",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#586810",
+    "id": "warcolours-layer-olive-4",
+    "impcat": {},
+    "name": "Olive 4",
+    "range": "Layer",
+    "sku": "WC-LAY-OLIVE4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Olive",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#384008",
+    "id": "warcolours-layer-olive-5",
+    "impcat": {},
+    "name": "Olive 5",
+    "range": "Layer",
+    "sku": "WC-LAY-OLIVE5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Orange",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#F8C882",
+    "id": "warcolours-layer-orange-1",
+    "impcat": {},
+    "name": "Orange 1",
+    "range": "Layer",
+    "sku": "WC-LAY-ORANGE1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Orange",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#F0A050",
+    "id": "warcolours-layer-orange-2",
+    "impcat": {},
+    "name": "Orange 2",
+    "range": "Layer",
+    "sku": "WC-LAY-ORANGE2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Orange",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#E87020",
+    "id": "warcolours-layer-orange-3",
+    "impcat": {},
+    "name": "Orange 3",
+    "range": "Layer",
+    "sku": "WC-LAY-ORANGE3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Orange",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C85010",
+    "id": "warcolours-layer-orange-4",
+    "impcat": {},
+    "name": "Orange 4",
+    "range": "Layer",
+    "sku": "WC-LAY-ORANGE4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Orange",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#983810",
+    "id": "warcolours-layer-orange-5",
+    "impcat": {},
+    "name": "Orange 5",
+    "range": "Layer",
+    "sku": "WC-LAY-ORANGE5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Pink",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFC0E0",
+    "id": "warcolours-layer-pink-1",
+    "impcat": {},
+    "name": "Pink 1",
+    "range": "Layer",
+    "sku": "WC-LAY-PINK1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Pink",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#F888B8",
+    "id": "warcolours-layer-pink-2",
+    "impcat": {},
+    "name": "Pink 2",
+    "range": "Layer",
+    "sku": "WC-LAY-PINK2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Pink",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D84888",
+    "id": "warcolours-layer-pink-3",
+    "impcat": {},
+    "name": "Pink 3",
+    "range": "Layer",
+    "sku": "WC-LAY-PINK3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Pink",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A82860",
+    "id": "warcolours-layer-pink-4",
+    "impcat": {},
+    "name": "Pink 4",
+    "range": "Layer",
+    "sku": "WC-LAY-PINK4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Pink",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#681038",
+    "id": "warcolours-layer-pink-5",
+    "impcat": {},
+    "name": "Pink 5",
+    "range": "Layer",
+    "sku": "WC-LAY-PINK5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Purple",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#F098D8",
+    "id": "warcolours-layer-purple-1",
+    "impcat": {},
+    "name": "Purple 1",
+    "range": "Layer",
+    "sku": "WC-LAY-PURPLE1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Purple",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#E058B8",
+    "id": "warcolours-layer-purple-2",
+    "impcat": {},
+    "name": "Purple 2",
+    "range": "Layer",
+    "sku": "WC-LAY-PURPLE2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Purple",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B82888",
+    "id": "warcolours-layer-purple-3",
+    "impcat": {},
+    "name": "Purple 3",
+    "range": "Layer",
+    "sku": "WC-LAY-PURPLE3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Purple",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#881860",
+    "id": "warcolours-layer-purple-4",
+    "impcat": {},
+    "name": "Purple 4",
+    "range": "Layer",
+    "sku": "WC-LAY-PURPLE4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Purple",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#500838",
+    "id": "warcolours-layer-purple-5",
+    "impcat": {},
+    "name": "Purple 5",
+    "range": "Layer",
+    "sku": "WC-LAY-PURPLE5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Red",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#E85858",
+    "id": "warcolours-layer-red-1",
+    "impcat": {},
+    "name": "Red 1",
+    "range": "Layer",
+    "sku": "WC-LAY-RED1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Red",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D82020",
+    "id": "warcolours-layer-red-2",
+    "impcat": {},
+    "name": "Red 2",
+    "range": "Layer",
+    "sku": "WC-LAY-RED2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Red",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B01818",
+    "id": "warcolours-layer-red-3",
+    "impcat": {},
+    "name": "Red 3",
+    "range": "Layer",
+    "sku": "WC-LAY-RED3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Red",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#781010",
+    "id": "warcolours-layer-red-4",
+    "impcat": {},
+    "name": "Red 4",
+    "range": "Layer",
+    "sku": "WC-LAY-RED4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Red",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#400808",
+    "id": "warcolours-layer-red-5",
+    "impcat": {},
+    "name": "Red 5",
+    "range": "Layer",
+    "sku": "WC-LAY-RED5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Turquoise",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#48F0E8",
+    "id": "warcolours-layer-turquoise-1",
+    "impcat": {},
+    "name": "Turquoise 1",
+    "range": "Layer",
+    "sku": "WC-LAY-TURQUOISE1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Turquoise",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#20D8D0",
+    "id": "warcolours-layer-turquoise-2",
+    "impcat": {},
+    "name": "Turquoise 2",
+    "range": "Layer",
+    "sku": "WC-LAY-TURQUOISE2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Turquoise",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#10A8A0",
+    "id": "warcolours-layer-turquoise-3",
+    "impcat": {},
+    "name": "Turquoise 3",
+    "range": "Layer",
+    "sku": "WC-LAY-TURQUOISE3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Turquoise",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#087870",
+    "id": "warcolours-layer-turquoise-4",
+    "impcat": {},
+    "name": "Turquoise 4",
+    "range": "Layer",
+    "sku": "WC-LAY-TURQUOISE4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Turquoise",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#084840",
+    "id": "warcolours-layer-turquoise-5",
+    "impcat": {},
+    "name": "Turquoise 5",
+    "range": "Layer",
+    "sku": "WC-LAY-TURQUOISE5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Violet",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C8A8F0",
+    "id": "warcolours-layer-violet-1",
+    "impcat": {},
+    "name": "Violet 1",
+    "range": "Layer",
+    "sku": "WC-LAY-VIOLET1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Violet",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#9868E0",
+    "id": "warcolours-layer-violet-2",
+    "impcat": {},
+    "name": "Violet 2",
+    "range": "Layer",
+    "sku": "WC-LAY-VIOLET2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Violet",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6838C0",
+    "id": "warcolours-layer-violet-3",
+    "impcat": {},
+    "name": "Violet 3",
+    "range": "Layer",
+    "sku": "WC-LAY-VIOLET3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Violet",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#482090",
+    "id": "warcolours-layer-violet-4",
+    "impcat": {},
+    "name": "Violet 4",
+    "range": "Layer",
+    "sku": "WC-LAY-VIOLET4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Violet",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#281058",
+    "id": "warcolours-layer-violet-5",
+    "impcat": {},
+    "name": "Violet 5",
+    "range": "Layer",
+    "sku": "WC-LAY-VIOLET5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Warm Grey",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D8D0C8",
+    "id": "warcolours-layer-warm-grey-1",
+    "impcat": {},
+    "name": "Warm Grey 1",
+    "range": "Layer",
+    "sku": "WC-LAY-WARMGREY1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Warm Grey",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B8B0A0",
+    "id": "warcolours-layer-warm-grey-2",
+    "impcat": {},
+    "name": "Warm Grey 2",
+    "range": "Layer",
+    "sku": "WC-LAY-WARMGREY2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Warm Grey",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#888878",
+    "id": "warcolours-layer-warm-grey-3",
+    "impcat": {},
+    "name": "Warm Grey 3",
+    "range": "Layer",
+    "sku": "WC-LAY-WARMGREY3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Warm Grey",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#585850",
+    "id": "warcolours-layer-warm-grey-4",
+    "impcat": {},
+    "name": "Warm Grey 4",
+    "range": "Layer",
+    "sku": "WC-LAY-WARMGREY4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Warm Grey",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#303028",
+    "id": "warcolours-layer-warm-grey-5",
+    "impcat": {},
+    "name": "Warm Grey 5",
+    "range": "Layer",
+    "sku": "WC-LAY-WARMGREY5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Neutral"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "warcolours-layer-white",
+    "impcat": {},
+    "name": "White",
+    "range": "Layer",
+    "sku": "WC-LAY-WHITE",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Yellow",
+      "layer": 1
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#F8F8D0",
+    "id": "warcolours-layer-yellow-1",
+    "impcat": {},
+    "name": "Yellow 1",
+    "range": "Layer",
+    "sku": "WC-LAY-YELLOW1",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Yellow",
+      "layer": 2
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#F8F040",
+    "id": "warcolours-layer-yellow-2",
+    "impcat": {},
+    "name": "Yellow 2",
+    "range": "Layer",
+    "sku": "WC-LAY-YELLOW2",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Yellow",
+      "layer": 3
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#E8D010",
+    "id": "warcolours-layer-yellow-3",
+    "impcat": {},
+    "name": "Yellow 3",
+    "range": "Layer",
+    "sku": "WC-LAY-YELLOW3",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Yellow",
+      "layer": 4
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C8A808",
+    "id": "warcolours-layer-yellow-4",
+    "impcat": {},
+    "name": "Yellow 4",
+    "range": "Layer",
+    "sku": "WC-LAY-YELLOW4",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  },
+  {
+    "brand": "Warcolours",
+    "brandData": {
+      "colorFamily": "Yellow",
+      "layer": 5
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A08008",
+    "id": "warcolours-layer-yellow-5",
+    "impcat": {},
+    "name": "Yellow 5",
+    "range": "Layer",
+    "sku": "WC-LAY-YELLOW5",
+    "type": "layer",
+    "url": "https://www.warcolours.com/index.php?route=product/product&path=66&product_id=51"
+  }
+]

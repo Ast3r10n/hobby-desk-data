@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "commitHash": "ecafdfd581f7756140db0b222b815b321bc6ce53",
-  "generatedAt": "2025-12-30T22:06:57.246579Z",
-  "totalPaints": 4652,
+  "commitHash": "8339c4ee65c0a83a813536f496632996aca812c0",
+  "generatedAt": "2026-02-06T18:28:32.935623Z",
+  "totalPaints": 4897,
   "files": [
     {
       "brand": "AK Interactive",
@@ -458,6 +458,62 @@
       "path": "vallejo/vallejo_xpress_color.json",
       "hash": "sha256:01fe6fe6f15ae4fed0d44986c3f101250431fb88bca57f0f99a138fec5d56b65",
       "paintCount": 60
+    },
+    {
+      "brand": "Warcolours",
+      "range": "Antithesis",
+      "path": "warcolours/warcolours_antithesis.json",
+      "hash": "sha256:c19e6c7db52c919965b6aed85db04c08b235ae685fae99d502322720410fc3a2",
+      "paintCount": 36
+    },
+    {
+      "brand": "Warcolours",
+      "range": "Fluorescent",
+      "path": "warcolours/warcolours_fluorescent.json",
+      "hash": "sha256:f01203e1e9437ba3faceaef61429574e2bdc35c5daf01785f42adb78aa377a39",
+      "paintCount": 7
+    },
+    {
+      "brand": "Warcolours",
+      "range": "Glaze",
+      "path": "warcolours/warcolours_glaze.json",
+      "hash": "sha256:60f6fcb112fa0d741cd769e6047d8cc085c727f8c7276e2f735303dfd0562578",
+      "paintCount": 20
+    },
+    {
+      "brand": "Warcolours",
+      "range": "Ink",
+      "path": "warcolours/warcolours_ink.json",
+      "hash": "sha256:4e8fea9bcc552509d1cdc30aadfe8e0c1f661b0115f8f2ff69da59dba4aea329",
+      "paintCount": 22
+    },
+    {
+      "brand": "Warcolours",
+      "range": "Layer",
+      "path": "warcolours/warcolours_layer.json",
+      "hash": "sha256:1420357e74371c716d7849944ec3a70de6e05c1c397761f8b8687ccd587d0671",
+      "paintCount": 92
+    },
+    {
+      "brand": "Warcolours",
+      "range": "Metallic",
+      "path": "warcolours/warcolours_metallic.json",
+      "hash": "sha256:5d610140c423ffee7bee059ea3805ee53de1e7de47a34d2358cf7a9f3f9c0d49",
+      "paintCount": 28
+    },
+    {
+      "brand": "Warcolours",
+      "range": "One Coat",
+      "path": "warcolours/warcolours_onecoat.json",
+      "hash": "sha256:ccdca8973d3f1168eb15153767c0a923bcdcca9ac86292598df9e8c923321426",
+      "paintCount": 20
+    },
+    {
+      "brand": "Warcolours",
+      "range": "Transparent",
+      "path": "warcolours/warcolours_transparent.json",
+      "hash": "sha256:86fb09e4d5c334c8cb311b59f5bafb9dd9d4e193d34c89cabfd7575842c6437c",
+      "paintCount": 20
     }
   ]
 }
