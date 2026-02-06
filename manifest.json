@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "commitHash": "8339c4ee65c0a83a813536f496632996aca812c0",
-  "generatedAt": "2026-02-06T18:28:32.935623Z",
-  "totalPaints": 4897,
+  "commitHash": "000d2711d3652d2d6cc72b71740c57d4ad2cbae6",
+  "generatedAt": "2026-02-06T19:03:51.885042Z",
+  "totalPaints": 5006,
   "files": [
     {
       "brand": "AK Interactive",
@@ -206,6 +206,20 @@
       "path": "monument-hobbies/pro-acryl.json",
       "hash": "sha256:8e137527a095f1dc8e846bbb45d260e3d43d1d094b0f1dc0dd0061ebeb7a641c",
       "paintCount": 179
+    },
+    {
+      "brand": "P3",
+      "range": "Formula P3",
+      "path": "p3/p3_formula_p3.json",
+      "hash": "sha256:340769f46e329a6433d731ed70c838a7e14eca490f779d71a1b524d4dadebe80",
+      "paintCount": 91
+    },
+    {
+      "brand": "P3",
+      "range": "Formula P3 Metallic",
+      "path": "p3/p3_metallic.json",
+      "hash": "sha256:83c28b39f95d4c0e23492654dc2d3341c20949866f7109b5e3c7630aa57a8aeb",
+      "paintCount": 18
     },
     {
       "brand": "Reaper",

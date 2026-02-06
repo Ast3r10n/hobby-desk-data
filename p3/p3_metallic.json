@@ -1,0 +1,308 @@
+[
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#473D0D",
+    "id": "p3-blighted-gold",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blighted Gold",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N222-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-blighted-gold"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2D1D1B",
+    "id": "p3-boiler-black",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Boiler Black",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N223-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-boiler-black"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A3936B",
+    "id": "p3-brass-balls",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brass Balls",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N224-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-brass-balls"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6A310C",
+    "id": "p3-bronze-badge",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronze Badge",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N225-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-bronze-badge"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3F5259",
+    "id": "p3-cold-steel",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cold Steel",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N226-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-cold-steel"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#744016",
+    "id": "p3-copper-penny",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Copper Penny",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N240-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-copper-penny"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4A3017",
+    "id": "p3-copper-pipe",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Copper Pipe",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N227-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-copper-pipe"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#30180C",
+    "id": "p3-deathless-metal",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deathless Metal",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N228-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-deathless-metal"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#85867A",
+    "id": "p3-galvanised-steel",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Galvanised Steel",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N242-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-galvanised-steel"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#776C4A",
+    "id": "p3-illuminated-gold",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Illuminated Gold",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N243-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-illuminated-gold"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#723D18",
+    "id": "p3-molten-bronze",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Molten Bronze",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N229-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-molten-bronze"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#261D0D",
+    "id": "p3-orgoth-bronze",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orgoth Bronze",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N230-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-orgoth-bronze"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#36332E",
+    "id": "p3-pig-iron",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pig Iron",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N231-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-pig-iron"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7A8081",
+    "id": "p3-quick-silver",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Quick Silver",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N232-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-quick-silver"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E6F5E",
+    "id": "p3-radiant-platinum",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Radiant Platinum",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N241-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-radiant-platinum"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#935E11",
+    "id": "p3-rhulic-gold",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rhulic Gold",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N233-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-rhulic-gold"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9A7F38",
+    "id": "p3-solid-gold",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Solid Gold",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N234-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-solid-gold"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#78705F",
+    "id": "p3-spectral-steel",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spectral Steel",
+    "range": "Formula P3 Metallic",
+    "sku": "SFP3-N244-S",
+    "type": "metallic",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-spectral-steel"
+  }
+]

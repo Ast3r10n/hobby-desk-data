@@ -1,0 +1,1549 @@
+[
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3A0C09",
+    "id": "p3-amethyst-rose",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amethyst Rose",
+    "range": "Formula P3",
+    "sku": "SFP3-N173-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-amethyst-rose"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#68999C",
+    "id": "p3-arcane-blue",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arcane Blue",
+    "range": "Formula P3",
+    "sku": "SFP3-N136-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-arcane-blue"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0F8436",
+    "id": "p3-arcantrik-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arcantrik Green",
+    "range": "Formula P3",
+    "sku": "SFP3-N137-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-arcantrik-green"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1C0E0B",
+    "id": "p3-asheth-grey",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Asheth Grey",
+    "range": "Formula P3",
+    "sku": "SFP3-N138-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-asheth-grey"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1D0C17",
+    "id": "p3-bad-bruise",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bad Bruise",
+    "range": "Formula P3",
+    "sku": "SFP3-N139-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-bad-bruise"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#383424",
+    "id": "p3-bane-grey",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bane Grey",
+    "range": "Formula P3",
+    "sku": "SFP3-N140-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-bane-grey"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5B2913",
+    "id": "p3-basilisk-brown",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Basilisk Brown",
+    "range": "Formula P3",
+    "sku": "SFP3-N141-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-basilisk-brown"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#42412A",
+    "id": "p3-bastion-grey",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bastion Grey",
+    "range": "Formula P3",
+    "sku": "SFP3-N142-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-bastion-grey"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4E420D",
+    "id": "p3-battle-dress-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Battle Dress Green",
+    "range": "Formula P3",
+    "sku": "SFP3-N143-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-battle-dress-green"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1F0C0C",
+    "id": "p3-battlefield-brown",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Battlefield Brown",
+    "range": "Formula P3",
+    "sku": "SFP3-N144-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-battlefield-brown"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#68421B",
+    "id": "p3-beast-hide",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beast Hide",
+    "range": "Formula P3",
+    "sku": "SFP3-N145-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-beast-hide"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2D1346",
+    "id": "p3-beaten-purple",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beaten Purple",
+    "range": "Formula P3",
+    "sku": "SFP3-N146-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-beaten-purple"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#563B0C",
+    "id": "p3-bile-thrall",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bile Thrall",
+    "range": "Formula P3",
+    "sku": "SFP3-N147-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-bile-thrall"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#716351",
+    "id": "p3-blackwater-sand",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blackwater Sand",
+    "range": "Formula P3",
+    "sku": "SFP3-N148-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-blackwater-sand"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#15150B",
+    "id": "p3-blindwater-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blindwater Green",
+    "range": "Formula P3",
+    "sku": "SFP3-N149-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-blindwater-green"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#73260B",
+    "id": "p3-bloodstone",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bloodstone",
+    "range": "Formula P3",
+    "sku": "SFP3-N150-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-bloodstone"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#703B0D",
+    "id": "p3-bloodtracker-brown",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bloodtracker Brown",
+    "range": "Formula P3",
+    "sku": "SFP3-N151-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-bloodtracker-brown"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8A8F1D",
+    "id": "p3-bog-moss",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bog Moss",
+    "range": "Formula P3",
+    "sku": "SFP3-N152-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-bog-moss"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#70370E",
+    "id": "p3-bogrin-brown",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bogrin Brown",
+    "range": "Formula P3",
+    "sku": "SFP3-N153-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-bogrin-brown"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#69380D",
+    "id": "p3-bootstrap-leather",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bootstrap Leather",
+    "range": "Formula P3",
+    "sku": "SFP3-N154-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-bootstrap-leather"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#901D1F",
+    "id": "p3-broken-brick",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Broken Brick",
+    "range": "Formula P3",
+    "sku": "SFP3-N155-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-broken-brick"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AF9FA3",
+    "id": "p3-carnal-pink",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carnal Pink",
+    "range": "Formula P3",
+    "sku": "SFP3-N238-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-carnal-pink"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#24365E",
+    "id": "p3-caspian-blue",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Caspian Blue",
+    "range": "Formula P3",
+    "sku": "SFP3-N236-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-caspian-blue"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0C3534",
+    "id": "p3-coal-black",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Coal Black",
+    "range": "Formula P3",
+    "sku": "SFP3-N156-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-coal-black"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#15150A",
+    "id": "p3-cryx-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cryx Green",
+    "range": "Formula P3",
+    "sku": "SFP3-N157-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-cryx-green"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0B3A6D",
+    "id": "p3-cygnar-blue",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cygnar Blue",
+    "range": "Formula P3",
+    "sku": "SFP3-N158-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-cygnar-blue"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EAD023",
+    "id": "p3-cygnus-yellow",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cygnus Yellow",
+    "range": "Formula P3",
+    "sku": "SFP3-N159-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-cygnus-yellow"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DED8C1",
+    "id": "p3-devout-white",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Devout White",
+    "range": "Formula P3",
+    "sku": "SFP3-N160-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-devout-white"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C5BBB1",
+    "id": "p3-drake-grey",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Drake Grey",
+    "range": "Formula P3",
+    "sku": "SFP3-N161-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-drake-grey"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0B4A30",
+    "id": "p3-eldritch-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Eldritch Green",
+    "range": "Formula P3",
+    "sku": "SFP3-N162-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-eldritch-green"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B55411",
+    "id": "p3-ember-orange",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ember Orange",
+    "range": "Formula P3",
+    "sku": "SFP3-N163-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-ember-orange"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0E1937",
+    "id": "p3-exile-blue",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Exile Blue",
+    "range": "Formula P3",
+    "sku": "SFP3-N164-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-exile-blue"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#798486",
+    "id": "p3-frostbite",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Frostbite",
+    "range": "Formula P3",
+    "sku": "SFP3-N165-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-frostbite"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0D340E",
+    "id": "p3-gnarls-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gnarls Green",
+    "range": "Formula P3",
+    "sku": "SFP3-N166-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-gnarls-green"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2D4C65",
+    "id": "p3-gravedigger-denim",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gravedigger Denim",
+    "range": "Formula P3",
+    "sku": "SFP3-N167-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-gravedigger-denim"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#091110",
+    "id": "p3-greatcoat-grey",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greatcoat Grey",
+    "range": "Formula P3",
+    "sku": "SFP3-N168-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-greatcoat-grey"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#24251F",
+    "id": "p3-greylord",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greylord",
+    "range": "Formula P3",
+    "sku": "SFP3-N169-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-greylord"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D7056",
+    "id": "p3-gun-corps-brown",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gun Corps Brown",
+    "range": "Formula P3",
+    "sku": "SFP3-N170-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-gun-corps-brown"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#877659",
+    "id": "p3-hammerfall-khaki",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hammerfall Khaki",
+    "range": "Formula P3",
+    "sku": "SFP3-N171-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-hammerfall-khaki"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BD782A",
+    "id": "p3-heartfire",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Heartfire",
+    "range": "Formula P3",
+    "sku": "SFP3-N172-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-heartfire"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E9CF93",
+    "id": "p3-icy-yellow",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Icy Yellow",
+    "range": "Formula P3",
+    "sku": "SFP3-N174-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-icy-yellow"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6B320D",
+    "id": "p3-idrian-flesh",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Idrian Flesh",
+    "range": "Formula P3",
+    "sku": "SFP3-N175-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-idrian-flesh"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1B130C",
+    "id": "p3-immortal-black",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Immortal Black",
+    "range": "Formula P3",
+    "sku": "SFP3-N176-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-immortal-black"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C54510",
+    "id": "p3-inferno-orange",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inferno Orange",
+    "range": "Formula P3",
+    "sku": "SFP3-N177-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-inferno-orange"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0B4C31",
+    "id": "p3-iosan-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Iosan Green",
+    "range": "Formula P3",
+    "sku": "SFP3-N178-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-iosan-green"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3A4043",
+    "id": "p3-ironhull-grey",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ironhull Grey",
+    "range": "Formula P3",
+    "sku": "SFP3-N179-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-ironhull-grey"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#827954",
+    "id": "p3-jack-bone",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jack Bone",
+    "range": "Formula P3",
+    "sku": "SFP3-N180-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-jack-bone"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BD6425",
+    "id": "p3-kapitan-red",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kapitan Red",
+    "range": "Formula P3",
+    "sku": "SFP3-N181-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-kapitan-red"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B92110",
+    "id": "p3-khador-red",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Khador Red",
+    "range": "Formula P3",
+    "sku": "SFP3-N182-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-khador-red"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#99482C",
+    "id": "p3-khardic-flesh",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Khardic Flesh",
+    "range": "Formula P3",
+    "sku": "SFP3-N183-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-khardic-flesh"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#936639",
+    "id": "p3-lyossan-flesh",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lyossan Flesh",
+    "range": "Formula P3",
+    "sku": "SFP3-N184-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-lyossan-flesh"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#282A19",
+    "id": "p3-mage-hunter-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mage Hunter Green",
+    "range": "Formula P3",
+    "sku": "SFP3-N185-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-mage-hunter-green"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#91500F",
+    "id": "p3-meaty-ochre",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Meaty Ochre",
+    "range": "Formula P3",
+    "sku": "SFP3-N186-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-meaty-ochre"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#968E63",
+    "id": "p3-menoth-white",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Menoth White",
+    "range": "Formula P3",
+    "sku": "SFP3-N187-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-menoth-white"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#118388",
+    "id": "p3-meredius-blue",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Meredius Blue",
+    "range": "Formula P3",
+    "sku": "SFP3-N188-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-meredius-blue"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AD6E52",
+    "id": "p3-midlund-flesh",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Midlund Flesh",
+    "range": "Formula P3",
+    "sku": "SFP3-N189-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-midlund-flesh"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DFDDDE",
+    "id": "p3-morrow-white",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Morrow White",
+    "range": "Formula P3",
+    "sku": "SFP3-N135-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-morrow-white"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#987010",
+    "id": "p3-mouldy-ochre",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mouldy Ochre",
+    "range": "Formula P3",
+    "sku": "SFP3-N190-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-mouldy-ochre"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#503616",
+    "id": "p3-mud-rut",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mud Rut",
+    "range": "Formula P3",
+    "sku": "SFP3-N191-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-mud-rut"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6E082E",
+    "id": "p3-murderous-magenta",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Murderous Magenta",
+    "range": "Formula P3",
+    "sku": "SFP3-N192-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-murderous-magenta"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5B8D22",
+    "id": "p3-necrotite-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Necrotite Green",
+    "range": "Formula P3",
+    "sku": "SFP3-N193-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-necrotite-green"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#434710",
+    "id": "p3-ordic-olive",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ordic Olive",
+    "range": "Formula P3",
+    "sku": "SFP3-N194-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-ordic-olive"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3E4540",
+    "id": "p3-pyg-grey",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pyg Grey",
+    "range": "Formula P3",
+    "sku": "SFP3-N195-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-pyg-grey"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B4B6B1",
+    "id": "p3-retribution-white",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Retribution White",
+    "range": "Formula P3",
+    "sku": "SFP3-N239-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-retribution-white"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#260B0A",
+    "id": "p3-rhok-hide",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rhok Hide",
+    "range": "Formula P3",
+    "sku": "SFP3-N196-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-rhok-hide"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A7D2C9",
+    "id": "p3-riven-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Riven Green",
+    "range": "Formula P3",
+    "sku": "SFP3-N197-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-riven-green"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#422A48",
+    "id": "p3-royal-violet",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Royal Violet",
+    "range": "Formula P3",
+    "sku": "SFP3-N198-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-royal-violet"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#886413",
+    "id": "p3-rucksack-tan",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rucksack Tan",
+    "range": "Formula P3",
+    "sku": "SFP3-N199-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-rucksack-tan"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#912320",
+    "id": "p3-ruddy-blush",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ruddy Blush",
+    "range": "Formula P3",
+    "sku": "SFP3-N200-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-ruddy-blush"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#176883",
+    "id": "p3-runeshot",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Runeshot",
+    "range": "Formula P3",
+    "sku": "SFP3-N201-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-runeshot"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D3AD93",
+    "id": "p3-ryn-flesh",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ryn Flesh",
+    "range": "Formula P3",
+    "sku": "SFP3-N202-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-ryn-flesh"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#430A08",
+    "id": "p3-sanguine-shadow",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sanguine Shadow",
+    "range": "Formula P3",
+    "sku": "SFP3-N203-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-sanguine-shadow"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9E9A7F",
+    "id": "p3-sickly-skin",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sickly Skin",
+    "range": "Formula P3",
+    "sku": "SFP3-N204-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-sickly-skin"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3A180C",
+    "id": "p3-sinari-skin",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sinari Skin",
+    "range": "Formula P3",
+    "sku": "SFP3-N205-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-sinari-skin"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8B5217",
+    "id": "p3-skorne-flesh",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skorne Flesh",
+    "range": "Formula P3",
+    "sku": "SFP3-N206-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-skorne-flesh"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#890C10",
+    "id": "p3-skorne-red",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skorne Red",
+    "range": "Formula P3",
+    "sku": "SFP3-N207-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-skorne-red"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#115888",
+    "id": "p3-stormguard-blue",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stormguard Blue",
+    "range": "Formula P3",
+    "sku": "SFP3-N208-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-stormguard-blue"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3A120B",
+    "id": "p3-sul-red",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sul Red",
+    "range": "Formula P3",
+    "sku": "SFP3-N209-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-sul-red"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B58E29",
+    "id": "p3-sulfuric-yellow",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sulfuric Yellow",
+    "range": "Formula P3",
+    "sku": "SFP3-N210-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-sulfuric-yellow"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B99C88",
+    "id": "p3-tenderfoot-flesh",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tenderfoot Flesh",
+    "range": "Formula P3",
+    "sku": "SFP3-N237-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-tenderfoot-flesh"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#14070A",
+    "id": "p3-thamar-black",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Thamar Black",
+    "range": "Formula P3",
+    "sku": "SFP3-N211-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-thamar-black"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#643A17",
+    "id": "p3-tharn-flesh",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tharn Flesh",
+    "range": "Formula P3",
+    "sku": "SFP3-N212-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-tharn-flesh"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#393016",
+    "id": "p3-thornwood-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Thornwood Green",
+    "range": "Formula P3",
+    "sku": "SFP3-N213-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-thornwood-green"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C8868",
+    "id": "p3-thrall-flesh",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Thrall Flesh",
+    "range": "Formula P3",
+    "sku": "SFP3-N214-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-thrall-flesh"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#52532A",
+    "id": "p3-traitor-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Traitor Green",
+    "range": "Formula P3",
+    "sku": "SFP3-N215-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-traitor-green"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A44966",
+    "id": "p3-troll-tongue",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Troll Tongue",
+    "range": "Formula P3",
+    "sku": "SFP3-N216-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-troll-tongue"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#096069",
+    "id": "p3-trollblood-blue",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Trollblood Blue",
+    "range": "Formula P3",
+    "sku": "SFP3-N217-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-trollblood-blue"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1D090B",
+    "id": "p3-umbral-umber",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Umbral Umber",
+    "range": "Formula P3",
+    "sku": "SFP3-N218-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-umbral-umber"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#899495",
+    "id": "p3-underbelly-blue",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Underbelly Blue",
+    "range": "Formula P3",
+    "sku": "SFP3-N219-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-underbelly-blue"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#62909D",
+    "id": "p3-voltaic-blue",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Voltaic Blue",
+    "range": "Formula P3",
+    "sku": "SFP3-N220-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-voltaic-blue"
+  },
+  {
+    "brand": "P3",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#658B20",
+    "id": "p3-wurm-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wurm Green",
+    "range": "Formula P3",
+    "sku": "SFP3-N221-S",
+    "type": "opaque",
+    "url": "https://steamforged.com/en-gb/products/p3-paints-wurm-green"
+  }
+]
